@@ -209,6 +209,7 @@ var main = {
         }
 
         q2 = "Another user cannot see the image directly but has access to the following image description:" 
+//          q2 = "They asked a follow-up question."
         q3 = "Based on this description, they asked a follow-up question. Please answer based on the image. Your answer should allow the user to better understand and imagine the image."
 
         checkbox = 'The question cannot be answered from the image or otherwise has an error.';
