@@ -1,0 +1,427 @@
+[
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "social_media",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "what's the vibe, is it happy are they winning?",
+        "answers": [
+            "The vibe is more serious and determined ",
+            "The atmosphere is very passionate and active. However, it cannot be confirmed whether the match was won.",
+            "the person is happy, they are doing what they enjoy"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "context": "news",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+        "question": "How many people are there?",
+        "answers": [
+            "More than 50",
+            "It's a crowd of people, too many to really count.",
+            "Hundreds of people"
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "shopping",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "Where was the photo taken?",
+        "answers": [
+            "a photo studio",
+            "Inside a building.",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
+        "context": "health",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "What are they making with the water?",
+        "answers": [
+            "they are making hot water, perhaps for tea or coffee",
+            "",
+            "It may be tea or it may be a humidifier creating water vapor",
+            "I would say maybe some coffee"
+        ]
+    },
+    {
+        "image": "images/news/Avalanche_on_Everest.jpeg",
+        "context": "science_journals",
+        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+        "question": "Where is the volcano located?",
+        "answers": [
+            "",
+            "Somewhere cold",
+            "In the mountains "
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Can you tell where this city is located?",
+        "answers": [
+            "",
+            "Europe, perhaps?",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "context": "shopping",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
+        "question": "What else is in the room?",
+        "answers": [
+            "The photo only shows the sofa, there is nothing else in the picture.",
+            "There is nothing else visible in the room except the white wall in the background.",
+            "",
+            "There is nothing else in the room from the picture advantage view"
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "social_media",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "What is the weather like?",
+        "answers": [
+            "It looks like there's warm weather judging from the clear skies and sun.",
+            "The sky is blue, and the weather appears to be ideal for a marathon.",
+            "The weather is party cloudy and hazy with the sun shining through."
+        ]
+    },
+    {
+        "image": "images/news/Avalanche_on_Everest.jpeg",
+        "context": "travel",
+        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+        "question": "Is it erupting?",
+        "answers": [
+            "It doesn't look like it as there's no lava, just some smoke.",
+            "The volcano is erupting smoke.",
+            "Yes it is erupting or that is what it looks like to me"
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "social_media",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "What is the ambiance of the room the fashion show is in?",
+        "answers": [
+            "It is very dark, but the models are illuminated with a white light.",
+            "",
+            "stiff, intense, uptight, bleak ",
+            "It looks warm."
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "shopping",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "how many players are in the photo",
+        "answers": [
+            "There is eleven players.",
+            "There are 11 players and a crowd in the background.",
+            "There are 11 players in the photo."
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "travel",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "Where is this beach located?",
+        "answers": [
+            "",
+            "",
+            "",
+            "",
+            "That is not possible to determine given the image.",
+            "It doesn't specify.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "context": "shopping",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+        "question": "What kind of colors make up the runway and background?",
+        "answers": [
+            "The colors are a light-blue/white and yellow/beige color.",
+            "silver and white",
+            "White and badge strips"
+        ]
+    },
+    {
+        "image": "images/social_media/Heidi_Klum4crop.jpeg",
+        "context": "shopping",
+        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+        "question": "Is the dress for sale or why is the picture on the site?",
+        "answers": [
+            "",
+            "",
+            "To show how to the dress looks on an actual person or to advertise Heidi Klum wearing the dress from this brand. ",
+            "It doesn't specify. It looks like part of a group photo.",
+            "The dress is available to purchase on the site and is being promoted by the celebrity"
+        ]
+    },
+    {
+        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "context": "travel",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+        "question": "How long can we dive for?",
+        "answers": [
+            "",
+            "A few hours with equipment",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "How long have they been working out for?",
+        "answers": [
+            "",
+            "It's hard to tell, but since they don't look that sweaty, I would assume for about 5-10 minutes.",
+            "",
+            "It looks like they have been working out for a decent amount of time because they look strained and have sweat on their faces. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "science_journals",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "what color is the laser beam?",
+        "answers": [
+            "The laser beam is yellow",
+            "The laser beam is yellow. ",
+            "The laser beam is yellow.",
+            "Yellow-greenish",
+            "The color of the laser beam is yellow."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "Where is it from?",
+        "answers": [
+            "It is in someone's home near the dinner table.",
+            "a restaurant ",
+            "It\u2019s looks like it can be from an Asian restaurant "
+        ]
+    },
+    {
+        "image": "images/travel/13957.jpg",
+        "context": "news",
+        "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
+        "question": "Is this related to London Underground?",
+        "answers": [
+            "Yes, it is the entrance to London Underground.",
+            "yes, it's an image of the entrance",
+            "yes, it is the entrance to the underground",
+            "Yes,it\u2019s the entrance of the London Underground at dusk."
+        ]
+    },
+    {
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "context": "social_media",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "Is any one in trouble? ",
+        "answers": [
+            "No, there aren't any people or animals in the image.",
+            "I do not see any people, but the area is under a lot of flames and could possible spread to other areas.",
+            "No, there isn't anyone near the fire so nobody is in trouble."
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "health",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "Does it look like it takes place on a college campus?",
+        "answers": [
+            "No, it looks like it takes place in some sort of a nature park.",
+            "No, the image appears to take place along a trail in the forest. ",
+            "No, it looks like a hiking trail in a rural area. ",
+            "This is on a local walking trail, not located by any campus"
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "science_journals",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "is the Stingray endangered?",
+        "answers": [
+            "",
+            "The stingray is not endangered",
+            "",
+            "I am not sure if the stingray is endangered I cannot tell from the picture."
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "health",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "are these professional athletes running the marathon?",
+        "answers": [
+            "Yes, it would appear that these are professional athletes running a marathon",
+            "By all understanding, yet they are prob professional athletes",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/2550.jpg",
+        "context": "travel",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "Are there any kiosks on the beach to buy things from?",
+        "answers": [
+            "There do not appear to be any kiosks on the beach. ",
+            "no",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "whats the occasion?",
+        "answers": [
+            "A group of people enjoying a hottub.",
+            "A family dip in a hot tub in a cold location",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "shopping",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "What material is it upholstered with?",
+        "answers": [
+            "gold upholstery ",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "What relevance could this picture have to any news?",
+        "answers": [
+            "A fashion news article",
+            "It could be an article about this specific woman and what she does for a living. ",
+            "Fashion show or director of the news segment talking about fashion"
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "health",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "What is the bowl sitting on?",
+        "answers": [
+            "I",
+            "A black table",
+            "I believe the bowl is sitting on a table."
+        ]
+    },
+    {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "health",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "What color is the clothes that they are wearing?",
+        "answers": [
+            "black and blue",
+            "black sports bra, black pants, blue at waistband",
+            "The woman has a black sports bra and blue and black pants"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "context": "shopping",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+        "question": "What is this picture trying to sell?",
+        "answers": [
+            "",
+            "It is utterly unclear what the product is, but the setting appears to be an auction room.",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "What does this woman have to do with the surrounding news stories?",
+        "answers": [
+            "THE WOMAN IS DRESSED TO SHOW HOW THE WEATHER IS IN THE AREA ",
+            "I don't know the surrounding news stories. Maybe there is an article about her. ",
+            "",
+            "The woman is the focus of the news story."
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "where are they from?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
+        "context": "health",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "Can you see the entire kettle?",
+        "answers": [
+            "Yes, the entire kettle is visible.",
+            "You can see the entire kettle. But this IS what it looks like from the front. Not side or top view.",
+            "Yes, the entire kettle is visible in this photo. ",
+            "Yes, the entire Kettle is visible ",
+            "Yes you can."
+        ]
+    },
+    {
+        "image": "images/travel/26005.jpg",
+        "context": "news",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+        "question": "What kind of decorations are around the festival?",
+        "answers": [
+            "",
+            "Banners on the poles and street signs. ",
+            "",
+            "Trees and flags also some booths",
+            "The only decorations that are visible in the photo is flags on the poles."
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "shopping",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "Is the  \"suit\" this person wearing a business suit?",
+        "answers": [
+            "The suit is made of rubber and covers the person's entire body.",
+            "The suit is a wet suit to prevent the skier from getting wet in the water. ",
+            "No, the person is wearing water skiing suit designed to keep them dry while skiing."
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "science_journals",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "What is the purpose of the laser beam?",
+        "answers": [
+            "",
+            "",
+            "to observe the Milky Way galaxy",
+            "The purpose of the laser beam is to Help the telescope focus in on a specific part of the sky",
+            "",
+            "The laser is used to study the center of the milky way galaxy",
+            "It is used to measure the distance between the observatory and what the laser beam is pointed at."
+        ]
+    }
+]

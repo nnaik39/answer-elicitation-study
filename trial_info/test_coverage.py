@@ -14,6 +14,12 @@ new_pilot_exp['images'] = []
 
 questions_per_image_context_pair = {}
 
+dataset = []
+
+# TODO: Save dataset pairs of image, context, description, answer to use for evaluations!!
+
+answers = {}
+
 for participant in study_info:
     for trial in study_info[participant]:
         if ((trial['picture'], trial['category'], trial['question']) not in questions_per_image_context_pair):
@@ -27,6 +33,28 @@ for participant in study_info:
         if (trial['glb_comments'] != ''):
             print(trial['glb_comments'])
 
+        if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in answers):
+            answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
+
+        answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
+
+for (image, context, description, question) in answers:
+    if (len(answers[(image, context, description, question)]) >= 3):
+        dataset.append({
+            'image': image,
+            'context': context,
+            'description': description,
+            'question': question,
+            'answers': answers[(image, context, description, question)]
+        })
+
+# Write this dataset to a JSON file!
+json_object = json.dumps(dataset, indent=4)
+ 
+# Writing to sample.json
+with open("need_based_vqa_so_far.json", "w") as outfile:
+    outfile.write(json_object)
+
 images_left = []
 
 covered_questions = 0
@@ -34,6 +62,8 @@ covered_questions = 0
 # Add in ten questions with at least one hit here!
 
 num_one_hit_questions = 0
+
+answers = {}
 
 for i in pilot_exp['images']:
     if ((i['filename'], i['category'], i['question']) in questions_per_image_context_pair and questions_per_image_context_pair[(i['filename'], i['category'], i['question'])] >= 3):
