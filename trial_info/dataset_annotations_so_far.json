@@ -11,20 +11,6 @@
         ]
     },
     {
-        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-        "context": "news",
-        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-        "question": "Is this an ad?",
-        "answers": [
-            "no, this looks like a lifestyle piece",
-            "It doesn't appear to be.",
-            "",
-            "It is very possible that it could be an ad.",
-            "",
-            "yes, its an ad for a clothing brand "
-        ]
-    },
-    {
         "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
         "context": "news",
         "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
@@ -44,18 +30,6 @@
             "a photo studio",
             "Inside a building.",
             ""
-        ]
-    },
-    {
-        "image": "images/shopping/Electric_kettle.jpeg",
-        "context": "health",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "What are they making with the water?",
-        "answers": [
-            "they are making hot water, perhaps for tea or coffee",
-            "",
-            "It may be tea or it may be a humidifier creating water vapor",
-            "I would say maybe some coffee"
         ]
     },
     {
@@ -101,9 +75,7 @@
         "answers": [
             "It looks like there's warm weather judging from the clear skies and sun.",
             "The sky is blue, and the weather appears to be ideal for a marathon.",
-            "The weather is party cloudy and hazy with the sun shining through.",
-            "It is sunny and clear, the sky is nearly cloudless.",
-            "its a beautiful, clear, and sunny day "
+            "The weather is party cloudy and hazy with the sun shining through."
         ]
     },
     {
@@ -141,22 +113,6 @@
         ]
     },
     {
-        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-        "context": "travel",
-        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
-        "question": "Where is this beach located?",
-        "answers": [
-            "",
-            "",
-            "",
-            "",
-            "That is not possible to determine given the image.",
-            "It doesn't specify.",
-            "",
-            ""
-        ]
-    },
-    {
         "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
         "context": "shopping",
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
@@ -165,44 +121,6 @@
             "The colors are a light-blue/white and yellow/beige color.",
             "silver and white",
             "White and badge strips"
-        ]
-    },
-    {
-        "image": "images/social_media/Heidi_Klum4crop.jpeg",
-        "context": "shopping",
-        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-        "question": "Is the dress for sale or why is the picture on the site?",
-        "answers": [
-            "",
-            "",
-            "To show how to the dress looks on an actual person or to advertise Heidi Klum wearing the dress from this brand. ",
-            "It doesn't specify. It looks like part of a group photo.",
-            "The dress is available to purchase on the site and is being promoted by the celebrity"
-        ]
-    },
-    {
-        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
-        "context": "travel",
-        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
-        "question": "How long can we dive for?",
-        "answers": [
-            "",
-            "A few hours with equipment",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-        "context": "social_media",
-        "description": "A group of people are working out on indoor rowing machines at a gym.",
-        "question": "How long have they been working out for?",
-        "answers": [
-            "",
-            "It's hard to tell, but since they don't look that sweaty, I would assume for about 5-10 minutes.",
-            "",
-            "It looks like they have been working out for a decent amount of time because they look strained and have sweat on their faces. ",
-            ""
         ]
     },
     {
@@ -216,17 +134,6 @@
             "The laser beam is yellow.",
             "Yellow-greenish",
             "The color of the laser beam is yellow."
-        ]
-    },
-    {
-        "image": "images/news/Showjumping_white_horse.jpeg",
-        "context": "social_media",
-        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
-        "question": "what does the rider look like?",
-        "answers": [
-            "A white male",
-            "",
-            "The rider is a thin, white, female."
         ]
     },
     {
@@ -276,18 +183,6 @@
         ]
     },
     {
-        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
-        "context": "science_journals",
-        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
-        "question": "is the Stingray endangered?",
-        "answers": [
-            "",
-            "The stingray is not endangered",
-            "",
-            "I am not sure if the stingray is endangered I cannot tell from the picture."
-        ]
-    },
-    {
         "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
         "context": "health",
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
@@ -322,39 +217,6 @@
         ]
     },
     {
-        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-        "context": "shopping",
-        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-        "question": "What material is it upholstered with?",
-        "answers": [
-            "gold upholstery ",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-        "context": "news",
-        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-        "question": "What relevance could this picture have to any news?",
-        "answers": [
-            "A fashion news article",
-            "It could be an article about this specific woman and what she does for a living. ",
-            "Fashion show or director of the news segment talking about fashion"
-        ]
-    },
-    {
-        "image": "images/news/Avalanche_on_Everest.jpeg",
-        "context": "science_journals",
-        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-        "question": "Is there any man-made objects, like buildings around",
-        "answers": [
-            "No man-made objects, just rocks and snow.",
-            "There are no man-made objects around.",
-            "there are no man-made objects located inside of the image."
-        ]
-    },
-    {
         "image": "images/health/2456.jpg",
         "context": "health",
         "description": "A bowl of Asian noodle salad with vegetables and herbs.",
@@ -366,17 +228,6 @@
         ]
     },
     {
-        "image": "images/social_media/54183.jpg",
-        "context": "shopping",
-        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
-        "question": "where is this performer?",
-        "answers": [
-            "The background is pretty blurry, but the performer appears to be outside on a fairly sunny day. ",
-            "",
-            "The performer is Beyonce"
-        ]
-    },
-    {
         "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
         "context": "health",
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
@@ -385,29 +236,6 @@
             "black and blue",
             "black sports bra, black pants, blue at waistband",
             "The woman has a black sports bra and blue and black pants"
-        ]
-    },
-    {
-        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-        "context": "shopping",
-        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
-        "question": "What is this picture trying to sell?",
-        "answers": [
-            "",
-            "It is utterly unclear what the product is, but the setting appears to be an auction room.",
-            ""
-        ]
-    },
-    {
-        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-        "context": "news",
-        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-        "question": "What does this woman have to do with the surrounding news stories?",
-        "answers": [
-            "THE WOMAN IS DRESSED TO SHOW HOW THE WEATHER IS IN THE AREA ",
-            "I don't know the surrounding news stories. Maybe there is an article about her. ",
-            "",
-            "The woman is the focus of the news story."
         ]
     },
     {
@@ -437,17 +265,6 @@
         ]
     },
     {
-        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "context": "travel",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-        "question": "Can you see the occupants of the balloon",
-        "answers": [
-            "No, you can't see as the hot air balloon is at a far distant.",
-            "No you cannot see the occupants of the balloon.",
-            "No, you cannot see the occupants of the balloon."
-        ]
-    },
-    {
         "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
         "context": "shopping",
         "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
@@ -474,15 +291,25 @@
         ]
     },
     {
-        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-        "context": "health",
-        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-        "question": "Are they having a good time?",
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Can you see the occupants of the balloon",
         "answers": [
-            "They appear to be having a good time. The child is smiling and they are looking at each other. ",
-            "They are having a good time.",
-            "both people are smiling, so it appears that they are having a good time.",
-            "yes they are, the adult and child are smiling directly at each other "
+            "No, you can't see as the hot air balloon is at a far distant.",
+            "No you cannot see the occupants of the balloon.",
+            "No, you cannot see the occupants of the balloon."
+        ]
+    },
+    {
+        "image": "images/news/Avalanche_on_Everest.jpeg",
+        "context": "science_journals",
+        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+        "question": "Is there any man-made objects, like buildings around",
+        "answers": [
+            "No man-made objects, just rocks and snow.",
+            "There are no man-made objects around.",
+            "there are no man-made objects located inside of the image."
         ]
     },
     [
@@ -616,149 +443,9 @@
             "question": "What does the tree branch look like?",
             "answers": [
                 "It has 3 limbs sticking out of it and it's brown",
-                "the tree branch looks like a fork ",
-                "looks like a dried branch .",
                 "The tree branches are slender and devoid of leaves. They have an uniform brown color. ",
                 "It's branches are a burnt orange color and it has rigid branches."
             ]
-        },
-        [
-            {
-                "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-                "context": "news",
-                "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-                "question": "Is this an ad?",
-                "answers": [
-                    "no, this looks like a lifestyle piece",
-                    "It doesn't appear to be.",
-                    "",
-                    "It is very possible that it could be an ad.",
-                    "",
-                    "yes, its an ad for a clothing brand ",
-                    "No - it looks like a fashion ad, but you can't tell any of the brand names from the picture.",
-                    "Yes, possibly an add.",
-                    "",
-                    "It's an add for a department store.",
-                    "The image looks more like an ad."
-                ]
-            },
-            {
-                "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-                "context": "social_media",
-                "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
-                "question": "What is the weather like?",
-                "answers": [
-                    "It looks like there's warm weather judging from the clear skies and sun.",
-                    "The sky is blue, and the weather appears to be ideal for a marathon.",
-                    "The weather is party cloudy and hazy with the sun shining through.",
-                    "It is sunny and clear, the sky is nearly cloudless.",
-                    "its a beautiful, clear, and sunny day ",
-                    "Clear skies with a little bit of haze",
-                    "Bright and sunny",
-                    "Weather is sunny. ",
-                    "Clear skies and moderately warm weather.",
-                    "Without explicit information about the weather in the image description, Its not possible to determine the current weather condition but the weather looks cool tho. "
-                ]
-            },
-            {
-                "image": "images/news/Avalanche_on_Everest.jpeg",
-                "context": "science_journals",
-                "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-                "question": "Is there any man-made objects, like buildings around",
-                "answers": [
-                    "No man-made objects, just rocks and snow.",
-                    "There are no man-made objects around.",
-                    "there are no man-made objects located inside of the image.",
-                    "No, there are not."
-                ]
-            },
-            {
-                "image": "images/social_media/54183.jpg",
-                "context": "shopping",
-                "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
-                "question": "where is this performer?",
-                "answers": [
-                    "The background is pretty blurry, but the performer appears to be outside on a fairly sunny day. ",
-                    "",
-                    "The performer is Beyonce",
-                    "on an outdoor stage",
-                    "She's outside in sunny weather performing."
-                ]
-            },
-            {
-                "image": "images/news/Showjumping_white_horse.jpeg",
-                "context": "travel",
-                "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
-                "question": "Is this a show type of event or a competition? ",
-                "answers": [
-                    "Yes, an event with horses",
-                    "Competition",
-                    "It looks like it is probably an equestrian competition.",
-                    "No",
-                    "The show seems to be a competitive event where riders go on horseback and jump over fences."
-                ]
-            },
-            {
-                "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-                "context": "travel",
-                "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-                "question": "Can you see the occupants of the balloon",
-                "answers": [
-                    "No, you can't see as the hot air balloon is at a far distant.",
-                    "No you cannot see the occupants of the balloon.",
-                    "No, you cannot see the occupants of the balloon.",
-                    "No, occupants of the balloon are not visible. "
-                ]
-            },
-            {
-                "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-                "context": "health",
-                "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
-                "question": "How healthy does the woman appear to be? (for example, is she overweight?)",
-                "answers": [
-                    "This woman appears to be in great shape and has a normal healthy appearance.",
-                    "She is very healthy, and not overweight.",
-                    "She appears to be healthy. She isn't overweight at all."
-                ]
-            },
-            {
-                "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-                "context": "health",
-                "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-                "question": "Are they having a good time?",
-                "answers": [
-                    "They appear to be having a good time. The child is smiling and they are looking at each other. ",
-                    "They are having a good time.",
-                    "both people are smiling, so it appears that they are having a good time.",
-                    "yes they are, the adult and child are smiling directly at each other ",
-                    "yes, it looks like it",
-                    "An adult and a child are looking at each other and smiling so they're having a good time. "
-                ]
-            },
-            {
-                "image": "images/shopping/Electric_kettle.jpeg",
-                "context": "shopping",
-                "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-                "question": "How big are the bubbles?",
-                "answers": [
-                    "The bubbles are fairly large",
-                    "large bubbles, the water is in a rolling boil ",
-                    ""
-                ]
-            },
-            {
-                "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-                "context": "science_journals",
-                "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-                "question": "What does the tree branch look like?",
-                "answers": [
-                    "It has 3 limbs sticking out of it and it's brown",
-                    "the tree branch looks like a fork ",
-                    "looks like a dried branch .",
-                    "The tree branches are slender and devoid of leaves. They have an uniform brown color. ",
-                    "It's branches are a burnt orange color and it has rigid branches."
-                ]
-            }
-        ]
+        }
     ]
 ]

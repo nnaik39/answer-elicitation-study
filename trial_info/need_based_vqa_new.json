@@ -1,0 +1,138 @@
+[
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "Is this an ad?",
+        "answers": [
+            "no, this looks like a lifestyle piece",
+            "It doesn't appear to be.",
+            "",
+            "It is very possible that it could be an ad.",
+            "",
+            "yes, its an ad for a clothing brand ",
+            "No - it looks like a fashion ad, but you can't tell any of the brand names from the picture.",
+            "Yes, possibly an add.",
+            "",
+            "It's an add for a department store.",
+            "The image looks more like an ad."
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "social_media",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "What is the weather like?",
+        "answers": [
+            "It looks like there's warm weather judging from the clear skies and sun.",
+            "The sky is blue, and the weather appears to be ideal for a marathon.",
+            "The weather is party cloudy and hazy with the sun shining through.",
+            "It is sunny and clear, the sky is nearly cloudless.",
+            "its a beautiful, clear, and sunny day ",
+            "Clear skies with a little bit of haze",
+            "Bright and sunny",
+            "Weather is sunny. ",
+            "Clear skies and moderately warm weather.",
+            "Without explicit information about the weather in the image description, Its not possible to determine the current weather condition but the weather looks cool tho. "
+        ]
+    },
+    {
+        "image": "images/news/Avalanche_on_Everest.jpeg",
+        "context": "science_journals",
+        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+        "question": "Is there any man-made objects, like buildings around",
+        "answers": [
+            "No man-made objects, just rocks and snow.",
+            "There are no man-made objects around.",
+            "there are no man-made objects located inside of the image.",
+            "No, there are not."
+        ]
+    },
+    {
+        "image": "images/social_media/54183.jpg",
+        "context": "shopping",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "where is this performer?",
+        "answers": [
+            "The background is pretty blurry, but the performer appears to be outside on a fairly sunny day. ",
+            "",
+            "The performer is Beyonce",
+            "on an outdoor stage",
+            "She's outside in sunny weather performing."
+        ]
+    },
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "travel",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Is this a show type of event or a competition? ",
+        "answers": [
+            "Yes, an event with horses",
+            "Competition",
+            "It looks like it is probably an equestrian competition.",
+            "No",
+            "The show seems to be a competitive event where riders go on horseback and jump over fences."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Can you see the occupants of the balloon",
+        "answers": [
+            "No, you can't see as the hot air balloon is at a far distant.",
+            "No you cannot see the occupants of the balloon.",
+            "No, you cannot see the occupants of the balloon.",
+            "No, occupants of the balloon are not visible. "
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "How healthy does the woman appear to be? (for example, is she overweight?)",
+        "answers": [
+            "This woman appears to be in great shape and has a normal healthy appearance.",
+            "She is very healthy, and not overweight.",
+            "She appears to be healthy. She isn't overweight at all."
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "health",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "Are they having a good time?",
+        "answers": [
+            "They appear to be having a good time. The child is smiling and they are looking at each other. ",
+            "They are having a good time.",
+            "both people are smiling, so it appears that they are having a good time.",
+            "yes they are, the adult and child are smiling directly at each other ",
+            "yes, it looks like it",
+            "An adult and a child are looking at each other and smiling so they're having a good time. "
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
+        "context": "shopping",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "How big are the bubbles?",
+        "answers": [
+            "The bubbles are fairly large",
+            "large bubbles, the water is in a rolling boil ",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What does the tree branch look like?",
+        "answers": [
+            "It has 3 limbs sticking out of it and it's brown",
+            "the tree branch looks like a fork ",
+            "looks like a dried branch .",
+            "The tree branches are slender and devoid of leaves. They have an uniform brown color. ",
+            "It's branches are a burnt orange color and it has rigid branches."
+        ]
+    }
+]

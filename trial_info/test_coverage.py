@@ -18,6 +18,9 @@ dataset = []
 
 # TODO: Save dataset pairs of image, context, description, answer to use for evaluations!!
 
+f = open('need_based_vqa_so_far.json')
+dataset_so_far = json.load(f)
+
 answers = {}
 
 for participant in study_info:
@@ -40,19 +43,27 @@ for participant in study_info:
 
 for (image, context, description, question) in answers:
     if (len(answers[(image, context, description, question)]) >= 3):
-        dataset.append({
+        i = {
             'image': image,
             'context': context,
             'description': description,
             'question': question,
-            'answers': answers[(image, context, description, question)]
-        })
+            'answers': answers[(image, context, description, question)]}
+
+        if (i not in dataset_so_far):
+            dataset.append({
+                'image': image,
+                'context': context,
+                'description': description,
+                'question': question,
+                'answers': answers[(image, context, description, question)]
+            })
 
 # Write this dataset to a JSON file!
 json_object = json.dumps(dataset, indent=4)
  
 # Writing to sample.json
-with open("need_based_vqa_so_far.json", "w") as outfile:
+with open("need_based_vqa_new.json", "w") as outfile:
     outfile.write(json_object)
 
 images_left = []
@@ -79,7 +90,7 @@ for i in pilot_exp['images']:
             new_pilot_exp['images'].append(i)
 
         if ((i['filename'], i['category'], i['question']) in questions_per_image_context_pair and questions_per_image_context_pair[(i['filename'], i['category'], i['question'])] == 1 and num_one_hit_questions < 10):
-            new_pilot_exp['images'].append(i)
+#            new_pilot_exp['images'].append(i)
             num_one_hit_questions += 1
 
 images_left = list(set(images_left))

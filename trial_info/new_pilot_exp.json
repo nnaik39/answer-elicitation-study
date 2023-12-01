@@ -1,82 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-            "category": "news",
-            "question": "Is this an ad?",
-            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
-        },
-        {
-            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-            "category": "health",
-            "question": "Are they having a good time?",
-            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
-        },
-        {
-            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-            "category": "health",
-            "question": "How healthy does the woman appear to be? (for example, is she overweight?)",
-            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
-        },
-        {
             "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
             "category": "science_journals",
             "question": "Does it look like the laser beam is affecting the sky in some way?",
             "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "travel",
-            "question": "What color is the balloon",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "travel",
-            "question": "Can you see the occupants of the balloon",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-        },
-        {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
-            "category": "science_journals",
-            "question": "Is there any man-made objects, like buildings around",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
-        },
-        {
-            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-            "category": "social_media",
-            "question": "What is the weather like?",
-            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "What does the tree branch look like?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "question": "How large is the kettle?",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "question": "How big are the bubbles?",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "travel",
-            "question": "Is this a show type of event or a competition? ",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "category": "shopping",
-            "question": "where is this performer?",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
         },
         {
             "filename": "images/social_media/54183.jpg",
@@ -85,10 +13,10 @@
             "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
         },
         {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "social_media",
-            "question": "what does the rider look like?",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "travel",
+            "question": "What color is the balloon",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
         }
     ]
 }
