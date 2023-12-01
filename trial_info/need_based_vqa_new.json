@@ -1,5 +1,16 @@
 [
     {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "health",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "What is the build of the woman?",
+        "answers": [
+            "She is healthy and athletic",
+            "The woman is athletic and has a slim runners build",
+            "she's thin and well muscled. "
+        ]
+    },
+    {
         "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
         "context": "news",
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
@@ -16,6 +27,17 @@
             "",
             "It's an add for a department store.",
             "The image looks more like an ad."
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "science_journals",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "are there any buildings around?",
+        "answers": [
+            "Just the observatory",
+            "An observatory. Looks like there's some type of structure to the top left, but it's hard to see what it is. ",
+            "I see what appears to be a small building to the left."
         ]
     },
     {
@@ -37,6 +59,31 @@
         ]
     },
     {
+        "image": "images/social_media/54183.jpg",
+        "context": "shopping",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "what is the occasion?",
+        "answers": [
+            "For a concert or festival",
+            "A singer sings into a microphone, wearing a yellow top.",
+            "singing to the crowd"
+        ]
+    },
+    {
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "context": "social_media",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "Is any one in trouble? ",
+        "answers": [
+            "No, there aren't any people or animals in the image.",
+            "I do not see any people, but the area is under a lot of flames and could possible spread to other areas.",
+            "No, there isn't anyone near the fire so nobody is in trouble.",
+            "i do not see anyone in the photo so no. ",
+            "",
+            "No one is in trouble."
+        ]
+    },
+    {
         "image": "images/news/Avalanche_on_Everest.jpeg",
         "context": "science_journals",
         "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
@@ -46,6 +93,17 @@
             "There are no man-made objects around.",
             "there are no man-made objects located inside of the image.",
             "No, there are not."
+        ]
+    },
+    {
+        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+        "context": "travel",
+        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+        "question": "What are the expressions on the people?",
+        "answers": [
+            "",
+            "",
+            "It is hard to tell, but they are protesting something so their expressions probably show anger or determination."
         ]
     },
     {
@@ -62,6 +120,18 @@
         ]
     },
     {
+        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+        "question": "Are there any people around?",
+        "answers": [
+            "There are no people around.",
+            "No, there are not any people in the photo",
+            "there is no human in the image",
+            "There are no people in the photo. The area looks peaceful and secluded."
+        ]
+    },
+    {
         "image": "images/news/Showjumping_white_horse.jpeg",
         "context": "travel",
         "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
@@ -72,6 +142,51 @@
             "It looks like it is probably an equestrian competition.",
             "No",
             "The show seems to be a competitive event where riders go on horseback and jump over fences."
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "shopping",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "Is anything else in the picture?",
+        "answers": [
+            "Grass in the background",
+            "There is a brick shack in the background",
+            "There's a brick building in the upper left-hand corner of the picture and some tall reeds along the shore. "
+        ]
+    },
+    {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "health",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "What color is the clothes that they are wearing?",
+        "answers": [
+            "black and blue",
+            "black sports bra, black pants, blue at waistband",
+            "The woman has a black sports bra and blue and black pants",
+            "Black sports bra and black pants, with a blue towel or shirt hanging from her waist "
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "where are they from?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "science_journals",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "Does it look like the laser beam is affecting the sky in some way?",
+        "answers": [
+            "The laser beam is lighting up a small portion of the sky.",
+            "it appears that the laser beam is not directly affecting the sky. Instead, it seems to be a visual representation of scientific observation or communication with with space, perhaps for research or data collection.",
+            "Yes, it looks brighter where the beam is shining "
         ]
     },
     {
@@ -87,14 +202,38 @@
         ]
     },
     {
+        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+        "question": "Is there any health benefits associated with this environment?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "context": "health",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "What exercize is she doing",
+        "answers": [
+            "It looks as if she is using the gym machine to exercise her calf muscles and the muscles in the back of her thighs.",
+            "She is using a machine to work her calf muscles.",
+            "straightening her body"
+        ]
+    },
+    {
         "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
         "context": "health",
         "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
         "question": "How healthy does the woman appear to be? (for example, is she overweight?)",
         "answers": [
             "This woman appears to be in great shape and has a normal healthy appearance.",
+            "She is very thin. She looks to be in excellent shape",
             "She is very healthy, and not overweight.",
-            "She appears to be healthy. She isn't overweight at all."
+            "She appears to be healthy. She isn't overweight at all.",
+            "The woman shown in the image is not overweighted she has an attractive body and very beautiful as well."
         ]
     },
     {
@@ -133,6 +272,39 @@
             "looks like a dried branch .",
             "The tree branches are slender and devoid of leaves. They have an uniform brown color. ",
             "It's branches are a burnt orange color and it has rigid branches."
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Are there neon or bright signs that can be seen?",
+        "answers": [
+            "There are no neon or bright signs as it is the day time",
+            "No, it's daylight. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "travel",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "is the image taken up close?",
+        "answers": [
+            "The image is taken from afar",
+            "From afar but zoomed in.",
+            "not at all"
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "news",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "what caused the fire on the vegetation?",
+        "answers": [
+            "there is no noticeable fire on the vegetation",
+            "",
+            ""
         ]
     }
 ]
