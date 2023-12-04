@@ -13,22 +13,16 @@
             "description": "A colony of seals lounges on rocky terrain near the water's edge."
         },
         {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "category": "health",
-            "question": "What else is on the trail?",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+            "category": "travel",
+            "question": "are they shooting water out of their back?",
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
         },
         {
             "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
             "category": "health",
             "question": "What type of gym machine is she exercizing on?",
             "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
-        },
-        {
-            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
-            "category": "shopping",
-            "question": "How big is the sofa and the pillows?",
-            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
         },
         {
             "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
@@ -49,12 +43,6 @@
             "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
         },
         {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "shopping",
-            "question": "What type of building is she standing in?",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
-        },
-        {
             "filename": "images/science_journals/Wildland_Firefighter.jpeg",
             "category": "news",
             "question": "who caused the fire to the vegetation?",
@@ -67,28 +55,10 @@
             "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
         },
         {
-            "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-            "category": "travel",
-            "question": "how many people",
-            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
-        },
-        {
             "filename": "images/travel/2550.jpg",
             "category": "travel",
             "question": "Do you see any pets on the beach?",
             "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "What color is the water?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "category": "news",
-            "question": "Why are they experiencing no gravity?",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
         },
         {
             "filename": "images/science_journals/Wildland_Firefighter.jpeg",
@@ -97,33 +67,15 @@
             "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire."
         },
         {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "category": "news",
-            "question": "Are they in a centrifuge? ",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
-        },
-        {
             "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
             "category": "shopping",
             "question": "What color are the swimming flippers?",
             "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
         },
         {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "shopping",
-            "question": "How large are the flippers, compared to the size of their feet?",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
-        },
-        {
             "filename": "images/social_media/170px-Baked_goods.jpeg",
             "category": "social_media",
             "question": "How many rolls/cornbread are in the basket?",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "category": "social_media",
-            "question": "How many baskets are their?",
             "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
         },
         {
@@ -136,6 +88,12 @@
             "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
             "category": "news",
             "question": "How big is the sign?",
+            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
+        },
+        {
+            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
+            "category": "news",
+            "question": "Is it actively snowing?",
             "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
         },
         {
@@ -153,14 +111,14 @@
         {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
             "category": "science_journals",
-            "question": "is the picture black and white or in color",
+            "question": "How big is the branch?",
             "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "How big is the branch?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+            "filename": "images/health/Foods_(cropped).jpeg",
+            "category": "social_media",
+            "question": "What grains are visible?",
+            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
         },
         {
             "filename": "images/travel/37044.jpg",
