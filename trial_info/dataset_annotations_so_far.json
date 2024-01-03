@@ -685,5 +685,252 @@
             "They are astronauts in a space simulator. ",
             "Because they are in space and there is no gravity there"
         ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "What grains are visible?",
+        "answers": [
+            "They appear to be stalks of wheat.",
+            "",
+            "Rice and wheat"
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "How big is the sign?",
+        "answers": [
+            "The sign is approximately 3 feet tall and 4 feet wide",
+            "The sign is small.",
+            "smaller than the flag pole the flag is anchored to.",
+            "The sign is as big as the flag.",
+            "It looks to be slightly taller than six or seven feet, and about as wide as a 32-inch HDTV.",
+            "it is average sized",
+            "taller then the sign and the pole ",
+            "The sign looks about 30 by 20 inches."
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "What type of building is she standing in?",
+        "answers": [
+            "She is standing in a beautiful building. It has intricate architectural designs on the wall. ",
+            "",
+            "",
+            "She is standing in a ornate building"
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "how many people",
+        "answers": [
+            "About 25 to 30.",
+            "There are at least 21 people; there could be as many as 25.",
+            "Around 20 people are in the image. "
+        ]
+    },
+    {
+        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+        "context": "travel",
+        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+        "question": "What are the expressions on the people?",
+        "answers": [
+            "",
+            "",
+            "It is hard to tell, but they are protesting something so their expressions probably show anger or determination.",
+            "The expressions on the faces of the people marching vary, reflecting a range of emotions. "
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
+        "context": "shopping",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "How large is the kettle?",
+        "answers": [
+            "The kettle looks normal like the regular electric kettle.",
+            "the size of a watermelon",
+            "The electric kettle is of a moderate size, featuring a design that allows visibility through its blue transparent exterior. "
+        ]
+    },
+    {
+        "image": "images/travel/2550.jpg",
+        "context": "travel",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "Do you see any pets on the beach?",
+        "answers": [
+            "no i do not see any pets on the beach",
+            "No.",
+            "",
+            "I don\u00b4t see any pets"
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "news",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "what caused the fire on the vegetation?",
+        "answers": [
+            "there is no noticeable fire on the vegetation",
+            "",
+            "",
+            "It appears to be a forest fire and was likely started by lightening or an unattended campfire."
+        ]
+    },
+    {
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "context": "health",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "What type of gym machine is she exercizing on?",
+        "answers": [
+            "A leg lift machine for calf muscles.",
+            "The machine is made for runners to stretch their hamstrings. ",
+            "I don't know the name of the equipment but it looks like some type of resistance training for legs"
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "news",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "who caused the fire to the vegetation?",
+        "answers": [
+            "",
+            "",
+            "I'm not sure who caused the fire.  The image doesn't show a fire, so the firefighter might be spraying water to prevent a fire.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
+        "question": "What shape is the ISS?",
+        "answers": [
+            "The ISS is composed of a bunch of interconnect modules, which come together to make a T shape. This T shape then has solar panels sticking out of it.",
+            "The ISS is a complex structure that is made up of canisters, spheres, beams, and wide panels.  ",
+            "The ISS is shaped like a T with extended wings at the left and right end of the T",
+            "The ISS has a distinct modular and elongated shape. "
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "What kind of vegetables are on the surface?",
+        "answers": [
+            "There are green beans, bell pepper, cabbage, carrots, yellow squash, along with a few others on the surface.",
+            "There are many vegetables like carrots, potatoes, tomatoes, peppers and leafy greens.",
+            "there are carrots, potatoes, peppers, brogcoli, zucchini, spinach,red cabbage and corn"
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "what are the people wearing?",
+        "answers": [
+            "The photo is very blurry but it appears to me they are wearing casual clothing and some are wearing hats. ",
+            "The people on the flatboat tour are wearing casual attire suitable for a leisurely cruise. ",
+            " wooden logs"
+        ]
+    },
+    {
+        "image": "images/science_journals/260px-Tidepools_Small.jpeg",
+        "context": "science_journals",
+        "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
+        "question": "What color is the water?",
+        "answers": [
+            "Because of the algea and coral structures, the water is many different shades including teal, pink, light violet, and light green.",
+            "clear light blue",
+            "The water in the tide pool is likely to exhibit various shades of blue and green."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "health",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "What kind of colors and vegetables make up the salad?",
+        "answers": [
+            "Green, white, orange; broccoli, carrots and mushrooms",
+            "a translucent white vegetable along with some greens and reds",
+            "White, green, red, brown. Onion, pepper, mushrooms"
+        ]
+    },
+    {
+        "image": "images/travel/26005.jpg",
+        "context": "news",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+        "question": "Do the mountains have snow on them?",
+        "answers": [
+            "YES",
+            "No, there is no snow",
+            "Some of the mountains do have snow on them",
+            "Yes, one of the mountains has a small patch of snow at the top"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How big is the embryo?",
+        "answers": [
+            "",
+            "The embryo looks very large but it's hard to tell because there is nothing to compare it to",
+            "The embryo is smaller than a bottle of wine."
+        ]
+    },
+    {
+        "image": "images/social_media/170px-Baked_goods.jpeg",
+        "context": "health",
+        "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
+        "question": "Is there any text in the scene about the honey being local?",
+        "answers": [
+            "No there is no text",
+            "There is no text",
+            "No"
+        ]
+    },
+    {
+        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
+        "context": "health",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+        "question": "Is it a tall waterfall?",
+        "answers": [
+            "The waterfall looks to be medium-length. ",
+            "Yes, the waterfall goes down a cliff and  is about 20m tall.",
+            "yes, the waterfall in the image is indeed tall. It cascades majestically over rocks, surrounded by lush greenery. ",
+            "Yes the waterfall looks quite tall. "
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What is the size of the egg case i.e. how does it compare to the size of a chicken egg?",
+        "answers": [
+            "The egg case is much longer than a chicken egg.",
+            "The size of the egg case is about 8 inches and it's oblong shape.",
+            "It\u00b4s a little bigger"
+        ]
+    },
+    {
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "What kind of clothes are they wearing?",
+        "answers": [
+            "Loose, casual clothes",
+            "Typical gym attire. Tank tops, yoga pants, plain tees, and gym shorts.",
+            "The people are wearing work out clothing.",
+            "They are wearing tank tops and shorts",
+            "The people are mostly wearing workout clothes, such as shorts, t-shirts, tank tops, and tennis shoes. "
+        ]
     }
+
 ]

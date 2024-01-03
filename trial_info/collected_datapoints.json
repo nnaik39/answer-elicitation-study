@@ -1,248 +1,379 @@
 [
     {
-        "image": "images/health/Foods_(cropped).jpeg",
-        "context": "social_media",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-        "question": "What grains are visible?",
-        "answers": [
-            "They appear to be stalks of wheat.",
-            "",
-            "Rice and wheat"
-        ]
-    },
-    {
-        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
         "context": "news",
-        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-        "question": "How big is the sign?",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "What else can be seen in the background, ie. stars, the sun, etc?",
         "answers": [
-            "The sign is approximately 3 feet tall and 4 feet wide",
-            "The sign is small.",
-            "smaller than the flag pole the flag is anchored to.",
-            "The sign is as big as the flag.",
-            "It looks to be slightly taller than six or seven feet, and about as wide as a 32-inch HDTV.",
-            "it is average sized",
-            "taller then the sign and the pole ",
-            "The sign looks about 30 by 20 inches."
-        ]
-    },
-    {
-        "image": "images/shopping/Virti_vaghani.jpeg",
-        "context": "shopping",
-        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-        "question": "What type of building is she standing in?",
-        "answers": [
-            "She is standing in a beautiful building. It has intricate architectural designs on the wall. ",
-            "",
-            "",
-            "She is standing in a ornate building"
-        ]
-    },
-    {
-        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-        "context": "travel",
-        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-        "question": "how many people",
-        "answers": [
-            "About 25 to 30.",
-            "There are at least 21 people; there could be as many as 25.",
-            "Around 20 people are in the image. "
-        ]
-    },
-    {
-        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
-        "context": "travel",
-        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
-        "question": "What are the expressions on the people?",
-        "answers": [
-            "",
-            "",
-            "It is hard to tell, but they are protesting something so their expressions probably show anger or determination.",
-            "The expressions on the faces of the people marching vary, reflecting a range of emotions. "
-        ]
-    },
-    {
-        "image": "images/shopping/Electric_kettle.jpeg",
-        "context": "shopping",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "How large is the kettle?",
-        "answers": [
-            "The kettle looks normal like the regular electric kettle.",
-            "the size of a watermelon",
-            "The electric kettle is of a moderate size, featuring a design that allows visibility through its blue transparent exterior. "
-        ]
-    },
-    {
-        "image": "images/travel/2550.jpg",
-        "context": "travel",
-        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
-        "question": "Do you see any pets on the beach?",
-        "answers": [
-            "no i do not see any pets on the beach",
-            "No.",
-            "",
-            "I don\u00b4t see any pets"
-        ]
-    },
-    {
-        "image": "images/science_journals/Wildland_Firefighter.jpeg",
-        "context": "news",
-        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-        "question": "what caused the fire on the vegetation?",
-        "answers": [
-            "there is no noticeable fire on the vegetation",
-            "",
-            "",
-            "It appears to be a forest fire and was likely started by lightening or an unattended campfire."
-        ]
-    },
-    {
-        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-        "context": "health",
-        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
-        "question": "What type of gym machine is she exercizing on?",
-        "answers": [
-            "A leg lift machine for calf muscles.",
-            "The machine is made for runners to stretch their hamstrings. ",
-            "I don't know the name of the equipment but it looks like some type of resistance training for legs"
-        ]
-    },
-    {
-        "image": "images/science_journals/Wildland_Firefighter.jpeg",
-        "context": "news",
-        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-        "question": "who caused the fire to the vegetation?",
-        "answers": [
-            "",
-            "",
-            "I'm not sure who caused the fire.  The image doesn't show a fire, so the firefighter might be spraying water to prevent a fire.",
-            ""
+            "You can see what looks like to be earths waters.",
+            "nothing else apart from the astronaut and the earth",
+            "The only things in the background are the black emptiness of space and a part of the earth below it"
         ]
     },
     {
         "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
         "context": "news",
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-        "question": "What shape is the ISS?",
+        "question": "What color is the ISS?",
         "answers": [
-            "The ISS is composed of a bunch of interconnect modules, which come together to make a T shape. This T shape then has solar panels sticking out of it.",
-            "The ISS is a complex structure that is made up of canisters, spheres, beams, and wide panels.  ",
-            "The ISS is shaped like a T with extended wings at the left and right end of the T",
-            "The ISS has a distinct modular and elongated shape. "
+            "The ISS is silver and metallic grey.",
+            "i believe it is silver and white",
+            "It looks like it is white or very light gray.",
+            "The ISS is made of gray, silver and copper metals. ",
+            "the ISS silver and white",
+            "It is colorless or either white",
+            "The ISS shows as silver and gray, based on lighting. ",
+            "The sun seems to be hitting the ISS in a way that makes it appear gray in the light."
         ]
     },
     {
         "image": "images/health/Foods_(cropped).jpeg",
-        "context": "shopping",
+        "context": "social_media",
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-        "question": "What kind of vegetables are on the surface?",
+        "question": "What veggies are visible?",
         "answers": [
-            "There are green beans, bell pepper, cabbage, carrots, yellow squash, along with a few others on the surface.",
-            "There are many vegetables like carrots, potatoes, tomatoes, peppers and leafy greens.",
-            "there are carrots, potatoes, peppers, brogcoli, zucchini, spinach,red cabbage and corn"
+            "carrots, peas. corn, greens, etc.",
+            "Vegetables present are lettuce, green beans, corn, broccoli, and onions, among others.",
+            "Vegetables shown include corn on the cob, tomatoes, potatoes, carrots, green beans, squash, broccoli, green bell peppers, and green leaf lettuce."
         ]
     },
     {
-        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-        "context": "social_media",
-        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-        "question": "what are the people wearing?",
+        "image": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+        "context": "health",
+        "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+        "question": "Is there any fencing?",
         "answers": [
-            "The photo is very blurry but it appears to me they are wearing casual clothing and some are wearing hats. ",
-            "The people on the flatboat tour are wearing casual attire suitable for a leisurely cruise. ",
-            " wooden logs"
+            "No there does not appear to be any fencing. It is just an open trail.",
+            "There is no fencing",
+            "No, no fencing is visible.",
+            "There is no fencing. ",
+            "The image shows no fencing. ",
+            "There are no fences visible in the image.",
+            "No, there isn't any fencing",
+            "No, there does not appear to be any fencing present as it appears to be taken in nature.",
+            "There is not.",
+            "There isn't any fencing but looks to be a small bridge or stairs in the background ",
+            "Not in the part pictured ",
+            "No, there isn't any fencing at all. ",
+            "The is no fencing in the image.",
+            "Not really, I have not seen any fence ",
+            "There are no obstructions or fencing. ",
+            "No, no fence is visible in the image.\n",
+            "Based on the image, the path is strictly open with no fencing on the path."
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "science_journals",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "What vegetation is there?",
+        "answers": [
+            "There are a lot of trees with thin branches in a populated forest.",
+            "Dense trees. ",
+            "",
+            "There appears to be trees and undergrowth typical to a forest."
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "shopping",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "What color are the swimming flippers?",
+        "answers": [
+            "The flippers are blue",
+            "The swimming flippers are blue.",
+            "The flippers are blue.",
+            "The swimming flippers are blue and black"
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "travel",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "Are there any plants around?",
+        "answers": [
+            "There are no plants nearby.",
+            "There are no plants around",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "social_media",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "Are there any in the water?",
+        "answers": [
+            "There are no seals in the water",
+            "It looks like there could be some in the water.",
+            "I think those specs in the background may be more seals, if they are then there are lots of seals in the water.",
+            "yes, but they are very small in the distant background.",
+            "There do appear to be some seals lounging in the water alongside the shore."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How big is the branch?",
+        "answers": [
+            "It is hard to tell because it is underwater and it is unknown by the picture just how big or small the egg case is.",
+            "not so big or small",
+            "Probably 1 foot to two feet long, it's hard to tell because the photo is cropped.",
+            "the branch is small.",
+            "",
+            "The branch is not that big but it is able to hold the egg"
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "social_media",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "How many seals are there?",
+        "answers": [
+            "There are 11 seals",
+            "There are a lot of seals in this picture",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "What color is the balloon",
+        "answers": [
+            "the hot air balloon is orange",
+            "light brown",
+            "It's a rust red or a dark orange.",
+            "red"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "what are the colors like ",
+        "answers": [
+            "The sac is a mild see through yellow",
+            "The egg case and embryo are a translucent yellow.",
+            "The colors are yellow tending to orange."
+        ]
+    },
+    {
+        "image": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+        "context": "news",
+        "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
+        "question": "Is there a stage in the photo?",
+        "answers": [
+            "",
+            "No there is no stage in the photo.",
+            "No, there is no scenery in the photo."
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "travel",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "are they shooting water out of their back?",
+        "answers": [
+            "No, the water is sliding off their skin.",
+            "No they are not shooting water",
+            "No they are not. ",
+            "No the whales backs are still in the water."
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "What kind of building does it look like?  Government type?  Library type?  Colorful?  Just grey?",
+        "answers": [
+            "Colorful type building, hard to tell what it is but there is lovely architecture. ",
+            "It looks like a neutral-colored home",
+            "It looks like a public building or the exterior of a large house, it is a warm beige color.",
+            "It looks like some sort of royalty",
+            "The building is a sandstone color. Subject is leaning against a pillar with ornate molding patterns carved into it, standing just outside an arched entryway."
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "Is it actively snowing?",
+        "answers": [
+            "no i think it snowed maybe 5hrs ago",
+            "No, it doesn't appear to be snowing",
+            "No, it is not snowing in the image.",
+            "It is not actively snowing. The sky is clear.",
+            "The ground appears to be covered in snow and ice but there is no snow currently falling in the picture.",
+            "No it is not snowing"
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "science_journals",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "Is the firefighter in the woods or in a suburb?",
+        "answers": [
+            "his in the woods",
+            "They are in the woods. ",
+            "Firefighter is most likely in the woods as they are surrounded by trees",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "How deep underwater is the diver?",
+        "answers": [
+            "",
+            "",
+            "As the diver is not wearing a full diving suit but still needs an oxygen tank, the diver should be somewhere around 50-100ft down. Sunlight is also reaching the bottom which indicates that it shouldn't be too deep",
+            "The diver seems to be very deep in the ocean almost at the bottom of the sea",
+            "At the bottom of the ocean, hitting the coral reef."
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "shopping",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "What is the focal point of the image?",
+        "answers": [
+            "The focal point of the image is the person, likely a male, who is being pulled on water skis  ",
+            "Just below the white tether the person is holding onto, slightly to the left of the person in the image.",
+            "The guy skiiing.",
+            "The focal point of the image is the person skiing on the river."
+        ]
+    },
+    {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "social_media",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "Describe what the athletic wear looks like?",
+        "answers": [
+            "JOGGERS",
+            "The woman is wearing a skimpy sports top (sleeveless, bare midriff) with long, dark jogger pants.",
+            "The sports wear is a black sports bra paired with black and blue leggings."
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Is the city lit up well?",
+        "answers": [
+            "City is not lit up at all. ",
+            "The city is not lit up well.   The dusk shows plenty of daylight left, so the lights may not have come on yet.",
+            "No, the city is not lit up well, but it is still light out so additional lights aren't necessary. ",
+            "No, the buildings do not appear to have lights on."
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "science_journals",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "is the image taken in the wild?",
+        "answers": [
+            "Yes, this was taken in the ocean",
+            "Yes, the image is taken on the bottom of the ocean floor.",
+            "Yes, the image is taken at the bottom of the sea.",
+            "Yes, it does appear to be taken in the wild in the ocean.",
+            "It looks to be in the wild, because it's a sandy ocean bottom. ",
+            "It seems like the image was mostly taken in the wild."
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "travel",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "Are there any sand dunes?",
+        "answers": [
+            "She is in a desert so there are probably dunes",
+            "Background is minimal and blurred.",
+            "In the image there is flat sandy shore with no hills or dunes in sight."
         ]
     },
     {
         "image": "images/science_journals/260px-Tidepools_Small.jpeg",
         "context": "science_journals",
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
-        "question": "What color is the water?",
-        "answers": [
-            "Because of the algea and coral structures, the water is many different shades including teal, pink, light violet, and light green.",
-            "clear light blue",
-            "The water in the tide pool is likely to exhibit various shades of blue and green."
-        ]
-    },
-    {
-        "image": "images/health/2456.jpg",
-        "context": "health",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-        "question": "What kind of colors and vegetables make up the salad?",
-        "answers": [
-            "Green, white, orange; broccoli, carrots and mushrooms",
-            "a translucent white vegetable along with some greens and reds",
-            "White, green, red, brown. Onion, pepper, mushrooms"
-        ]
-    },
-    {
-        "image": "images/travel/26005.jpg",
-        "context": "news",
-        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-        "question": "Do the mountains have snow on them?",
-        "answers": [
-            "YES",
-            "No, there is no snow",
-            "Some of the mountains do have snow on them",
-            "Yes, one of the mountains has a small patch of snow at the top"
-        ]
-    },
-    {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "How big is the embryo?",
+        "question": "What's the weather like? ",
         "answers": [
             "",
-            "The embryo looks very large but it's hard to tell because there is nothing to compare it to",
-            "The embryo is smaller than a bottle of wine."
+            "The weather appears to be clear.",
+            ""
         ]
     },
     {
-        "image": "images/social_media/170px-Baked_goods.jpeg",
-        "context": "health",
-        "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-        "question": "Is there any text in the scene about the honey being local?",
+        "image": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+        "context": "shopping",
+        "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
+        "question": "What kind of outfit is the model wearing?",
         "answers": [
-            "No there is no text",
-            "There is no text",
-            "No"
+            "The mode is wearing a black romper with knee high boots and a shawl around their arms",
+            "The model is earring knee-high black boots, small, tight black shorts, a sleeveless black tank-top, and has a fur shawl.",
+            "The model is wearing something resembling a leotard, except that this one has bottoms reaching the models thighs. Has a scarf wrapped around both arms from behind the back and is wearing big high heel boots. Entire outfit is black other than the scarf which is silver. "
         ]
     },
     {
-        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
-        "context": "health",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-        "question": "Is it a tall waterfall?",
-        "answers": [
-            "The waterfall looks to be medium-length. ",
-            "Yes, the waterfall goes down a cliff and  is about 20m tall.",
-            "yes, the waterfall in the image is indeed tall. It cascades majestically over rocks, surrounded by lush greenery. ",
-            "Yes the waterfall looks quite tall. "
-        ]
-    },
-    {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "What is the size of the egg case i.e. how does it compare to the size of a chicken egg?",
-        "answers": [
-            "The egg case is much longer than a chicken egg.",
-            "The size of the egg case is about 8 inches and it's oblong shape.",
-            "It\u00b4s a little bigger"
-        ]
-    },
-    {
-        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "image": "images/health/Foods_(cropped).jpeg",
         "context": "social_media",
-        "description": "A group of people are working out on indoor rowing machines at a gym.",
-        "question": "What kind of clothes are they wearing?",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "Are there any specific type of nuts?",
         "answers": [
-            "Loose, casual clothes",
-            "Typical gym attire. Tank tops, yoga pants, plain tees, and gym shorts.",
-            "The people are wearing work out clothing.",
-            "They are wearing tank tops and shorts",
-            "The people are mostly wearing workout clothes, such as shorts, t-shirts, tank tops, and tennis shoes. "
+            "There are pecans and walnuts on a wooden board",
+            "Pecans and walnuts.",
+            "No, there is not any nuts.",
+            "It looks like there are pecans and walnuts"
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "shopping",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "Is this an ad.",
+        "answers": [
+            "This could be an add for either vacation on the beach or casual clothing",
+            "Yes",
+            "Yes, this appears to be an ad for clothing.",
+            "This is most likely some kind of model, modeling for a clothing ad. But I can't be sure. "
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "How deep is the ocean does it look to be.",
+        "answers": [
+            "It looks to be very deep in the ocean, basically on the ocean floor.",
+            "The ocean looks to be about 20 ft. deep.",
+            "",
+            "Fairly deep at a sea bed.",
+            "It looks fairly deep. This is where a boat sunk to the bottom but I cannot give an exact numerical depth. "
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "What kind of fruits are in the picture?",
+        "answers": [
+            "There are bananas, watermelon, grapes, cantaloup, and apples. ",
+            "In addition to the apples and watermelon, there are lemons, green and purple grapes, peaches, raspberries and blueberries.",
+            "The fruits in the image are watermelon ,apples ,peaches ,grapes ,melon ,raspberries ,blackberries and tomato's if the user considers them fruits.  ",
+            "edible fruits "
+        ]
+    },
+    {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "social_media",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "What color are the athletic wear jogs?",
+        "answers": [
+            "Black jogging pants.",
+            "the athletic wear is black",
+            "The athletic wear jogs are black ",
+            "It is black with a blue stripe."
         ]
     }
 ]
