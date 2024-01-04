@@ -14,8 +14,26 @@
     {
         "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
         "category": "health",
+        "question": "Are they a real family?",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
+        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "category": "health",
         "question": "Are they having a good time?",
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
+        "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "category": "shopping",
+        "question": "What is going on here?",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+    },
+    {
+        "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "category": "travel",
+        "question": "What is the location they are at?",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
     },
     {
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
@@ -44,6 +62,12 @@
     {
         "filename": "images/travel/30208.jpg",
         "category": "social_media",
+        "question": "Is this a college/university campus? ",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+    },
+    {
+        "filename": "images/travel/30208.jpg",
+        "category": "social_media",
         "question": "Can you tell where this city is located?",
         "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
     },
@@ -52,6 +76,12 @@
         "category": "news",
         "question": "What does this woman have to do with the surrounding news stories?",
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+    },
+    {
+        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "category": "health",
+        "question": "Is this advertising some sort of class, retreat, or app?",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
     },
     {
         "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
@@ -108,6 +138,12 @@
         "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
     },
     {
+        "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "category": "news",
+        "question": "Where is this field? ",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+    },
+    {
         "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
         "category": "health",
         "question": "Where is the marathon by looking for landmarks?",
@@ -138,6 +174,18 @@
         "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
     },
     {
+        "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "category": "news",
+        "question": "How many whales are in the image?",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
+    },
+    {
+        "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "category": "news",
+        "question": "Are there adult and baby whales, or only adults?",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
+    },
+    {
         "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
         "category": "shopping",
         "question": "What is the general age range of the soccer player?",
@@ -165,6 +213,12 @@
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
         "category": "health",
         "question": "What time of day is it in the photo?",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+    },
+    {
+        "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "category": "health",
+        "question": "Are there any landmarks to the beach that suggest where is might be?",
         "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
     },
     {
@@ -238,6 +292,12 @@
         "category": "science_journals",
         "question": "What kind of gorilla?",
         "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+    },
+    {
+        "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "category": "news",
+        "question": "Is the astronaut with NASA?",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
     },
     {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
@@ -730,6 +790,12 @@
         "category": "news",
         "question": "What is the weather like in that location? Is it hot or cold?",
         "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+    },
+    {
+        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "category": "news",
+        "question": "Where is the corridor?",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/shopping/4068.jpg",

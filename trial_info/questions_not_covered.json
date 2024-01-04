@@ -12,12 +12,6 @@
         "description": "A group of people are working out on indoor rowing machines at a gym."
     },
     {
-        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-        "category": "health",
-        "question": "Are they a real family?",
-        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
-    },
-    {
         "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
         "category": "science_journals",
         "question": "Is there an experiment benig done?",
@@ -32,20 +26,8 @@
     {
         "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
         "category": "shopping",
-        "question": "What is going on here?",
-        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
-    },
-    {
-        "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
-        "category": "shopping",
         "question": "What is the brand of clothes she is wearing?",
         "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
-    },
-    {
-        "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-        "category": "travel",
-        "question": "What is the location they are at?",
-        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
     },
     {
         "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
@@ -114,22 +96,10 @@
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
     },
     {
-        "filename": "images/travel/30208.jpg",
-        "category": "social_media",
-        "question": "Is this a college/university campus? ",
-        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
-    },
-    {
         "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
         "category": "news",
         "question": "Is this a fashion ad?",
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
-    },
-    {
-        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "category": "health",
-        "question": "Is this advertising some sort of class, retreat, or app?",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
     },
     {
         "filename": "images/news/Showjumping_white_horse.jpeg",
@@ -148,12 +118,6 @@
         "category": "science_journals",
         "question": "Is it far from our planet?",
         "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
-    },
-    {
-        "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-        "category": "news",
-        "question": "Where is this field? ",
-        "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
     },
     {
         "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
@@ -216,18 +180,6 @@
         "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
     },
     {
-        "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-        "category": "news",
-        "question": "How many whales are in the image?",
-        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
-    },
-    {
-        "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-        "category": "news",
-        "question": "Are there adult and baby whales, or only adults?",
-        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
-    },
-    {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
         "category": "science_journals",
         "question": "Are there other galaxies present?",
@@ -250,12 +202,6 @@
         "category": "travel",
         "question": "Does the path appear to be in a secluded area or public?",
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
-    },
-    {
-        "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-        "category": "health",
-        "question": "Are there any landmarks to the beach that suggest where is might be?",
-        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
     },
     {
         "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
@@ -640,12 +586,6 @@
         "category": "science_journals",
         "question": "What kind of tree is it?",
         "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
-    },
-    {
-        "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "category": "news",
-        "question": "Is the astronaut with NASA?",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
     },
     {
         "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
@@ -1630,12 +1570,6 @@
         "category": "travel",
         "question": "Are there a lot of other people at the waterfall or is it private?",
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
-        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-        "category": "news",
-        "question": "Where is the corridor?",
-        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",

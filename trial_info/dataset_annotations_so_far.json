@@ -1954,5 +1954,128 @@
             "She has long straight hair draped over her shoulder on one side.",
             "Long blonde hair"
         ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "health",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "Is this advertising some sort of class, retreat, or app?",
+        "answers": [
+            "As I browse through the healthier website, The image captivates me and I can almost feel the serenity and tranquility in the air.",
+            "yes looks like a retreat ",
+            "i think it is advertising meditation",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "health",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "Are they a real family?",
+        "answers": [
+            "",
+            "",
+            "",
+            "It appears to be a father and son side by side riding their bikes."
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "news",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "Where is this field? ",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "news",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "How many whales are in the image?",
+        "answers": [
+            "i believe there are 3 or 4 whales. the image isn't entirely clear",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "news",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "Where is the corridor?",
+        "answers": [
+            "The White House",
+            "",
+            "The corridor looks to be in a building on capitol hill."
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "Are there any landmarks to the beach that suggest where is might be?",
+        "answers": [
+            "no there is no landmarks it is only beach",
+            "",
+            "There are no landmarks depicted in this image.  "
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "news",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "Are there adult and baby whales, or only adults?",
+        "answers": [
+            "The whales in the image appear to be adult",
+            "It is unclear, they appear to be all adults though",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "Is the astronaut with NASA?",
+        "answers": [
+            "",
+            "",
+            "The first class of NASA astronauts was selected in 1959. They are known as the Mercury 7."
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Is this a college/university campus? ",
+        "answers": [
+            "No, it is most likely not a college/university campus",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "shopping",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "What is going on here?",
+        "answers": [
+            "The woman looks to be posing for a photoshoot",
+            "The woman is modeling clothing/accessory items for sale on this website.",
+            "Display of natural beauty to promote a product."
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "travel",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "What is the location they are at?",
+        "answers": [
+            "",
+            "on a riverbank next to some ancient ruins.",
+            ""
+        ]
     }
 ]

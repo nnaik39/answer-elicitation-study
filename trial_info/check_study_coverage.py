@@ -35,27 +35,35 @@ for participant in study_info:
             if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in answers):
                 answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
             answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
-        
+
+all_answers = {}
+
+for participant in study_info:
+    for trial in study_info[participant]:
+            if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in all_answers):
+                all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
+            all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
+
 questions_not_covered = []
 
 questions_covered = []
 
 for question in all_questions['images']:
-    if ((question['filename'], question['category'], question['description'], question['question']) in answers and len(answers[(question['filename'], question['category'], question['description'], question['question'])]) < 3):
+    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers and len(all_answers[(question['filename'], question['category'], question['description'], question['question'])]) < 3):
         questions_not_covered.append(question)
-    elif (question['filename'], question['category'], question['description'], question['question']) not in answers:
+    elif (question['filename'], question['category'], question['description'], question['question']) not in all_answers:
         questions_not_covered.append(question)
     else:
         questions_covered.append(question)
 
-#print("Number of questions not fully covered yet: ", len(questions_not_covered))
-#print("Number of questions fully covered: ", len(questions_covered))
+print("Number of questions not fully covered yet: ", len(questions_not_covered))
+print("Number of questions fully covered: ", len(questions_covered))
 
-#with open("questions_not_covered.json", "w") as outfile:
- #   outfile.write(json.dumps(questions_not_covered, indent = 4))
+with open("questions_not_covered.json", "w") as outfile:
+    outfile.write(json.dumps(questions_not_covered, indent = 4))
 
-#with open("questions_covered.json", "w") as outfile:
- #   outfile.write(json.dumps(questions_covered, indent = 4))
+with open("questions_covered.json", "w") as outfile:
+    outfile.write(json.dumps(questions_covered, indent = 4))
 
 for (image, context, description, question) in answers:
     if (len(answers[(image, context, description, question)]) >= 3):
