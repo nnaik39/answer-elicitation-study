@@ -1,125 +1,139 @@
 [
     {
-        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "context": "health",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
-        "question": "Is this advertising some sort of class, retreat, or app?",
-        "answers": [
-            "As I browse through the healthier website, The image captivates me and I can almost feel the serenity and tranquility in the air.",
-            "yes looks like a retreat ",
-            "i think it is advertising meditation",
-            ""
-        ]
-    },
-    {
-        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-        "context": "health",
-        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-        "question": "Are they a real family?",
-        "answers": [
-            "",
-            "",
-            "",
-            "It appears to be a father and son side by side riding their bikes."
-        ]
-    },
-    {
-        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
         "context": "news",
-        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-        "question": "Where is this field? ",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "Are there any people or human made structures in the image?",
         "answers": [
+            "The lava is pouring out into a lava field which has no homes or people in sight.",
+            "no there is not",
+            "No humans or man made structures in the image"
+        ]
+    },
+    {
+        "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
+        "question": "What colors are dominant in this picture?",
+        "answers": [
+            "Blue and black",
+            "The blue earth with white clouds is being orbited by a grey International Space Station.",
+            "blue, black"
+        ]
+    },
+    {
+        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "context": "news",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+        "question": "What are the predominant colors?",
+        "answers": [
+            "the skies ",
+            "The predominant colors of the nebula are shades of red and orange.",
+            "black and orange",
+            "Black, red, yellow"
+        ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "shopping",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "What brand is this image promoting?",
+        "answers": [
+            "Promoting the president ",
             "",
-            "",
+            "government",
             ""
         ]
     },
     {
-        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-        "context": "news",
-        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-        "question": "How many whales are in the image?",
+        "image": "images/social_media/54183.jpg",
+        "context": "social_media",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "Who is the singer?",
         "answers": [
-            "i believe there are 3 or 4 whales. the image isn't entirely clear",
-            "",
-            ""
+            "The singer is Beyonce Knowles",
+            "unknown to me",
+            "The singer is 32 time Grammy winner Beyonce Knowles.  "
         ]
     },
     {
         "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "context": "news",
         "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
-        "question": "Where is the corridor?",
+        "question": "Why are the men watching him.",
         "answers": [
-            "The White House",
-            "",
-            "The corridor looks to be in a building on capitol hill."
+            "The men are discussing what Barack Obama is going to say. They look very worried.",
+            "Because he is the President of the USA.",
+            "The men are not watching former president Barack Obama who is staring straight into the camera. The men are focusing on something to the left of the camera which can not be seen on camera. "
         ]
     },
     {
-        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-        "context": "health",
-        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
-        "question": "Are there any landmarks to the beach that suggest where is might be?",
-        "answers": [
-            "no there is no landmarks it is only beach",
-            "",
-            "There are no landmarks depicted in this image.  "
-        ]
-    },
-    {
-        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-        "context": "news",
-        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
-        "question": "Are there adult and baby whales, or only adults?",
-        "answers": [
-            "The whales in the image appear to be adult",
-            "It is unclear, they appear to be all adults though",
-            ""
-        ]
-    },
-    {
-        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-        "context": "news",
-        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-        "question": "Is the astronaut with NASA?",
-        "answers": [
-            "",
-            "",
-            "The first class of NASA astronauts was selected in 1959. They are known as the Mercury 7."
-        ]
-    },
-    {
-        "image": "images/travel/30208.jpg",
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
         "context": "social_media",
-        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-        "question": "Is this a college/university campus? ",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "What gym is this?",
         "answers": [
-            "No, it is most likely not a college/university campus",
             "",
+            "",
+            "",
+            "I don't know why gym this is.",
             ""
         ]
     },
     {
-        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
-        "context": "shopping",
-        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
-        "question": "What is going on here?",
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "travel",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Is this a show type of event o a competition? ",
         "answers": [
-            "The woman looks to be posing for a photoshoot",
-            "The woman is modeling clothing/accessory items for sale on this website.",
-            "Display of natural beauty to promote a product.",
-            "galaxies"
+            "",
+            "The show appears to be a competition since there is a professional jockey on the horse that it jumping over the obstacle.",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "health",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "What is the marathon for?",
+        "answers": [
+            "",
+            "",
+            "The marathon is a race where contestants run towards the finish line"
+        ]
+    },
+    {
+        "image": "images/social_media/54183.jpg",
+        "context": "social_media",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "If the performer is performing in front of others, how big would the crowd be?",
+        "answers": [
+            "at least 500 people",
+            "The performer  is performing for a large audience.",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "health",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "What is the facial expression of the person in the photo?",
+        "answers": [
+            "",
+            "He shows an expression of relaxation and calmness",
+            "solemn",
+            "Calm and at peace.",
+            "Although the person in the image has his head slightly bowed you can make out a peaceful and focused facial expression. "
         ]
     },
     {
         "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
         "context": "travel",
         "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-        "question": "What is the location they are at?",
+        "question": "Does the tour (assumedly composed of tourists) have a guide that appears to be knowledgeable on the setting?",
         "answers": [
             "",
-            "on a riverbank next to some ancient ruins.",
+            "At one end of the boat, a man can be seen, sitting in a slightly elevated seat, and facing the tourists.  Although the knowledge of the guide cannot be confirmed, there does appear to be a tour guide in this image.  ",
             ""
         ]
     }

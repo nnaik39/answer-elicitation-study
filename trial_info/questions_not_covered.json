@@ -6,12 +6,6 @@
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
     },
     {
-        "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-        "category": "social_media",
-        "question": "What gym is this?",
-        "description": "A group of people are working out on indoor rowing machines at a gym."
-    },
-    {
         "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
         "category": "science_journals",
         "question": "Is there an experiment benig done?",
@@ -40,18 +34,6 @@
         "category": "social_media",
         "question": "Is the performer in a setting where it seems they would be performing in front of a group of people?",
         "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
-    },
-    {
-        "filename": "images/social_media/54183.jpg",
-        "category": "social_media",
-        "question": "If the performer is performing in front of others, how big would the crowd be?",
-        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
-    },
-    {
-        "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-        "category": "travel",
-        "question": "Does the tour (assumedly composed of tourists) have a guide that appears to be knowledgeable on the setting?",
-        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
     },
     {
         "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
@@ -102,12 +84,6 @@
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
     },
     {
-        "filename": "images/news/Showjumping_white_horse.jpeg",
-        "category": "travel",
-        "question": "Is this a show type of event o a competition? ",
-        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-    },
-    {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
         "category": "science_journals",
         "question": "What is unique about it from other cosmic feaures?",
@@ -124,18 +100,6 @@
         "category": "news",
         "question": "Are people cheering? ",
         "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
-    },
-    {
-        "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-        "category": "health",
-        "question": "What is the marathon for?",
-        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
-    },
-    {
-        "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
-        "category": "science_journals",
-        "question": "What colors are dominant in this picture?",
-        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
     },
     {
         "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
@@ -158,20 +122,8 @@
     {
         "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
         "category": "health",
-        "question": "What is the facial expression of the person in the photo?",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
-        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "category": "health",
         "question": "What is the person wearing?",
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
-        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-        "category": "shopping",
-        "question": "What brand is this image promoting?",
-        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
@@ -202,12 +154,6 @@
         "category": "travel",
         "question": "Does the path appear to be in a secluded area or public?",
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
-    },
-    {
-        "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-        "category": "news",
-        "question": "Are there any people or human made structures in the image?",
-        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
     },
     {
         "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
@@ -255,12 +201,6 @@
         "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
         "category": "news",
         "question": "Is it a dense cluster or more scattered?",
-        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
-    },
-    {
-        "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-        "category": "news",
-        "question": "What are the predominant colors?",
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
     },
     {
@@ -594,12 +534,6 @@
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
     },
     {
-        "filename": "images/social_media/54183.jpg",
-        "category": "social_media",
-        "question": "Who is the singer?",
-        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
-    },
-    {
         "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
         "category": "news",
         "question": "What were they protesting or supporting?",
@@ -921,12 +855,6 @@
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "category": "news",
         "question": "What is Obama doing, ",
-        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
-    },
-    {
-        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-        "category": "news",
-        "question": "Why are the men watching him.",
         "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {

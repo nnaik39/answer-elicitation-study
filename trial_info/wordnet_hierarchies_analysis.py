@@ -2,29 +2,26 @@ from nltk.corpus import wordnet
 from nltk import word_tokenize
 import nltk 
 import pandas as pd
-
 import json 
 
-df = pd.read_csv('dataset_annotations_so_far.csv')
+f = open('dataset_annotations_so_far.json')
 
-# Hypernyms of dog
-print('Hypernyms ', wordnet.synset('people.n.01').hypernyms())
-print('Hyponyms ', wordnet.synset('person.n.01').hyponyms())
-
-# Measure the mean words from each answer, and then the max word depth for each answer
-
+dataset = json.load(f)
 total_answers_per_context = {}
 max_depth_in_context = {}
 avg_depth_in_context = {}
+num_words_per_context = {}
 
-for row in df.iterrows():
-    answers = [row['answer1'], row['answer2'], row['answer3']]
-    context = row['context']
+for entry in dataset:
+    answers = entry['answers']
+    context = entry['context']
     
-    if (context not in max_depth_in_context):
-        max_depth_in_context[context] = 0
     if (context not in avg_depth_in_context):
-        avg_depth_in_context = 0
+        avg_depth_in_context[context] = 0
+    if (context not in num_words_per_context):
+        num_words_per_context[context] = 0 
+    
+    avg_depth = 0
 
     for answer in answers:
         text = word_tokenize(answer)
@@ -37,12 +34,7 @@ for row in df.iterrows():
                 continue 
             min_depth = wordnet.synsets(word)[0].min_depth()
             avg_depth_in_context[context] += min_depth
-            max_depth = max(max_depth, min_depth)
-
-    avg_depth /= len(answer.split(' '))
+            num_words_per_context[context] += 1
 
     print("Answer ", answer)
     print("Avg depth ", avg_depth)
-    print("Max depth ", max_depth)
-
-# TODO: Count the number of answers in context as well here.
