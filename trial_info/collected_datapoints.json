@@ -1,116 +1,161 @@
 [
     {
-        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-        "context": "health",
-        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
-        "question": "What is the woman's facial expression?",
+        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "context": "news",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+        "question": "What is this man doing?",
         "answers": [
-            "She looks determined ",
-            "Focused and paying attention",
-            "you can partially see her face and if anything, it looks focused on her work out",
-            "Looking down and focused on her right leg lifting the gym equipment",
-            "the woman has a neutral facial expression during her workout",
-            "The single person in gym,  identified as woman exercise for gastrocnemius  power"
-        ]
-    },
-    {
-        "image": "images/health/Foods_(cropped).jpeg",
-        "context": "shopping",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-        "question": "What kind of nuts are on the surface?",
-        "answers": [
-            "Pecans and another kind",
-            "On the image, there appears to be a selection of nuts including walnuts and pecans.",
-            "Walnuts and brazil nuts",
-            "it looks like almonds ",
-            "",
-            "it appears to be almonds and chestnuts",
-            "the table has  on it  a  plenty variation of vegetable and fruits peaces."
-        ]
-    },
-    {
-        "image": "images/travel/Wdomenada2003b.jpeg",
-        "context": "travel",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-        "question": "Is this something you think I could do with limited sight?",
-        "answers": [
-            "You could possibly do this with limited sight, but I wouldn't suggest it",
-            "It probably would not be safe ",
-            "No, I do not think you could do this with limited sight"
-        ]
-    },
-    {
-        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-        "context": "travel",
-        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
-        "question": "How large is the tree for scale?",
-        "answers": [
-            "The tree is thin but taller than the gorilla",
-            "Only a small portion of a tree is visable so it is hard to tell how big it is",
-            "Larger than the gorilla's hand and larger than the gorilla could hold from fingertip to palm.",
+            "He is modeling",
+            "the man is smiling",
+            "modeling on the run way ",
             ""
         ]
     },
     {
-        "image": "images/social_media/170px-Baked_goods.jpeg",
-        "context": "social_media",
-        "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-        "question": "How many rolls/cornbread are in the basket?",
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "health",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "Where is the marathon by looking for landmarks?",
         "answers": [
-            "8 in the basket, 2 on a plate ",
-            "There are at least eighteen, possibly more.",
-            "8 are in the basket, 2 are on the plate cut in half",
-            "18 pieces of bread and 4 brownies ",
-            "there are 11 corn breads in the basket",
-            "The corn muffins and bread rolls are awaiting a  breakfast person"
+            "The marathon looks like it is in London",
+            "Overseas",
+            "The marathon is held along the town highway. You can see the tall buildings off to the side as it is  happening. ",
+            "Unsure, but it seems to be in Europe based on the buildings and markings on the street."
         ]
     },
     {
-        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "social_media",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "what does the rider look like?",
+        "answers": [
+            "A white male",
+            "",
+            "The rider is a thin, white, female.",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "travel",
-        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-        "question": "What boy of water is this?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What kind of pose are they doing?",
+        "answers": [
+            "The people are sitting with their legs crossed and their arms in the air above their heads.",
+            "They are sitting on the ground and reaching up with arms outstretched towards the sky. They are sitting cross legged and their palms are facing upwards.",
+            "It looks like the group is performing the yoga pose, Sukhasana."
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "science_journals",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "is the Stingray endangered?",
         "answers": [
             "",
-            "The sea. It is unclear which one.",
-            "A diver in solo plunged into water with a  good transparency "
+            "The stingray is not endangered",
+            "",
+            "I am not sure if the stingray is endangered I cannot tell from the picture."
+        ]
+    },
+    {
+        "image": "images/travel/37044.jpg",
+        "context": "travel",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "Is it more like an artistic photo or a promotional one?",
+        "answers": [
+            "I think this one is promotional one.",
+            "It is more of an artistic photo. ",
+            "artistic photo",
+            "The photo fits more into what I would think of as a travel photo, one that someone took on their travels. Which I guess would mean it is more promotional. It is picturesque enough to be art as well though."
+        ]
+    },
+    {
+        "image": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
+        "question": "Where the swimmer in the frame, close up, far away?",
+        "answers": [
+            "The swimmer is close up.",
+            "close up",
+            "The swimmer is close up in the frame and is in fact the closest thing to the viewer. The swimmer is close enough that one can accurately see details on his trunks, cap and watch.",
+            "The swimmer is close up.",
+            "The swimmer was pretty close up."
+        ]
+    },
+    {
+        "image": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
+        "question": "Is the swimmer male or female?",
+        "answers": [
+            "The swimmer is male.",
+            "the swimmer is a muscular man",
+            "The swimmer is male"
+        ]
+    },
+    {
+        "image": "images/science_journals/260px-Tidepools_Small.jpeg",
+        "context": "social_media",
+        "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
+        "question": "Are there any fish in the picture? ",
+        "answers": [
+            "no. it is possible there are some fish hidden in the details, but at this size i cannot clearly see any fish",
+            "no fish in the picture",
+            "There are not any fish in the picture.",
+            "no there are other marine life like anemones and algae. There seems to be a lot of other sea life. ",
+            ""
         ]
     },
     {
         "image": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
         "context": "news",
         "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-        "question": "What is she doing with the lighting equitment?",
+        "question": "Is there a stage in the photo?",
         "answers": [
-            "She is posing to have her photo taken.",
-            "The lightning is making it easier for the camera to take a good picture of her, thus she's posing in the scene.",
-            "Standing beside it",
-            "Posing underneath it.",
-            "she is standing 1 feet away in the middle of the stage room"
-        ]
-    },
-    {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "How shallow is the water that the branch is submerged under?",
-        "answers": [
-            "The branch is fully submerged in the water with no land or sky present.",
             "",
-            "It is fully underwater."
+            "No there is no stage in the photo.",
+            "No, there is no scenery in the photo."
         ]
     },
     {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Is the egg case a certain color with transparency?",
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "How old does the shipwreck look.",
         "answers": [
-            "The case does not have a certain color, but is transparent. ",
-            "Yes, it is yellowish green.",
-            "it is transparent with the inside egg being yellow ",
-            "yes, the egg case is medium to dark yellow",
-            ""
+            "probably from the 1800's",
+            "it looks old and worn out by the seawater...rusty like",
+            "100 years old",
+            "The shipwreck looks quite old and there appears to be algae growth all over the outside"
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "Is it like a real meal or some meme?",
+        "answers": [
+            "This is a real meal. It is a nicely plated noodle salad.",
+            "Real meal\n",
+            "A real meal",
+            "It is a real meal. The noodles and vegetables used in the meal look delicious and it is arranged in a way as to be visually appealing."
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "science_journals",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "is the image taken in the wild?",
+        "answers": [
+            "Yes, this was taken in the ocean",
+            "Yes, the image is taken on the bottom of the ocean floor.",
+            "Yes, the image is taken at the bottom of the sea.",
+            "Yes, it does appear to be taken in the wild in the ocean.",
+            "It looks to be in the wild, because it's a sandy ocean bottom. ",
+            "It seems like the image was mostly taken in the wild.",
+            "Yes the image is taken in the wild",
+            "It appears to be"
         ]
     },
     {
@@ -123,6 +168,130 @@
             "It seems to be warmish, but probably not hot. Most people are in light clothes like shorts and sleeveless, but some are in long sleeves and pants. ",
             "based on the image, i would say it was late spring time ",
             "the people are wearing summer clothes and and others are wearing long sleeves. one can say it is rather mild outside; not too hot or cold"
+        ]
+    },
+    {
+        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "context": "shopping",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+        "question": "What is the general age range of the soccer player?",
+        "answers": [
+            "i believe the age range of the player is 30-35",
+            "35",
+            "35 years of age",
+            "The age range of the player is somewhere between 30 and 40."
+        ]
+    },
+    {
+        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "context": "science_journals",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+        "question": "Are there any colors in this picture?",
+        "answers": [
+            "there are various shades or purple, orange, yellow, and red in the image",
+            "Black, purple, and orange",
+            "yes the colors are lighting",
+            "There is a number of colors in this picture, from pitch black to brilliant reds, blues and golds.",
+            "black and silver",
+            "Yes multiple colors"
+        ]
+    },
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "travel",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Does the background show any sort of landscape, under the cloudy sky?",
+        "answers": [
+            "Open fields",
+            "You can see some trees in the background",
+            "yes it does "
+        ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "shopping",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "Is it really Barack Obama or is it a person that looks like him?",
+        "answers": [
+            "it is Barack Obama",
+            "It is really Barrack Obama, and it is obviously a real picture that was taken at some point, most likely while he was president.",
+            "It is in all likelihood President Barack Obama. He has the same long face and large ears that President Obama did.",
+            "It's hard to tell, but I think it really is Barack",
+            "It appears to be Barack Obama, though the picture is somewhat blurry.",
+            "Its really him ",
+            "Because the person is ever so slightly blurred it is hard to know for certain if it is Obama or if it's a person who looks very much like Obama. However, I could confidently say, that this person does in fact look like Obama"
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "news",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "What color is the observatory?",
+        "answers": [
+            "black",
+            "It is night time and the observatory is not highlighted in the image, which makes it a bit hard to tell the color. It seems to be a sort of white or beige color, but the image is certainly more focused on the bright yellow laser beam shooting into the sky.",
+            "The observatory itself is white with a large orange light shooting out of it's center into the sky above.",
+            "The observatory appears to be cream, white, or gray-colored."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "context": "science_journals",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
+        "question": "What kind of gorilla?",
+        "answers": [
+            "ape",
+            "Probably a western lowlands gorilla.",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "context": "shopping",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+        "question": "Is the soccer player clean or dirty?",
+        "answers": [
+            "The player looks clean of dirt, but does appear very sweaty",
+            "The soccer player looks very dirty. He is actively playing in a game sweating all over the place!",
+            "The soccer player is clean and has no dirt on him, but looks sweaty.",
+            "He's clean.",
+            "Dirty",
+            "Although the soccer player is sweaty he does appear to be clean.",
+            "clean"
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "health",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "How old is the woman?",
+        "answers": [
+            "The woman looks to be in her early to mid twenties, she is definitely an adult, but young and attractive.",
+            "I imagine the woman in the picture is in her early to mid 20s.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "Does the stingray look calm or menacing?",
+        "answers": [
+            "The stingray looks menacing because it has its tail out and its face about to plunge into the sand. You don't know what it will do. ",
+            "It seems fairly calm.",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "context": "science_journals",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+        "question": "What does the scuba diver look like.",
+        "answers": [
+            "They are wearing a black outfit with highlighter yellow flippers. You cannot see their face, as it is covered by the thick goggles.",
+            "",
+            "The scuba diver is wearing a black colored scuba diver suit with yellow diver shoes.",
+            "Not much is shown, but does look to be a young white male."
         ]
     }
 ]

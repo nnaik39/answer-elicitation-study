@@ -1,16 +1,76 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/travel/37044.jpg",
-            "category": "travel",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-            "question": "Is it more like an artistic photo or a promotional one?"
+            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "health",
+            "description": "A group of people are working out on indoor rowing machines at a gym.",
+            "question": "How old are the people?"
         },
         {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+            "question": "What is the purpose of showing this man?"
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
             "category": "travel",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-            "question": "How old does the shipwreck look."
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+            "question": "What ethnicity is this woman?"
+        },
+        {
+            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+            "category": "health",
+            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+            "question": "Is the sun shining?"
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "science_journals",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+            "question": "Who is in the image? Neil Armstrong?"
+        },
+        {
+            "filename": "images/travel/26005.jpg",
+            "category": "news",
+            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+            "question": "What types of activities are available at the festival (What is happening in the tents, is there a carnival, etc.)"
+        },
+        {
+            "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
+            "category": "health",
+            "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+            "question": "Is this advertising some sort of class, retreat, or app?"
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
+            "question": "Where is the picture taking place?"
+        },
+        {
+            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+            "category": "news",
+            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+            "question": "What do the people look like overall?"
+        },
+        {
+            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+            "category": "health",
+            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+            "question": "Does the person look happy?"
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "news",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+            "question": "Are there any people or human made structures in the image?"
+        },
+        {
+            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+            "category": "news",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+            "question": "What are the predominant colors?"
         },
         {
             "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
@@ -19,430 +79,136 @@ var main_trials = {
             "question": "Is there a boat?"
         },
         {
-            "filename": "images/health/2456.jpg",
-            "category": "social_media",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "question": "Is it like a real meal or some meme?"
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "travel",
-            "question": "Is this a show type of event o a competition? ",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "travel",
-            "question": "Does the background show any sort of landscape, under the cloudy sky?",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "question": "What ethnicity is this woman?",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "question": "What is a traditional outfit?",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "social_media",
-            "question": "what does the rider look like?",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-        },
-        {
-            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-            "category": "shopping",
-            "question": "Is it really Barack Obama or is it a person that looks like him?",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
-        },
-        {
-            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
-            "category": "social_media",
-            "question": "Is the picture from the above or underwater perspective?",
-            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
-        },
-        {
-            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
-            "category": "social_media",
-            "question": "What color is the ocean water?",
-            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "category": "travel",
-            "question": "Does the stingray look calm or menacing?",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
-        },
-        {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "category": "news",
-            "question": "How many whales are in the image?",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
-        },
-        {
-            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
-            "category": "news",
-            "question": "Are there adult and baby whales, or only adults?",
-            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
-        },
-        {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "shopping",
-            "question": "What is the general age range of the soccer player?",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
-        },
-        {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "shopping",
-            "question": "Is the soccer player clean or dirty?",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "social_media",
-            "question": "Is the runway flanked with an audience and photographers?",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "social_media",
-            "question": "Are the models who are dressed alike walking as a group or individuals?",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "news",
-            "question": "Are there any people or human made structures in the image?",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "news",
-            "question": "Is it day or night in the image?",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
-        },
-        {
-            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-            "category": "news",
-            "question": "Is it a dense cluster or more scattered?",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
-        },
-        {
-            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-            "category": "news",
-            "question": "What are the predominant colors?",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "news",
-            "question": "What is his career?",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "news",
-            "question": "Is he someone famous?",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
-        },
-        {
-            "filename": "images/travel/13957.jpg",
-            "category": "news",
-            "question": "Are there things on the ground?",
-            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
-        },
-        {
-            "filename": "images/travel/13957.jpg",
-            "category": "news",
-            "question": "What angle is the camera?",
-            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
-        },
-        {
-            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
-            "category": "news",
-            "question": "What do the people look like overall?",
-            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
-        },
-        {
-            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
-            "category": "news",
-            "question": "What type of signs are they holding?",
-            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
-        },
-        {
-            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-            "category": "science_journals",
-            "question": "What kind of tree is it?",
-            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
-        },
-        {
-            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-            "category": "science_journals",
-            "question": "What kind of gorilla?",
-            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
-        },
-        {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "category": "news",
-            "question": "Is the astronaut with NASA?",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
-        },
-        {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "category": "news",
-            "question": "How old is the image?",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "travel",
-            "question": "What kind of pose are they doing?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "travel",
-            "question": "What are they wearing?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
-            "category": "social_media",
-            "question": "Where is the picture taking place?",
-            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
-        },
-        {
-            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
-            "category": "social_media",
-            "question": "Are there any fish in the picture? ",
-            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "category": "social_media",
-            "question": "Who is the singer?",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "category": "social_media",
-            "question": "What is the venue?",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
-        },
-        {
             "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
             "category": "travel",
-            "question": "What color is her hair?",
-            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+            "question": "What color is her hair?"
         },
         {
-            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
             "category": "news",
-            "question": "What color is the observatory?",
-            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+            "question": "How many whales are in the image?"
         },
         {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "category": "news",
-            "question": "Is there a stage in the photo?",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
+            "filename": "images/social_media/54183.jpg",
+            "category": "social_media",
+            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+            "question": "What is the venue?"
         },
         {
             "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
             "category": "news",
-            "question": "What is Obama doing, ",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+            "question": "Where is the corridor?"
         },
         {
-            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-            "category": "news",
-            "question": "Why are the men watching him.",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "category": "news",
-            "question": "Who is the woman in the image?",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "category": "news",
-            "question": "In what context was this image captured?",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "category": "news",
-            "question": "What era does it look like the dress is from.",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "category": "news",
-            "question": "How old is the woman.",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "news",
-            "question": "What is this man doing?",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "news",
-            "question": "What is the purpose of showing this man?",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
-        },
-        {
-            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-            "category": "news",
-            "question": "How many people are raising their hand?",
-            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
-        },
-        {
-            "filename": "images/travel/26005.jpg",
-            "category": "news",
-            "question": "What types of activities are available at the festival (What is happening in the tents, is there a carnival, etc.)",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
-        },
-        {
-            "filename": "images/travel/26005.jpg",
-            "category": "news",
-            "question": "What is the weather like in that location? Is it hot or cold?",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
-        },
-        {
-            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-            "category": "news",
-            "question": "Where is the corridor?",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
-        },
-        {
-            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-            "category": "news",
-            "question": "Do the men look mean or nice?",
-            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
-        },
-        {
-            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "travel",
-            "question": "What is the location they are at?",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
-        },
-        {
-            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "travel",
-            "question": "What is going on here?",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "social_media",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+            "question": "Is the runway flanked with an audience and photographers?"
         },
         {
             "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
             "category": "health",
-            "question": "How old is the woman?",
-            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+            "question": "Are there any landmarks to the beach that suggest where is might be?"
         },
         {
-            "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-            "category": "health",
-            "question": "Is this advertising some sort of class, retreat, or app?",
-            "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
+            "filename": "images/social_media/54183.jpg",
+            "category": "social_media",
+            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+            "question": "Who is the singer?"
         },
         {
-            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-            "category": "health",
-            "question": "Where is the marathon by looking for landmarks?",
-            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
-        },
-        {
-            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-            "category": "health",
-            "question": "What time of day is it in the photo?",
-            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
-        },
-        {
-            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-            "category": "health",
-            "question": "Are there any landmarks to the beach that suggest where is might be?",
-            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
-        },
-        {
-            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
-            "category": "health",
-            "question": "Is the swimmer male or female?",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
-        },
-        {
-            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
-            "category": "health",
-            "question": "Where the swimmer in the frame, close up, far away?",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
-        },
-        {
-            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "health",
-            "question": "How old are the people?",
-            "description": "A group of people are working out on indoor rowing machines at a gym."
-        },
-        {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "category": "health",
-            "question": "Is the sun shining?",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
-        },
-        {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "category": "health",
-            "question": "Does the person look happy?",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "category": "science_journals",
-            "question": "is the image taken in the wild?",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
-        },
-        {
-            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "category": "science_journals",
-            "question": "is the Stingray endangered?",
-            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
-        },
-        {
-            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-            "category": "science_journals",
-            "question": "Are there any colors in this picture?",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
-        },
-        {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "category": "science_journals",
-            "question": "Did we discover something new?",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
-        },
-        {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "category": "science_journals",
-            "question": "Who is in the image? Neil Armstrong?",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+            "category": "news",
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+            "question": "Are there adult and baby whales, or only adults?"
         },
         {
             "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
             "category": "science_journals",
-            "question": "What does the scuba diver look like.",
-            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
+            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+            "question": "What does the wreck look like? (Structure, wear and tear, etc.)"
         },
         {
-            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
             "category": "science_journals",
-            "question": "What does the wreck look like? (Structure, wear and tear, etc.)",
-            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+            "question": "Did we discover something new?"
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+            "question": "Why are the men watching him."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
+            "question": "Is the picture from the above or underwater perspective?"
+        },
+        {
+            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+            "category": "health",
+            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+            "question": "What time of day is it in the photo?"
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+            "question": "What era does it look like the dress is from."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+            "question": "How old is the image?"
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "travel",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+            "question": "What is a traditional outfit?"
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "social_media",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+            "question": "Are the models who are dressed alike walking as a group or individuals?"
+        },
+        {
+            "filename": "images/travel/13957.jpg",
+            "category": "news",
+            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
+            "question": "What angle is the camera?"
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
+            "question": "What color is the ocean water?"
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "travel",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+            "question": "What are they wearing?"
+        },
+        {
+            "filename": "images/travel/13957.jpg",
+            "category": "news",
+            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
+            "question": "Are there things on the ground?"
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+            "question": "Is the astronaut with NASA?"
         }
     ]
 }
