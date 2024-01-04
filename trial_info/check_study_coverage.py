@@ -48,10 +48,16 @@ questions_not_covered = []
 
 questions_covered = []
 
+questions_almost_all_covered = []
+
 for question in all_questions['images']:
-    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers and len(all_answers[(question['filename'], question['category'], question['description'], question['question'])]) < 3):
-        questions_not_covered.append(question)
-    elif (question['filename'], question['category'], question['description'], question['question']) not in all_answers:
+    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
+        num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
+    else:
+#        questions_not_covered.append(question)
+        continue 
+
+    if (num_answers < 3):
         questions_not_covered.append(question)
     else:
         questions_covered.append(question)

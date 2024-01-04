@@ -2215,5 +2215,251 @@
             "At one end of the boat, a man can be seen, sitting in a slightly elevated seat, and facing the tourists.  Although the knowledge of the guide cannot be confirmed, there does appear to be a tour guide in this image.  ",
             ""
         ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "travel",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "Are there any other creatures or objects present in this photo?",
+        "answers": [
+            "There are not any other objects.",
+            "small fish",
+            "There are no other creatures or objects around the stingray"
+        ]
+    },
+    {
+        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "context": "news",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+        "question": "What is the purpose of showing this man?",
+        "answers": [
+            "The man is introduced inside the articles.",
+            "Earrings may be acceptable for men.",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "health",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "What is the person wearing?",
+        "answers": [
+            "He isn't wearing anything.",
+            "The person is unclothed, at least from the waist up; the water covers the rest of them.",
+            "Nothing that is shown",
+            "Only the top half from the torso up is visible, they do not have a shirt on",
+            "nothing",
+            "the person is not wearing clothing",
+            "The person is not wearing any noticeable article of clothing on the upper body and the lower body is underwater but could have some type of swimming item like shorts on. ",
+            "Presumably a bathing suit, but his lower half is in the water so it's impossible to tell.  He's not wearing anything on his top half.",
+            "The person is not wearing a top or shirt.  Not sure about garments below the waist as his bottom half is under water. ",
+            "The person is topless. The lower half of his body cannot be seen.",
+            "",
+            "They appear to not be wearing any clothes"
+        ]
+    },
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "Is this woman mentioned on the news website in an article?",
+        "answers": [
+            "",
+            "",
+            "",
+            "",
+            "yes she is"
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "science_journals",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "Does it look like it was shot from Earth or from space?",
+        "answers": [
+            "This is a shot from space.",
+            "I would say it was taken from a space telescope",
+            "This looks like it was shot from earth, from a very powerful telescope.",
+            "",
+            "This image looks like it was shot from space."
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "How old is the image?",
+        "answers": [
+            "",
+            "",
+            "The image appears to be a few decades old.",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "shopping",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "What is the brand of clothes she is wearing?",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "Why is she wearing that?",
+        "answers": [
+            "",
+            "she is wearing a outfit with matching hearts on them",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "How accessible is the path?",
+        "answers": [
+            "The path isn't very accessible. it is a dirt path with lots of small rocks, in what looks to be a wooded area.",
+            "The path is wide enough for a vehicle to fit through and is covered with gravel.",
+            "accessible for those that can walk",
+            "The path seems a little out of the way as if it is on a rural trail.",
+            "The path is mostly accessible. It is flat and wide enough with plenty of room for people to walk. The gravel or rocks in the path could present an issue for someone using a wheelchair or has balance issues. ",
+            "Extremely accessible with no obstacles"
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "science_journals",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "What is unique about it from other cosmic feaures?",
+        "answers": [
+            "",
+            "",
+            "its kind of shaped like a peanut",
+            "The color combination it naturally created is unique from other cosmic features. "
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "travel",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "Do the passengers of the flatboat tour appear to be safe?",
+        "answers": [
+            "Yes, the passengers appear to be safe in the image.",
+            "Yes, the passengers appear to be safe and enjoying the scenery. ",
+            "yes, they are inside the boat and safe.",
+            "Yes there doesn't appear to be anything that could cause them danger."
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "science_journals",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "Is it far from our planet?",
+        "answers": [
+            "",
+            "It is very far from our planet.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "What kind of landscape is behind them?",
+        "answers": [
+            "rural forested landscape",
+            "It appears to be in a backyard.",
+            "woods and trees, possibly a wooded backyard",
+            "lush trees",
+            " A kind of rural but almost suburban backyard."
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "science_journals",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "Is anything else in space visible, like a space station or debris?",
+        "answers": [
+            "no, nothing else",
+            "There is nothing else visible",
+            "In the picture there is only the astronaut and the earth behind them, nothing else is visible. ",
+            "there are clouds and earth"
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "context": "science_journals",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
+        "question": "Is there an experiment benig done?",
+        "answers": [
+            "",
+            "",
+            "There is no experiment being done."
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "travel",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "What is going on here?",
+        "answers": [
+            "",
+            "It looks like an organized tour.",
+            "A group of people appear to be taking a trip or adventure tour on a flatboat. They are seated under the canopy of the boat and cruising close to a riverbank. ",
+            "It's a tourist group sitting on a boat."
+        ]
+    },
+    {
+        "image": "images/social_media/54183.jpg",
+        "context": "social_media",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "Is the performer in a setting where it seems they would be performing in front of a group of people?",
+        "answers": [
+            "",
+            "It seems the person is interacting with people even though they cannot be seen in the image.",
+            "",
+            "Yes they are",
+            "yes, I imagine they would be, since this is Beyonce, a very popular artist.",
+            "yes she is she is looking at them",
+            "Yes, the singer appears to be outdoors and could be performing for a group of people. ",
+            "You can't see an audience or a setting, but based on the lighting and nature of the photo it would appear she is performing in front of people.",
+            "Yes.  It appears the performer is singing outside for a live audience.",
+            "Yes; she is using a microphone, so she is either singing or talking to people.",
+            "Yes, it looks like she is performing outside and if she is holding a microphone, that likely means that there is a group of people looking and listening to her perform.",
+            "Yes. She appears to be performing outside"
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "shopping",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "What is this \"person\" like? (Age, gender, race, etc)",
+        "answers": [
+            "The person is a white male",
+            "They appear to be a yong adult between 20-40 years old, and caucasian.",
+            "a younger, white man",
+            "The person looks like a White man in his mid-20s, about 5'10\"-6' height, athletic build with some perceivable musculature, brown hair.",
+            "White, 32, male. Thats about all I can see about the man in the picture."
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "How many people are there and what are they doing?",
+        "answers": [
+            "There are five people in the hot tub with two people resting their legs on the edge of the hot tub",
+            "There are six people pictured in the image. They are all sitting in a hot tub relaxing and socializing with each other. ",
+            "There are around 6 people all sitting together inside of a wooden hot tub having a good time",
+            "It looks like there are 6 or perhaps 7 people soaking in the tub."
+        ]
     }
 ]

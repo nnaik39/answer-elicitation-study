@@ -2,6 +2,12 @@
     {
         "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
         "category": "news",
+        "question": "Why is she wearing that?",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+    },
+    {
+        "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "category": "news",
         "question": "Is this an ad?",
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
     },
@@ -30,15 +36,33 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
     },
     {
+        "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "category": "science_journals",
+        "question": "Is there an experiment benig done?",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+    },
+    {
         "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
         "category": "shopping",
         "question": "What is going on here?",
         "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
     },
     {
+        "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "category": "shopping",
+        "question": "What is the brand of clothes she is wearing?",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+    },
+    {
         "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
         "category": "travel",
         "question": "What is the location they are at?",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+    },
+    {
+        "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "category": "travel",
+        "question": "What is going on here?",
         "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
     },
     {
@@ -56,6 +80,12 @@
     {
         "filename": "images/social_media/54183.jpg",
         "category": "social_media",
+        "question": "Is the performer in a setting where it seems they would be performing in front of a group of people?",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
+    },
+    {
+        "filename": "images/social_media/54183.jpg",
+        "category": "social_media",
         "question": "If the performer is performing in front of others, how big would the crowd be?",
         "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
     },
@@ -66,9 +96,21 @@
         "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
     },
     {
+        "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "category": "travel",
+        "question": "Do the passengers of the flatboat tour appear to be safe?",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+    },
+    {
         "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
         "category": "shopping",
         "question": "Is the  \"suit\" this person wearing a business suit?",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
+    },
+    {
+        "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "category": "shopping",
+        "question": "What is this \"person\" like? (Age, gender, race, etc)",
         "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
     },
     {
@@ -76,6 +118,30 @@
         "category": "news",
         "question": "What relevance could this picture have to any news?",
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+    },
+    {
+        "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "category": "news",
+        "question": "Is this woman mentioned on the news website in an article?",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+    },
+    {
+        "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "category": "science_journals",
+        "question": "Is anything else in space visible, like a space station or debris?",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+    },
+    {
+        "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+        "category": "shopping",
+        "question": "What kind of landscape is behind them?",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
+    },
+    {
+        "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+        "category": "shopping",
+        "question": "How many people are there and what are they doing?",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
     },
     {
         "filename": "images/travel/30208.jpg",
@@ -162,6 +228,18 @@
         "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
     },
     {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "science_journals",
+        "question": "What is unique about it from other cosmic feaures?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+    },
+    {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "science_journals",
+        "question": "Is it far from our planet?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+    },
+    {
         "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
         "category": "news",
         "question": "Where is this field? ",
@@ -192,6 +270,12 @@
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
     },
     {
+        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "category": "health",
+        "question": "What is the person wearing?",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
+    },
+    {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "category": "shopping",
         "question": "What brand is this image promoting?",
@@ -214,6 +298,12 @@
         "category": "social_media",
         "question": "What color is the ocean water?",
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+    },
+    {
+        "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "category": "travel",
+        "question": "Are there any other creatures or objects present in this photo?",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
     },
     {
         "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
@@ -256,6 +346,18 @@
         "category": "social_media",
         "question": "Are the models who are dressed alike walking as a group or individuals?",
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+    },
+    {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "science_journals",
+        "question": "Does it look like it was shot from Earth or from space?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+    },
+    {
+        "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "category": "travel",
+        "question": "How accessible is the path?",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
     },
     {
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
@@ -357,6 +459,12 @@
         "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
         "category": "news",
         "question": "Is the astronaut with NASA?",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+    },
+    {
+        "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "category": "news",
+        "question": "How old is the image?",
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
     },
     {
@@ -765,6 +873,12 @@
         "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
         "category": "news",
         "question": "What is this man doing?",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+    },
+    {
+        "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "category": "news",
+        "question": "What is the purpose of showing this man?",
         "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
     },
     {
