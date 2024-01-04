@@ -209,6 +209,18 @@ var main_trials = {
             "category": "news",
             "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
             "question": "Is the astronaut with NASA?"
+        },
+        {
+            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+            "category": "shopping",
+            "question": "What style is the model's hair--long, ponytail, etc?",
+            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
+        },
+        {
+            "filename": "images/shopping/4068.jpg",
+            "category": "shopping",
+            "question": "What color is it?",
+            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
         }
     ]
 }
