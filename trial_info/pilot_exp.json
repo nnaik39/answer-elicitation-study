@@ -83,6 +83,324 @@ var main_trials = {
             "category": "news",
             "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
             "question": "What is the weather like in that location? Is it hot or cold?"
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "category": "travel",
+            "question": "Is this a show type of event o a competition? ",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "category": "travel",
+            "question": "Does the background show any sort of landscape, under the cloudy sky?",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "travel",
+            "question": "What ethnicity is this woman?",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "travel",
+            "question": "What is a traditional outfit?",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "category": "social_media",
+            "question": "what does the rider look like?",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "shopping",
+            "question": "Is it really Barack Obama or is it a person that looks like him?",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "question": "Is the picture from the above or underwater perspective?",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "question": "What color is the ocean water?",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+        },
+        {
+            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+            "category": "travel",
+            "question": "Does the stingray look calm or menacing?",
+            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
+        },
+        {
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+            "category": "news",
+            "question": "How many whales are in the image?",
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
+        },
+        {
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+            "category": "news",
+            "question": "Are there adult and baby whales, or only adults?",
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
+        },
+        {
+            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+            "category": "shopping",
+            "question": "What is the general age range of the soccer player?",
+            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+        },
+        {
+            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+            "category": "shopping",
+            "question": "Is the soccer player clean or dirty?",
+            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "social_media",
+            "question": "Is the runway flanked with an audience and photographers?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "social_media",
+            "question": "Are the models who are dressed alike walking as a group or individuals?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "news",
+            "question": "Are there any people or human made structures in the image?",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "news",
+            "question": "Is it day or night in the image?",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+        },
+        {
+            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+            "category": "news",
+            "question": "Is it a dense cluster or more scattered?",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
+        },
+        {
+            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+            "category": "news",
+            "question": "What are the predominant colors?",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "question": "What is his career?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "question": "Is he someone famous?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+        },
+        {
+            "filename": "images/travel/13957.jpg",
+            "category": "news",
+            "question": "Are there things on the ground?",
+            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
+        },
+        {
+            "filename": "images/travel/13957.jpg",
+            "category": "news",
+            "question": "What angle is the camera?",
+            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
+        },
+        {
+            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+            "category": "news",
+            "question": "What do the people look like overall?",
+            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
+        },
+        {
+            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+            "category": "news",
+            "question": "What type of signs are they holding?",
+            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
+        },
+        {
+            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+            "category": "science_journals",
+            "question": "What kind of tree is it?",
+            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+        },
+        {
+            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+            "category": "science_journals",
+            "question": "What kind of gorilla?",
+            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "Is the astronaut with NASA?",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "How old is the image?",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "travel",
+            "question": "What kind of pose are they doing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "travel",
+            "question": "What are they wearing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "question": "Where is the picture taking place?",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "social_media",
+            "question": "Are there any fish in the picture? ",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+        },
+        {
+            "filename": "images/social_media/54183.jpg",
+            "category": "social_media",
+            "question": "Who is the singer?",
+            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
+        },
+        {
+            "filename": "images/social_media/54183.jpg",
+            "category": "social_media",
+            "question": "What is the venue?",
+            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
+        },
+        {
+            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+            "category": "travel",
+            "question": "What color is her hair?",
+            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+        },
+        {
+            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+            "category": "news",
+            "question": "What color is the observatory?",
+            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+        },
+        {
+            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+            "category": "news",
+            "question": "Is there a stage in the photo?",
+            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "question": "What is Obama doing, ",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "question": "Why are the men watching him.",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "Who is the woman in the image?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "In what context was this image captured?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "What era does it look like the dress is from.",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "How old is the woman.",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "question": "What is this man doing?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "question": "What is the purpose of showing this man?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+        },
+        {
+            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+            "category": "news",
+            "question": "How many people are raising their hand?",
+            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
+        },
+        {
+            "filename": "images/travel/26005.jpg",
+            "category": "news",
+            "question": "What types of activities are available at the festival (What is happening in the tents, is there a carnival, etc.)",
+            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+        },
+        {
+            "filename": "images/travel/26005.jpg",
+            "category": "news",
+            "question": "What is the weather like in that location? Is it hot or cold?",
+            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "question": "Where is the corridor?",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "question": "Do the men look mean or nice?",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+            "category": "travel",
+            "question": "What is the location they are at?",
+            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+        },
+        {
+            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+            "category": "travel",
+            "question": "What is going on here?",
+            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
         }
     ]
 }

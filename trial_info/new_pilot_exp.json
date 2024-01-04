@@ -1,18 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/health/Foods_(cropped).jpeg",
-            "category": "shopping",
-            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-            "question": "What kind of nuts are on the surface?"
-        },
-        {
-            "filename": "images/travel/Wdomenada2003b.jpeg",
-            "category": "travel",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-            "question": "Is this something you think I could do with limited sight?"
-        },
-        {
             "filename": "images/travel/37044.jpg",
             "category": "travel",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
@@ -25,18 +13,6 @@
             "question": "How old does the shipwreck look."
         },
         {
-            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-            "category": "travel",
-            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
-            "question": "How large is the tree for scale?"
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "category": "social_media",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-            "question": "How many rolls/cornbread are in the basket?"
-        },
-        {
             "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
             "category": "travel",
             "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
@@ -47,36 +23,6 @@
             "category": "social_media",
             "description": "A bowl of Asian noodle salad with vegetables and herbs.",
             "question": "Is it like a real meal or some meme?"
-        },
-        {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "travel",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-            "question": "What boy of water is this?"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "category": "news",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-            "question": "What is she doing with the lighting equitment?"
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "How shallow is the water that the branch is submerged under?"
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "Is the egg case a certain color with transparency?"
-        },
-        {
-            "filename": "images/travel/26005.jpg",
-            "category": "news",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-            "question": "What is the weather like in that location? Is it hot or cold?"
         }
     ]
 }
