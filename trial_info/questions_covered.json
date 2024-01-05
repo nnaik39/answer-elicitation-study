@@ -464,6 +464,12 @@
     {
         "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
         "category": "travel",
+        "question": "What kind of clothes is the person wearing?",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
+    },
+    {
+        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "category": "travel",
         "question": "What is the nature of the geography around them?",
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
     },
@@ -490,6 +496,12 @@
         "category": "health",
         "question": "What is the build of the woman?",
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop."
+    },
+    {
+        "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "category": "science_journals",
+        "question": "What time of day is it?",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
     },
     {
         "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
@@ -550,6 +562,12 @@
         "category": "science_journals",
         "question": "How did the eruption start?",
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+    },
+    {
+        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "category": "health",
+        "question": "What does the child and adult look like? ",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
     },
     {
         "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
@@ -630,6 +648,12 @@
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
     },
     {
+        "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "category": "social_media",
+        "question": "Is there signage about the marathon?",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
+    },
+    {
         "filename": "images/news/Avalanche_on_Everest.jpeg",
         "category": "science_journals",
         "question": "Is there any man-made objects, like buildings around",
@@ -693,6 +717,12 @@
         "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
         "category": "health",
         "question": "What time of day is it?",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
+    },
+    {
+        "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "category": "health",
+        "question": "Do the people look happy?",
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
     },
     {
@@ -760,6 +790,12 @@
         "category": "health",
         "question": "Is there any fencing?",
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
+    },
+    {
+        "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "category": "social_media",
+        "question": "What color is the water?",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge."
     },
     {
         "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
@@ -898,6 +934,12 @@
         "category": "science_journals",
         "question": "Is the photo a recent scientific discovery?",
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
+    },
+    {
+        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "category": "news",
+        "question": "What is Obama doing, ",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
@@ -1140,6 +1182,12 @@
         "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
     },
     {
+        "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "category": "science_journals",
+        "question": "How long is the tail.",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
+    },
+    {
         "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
         "category": "travel",
         "question": "How old does the shipwreck look.",
@@ -1320,6 +1368,12 @@
         "description": "A group of people sitting a hot tub located"
     },
     {
+        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "category": "travel",
+        "question": "Are there a lot of other people at the waterfall or is it private?",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
+    },
+    {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "category": "news",
         "question": "Where is the corridor?",
@@ -1382,8 +1436,20 @@
     {
         "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
         "category": "social_media",
+        "question": "What's going on? ",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
+    },
+    {
+        "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "category": "social_media",
         "question": "Is any one in trouble? ",
         "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
+    },
+    {
+        "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "category": "travel",
+        "question": "Why are they doing this? ",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
     },
     {
         "filename": "images/shopping/4068.jpg",
@@ -1530,6 +1596,12 @@
         "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
     },
     {
+        "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "category": "news",
+        "question": "Was this picture taken at a game",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+    },
+    {
         "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
         "category": "social_media",
         "question": "Where was this picture taken and what is its significance.",
@@ -1602,6 +1674,12 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
+        "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "category": "travel",
+        "question": "where is it located? ",
+        "description": "A group of people sitting a hot tub located"
+    },
+    {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "science_journals",
         "question": "What is the size of the egg case i.e. how does it compare to the size of a chicken egg?",
@@ -1654,6 +1732,18 @@
         "category": "social_media",
         "question": "What action is the woman performing in the image?",
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "How many people are in the group?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "category": "shopping",
+        "question": "How close is the woman to the red pot?",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
     },
     {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
@@ -1743,6 +1833,12 @@
         "filename": "images/health/Foods_(cropped).jpeg",
         "category": "shopping",
         "question": "What kind of fruits are in the picture?",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
+    },
+    {
+        "filename": "images/health/Foods_(cropped).jpeg",
+        "category": "shopping",
+        "question": "What is the picture representing?",
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
     },
     {
@@ -1932,6 +2028,12 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
     },
     {
+        "filename": "images/health/Foods_(cropped).jpeg",
+        "category": "social_media",
+        "question": "Did they grow those vegetables themselves?",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
+    },
+    {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "science_journals",
         "question": "Why are do we need to tie to a branch?",
@@ -1950,6 +2052,12 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
     },
     {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "how often does it meet",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "science_journals",
         "question": "what is the egg",
@@ -1966,6 +2074,12 @@
         "category": "shopping",
         "question": "What team is being shown?",
         "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+    },
+    {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "news",
+        "question": "What is happening in the news?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
     },
     {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
@@ -2022,6 +2136,12 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs."
     },
     {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "science_journals",
+        "question": "what time of day is it?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+    },
+    {
         "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
         "category": "shopping",
         "question": "what color is the hot air balloon?",
@@ -2056,5 +2176,11 @@
         "category": "travel",
         "question": "Is it erupting?",
         "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "How many people are in the group?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     }
 ]

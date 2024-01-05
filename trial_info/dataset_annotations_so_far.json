@@ -3904,5 +3904,241 @@
             "It is day time.",
             "the time of the day is in the afternoon"
         ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "where is it located? ",
+        "answers": [
+            "In a snowy place",
+            "outdoors somewhere with a cold climate",
+            "It is located in a location that likely gets a fair amount of snow in the winter.",
+            "Out in the snow"
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "science_journals",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "What time of day is it?",
+        "answers": [
+            "",
+            "I don't know",
+            "Most likely noon, as the sun is not in the photo.",
+            "It's uncertain to tell what time of day it is, but it's not dark at all so I'm guessing around noon.",
+            "It appears to be mid day or mid afternoon",
+            "It is Midday"
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "travel",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "What kind of clothes is the person wearing?",
+        "answers": [
+            "They appear to not be wearing clothes, though their lower half is under water so maybe shorts.",
+            "The person is wearing no upper body clothing but the lower body clothing is not shown since it is covered by a body of water. The person could be naked or wearing swimwear.",
+            "He is nude from the top up.",
+            "The person has no shirt or top on",
+            "The person is probably wearing a swimsuit only."
+        ]
+    },
+    {
+        "image": "images/science_journals/Common_stingray_tenerife.jpeg",
+        "context": "science_journals",
+        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
+        "question": "How long is the tail.",
+        "answers": [
+            "",
+            "",
+            "The tail is about the same length as the stingray\u2019s body. Since the average stingray is about 18 inches long, the tail may be about 9 inches long roughly."
+        ]
+    },
+    {
+        "image": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "context": "travel",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
+        "question": "Why are they doing this? ",
+        "answers": [
+            "",
+            "I can't zoom in and make out the signs",
+            "",
+            "demonstration, rally, or similar protest without reference to marching or walking in a picket line or standing in a village.",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "health",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "What does the child and adult look like? ",
+        "answers": [
+            "they are kind of hard to see but they appear to be white",
+            "The child and adult have similar skin color, appear to be Caucasian, and are of an age gap where they could be parent and child.",
+            "They are caucasian males wearing colorful knitted caps, winter jackets and gloves.",
+            "The child and adult are dressed in warm weather clothing and are smiling at each other as they ride their bikes."
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "health",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "Do the people look happy?",
+        "answers": [
+            "",
+            "The group of people has various expressions. Some people in the back are shown to be giggling and look happy while people in the front are shown to have neutral expressions.",
+            "No, they look tired from all the walking",
+            "For the most part. Doing something they enjoy."
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "Did they grow those vegetables themselves?",
+        "answers": [
+            "",
+            "I don't think so",
+            "It is unlikely due to the diverse array of different foods."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "what time of day is it?",
+        "answers": [
+            "It is daytime.",
+            "",
+            "Daytime, it is light outside"
+        ]
+    },
+    {
+        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "context": "news",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+        "question": "Was this picture taken at a game",
+        "answers": [
+            "Yes, it's in a football stadium.",
+            "Yes at a soccer game with people in the background stands.",
+            "Yes, there are people seating the seats in the background."
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "shopping",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "How close is the woman to the red pot?",
+        "answers": [
+            "She is standing in-front of the pot, about two feet.",
+            "She is about a foot away.",
+            "She appears to be about 2 feet from the red pot.",
+            "she is standing right next to it "
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "travel",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "Are there a lot of other people at the waterfall or is it private?",
+        "answers": [
+            "It is private",
+            "Only the man praying can be seen, so it appears very private just him and whoever took the picture of him.",
+            "No others in sight, he's probably alone since he seems to be meditating."
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "social_media",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "What color is the water?",
+        "answers": [
+            "The water is very light blue.",
+            "Light green churning water",
+            "The water appears to be a steely blue color, rather pail with white where the waves are breaking."
+        ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "news",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "What is Obama doing, ",
+        "answers": [
+            "Obama is interlocking his fingers in front of him facing the camera while also having his head slightly down.",
+            "Standing up, hands interlocked in front of his waist",
+            "He is standing with his hands clasped together with other men on either side of him.",
+            "Standing in the middle with his hands together.",
+            "He appears to be standing while watching other people leave the room.",
+            "Standing, while facing the camera, hands folded together in front of him. There are several other politicians in the room."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How many people are in the group?",
+        "answers": [
+            "Ten people are counted in this group from the picture but it's unclear if there's any more. Nine people excluding the instructor. ",
+            "There are 10 people visible or partially visible in the group",
+            "10 people are in the group"
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "shopping",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "What is the picture representing?",
+        "answers": [
+            "This picture is representing an abundance of food that is all healthy. It's a plethora of fruits and vegetables hosting the different colors of the rainbow. ",
+            "A vibrant and diverse assortment of fresh fruits, vegetables, grains, and nuts.  The items are spread on a wooden table and many are falling out of bushel baskets. some of the fruits, like melons are cut open and reveal the juicy fruit and seeds. ",
+            "if you keep fruits in a dry pan, cover it with a lid or another plate and start eating the pan then after some time you can observe water vapour on the lid or on the plate that was used to cover the pan",
+            "The image represents a diverse selection of foods one might find in a well rounded vegan or vegetarian diet."
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "news",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "What is happening in the news?",
+        "answers": [
+            "A new nebula has been found in the night sky",
+            "",
+            "The James Webb telescope just released it's newest images of a deep space nebula."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "how often does it meet",
+        "answers": [
+            "",
+            "It meets every month.",
+            "typically performed in a park or other open space with little development."
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "social_media",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "Is there signage about the marathon?",
+        "answers": [
+            "No there is not ",
+            "There isn's signage that is seeable in the picture. There probably is signage elsewhere though.",
+            "There is no visible signage about the marathon",
+            "No, but everyone is moving together in the same direction and it's not a rally or a protest...no one is holding signs."
+        ]
+    },
+    {
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "context": "social_media",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "What's going on? ",
+        "answers": [
+            "There is a some sort of severe forest fire or brush fire.",
+            "Trees are engulfed in flames.  Since it's on a social media website, it could either be hyperbole or an actual forest fire.",
+            "the orange in a campfire comes not only from the temperature but from the sodium in the firewood"
+        ]
     }
 ]

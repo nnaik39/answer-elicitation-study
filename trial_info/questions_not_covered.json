@@ -180,12 +180,6 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
-        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "category": "travel",
-        "question": "What kind of clothes is the person wearing?",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
         "category": "shopping",
         "question": "What is the photographers expression?",
@@ -196,12 +190,6 @@
         "category": "shopping",
         "question": "What side of the photographer is being shown?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-        "category": "science_journals",
-        "question": "What time of day is it?",
-        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
     },
     {
         "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
@@ -312,12 +300,6 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
     },
     {
-        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-        "category": "health",
-        "question": "What does the child and adult look like? ",
-        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
-    },
-    {
         "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
         "category": "science_journals",
         "question": "What kind of tree is it?",
@@ -358,12 +340,6 @@
         "category": "health",
         "question": "What percentage of gym goers use these machines?",
         "description": "A group of people are working out on indoor rowing machines at a gym."
-    },
-    {
-        "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-        "category": "social_media",
-        "question": "Is there signage about the marathon?",
-        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
     },
     {
         "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
@@ -420,12 +396,6 @@
         "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
     },
     {
-        "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-        "category": "health",
-        "question": "Do the people look happy?",
-        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side."
-    },
-    {
         "filename": "images/travel/2550.jpg",
         "category": "shopping",
         "question": "What is being sold?",
@@ -465,12 +435,6 @@
         "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
         "category": "social_media",
         "question": "how many seals are there?",
-        "description": "A colony of seals lounges on rocky terrain near the water's edge."
-    },
-    {
-        "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-        "category": "social_media",
-        "question": "What color is the water?",
         "description": "A colony of seals lounges on rocky terrain near the water's edge."
     },
     {
@@ -556,12 +520,6 @@
         "category": "science_journals",
         "question": "What does the nebula look like?",
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
-    },
-    {
-        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
-        "category": "news",
-        "question": "What is Obama doing, ",
-        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
@@ -894,12 +852,6 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs."
     },
     {
-        "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-        "category": "science_journals",
-        "question": "How long is the tail.",
-        "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
-    },
-    {
         "filename": "images/social_media/Heidi_Klum4crop.jpeg",
         "category": "news",
         "question": "How old is the woman.",
@@ -1038,12 +990,6 @@
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
     },
     {
-        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "category": "travel",
-        "question": "Are there a lot of other people at the waterfall or is it private?",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "category": "news",
         "question": "Do the men look mean or nice?",
@@ -1126,18 +1072,6 @@
         "category": "social_media",
         "question": "What are the people's facial expressions? ",
         "description": "A group of people are working out on indoor rowing machines at a gym."
-    },
-    {
-        "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-        "category": "social_media",
-        "question": "What's going on? ",
-        "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
-    },
-    {
-        "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
-        "category": "travel",
-        "question": "Why are they doing this? ",
-        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
     },
     {
         "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
@@ -1416,12 +1350,6 @@
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
-        "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-        "category": "news",
-        "question": "Was this picture taken at a game",
-        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
-    },
-    {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "Where was this picture taken.",
@@ -1652,12 +1580,6 @@
     {
         "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
         "category": "travel",
-        "question": "where is it located? ",
-        "description": "A group of people sitting a hot tub located"
-    },
-    {
-        "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-        "category": "travel",
         "question": "How nice is the place?",
         "description": "A group of people sitting a hot tub located"
     },
@@ -1742,12 +1664,6 @@
     {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
-        "question": "How many people are in the group?",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
         "question": "How diverse is the group of people?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
@@ -1767,12 +1683,6 @@
         "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
         "category": "shopping",
         "question": "What race is the woman shown in the sari?",
-        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
-    },
-    {
-        "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
-        "category": "shopping",
-        "question": "How close is the woman to the red pot?",
         "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
     },
     {
@@ -1858,12 +1768,6 @@
         "category": "social_media",
         "question": "Does it look appetizing?",
         "description": "A bowl of Asian noodle salad with vegetables and herbs."
-    },
-    {
-        "filename": "images/health/Foods_(cropped).jpeg",
-        "category": "shopping",
-        "question": "What is the picture representing?",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
     },
     {
         "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
@@ -2126,12 +2030,6 @@
     {
         "filename": "images/health/Foods_(cropped).jpeg",
         "category": "social_media",
-        "question": "Did they grow those vegetables themselves?",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
-    },
-    {
-        "filename": "images/health/Foods_(cropped).jpeg",
-        "category": "social_media",
         "question": "Is it fall out?",
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
     },
@@ -2157,12 +2055,6 @@
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "where is the group",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "question": "how often does it meet",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
     {
@@ -2242,12 +2134,6 @@
         "category": "health",
         "question": "What are they wearing?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-        "category": "news",
-        "question": "What is happening in the news?",
-        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
     },
     {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
@@ -2355,12 +2241,6 @@
         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
         "category": "science_journals",
         "question": "What is he supposed to be shooting?",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "category": "science_journals",
-        "question": "what time of day is it?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
@@ -2517,12 +2397,6 @@
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "Are the people overweight?",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "question": "How many people are in the group?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
     {
