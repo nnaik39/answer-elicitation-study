@@ -54,7 +54,7 @@ for question in all_questions['images']:
     if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
         num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
-#        questions_not_covered.append(question)
+        questions_not_covered.append(question)
         continue 
 
     if (num_answers < 3):

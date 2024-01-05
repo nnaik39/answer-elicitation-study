@@ -4140,5 +4140,318 @@
             "Trees are engulfed in flames.  Since it's on a social media website, it could either be hyperbole or an actual forest fire.",
             "the orange in a campfire comes not only from the temperature but from the sodium in the firewood"
         ]
+    },
+    {
+        "image": "images/travel/37044.jpg",
+        "context": "travel",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "Is the emphasis on the church itself or the island?",
+        "answers": [
+            "The emphasis is one the island. The church is quite small in the imager and hard to make out.",
+            "The island.  ",
+            "The emphasis is on the island."
+        ]
+    },
+    {
+        "image": "images/travel/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "How high is the slope?",
+        "answers": [
+            "There appear to be large mountains in the background so it's likely high altitude, although it's impossible to tell exactly from the image.",
+            "Vey high, you can't see the top or the bottom anymore.",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/2550.jpg",
+        "context": "shopping",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "How many people are using the kayaks.",
+        "answers": [
+            "None.  All the kayaks are stationary on the beach.",
+            "Between 10-20 people are interacting with the kayaks",
+            "",
+            "I don't have an exact number but there are more than 20 people in this picture near the kayaks"
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
+        "context": "health",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "How is it relevant?",
+        "answers": [
+            "Boiling water kill bacteria so it's safe to drink.",
+            "The electric kettle could be used to boil healthy teas such as green tea.",
+            "This is most likely related to an article featuring a recipe or health idea",
+            "A blue colored transparent kettle that can be used for boiling water for coffee, tea, etc",
+            "I think its safer to boil water this way than boiling in a microwave. "
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "social_media",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "Where is this?",
+        "answers": [
+            "Is it in a body of water, possibly a lake.",
+            "The person appears to be on a river but the location is unknown.",
+            "A person is water skiing on a river "
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Can anyone do yoga here?",
+        "answers": [
+            "It seems like you might have to sign up for a class",
+            "The group shown is made up of all females but most likely anyone can practice yoga there though they may need to schedule a different time.",
+            "It appears like many types of people are participating in the yoga."
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "science_journals",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "Did they find anything special. ",
+        "answers": [
+            "",
+            "No observations were reported yet but the laser looks very powerful and very able to detect objects.",
+            "They were able to illuminate a part of the milky way"
+        ]
+    },
+    {
+        "image": "images/travel/26005.jpg",
+        "context": "travel",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+        "question": "How often do they have this?",
+        "answers": [
+            "",
+            "",
+            "Once a year",
+            "A very busy and happening place to enjoy beautiful mountains and greenery. Lots of tourists are visiting this place, "
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "what time of year is it?",
+        "answers": [
+            "spring summer or early fall",
+            "Late Spring or Summer",
+            "It looks like summer."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "What is this image trying to sell, I can't tell?",
+        "answers": [
+            "I can't tell either. Possibly travel site?",
+            "It's not clear what they are advertising by the photo. my guess would be possibly an investment ad or possibly something to do with retirement.",
+            "a hot air balloon trip",
+            "It is trying to sell a hot air balloon ride experience "
+        ]
+    },
+    {
+        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "context": "science_journals",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+        "question": "What does the wreck look like - is it recent or old, what kind of vessel, is it a recovery mission, etc.",
+        "answers": [
+            "The wreck is covered with algae and growth so it would appear to be old.  It is hard to see what kind of vessel it is.",
+            "By the large amount of coral formations and the colors of the wreck, it appears to be a very old ship. ",
+            "It looks to be metal, which means it isn't more than 150 years old",
+            "The vessel is indiscernible as a whole, but it is old and covered in organic sea growth.",
+            "It looks very old based on the coral formations and to be from a major vessel. There's only one diver exploring it by himself. "
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Are there any animals visible?",
+        "answers": [
+            "no animals ",
+            "The camera is aimed outside of the frame, and there are no animals visible in the image.",
+            "No animals are visible in this image"
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Are there people in the hot air balloons?",
+        "answers": [
+            "too far away to tell",
+            "No people are visible in the hot air balloon.",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "What color is the hot tub?",
+        "answers": [
+            "white, wood panel sides",
+            "brown with white insert",
+            "brown is the color",
+            "The hot tub is white and tan",
+            "The color of the hot tub is brown, with the top area being in the white color."
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Are the buildings tall or short?",
+        "answers": [
+            "The buildings appear to be tall with some shorter ones in the image.",
+            "Some are tall, most are short",
+            "It is mix of tall and short building, but most of them are short.",
+            "The buildings are short."
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "travel",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "Why is she wearing a knitted sweater when she's in the desert?",
+        "answers": [
+            "The knitted sweater appears to be well ventend and able to keep her cool.",
+            "To be fashionable",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What type of people are in the group, ie. old vs young, women or men, etc? ",
+        "answers": [
+            "it seems to be all younger women",
+            "women in their mid ages",
+            "Not sure. Appears to be mostly younger women.",
+            "It is a group of women who are from different age groups."
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "science_journals",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "Where was this photo taken?",
+        "answers": [
+            "on the beach",
+            "seals are such cute and fascinating creatures.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "science_journals",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "What volcano erupted?",
+        "answers": [
+            "The specific volcano name isnt available, just a volcano.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "shopping",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "Does the lounge come with any additional pillows or cushions?",
+        "answers": [
+            "It doesnt appear to come with any pillows or cushions.",
+            "No, it does not come with any additional pillows or cushions.",
+            "No, it does not. It is only a lounge without any accessories."
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "Are they scared?",
+        "answers": [
+            "No, they are not scared",
+            "no they are not",
+            "It cannot be determined from this image",
+            "",
+            "They are not scared and seem happy to be cruising.",
+            "does not look like they are scared. "
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Is the mom nearby or is she dead?",
+        "answers": [
+            "",
+            "The mom is probably nearby",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "news",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "Why are these whales newsworthy?",
+        "answers": [
+            "",
+            "they are in a herd",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Why is there a balloon?",
+        "answers": [
+            "There is no obvious reason so it is likely to be an artistic choice.",
+            "It is a hot air balloon that people pay to ride in to see landscapes from a higher elevation.",
+            "It might be a hot balloon attraction activity"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "context": "news",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+        "question": "What is this event?",
+        "answers": [
+            "",
+            "A watch party",
+            "The actual event is not able to be determined.",
+            "Maybe watching a game together"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What is the environment around them like?",
+        "answers": [
+            "The group's environment consists of a river or creek bed in a forested area. The group is seated on a rocky low limestone bank overlooking the water, facing a high bank topped with greenery.",
+            "On an isolated mountain",
+            "They are outdoors and sitting on a large rock that is surrounded by water. There is also a rock wall in front of them. "
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "this woman's green sari is beautiful, isn't it?",
+        "answers": [
+            "The green sari is objectively beautiful, with classic detail and opulent style.",
+            "Yes, quite so.",
+            "Yes, this is a very beautiful sari."
+        ]
     }
 ]
