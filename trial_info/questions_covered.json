@@ -456,6 +456,18 @@
         "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
     },
     {
+        "filename": "images/travel/26005.jpg",
+        "category": "travel",
+        "question": "Where specifically within the destination is this festival occurring?",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+    },
+    {
+        "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "category": "news",
+        "question": "Is he someone famous?",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+    },
+    {
         "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
         "category": "health",
         "question": "How old are the people?",
@@ -514,6 +526,12 @@
         "category": "science_journals",
         "question": "What time of day is it?",
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+    },
+    {
+        "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "category": "shopping",
+        "question": "Why is Obama here?",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
     },
     {
         "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
@@ -768,6 +786,12 @@
         "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
     },
     {
+        "filename": "images/travel/37044.jpg",
+        "category": "science_journals",
+        "question": "What is the weather like?",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+    },
+    {
         "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
         "category": "news",
         "question": "What is the story about?",
@@ -981,6 +1005,12 @@
         "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
         "category": "science_journals",
         "question": "Is the photo a recent scientific discovery?",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
+    },
+    {
+        "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "category": "science_journals",
+        "question": "What does the nebula look like?",
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
     },
     {
@@ -1206,6 +1236,18 @@
         "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
     },
     {
+        "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "category": "travel",
+        "question": "Is this at the hotel or something",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+    },
+    {
+        "filename": "images/news/Astronauts_in_weightlessness.jpeg",
+        "category": "science_journals",
+        "question": "Can the public also do it",
+        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
+    },
+    {
         "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
         "category": "news",
         "question": "Is this guy a celebrity or something",
@@ -1422,6 +1464,12 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
     },
     {
+        "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "category": "health",
+        "question": "Which pillows on which side are the ones with muted colors and floral prints?",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
+    },
+    {
         "filename": "images/travel/30208.jpg",
         "category": "social_media",
         "question": "Are the buildings tall or short?",
@@ -1598,6 +1646,12 @@
     {
         "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
         "category": "health",
+        "question": "Is the sofa nice? ",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
+    },
+    {
+        "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "category": "health",
         "question": "How expensive is it? ",
         "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
     },
@@ -1648,6 +1702,12 @@
         "category": "health",
         "question": "What are they making with the water?",
         "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
+    },
+    {
+        "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "category": "news",
+        "question": "How is this relevant?",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
     },
     {
         "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
@@ -1746,6 +1806,12 @@
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
+        "filename": "images/news/Showjumping_white_horse.jpeg",
+        "category": "social_media",
+        "question": "Is the event in a ring with spectators around it?",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+    },
+    {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "Is an instructor leading the group?",
@@ -1792,6 +1858,12 @@
         "category": "news",
         "question": "Why are they in space?",
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "What type of yoga are they practicing?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
     {
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
@@ -2292,6 +2364,12 @@
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
     },
     {
+        "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "category": "social_media",
+        "question": "where is hte audience",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+    },
+    {
         "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
         "category": "travel",
         "question": "what is the relevance",
@@ -2356,6 +2434,12 @@
         "category": "travel",
         "question": "Is it more like an artistic photo or a promotional one?",
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "Is there any significance to yoga on this page?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
     {
         "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
@@ -2424,6 +2508,12 @@
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
     },
     {
+        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "category": "news",
+        "question": "Are there many branches?",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+    },
+    {
         "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
         "category": "travel",
         "question": "Is there anything in the background?",
@@ -2469,6 +2559,12 @@
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "news",
         "question": "Is the mom nearby or is she dead?",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+    },
+    {
+        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "category": "news",
+        "question": "Is the embryo still alive?",
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
     }
 ]

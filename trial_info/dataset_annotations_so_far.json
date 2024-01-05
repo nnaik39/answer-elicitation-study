@@ -4695,6 +4695,186 @@
             "No, he is not in trouble. ",
             "No, the firefighter doesn't look to be in trouble, but he's helping someone that is in trouble."
         ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "shopping",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "Why is Obama here?",
+        "answers": [
+            "To see a presentation",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "How is this relevant?",
+        "answers": [
+            "Russia placed a titanium flag on the seabed in 2007",
+            "I think it's relevant that it's a marking for the south pole.",
+            "It shows that an American made it to the South Pole."
+        ]
+    },
+    {
+        "image": "images/travel/26005.jpg",
+        "context": "travel",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+        "question": "Where specifically within the destination is this festival occurring?",
+        "answers": [
+            "city streets",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "context": "health",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
+        "question": "Which pillows on which side are the ones with muted colors and floral prints?",
+        "answers": [
+            "Left from the front",
+            "The pillows on the left side of the sofa on floral prints.",
+            "There is one pillow with muted colors and a floral print on each side of the couch."
+        ]
+    },
+    {
+        "image": "images/travel/37044.jpg",
+        "context": "science_journals",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "What is the weather like?",
+        "answers": [
+            "it is clear and sunny",
+            "The weather looks about near perfect. Blue cloudless sky and calm water. Sunny.",
+            "It is sunny and the water is still.",
+            "The weather looks to be clear. Based on what I can see, it looks like clear skies and the water looks calm."
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "travel",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "Is this at the hotel or something",
+        "answers": [
+            "",
+            "",
+            "She is on a beach. There is no hotel in sight.",
+            "It is possible that this image was taken at the beach by the hotel. It could also have been taken on a beach in a coastal town."
+        ]
+    },
+    {
+        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "context": "science_journals",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+        "question": "What does the nebula look like?",
+        "answers": [
+            "It looks like a large pile of dust formed through gravity and gasses. It has orange tones.",
+            "The nebula is bight and has lots of bright shiny stars surrounded by brown colored dust.",
+            "It looks like an ethereal mountain that is light pink and purple. There is gas and dust surrounding it and stars in the background."
+        ]
+    },
+    {
+        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "context": "health",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
+        "question": "Is the sofa nice? ",
+        "answers": [
+            "This is a subjective question, but the sofa appears in good condition.",
+            "Yes it looks comfortable",
+            "Yes, it looks nice. It looks soft and comfortable. It looks comfortable enough to sleep on."
+        ]
+    },
+    {
+        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "context": "news",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+        "question": "Is he someone famous?",
+        "answers": [
+            "The bald man in the picture is famous model and actor",
+            "He looks like he may be, but I am not familiar with him.",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/Astronauts_in_weightlessness.jpeg",
+        "context": "science_journals",
+        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
+        "question": "Can the public also do it",
+        "answers": [
+            "no, special permission from NASA is required",
+            "Anyone can experience this kind of \"no gravity\" on a plane cabin. However, you would have to do your own research on the logistics",
+            "No, it's in space",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Is the embryo still alive?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "social_media",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Is the event in a ring with spectators around it?",
+        "answers": [
+            "Yes, the event has spectators around it.",
+            "",
+            "The event is in a central area, though there is not a distinct ring. There are a few spectators by the horseback rider, but no crowd is visible.",
+            "It is not in a ring and there is only one spectator visible in the photo."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Is there any significance to yoga on this page?",
+        "answers": [
+            "Yes, the yoga has significance as it is what the group is practicing in the image.",
+            "Yoga can be beneficial to physical and mental health",
+            "To become mentally healthy."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Are there many branches?",
+        "answers": [
+            "There are a few branches shown in the picture, I count at least 6.",
+            "Behind the translucent egg case you can see three brown branches. ",
+            "No there are about 4"
+        ]
+    },
+    {
+        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "context": "social_media",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+        "question": "where is hte audience",
+        "answers": [
+            "The audience is positioned along the side of the runway",
+            "It appears they are on the side of the runway.",
+            "They are watching from the right and left of the model walkway."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What type of yoga are they practicing?",
+        "answers": [
+            "",
+            "I am unsure personally but they are all sitting with both arms extended, almost like they are singing YMCA- I hope that might help you.",
+            "It is unclear what type of yoga they are practicing based on the picture. However, the image does show the participants seated cross legged with their arms raised to the sky."
+        ]
     }
-
 ]
