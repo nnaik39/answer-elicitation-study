@@ -2895,5 +2895,309 @@
             "The nebula pictured likely contains many galaxies, but only one nebula is depicted in the foreground.",
             ""
         ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Are they happy?",
+        "answers": [
+            "They are relaxed",
+            "Only the instructor's face is visible, but everyone seems content with being there.",
+            "The group seems to be happy since they seem to be relaxed and in nature.",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "Is there anyone else with her in the picture?",
+        "answers": [
+            "No she is alone",
+            "The woman is alone in the picture.",
+            "no there is not"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What does the group look like--women, men, etc.?",
+        "answers": [
+            "They appear to be a group of women",
+            "Look like there's a ton of women in this photo.",
+            "Women",
+            "women only as far as I can tell"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "is the egg in a zoo?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "Is she in a store?",
+        "answers": [
+            "It's hard to say but doesn't look like it.",
+            "She might be.",
+            "no it looks more like a palace"
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Where is the photographer?",
+        "answers": [
+            "Somewhere out in nature.",
+            "The photographer is in a forest.",
+            "The photographer is outside and appears to be in the woods or a forest. I cannot determine the exact location."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "What is it related to?",
+        "answers": [
+            "It is related to other types of Asian cuisine. It is located likely inside a restaurant.",
+            "It's related to eating an Asian meal",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "shopping",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "What team is being shown?",
+        "answers": [
+            "",
+            "",
+            "Soccer"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How big is the egg case?",
+        "answers": [
+            "The egg case is rather large in the picture",
+            "Pretty big",
+            "The egg case is about the length of someones arm since it is stuck to a branch for reference of size. "
+        ]
+    },
+    {
+        "image": "images/shopping/4068.jpg",
+        "context": "shopping",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
+        "question": "Is the site selling a guitar, medication for arthritis, hand cream, or jewelry?",
+        "answers": [
+            "guitar is what they are selling",
+            "",
+            "It is not possible to tell if the site has any of those other products, but it is definitely selling a guitar on this page."
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "Where is she (geographically)?",
+        "answers": [
+            "I would say southwest asia, maybe India",
+            "I think she might be from India.",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/170px-Baked_goods.jpeg",
+        "context": "health",
+        "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
+        "question": "Are they showing keto recipes?",
+        "answers": [
+            "",
+            "they are probably not showing keto recipes",
+            "Most of the items do not appear to be keto friendly."
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "science_journals",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "is this a farm",
+        "answers": [
+            "",
+            "No. This appears to be a forest.",
+            "No. No crops seem to be present."
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "health",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "What does the city street look like?",
+        "answers": [
+            "Cold and grey",
+            "empty and happy",
+            "The street is lined with parked cars. "
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "social_media",
+        "description": "A group of people sitting a hot tub located",
+        "question": "Is the picture during the daytime or nighttime?",
+        "answers": [
+            "Nighttime picture",
+            "It seems to be night, in a snowy back yard.",
+            "The image looks to be in taken in later in the day, closer to nighttime."
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "news",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "Did they discover a new nebula?",
+        "answers": [
+            "",
+            "",
+            "It doesn't show"
+        ]
+    },
+    {
+        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "context": "news",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+        "question": "Who is number 7",
+        "answers": [
+            "A soccer player",
+            "Number 7 is Christian Ronaldo, who until recently, played for Manchester United.",
+            "Number 7 is a soccer player that is wearing a red outfit and is actively playing soccer. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "science_journals",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "why are there so many seals on the rocky terrain?",
+        "answers": [
+            "THEY ARE ENJOYING THE OUT SODE OF THE SEA LAND ",
+            "",
+            "This appears to be a seal colony."
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "news",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "what was this picture taken with, is it a regular camera, telescope, NASA photo?",
+        "answers": [
+            "",
+            "NASA photo",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+        "context": "travel",
+        "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead.",
+        "question": "Is the image taken by a processional?",
+        "answers": [
+            "",
+            "",
+            "This appears to be a photo taken by an amateur. "
+        ]
+    },
+    {
+        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+        "context": "travel",
+        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+        "question": "What do the signs say?",
+        "answers": [
+            "",
+            "Rainy day with people",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "context": "travel",
+        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
+        "question": "Why is she in the desert?",
+        "answers": [
+            "The woman is on vacation and she is actually on a beach with sand beneath her feet and ocean waves in the background.",
+            "",
+            "",
+            "She is traveling. She is sitting down because she's taking a break from walking."
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "travel",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "What is the climate like--snowy, sunny?",
+        "answers": [
+            "The climate is cold and clear outside with sun in the background",
+            "It's sunny.",
+            "The climate in the image has some snow on the ground, but overall still looks sunny despite the chilly weather. "
+        ]
+    },
+    {
+        "image": "images/shopping/4068.jpg",
+        "context": "health",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
+        "question": "Why is the person playing a guitar?",
+        "answers": [
+            "showcasing fingers on the strings ",
+            "",
+            "Maybe they are a musician.",
+            "Playing a guitar is a hobby and hobbies are good for a healthy lifestyle."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "What is in the dish?",
+        "answers": [
+            "Noodles, lettuce, mushrooms, and carrots.",
+            "Noodles, vegtables, and herbs.",
+            "noodles, vegetables, herbs, spices"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "context": "shopping",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+        "question": "What are they wearing?",
+        "answers": [
+            "They are wearing casual street clothes. Mostly colorful T-shirts and shorts. Some are wearing sandals, while others are wearing sneakers. ",
+            "They are wearing clothes that makes me believe that it's the warmer months of the year or that the place is well-heated.",
+            "Casual clothes, sometimes short pants",
+            "The group seems to be wearing casual clothes, while all are wearing the same lanyard that is rainbow colored. "
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "science_journals",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "Are there any defining landmarks of Earth visible such as a continent?",
+        "answers": [
+            "There looks to be a land below the clouds behind the floating astronaut.",
+            "There are visibly no defining landmarks. The focus of the image seems to be the floating astronaut. ",
+            "No, only ocean and clouds.",
+            "There are the blue oceans and white clouds, unique to Earth in our solar system."
+        ]
     }
 ]

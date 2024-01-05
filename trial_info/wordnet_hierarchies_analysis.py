@@ -5,21 +5,21 @@ import pandas as pd
 import json 
 
 f = open('dataset_annotations_so_far.json')
-
 dataset = json.load(f)
+
 total_answers_per_context = {}
 max_depth_in_context = {}
 avg_depth_in_context = {}
 num_words_per_context = {}
+
+word_depths_each_context = []
 
 for entry in dataset:
     answers = entry['answers']
     context = entry['context']
     
     if (context not in avg_depth_in_context):
-        avg_depth_in_context[context] = 0
-    if (context not in num_words_per_context):
-        num_words_per_context[context] = 0 
+        avg_depth_in_context[context] = []
     
     avg_depth = 0
 
@@ -33,8 +33,8 @@ for entry in dataset:
             if (len(wordnet.synsets(word)) == 0):
                 continue 
             min_depth = wordnet.synsets(word)[0].min_depth()
-            avg_depth_in_context[context] += min_depth
+            
+            avg_depth_in_context[context].append()
             num_words_per_context[context] += 1
 
-    print("Answer ", answer)
-    print("Avg depth ", avg_depth)
+print("Average depth across contexts: ", avg_depth_in_context)
