@@ -7,18 +7,6 @@
             "question": "where is it located? "
         },
         {
-            "filename": "images/social_media/220px-Paljuilua_1.jpeg",
-            "category": "travel",
-            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
-            "question": "What does the rest of the image look like?"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "category": "news",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "question": "What does the american flag mean around the south pole?"
-        },
-        {
             "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
             "category": "science_journals",
             "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
@@ -31,70 +19,10 @@
             "question": "What kind of clothes is the person wearing?"
         },
         {
-            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
-            "category": "news",
-            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
-            "question": "Why are they in space?"
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "How large is the egg case?"
-        },
-        {
             "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
             "category": "science_journals",
             "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
             "question": "How long is the tail."
-        },
-        {
-            "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-            "category": "travel",
-            "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
-            "question": "What is the nature of the geography around them?"
-        },
-        {
-            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-            "category": "science_journals",
-            "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
-            "question": "Can you make out the trees or are they completely engulfed?"
-        },
-        {
-            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
-            "category": "travel",
-            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
-            "question": "What is this location?"
-        },
-        {
-            "filename": "images/health/2456.jpg",
-            "category": "social_media",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "question": "what kind of platform is this"
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-            "category": "news",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-            "question": "Is there a celebration"
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "science_journals",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
-            "question": "How did the eruption start?"
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "category": "social_media",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "question": "Where are the seals located?"
-        },
-        {
-            "filename": "images/shopping/4068.jpg",
-            "category": "shopping",
-            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
-            "question": "Does this website only sell guitars? "
         },
         {
             "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
@@ -103,22 +31,28 @@
             "question": "Why are they doing this? "
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "what is the egg"
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-            "question": "What brand are the clothes?"
-        },
-        {
             "filename": "images/travel/37044.jpg",
             "category": "travel",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
             "question": "Is the emphasis on the church itself or the island?"
+        },
+        {
+            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+            "category": "health",
+            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+            "question": "What does the child and adult look like? "
+        },
+        {
+            "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+            "category": "health",
+            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+            "question": "Do the people look happy?"
+        },
+        {
+            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+            "category": "health",
+            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+            "question": "What does the weather seem like? "
         }
     ]
 }

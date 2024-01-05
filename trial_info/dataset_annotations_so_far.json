@@ -3707,5 +3707,202 @@
             "The pearl of Siberia",
             ""
         ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "travel",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "What does the rest of the image look like?",
+        "answers": [
+            "The hot tub is sitting on top of a trailer with wheels.  There are a series of steps leading up to the top of the hot tub for people to climb into it.  A tall chimney vent extends from the back of the tub, allowing steam to escape.",
+            "there's non descript woods",
+            "The background is covered with trees while what looks like a smokestack is behind the tub most likely adding heat to the water",
+            "There are six people in the hot tub, which is on top of a wooden wheeled stand. Steam is billowing from a pipe connecting to the tub. Thick green grass and trees can be seen in the background.",
+            "it appears to be in a wooded area"
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "What does the american flag mean around the south pole?",
+        "answers": [
+            "It means that an American explorer reached the area and planted the flag.",
+            "a sign to show an American has been there for the first time in history.",
+            "It means that American's have been there. ",
+            "The American flag represents that the Americans determined where the South Pole is, so they place an American flag to mark that spot."
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "Why are they in space?",
+        "answers": [
+            "They are in space because they are an astronaut and their job is to go to space.",
+            "Probably to do a spacewalk or repairs.",
+            "NASA sent them",
+            "The astronaut is likely performing some sort of operation or mission that required them to be outside of their shuttle or space station.  They are likely performing some sort of repair activity or experimenting.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How large is the egg case?",
+        "answers": [
+            "",
+            "",
+            "not very large",
+            "It is hard to gauge scale on the size of the egg case based on the picture, but could be somewhere around 3 to 4 inches long."
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "travel",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "What is the nature of the geography around them?",
+        "answers": [
+            "I can't give you an answer because the photo doesn't show the geography around the person who is meditating.",
+            "Flowing waterfall.",
+            "It is a close up image of the man; you can only see the waterfall and that he is chest deep in water.",
+            "",
+            "There is a waterfall"
+        ]
+    },
+    {
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "context": "science_journals",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "Can you make out the trees or are they completely engulfed?",
+        "answers": [
+            "i can make out trees",
+            "The trees are all engulfed in flames.",
+            "I can make out the trees and they seem completely engulfed to me.",
+            "You can see the sillouette of both, one is on fire and the other appears untouched."
+        ]
+    },
+    {
+        "image": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+        "context": "travel",
+        "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+        "question": "What is this location?",
+        "answers": [
+            "The location looks like Switzerland but I cannot confirm this based on the information I have.",
+            "The location is a hiking trail with no signs or discernable landmarks other than tall evergreen trees and mountains.",
+            "Someplace like the Rocky Mountains. "
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "what kind of platform is this",
+        "answers": [
+            "This is TikTok where people post videos of themselves preparing recipes.",
+            "social media",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "news",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "Is there a celebration",
+        "answers": [
+            "it doesn't look like a celebration",
+            "No there is not a celebration, they are simply posing for a photo before the game has been played. They are not celebrating at all. ",
+            "yes they won something",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "science_journals",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "How did the eruption start?",
+        "answers": [
+            "The eruption starts the belly of the earth, underground.",
+            "from a volcano filling up with pressure",
+            "",
+            "",
+            "an underground volcano broke through the earth"
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "social_media",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "Where are the seals located?",
+        "answers": [
+            "They are on the rocky shore.",
+            "The seals are located on the edge of a beach where they're on rocks that lead out to the water. ",
+            "",
+            "On the banks of a rocky beach. ",
+            "They are on the beach, with the ocean in the background.",
+            "The seals are lounging on a beach directly connected to the ocean.",
+            "The location is a rocky beach. Some seals are on a large underlying rock, whereas others are on top of more surface rocks.",
+            "near the waters edge",
+            "",
+            "the seal are located at the river bank"
+        ]
+    },
+    {
+        "image": "images/shopping/4068.jpg",
+        "context": "shopping",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
+        "question": "Does this website only sell guitars? ",
+        "answers": [
+            "",
+            "no it doesn't .",
+            "",
+            "They could see a variety of instruments",
+            "",
+            "",
+            "This website likely sells guitars, guitar accessories such as picks or slides, and other musical instruments.",
+            "",
+            "yes, it appears so",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "what is the egg",
+        "answers": [
+            "The egg is some type of underwater mammal. It is difficult to tell from the image, but it could be a shark or a sting ray.",
+            "the embryo of an aquatic species, possibly a shark or ray",
+            "The egg likely came from a shark or a ray, which are aquatic species. The yellow egg case contains an embryo, which is somewhat circular and better compared to the egg yolk of a chicken egg.",
+            "The egg looks like that of a shark under water."
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "news",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "What brand are the clothes?",
+        "answers": [
+            "I can not tell what brand the clothes are, but it is clear it is a expensive luxury brand.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "health",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "What time of day is it?",
+        "answers": [
+            "It is daytime; around noon.",
+            "It is daytime between dawn and dusk. The sky is a constant blue and the sun is not rising or setting.",
+            "afternoon or morning",
+            "It is day time.",
+            "the time of the day is in the afternoon"
+        ]
     }
 ]
