@@ -1,1 +1,244 @@
-[]
+[
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How far underwater is the egg?",
+        "answers": [
+            "The egg is completely submerged, but it is impossible to tell how deep the water is.",
+            "Not too far",
+            "",
+            "40 feet under water",
+            "The egg is underwater attached to a branch."
+        ]
+    },
+    {
+        "image": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+        "context": "news",
+        "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
+        "question": "What is the story about?",
+        "answers": [
+            "",
+            "It is about a model that works with a photo studio.",
+            "the modeling business"
+        ]
+    },
+    {
+        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+        "context": "travel",
+        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+        "question": "What are their emotions?",
+        "answers": [
+            "The quality of the picture is not clear but they appear to be calm.",
+            "",
+            "It looks like they are determined. "
+        ]
+    },
+    {
+        "image": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "context": "news",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
+        "question": "what is the building",
+        "answers": [
+            "It looks like a government building.",
+            "it looks like it is a government building ",
+            "Some kind of city hall",
+            "The building looks to be a civic/governmental building since it has an ornate interior with very traditional, classic looking architecture. There are two tiers to the interior in the photo and the protestors are filling both tiers.",
+            "It appears to be the Capitol building."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "Does it look tasty or gross?",
+        "answers": [
+            "I would not want to try it",
+            "Though this is subjective, it looks quite tasty.",
+            "They look tasty",
+            "It doesn't look delicious to me."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "when will it hatch",
+        "answers": [
+            "one month",
+            "",
+            "It won't be for a bit yet as the embryo is not fully developed, I would say at least another week or two."
+        ]
+    },
+    {
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "shopping",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "is the item relevant",
+        "answers": [
+            "Not in current day, it is an antique piece of furniture",
+            "I guess the item's relevance depends on if you're looking for this type of furniture or not. If your style is of this kind, ornate and opulent, then yes, it is relevant",
+            "Yes, if you are shopping for ornate furniture.",
+            "The item is relevant because it is something that one may see on a shopping website.",
+            "Yes, the item is relevant if you're looking to purchase a long, upholstered gold colored seat."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Is an instructor leading the group?",
+        "answers": [
+            "There appears to be an instructor leading the group.",
+            "Yes, there is one instructor facing the rest of the group.",
+            "There is an instructor leading the group.",
+            "Yes, there does appear to be an instructor facing the group, they are copying exactly what that person is doing in there pose. "
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "what is the relevance",
+        "answers": [
+            "This is an example of one of the activities that people can enjoy when traveling.",
+            "This is a tourist attraction.",
+            "The image of a diver shown exploring a shipwreck is relevant because the image is shown on a travel website, and the website wants you to imagine that this could be you if you travelled to the location they are advertising."
+        ]
+    },
+    {
+        "image": "images/shopping/4068.jpg",
+        "context": "shopping",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
+        "question": "Is the guitar for sale? ",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Is he in a dangerous situation?",
+        "answers": [
+            "No he doesn't appear to be in danger.",
+            "Yes, this is a potentially dangerous situation, if the photographer is found out by a harmful animal.",
+            "I cannot say for sure if the photographer is in a dangerous situation, however despite being camouflaged he is out in the open which could make him vulnerable . "
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How old do they look?",
+        "answers": [
+            "The group looks to be in their thirties and forties.",
+            "20s and 30s",
+            "The people practicing yoga look to range from mid 20s to middle aged."
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "travel",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "How many people are in the tub?",
+        "answers": [
+            "There are 6 people in the tub",
+            "Six people are in the tub",
+            "There are 5 people in the hot tub"
+        ]
+    },
+    {
+        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "context": "social_media",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
+        "question": "Who is it?",
+        "answers": [
+            "",
+            "It appears to be a man on water skis",
+            "it is a water skier "
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "health",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "why are they in a line?",
+        "answers": [
+            "They are walking to try to get better health.",
+            "It looks like they are on a group hiking trip. ",
+            "There is a woman at the front of the line using a walking stick and wearing a yellow reflective vest. It appears that she is leading a group of people down a trail. They are in a line so that they all stay together and don't walk off the trail into the grass or woods."
+        ]
+    },
+    {
+        "image": "images/shopping/4068.jpg",
+        "context": "shopping",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
+        "question": "Does this place sell instruments?",
+        "answers": [
+            "Yes, it is a shopping website.",
+            "",
+            "It appears that it does.",
+            "I cannot determine that with certainty based on the image alone, the image is more focused on the hands playing the guitar which suggests it's more a musical performance taking place rather than a place selling instruments."
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "social_media",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "What is the lighting like in the venue?",
+        "answers": [
+            "The lighting is focusing on the models, with the audience being dark and in the shadows.",
+            "",
+            "the lighting is focused on the runway models",
+            "Although the runway is lit fairly brightly, the area where the audience is sitting is dim."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "social_media",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "How much lave is there and how far down the volcano has it reached?",
+        "answers": [
+            "a massive amount of lava",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "what is the topic",
+        "answers": [
+            "A camouflaged photographer taking pictures of animals.",
+            "",
+            "Nature photography"
+        ]
+    },
+    {
+        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "context": "shopping",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+        "question": "What product is this trying to sell?",
+        "answers": [
+            "the images does not indicate which object is for sale",
+            "clothing such as shirts",
+            "clothing; jacket or shirt"
+        ]
+    },
+    {
+        "image": "images/science_journals/Wildland_Firefighter.jpeg",
+        "context": "news",
+        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
+        "question": "Is he in trouble? ",
+        "answers": [
+            "",
+            "No, he is not in trouble. ",
+            "No, the firefighter doesn't look to be in trouble, but he's helping someone that is in trouble."
+        ]
+    }
+]
