@@ -1,34 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "What color is the egg?"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "category": "shopping",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-            "question": "What race is the model?"
-        },
-        {
             "filename": "images/social_media/Heidi_Klum4crop.jpeg",
             "category": "news",
             "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
             "question": "In what context was this image captured?"
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-            "question": "What ethnicity is the woman?"
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-            "question": "where is this kettle plugged into?"
         },
         {
             "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
@@ -43,46 +19,10 @@
             "question": "Why type of group is it, mostly female or male and also age specific?"
         },
         {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "news",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
-            "question": "where was the game"
-        },
-        {
             "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
             "category": "social_media",
             "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
             "question": "what is the subject"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "Is the photographer in a regular forest or in a jungle?"
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "category": "health",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-            "question": "How many rolls are there?"
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-            "category": "shopping",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-            "question": "whats the team name"
-        },
-        {
-            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-            "category": "social_media",
-            "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
-            "question": "How big is the fire?"
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "news",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
-            "question": "Are there any buildings or structures in the photo?"
         },
         {
             "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
@@ -95,12 +35,6 @@
             "category": "shopping",
             "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
             "question": "Are there any other people in the image?"
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "question": "Where are they at"
         },
         {
             "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
@@ -121,28 +55,10 @@
             "question": "Is there anything else in the building?"
         },
         {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "category": "news",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-            "question": "When was this photo taken?"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "is there a local class?"
-        },
-        {
             "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
             "category": "travel",
             "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
             "question": "Where are these temples located?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "what is the subject"
         },
         {
             "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
@@ -151,40 +67,10 @@
             "question": "Is this an adverstisment?"
         },
         {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "What are they wearing?"
-        },
-        {
-            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
-            "category": "news",
-            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-            "question": "Where is the fire? "
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "category": "science_journals",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-            "question": "how friendly are these seals on the water's edge?"
-        },
-        {
             "filename": "images/travel/30208.jpg",
             "category": "social_media",
             "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
             "question": "Is the city busy or empty?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "What are they shooting?"
-        },
-        {
-            "filename": "images/health/2456.jpg",
-            "category": "social_media",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "question": "What is the caption or description below the image?"
         },
         {
             "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
@@ -193,28 +79,10 @@
             "question": "What type of signs are they holding?"
         },
         {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-            "category": "shopping",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-            "question": "If the dress is for sale, what brand, model, etc.?"
-        },
-        {
             "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
             "category": "health",
             "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
             "question": "what time of day is it in the pic?"
-        },
-        {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-            "category": "travel",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-            "question": "How blue is the water?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "What is the photographer trying to photograph?"
         },
         {
             "filename": "images/travel/30208.jpg",
@@ -227,36 +95,6 @@
             "category": "news",
             "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
             "question": "Is it day or night in the image?"
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "question": "who is the model"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "Are the people on the grass?"
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "shopping",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-            "question": "How tall is the guy?"
-        },
-        {
-            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
-            "category": "travel",
-            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-            "question": "What season is this?"
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-            "question": "What sort of people are they?"
         },
         {
             "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
@@ -275,18 +113,6 @@
             "category": "news",
             "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
             "question": "How old is the woman."
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-            "category": "news",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-            "question": "Did the team win a championship?"
-        },
-        {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-            "category": "travel",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-            "question": "How close is the person to the water?"
         },
         {
             "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
@@ -323,12 +149,6 @@
             "category": "news",
             "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
             "question": "What colors are present in this image?"
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "shopping",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-            "question": "Is this an advertisement?"
         }
     ]
 }
