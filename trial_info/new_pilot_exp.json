@@ -1,94 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-            "category": "health",
-            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-            "question": "What does the weather seem like? "
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "How is the weather?"
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-            "question": "how does the kettle work, are there temperature settings"
-        },
-        {
-            "filename": "images/health/Foods_(cropped).jpeg",
-            "category": "social_media",
-            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-            "question": "Is it fall out?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "Does it show what he's shooting?"
-        },
-        {
             "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
             "category": "shopping",
             "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
             "question": "What is the site trying to sell?"
-        },
-        {
-            "filename": "images/travel/2550.jpg",
-            "category": "shopping",
-            "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
-            "question": "What is being sold?"
-        },
-        {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "category": "science_journals",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-            "question": "When are they returning?"
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "news",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
-            "question": "Are there any people in the photo?"
-        },
-        {
-            "filename": "images/travel/30208.jpg",
-            "category": "travel",
-            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-            "question": "What is there to do there?"
-        },
-        {
-            "filename": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
-            "category": "travel",
-            "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
-            "question": "is this a forest"
-        },
-        {
-            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
-            "category": "news",
-            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
-            "question": "What is the crowd there for?"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "How diverse is the group of people?"
-        },
-        {
-            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-            "category": "travel",
-            "description": "A group of people sitting a hot tub located",
-            "question": "Where are they currently at?"
-        },
-        {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "shopping",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
-            "question": "Is there a game going on"
         },
         {
             "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
@@ -107,60 +23,6 @@
             "category": "shopping",
             "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
             "question": "is the person male or female?"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "category": "travel",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "question": "what time of year is it"
-        },
-        {
-            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
-            "category": "news",
-            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-            "question": "What organization do the blue uniforms represent?"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "how much is it?"
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "question": "What color are her eyes?"
-        },
-        {
-            "filename": "images/social_media/54183.jpg",
-            "category": "social_media",
-            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
-            "question": "What type of music does she sing?"
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "Did they discover a new species?"
-        },
-        {
-            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-            "category": "travel",
-            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-            "question": "who took the photo"
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-            "category": "shopping",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-            "question": "What players are in the photo?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "What type of setting is he trying to blend in with?"
         },
         {
             "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",

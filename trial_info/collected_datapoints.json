@@ -1,183 +1,284 @@
 [
     {
-        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "health",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "What does the weather seem like? ",
+        "answers": [
+            "The sun is shining on the buildings in the background, but they are in the shade between buildings. It is cold, based on how they are dressed.",
+            "Because the child and adult are wearing knitted hats and padded jackets, it can be determined that the weather is cold.",
+            "The weather seems cold, but still enjoyable.",
+            "The two people are wearing jackets and gloves as well as knitted hats. I the corner of the photo very small patches office can be seen near cars. The weather seems cold."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How is the weather?",
+        "answers": [
+            "partly to mostly cloudy and relatively warm",
+            "comfortable, dry, maybe cloudy",
+            "The weather is mostly clear and sunny. ",
+            "The weather is calm.",
+            "Appears to be a cloudy day, though not raining."
+        ]
+    },
+    {
+        "image": "images/shopping/Electric_kettle.jpeg",
         "context": "shopping",
-        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
-        "question": "Why is Obama here?",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "how does the kettle work, are there temperature settings",
         "answers": [
-            "To see a presentation",
+            "The kettle works by filling it's basin, plugging it in and heating the water.  The kettle can only be seen from the side but it appears that there are buttons and controls on both the top of the kettle and the lower handle which is on the right in the picture.",
+            "The kettle is electric and is plugged into an outlet. It turns on with a switch. There are no temperature settings. It heats water to boiling and then automatically shuts off.",
+            "I cannot see the settings but it appears that they have them",
+            "There is a switch by the handle to turn the unit off and on with and to control the temperature settings. ",
+            "Though not clearly shown, it's electric and appears to have settings near the handle."
+        ]
+    },
+    {
+        "image": "images/health/Foods_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
+        "question": "Is it fall out?",
+        "answers": [
             "",
-            "",
-            ""
+            "No, it is not fall out.",
+            "It is not fall. It appears to have a variety of fruits and vegetables from a variety of different seasons. ",
+            "It is not possible to tell."
         ]
     },
     {
-        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
-        "context": "news",
-        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
-        "question": "How is this relevant?",
-        "answers": [
-            "Russia placed a titanium flag on the seabed in 2007",
-            "I think it's relevant that it's a marking for the south pole.",
-            "It shows that an American made it to the South Pole."
-        ]
-    },
-    {
-        "image": "images/travel/26005.jpg",
-        "context": "travel",
-        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-        "question": "Where specifically within the destination is this festival occurring?",
-        "answers": [
-            "city streets",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
-        "context": "health",
-        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
-        "question": "Which pillows on which side are the ones with muted colors and floral prints?",
-        "answers": [
-            "Left from the front",
-            "The pillows on the left side of the sofa on floral prints.",
-            "There is one pillow with muted colors and a floral print on each side of the couch."
-        ]
-    },
-    {
-        "image": "images/travel/37044.jpg",
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
         "context": "science_journals",
-        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-        "question": "What is the weather like?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Does it show what he's shooting?",
         "answers": [
-            "it is clear and sunny",
-            "The weather looks about near perfect. Blue cloudless sky and calm water. Sunny.",
-            "It is sunny and the water is still.",
-            "The weather looks to be clear. Based on what I can see, it looks like clear skies and the water looks calm."
+            "it does not",
+            "The image does not show what the photographer is shooting.",
+            "No it does not",
+            "No it doesn't",
+            "No, it does not."
         ]
     },
     {
-        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
-        "context": "travel",
-        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
-        "question": "Is this at the hotel or something",
+        "image": "images/travel/2550.jpg",
+        "context": "shopping",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "What is being sold?",
         "answers": [
-            "",
-            "",
-            "She is on a beach. There is no hotel in sight.",
-            "It is possible that this image was taken at the beach by the hotel. It could also have been taken on a beach in a coastal town."
-        ]
-    },
-    {
-        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
-        "context": "science_journals",
-        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
-        "question": "What does the nebula look like?",
-        "answers": [
-            "It looks like a large pile of dust formed through gravity and gasses. It has orange tones.",
-            "The nebula is bight and has lots of bright shiny stars surrounded by brown colored dust.",
-            "It looks like an ethereal mountain that is light pink and purple. There is gas and dust surrounding it and stars in the background."
-        ]
-    },
-    {
-        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
-        "context": "health",
-        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
-        "question": "Is the sofa nice? ",
-        "answers": [
-            "This is a subjective question, but the sofa appears in good condition.",
-            "Yes it looks comfortable",
-            "Yes, it looks nice. It looks soft and comfortable. It looks comfortable enough to sleep on."
-        ]
-    },
-    {
-        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-        "context": "news",
-        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-        "question": "Is he someone famous?",
-        "answers": [
-            "The bald man in the picture is famous model and actor",
-            "He looks like he may be, but I am not familiar with him.",
-            ""
+            "The experience of going kayaking",
+            "beautiful kayaks",
+            "Canoes and floating devices"
         ]
     },
     {
         "image": "images/news/Astronauts_in_weightlessness.jpeg",
         "context": "science_journals",
         "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
-        "question": "Can the public also do it",
+        "question": "When are they returning?",
         "answers": [
-            "no, special permission from NASA is required",
-            "Anyone can experience this kind of \"no gravity\" on a plane cabin. However, you would have to do your own research on the logistics",
-            "No, it's in space",
+            "",
+            "after the ",
             ""
         ]
     },
     {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
         "context": "news",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Is the embryo still alive?",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "Are there any people in the photo?",
         "answers": [
-            "",
-            "",
-            ""
+            "No. There are no people in the photo.",
+            "No there are not",
+            "There are no people in the photo.",
+            "No, there are no people."
         ]
     },
     {
-        "image": "images/news/Showjumping_white_horse.jpeg",
-        "context": "social_media",
-        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
-        "question": "Is the event in a ring with spectators around it?",
+        "image": "images/travel/30208.jpg",
+        "context": "travel",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "What is there to do there?",
         "answers": [
-            "Yes, the event has spectators around it.",
             "",
-            "The event is in a central area, though there is not a distinct ring. There are a few spectators by the horseback rider, but no crowd is visible.",
-            "It is not in a ring and there is only one spectator visible in the photo."
+            "",
+            "Their could be an endless number of activities to do in this city.",
+            "Observe historical architecture, museums and local culture."
+        ]
+    },
+    {
+        "image": "images/health/Walking_for_Health_in_Epsom-5Aug2009_(3).jpeg",
+        "context": "travel",
+        "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
+        "question": "is this a forest",
+        "answers": [
+            "It looks like it is a clearing near a forest but not inside a forest per se.",
+            "There is a forest. There are many trees and grass surrounding the trail. ",
+            "It appears to be on the edge of the forest or wooded area"
+        ]
+    },
+    {
+        "image": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "context": "news",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
+        "question": "What is the crowd there for?",
+        "answers": [
+            "The crowd is there for a protest. It is not clear what the protest is about.",
+            "To protest or stand up for something.",
+            "The crowd is there to protest. There are many people holding signs. ",
+            "A protest or some event",
+            "",
+            "the crowd was there for a protest",
+            "A large group of people are gathered in a public building. Many are holding signs."
         ]
     },
     {
         "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "Is there any significance to yoga on this page?",
+        "question": "How diverse is the group of people?",
         "answers": [
-            "Yes, the yoga has significance as it is what the group is practicing in the image.",
-            "Yoga can be beneficial to physical and mental health",
-            "To become mentally healthy."
+            "not very diverse at all",
+            "not very diverse if i am being honest",
+            "Not very diverse, all full body participants appear to beCaucasian, the only exception is there is one arm that has darker skin color that can be seen on the right hand side of the image. "
         ]
     },
     {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "news",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Are there many branches?",
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "Where are they currently at?",
         "answers": [
-            "There are a few branches shown in the picture, I count at least 6.",
-            "Behind the translucent egg case you can see three brown branches. ",
-            "No there are about 4"
+            "somewhere snowy in a hot tub",
+            "This family is hanging out at a ski resort.",
+            "They are somewhere cold as snow is seen surrounding the hot tub. Trees can be seen in the background."
+        ]
+    },
+    {
+        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "context": "shopping",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
+        "question": "Is there a game going on",
+        "answers": [
+            "yes a soccer game",
+            "Yes, there is a soccer game going on",
+            "There is a soccer game going on with Reynaldo playing. ",
+            "While no other players are seen, there is a small crowd watching in the background. It is likely, although not 100 percent, that a game is going on."
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "what time of year is it",
+        "answers": [
+            "winter",
+            "It is winter",
+            "",
+            "this is january 2024"
+        ]
+    },
+    {
+        "image": "images/news/Astronauts_in_weightlessness.jpeg",
+        "context": "news",
+        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
+        "question": "What organization do the blue uniforms represent?",
+        "answers": [
+            "",
+            "nasa it seems",
+            "They appear to be from NASA"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "how much is it?",
+        "answers": [
+            "",
+            "",
+            "",
+            "",
+            "no amount stated",
+            ""
         ]
     },
     {
         "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
         "context": "social_media",
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-        "question": "where is hte audience",
+        "question": "What color are her eyes?",
         "answers": [
-            "The audience is positioned along the side of the runway",
-            "It appears they are on the side of the runway.",
-            "They are watching from the right and left of the model walkway."
+            "Brown eyes",
+            "The model in the image is too far away to discern what color eyes she has. ",
+            "Her eyes are brown",
+            "Brown eyes",
+            "Her eyes are brown",
+            "from the image her eyes are white and she's beautiful and astonishing. she's an amazing model",
+            "The eyes of the model are a dark color, perhaps brown."
         ]
     },
     {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What type of yoga are they practicing?",
+        "image": "images/social_media/54183.jpg",
+        "context": "social_media",
+        "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
+        "question": "What type of music does she sing?",
+        "answers": [
+            "loud vocals, beautiful woman voice, upbeat",
+            "From the image alone you would not be able to discern what type of music she sings, unless you knew",
+            "She sings pop and R&B music.",
+            "Primarily pop music."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Did they discover a new species?",
         "answers": [
             "",
-            "I am unsure personally but they are all sitting with both arms extended, almost like they are singing YMCA- I hope that might help you.",
-            "It is unclear what type of yoga they are practicing based on the picture. However, the image does show the participants seated cross legged with their arms raised to the sky."
+            "",
+            "No, they are just unsure what it is in the moment.",
+            "They did not discover a new species. It appears to be a shark or ray. ",
+            "no they did not",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "travel",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "who took the photo",
+        "answers": [
+            "",
+            "",
+            "",
+            "A local traveler."
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "shopping",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "What players are in the photo?",
+        "answers": [
+            "",
+            "The Argentinian national team and famous soccer player Messi.",
+            "Soccer players for the blue striped team.",
+            "The photo shows the Argentina national team."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What type of setting is he trying to blend in with?",
+        "answers": [
+            "He is in a wooded area with tall grass, bushes, and trees. ",
+            "The photographer is trying to blend in with a grassy setting, so that his subjects can't see him observing them.",
+            "It appears that he's in a wooded or jungle setting."
         ]
     }
 ]

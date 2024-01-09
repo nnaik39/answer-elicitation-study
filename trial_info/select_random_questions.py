@@ -18,7 +18,7 @@ contexts = ['health', 'social_media', 'science_journals', 'shopping', 'news', 't
 list_of_chosen_questions = []
 
 for context in contexts:
-    list_of_chosen_questions.extend(random.sample(questions_per_context[context], 10))
+    list_of_chosen_questions.extend(random.sample(questions_per_context[context], 16))
 
 with open("new_questions.json", "w") as f:
     f.write(json.dumps(list_of_chosen_questions, indent = 4))
