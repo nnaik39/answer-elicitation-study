@@ -42,6 +42,12 @@
         "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
     },
     {
+        "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "category": "science_journals",
+        "question": "What is the gorilla's name?",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+    },
+    {
         "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
         "category": "shopping",
         "question": "What is going on here?",
@@ -282,6 +288,12 @@
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
     },
     {
+        "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "category": "science_journals",
+        "question": "Are any people present in the picture?",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
+    },
+    {
         "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
         "category": "news",
         "question": "What colors are present in this image?",
@@ -512,6 +524,12 @@
     {
         "filename": "images/travel/26005.jpg",
         "category": "travel",
+        "question": "What is the destination?",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+    },
+    {
+        "filename": "images/travel/26005.jpg",
+        "category": "travel",
         "question": "Where specifically within the destination is this festival occurring?",
         "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
     },
@@ -672,6 +690,12 @@
         "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
     },
     {
+        "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "category": "social_media",
+        "question": "How rich are these people?",
+        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
+    },
+    {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
         "category": "science_journals",
         "question": "What is the name of this nebula?",
@@ -694,6 +718,12 @@
         "category": "travel",
         "question": "Is the sand and ocean water clean?",
         "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around."
+    },
+    {
+        "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "category": "shopping",
+        "question": "What color are his eyes?",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
     },
     {
         "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
@@ -723,6 +753,12 @@
         "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
         "category": "health",
         "question": "What does the city street look like?",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
+        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "category": "health",
+        "question": "How old is the child?",
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
     },
     {
@@ -915,6 +951,12 @@
         "filename": "images/shopping/4068.jpg",
         "category": "health",
         "question": "Why is the person playing a guitar?",
+        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
+    },
+    {
+        "filename": "images/shopping/4068.jpg",
+        "category": "health",
+        "question": "Is the person old, young, healthy, or sick?",
         "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
     },
     {
@@ -1286,6 +1328,12 @@
     {
         "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
         "category": "travel",
+        "question": "Why is this on a travel website.",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
+    },
+    {
+        "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "category": "travel",
         "question": "Do they want me to travel to an indoor rally? ",
         "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
     },
@@ -1324,6 +1372,12 @@
         "category": "science_journals",
         "question": "Who is in the image? Neil Armstrong?",
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+    },
+    {
+        "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "category": "news",
+        "question": "Did we discover something?",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
     },
     {
         "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
@@ -1688,6 +1742,12 @@
     {
         "filename": "images/travel/30208.jpg",
         "category": "social_media",
+        "question": "what historic buildings",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+    },
+    {
+        "filename": "images/travel/30208.jpg",
+        "category": "social_media",
         "question": "how high is the aerial view",
         "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
     },
@@ -1720,6 +1780,12 @@
         "category": "social_media",
         "question": "What city is it.",
         "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+    },
+    {
+        "filename": "images/health/2456.jpg",
+        "category": "health",
+        "question": "How many calories are in the salad.",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs."
     },
     {
         "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
@@ -1774,6 +1840,12 @@
         "category": "health",
         "question": "Are they happy?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+        "category": "travel",
+        "question": "Are they smiling?",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
     },
     {
         "filename": "images/social_media/220px-Paljuilua_1.jpeg",
@@ -2048,6 +2120,12 @@
     {
         "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
         "category": "travel",
+        "question": "What is the location of the waterfall?",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
+    },
+    {
+        "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
+        "category": "travel",
         "question": "Is it sunny?",
         "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
     },
@@ -2218,6 +2296,12 @@
         "category": "shopping",
         "question": "If the dress is for sale, what brand, model, etc.?",
         "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+    },
+    {
+        "filename": "images/travel/13957.jpg",
+        "category": "social_media",
+        "question": "How does this image relate to the site?",
+        "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
     },
     {
         "filename": "images/travel/13957.jpg",
@@ -2448,6 +2532,12 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
+        "filename": "images/travel/37044.jpg",
+        "category": "travel",
+        "question": "Where is the island?",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+    },
+    {
         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
         "category": "science_journals",
         "question": "Where was the photo taken?",
@@ -2486,6 +2576,12 @@
     {
         "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
         "category": "social_media",
+        "question": "Is this an adverstisment?",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
+    },
+    {
+        "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "category": "social_media",
         "question": "Where was this picture taken and what is its significance.",
         "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
     },
@@ -2517,6 +2613,12 @@
         "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
         "category": "shopping",
         "question": "What are they selling?",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
+    },
+    {
+        "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "category": "shopping",
+        "question": "What does the shipwreck have to do with it?",
         "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
     },
     {
@@ -2608,6 +2710,12 @@
         "category": "health",
         "question": "Can anyone do yoga here?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/shopping/Electric_kettle.jpeg",
+        "category": "shopping",
+        "question": "Would you buy this?",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
     },
     {
         "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
@@ -2810,6 +2918,12 @@
     {
         "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
         "category": "shopping",
+        "question": "What race is the woman shown in the sari?",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
+    },
+    {
+        "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "category": "shopping",
         "question": "How close is the woman to the red pot?",
         "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
     },
@@ -2952,6 +3066,12 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
     },
     {
+        "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "category": "social_media",
+        "question": "Are there other models behind her?",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+    },
+    {
         "filename": "images/health/2456.jpg",
         "category": "social_media",
         "question": "What is in the dish?",
@@ -2974,6 +3094,18 @@
         "category": "travel",
         "question": "How blue is the water?",
         "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "Do they seem happy?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "news",
+        "question": "Was there a new breakthrough in space tech?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
     },
     {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
@@ -3162,6 +3294,12 @@
         "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
     },
     {
+        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "category": "science_journals",
+        "question": "Are there other organisms near the egg or is it alone on the branch?",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+    },
+    {
         "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
         "category": "social_media",
         "question": "How tall is the model?",
@@ -3184,6 +3322,12 @@
         "category": "travel",
         "question": "Are there other people around on the city street?",
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
+        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "category": "news",
+        "question": "What is surrounding the nebula?",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
     },
     {
         "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
@@ -3368,6 +3512,12 @@
     {
         "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
         "category": "news",
+        "question": "why do you like soccer",
+        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+    },
+    {
+        "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+        "category": "news",
         "question": "where was the game",
         "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
     },
@@ -3462,6 +3612,18 @@
         "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
     },
     {
+        "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "category": "shopping",
+        "question": "Is it a trendy, formal or causal look being displayed?",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+    },
+    {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "science_journals",
+        "question": "Are there any signs of wildlife around?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+    },
+    {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "Why type of group is it, mostly female or male and also age specific?",
@@ -3484,6 +3646,12 @@
         "category": "travel",
         "question": "Is it more like an artistic photo or a promotional one?",
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "Is it advertising a product?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
     {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
