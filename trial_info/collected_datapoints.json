@@ -1,217 +1,69 @@
 [
     {
-        "image": "images/shopping/4068.jpg",
-        "context": "health",
-        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
-        "question": "What does this have to do with a health website.",
-        "answers": [
-            "",
-            "to relieve stress",
-            "maybe to do with arthritis or other complications than can arise from playing the guitar"
-        ]
-    },
-    {
-        "image": "images/health/Foods_(cropped).jpeg",
-        "context": "social_media",
-        "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
-        "question": "who is selling them?",
-        "answers": [
-            "",
-            "This sold in produce store. Sold in vegetable and fruits supermarket. Also in local farmers market.",
-            ""
-        ]
-    },
-    {
-        "image": "images/shopping/Astrid_Andersen_01.jpeg",
-        "context": "news",
-        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-        "question": "How large is the runway?",
-        "answers": [
-            "The runway is very narrow. ",
-            "The runway appears to be approximately forty to fifty feet long in the photo.  ",
-            "It is the floor between two row of inner facing seats.",
-            "I cannot tell how long it is, but it is very narrow."
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "where is the group located",
-        "answers": [
-            "They're on a rocky plateau over looking a river",
-            "The groups is located outside by a lake.",
-            "The group is located along a river at the base of a cliff.",
-            "The group is located on a large rock, surrounded by rock foundations."
-        ]
-    },
-    {
-        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-        "context": "news",
-        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
-        "question": "Where is this event held?",
-        "answers": [
-            "This is being held in an auditorium",
-            "unable to determine",
-            "It is held in a large room like a conference center."
-        ]
-    },
-    {
-        "image": "images/social_media/Heidi_Klum4crop.jpeg",
-        "context": "shopping",
-        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-        "question": "What kind of dress is she wearing?",
-        "answers": [
-            "She is wearing a red spaghetti top dress.",
-            "The woman is wearing a bright red dress over a black top. Her shoulders are exposed except for the straps of the dress.",
-            "red spaghetti strapped dress."
-        ]
-    },
-    {
-        "image": "images/health/2456.jpg",
-        "context": "social_media",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-        "question": "What vegetables?",
-        "answers": [
-            "Broccoli and mushrooms, along with possibly carrots and red peppers.",
-            "Broccoli, carrots, and spinach are the most visible vegetables in this picture. There may be more vegetables in the dish that are not seen explictly.  ",
-            "",
-            "Greens and peppers",
-            "The vegetables on the plate look to be parsley, onions, kale, and shredded strips of red pepper."
-        ]
-    },
-    {
-        "image": "images/travel/Wdomenada2003b.jpeg",
-        "context": "shopping",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
-        "question": "Are these people men or women?",
-        "answers": [
-            "There is a man and a women on the ski slope.  ",
-            "Men and women",
-            "It appears to be a man and a woman.",
-            "For me one looks like a man and the other a woman",
-            ""
-        ]
-    },
-    {
-        "image": "images/travel/30208.jpg",
-        "context": "travel",
-        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-        "question": "what are the stories behind this historic beautiful building?",
-        "answers": [
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-        "context": "social_media",
-        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-        "question": "Where is this",
-        "answers": [
-            "",
-            "it is unknown",
-            "This is somewhere with an arid landscape.",
-            ""
-        ]
-    },
-    {
         "image": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-        "context": "travel",
+        "context": "health",
         "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-        "question": "What location is this person in?",
+        "question": "Where does the beach appear to be located?",
         "answers": [
             "",
-            "This person is in a beach location, directly by the water, but it is unclear where the specific location is.",
+            "The beach appears to be by an ocean rather than a lake and given how there is only sand on the beach and no rocks or other features, I believe the beach is located somewhere on the west coast of the United States.",
+            "On the East Coast.",
+            "The beach appears to be located on the east coast as the sun rises, or it could be on the west coast as the sun sets."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "context": "travel",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
+        "question": "What does the scenery around the gorilla look like?",
+        "answers": [
+            "it looks like the gorilla is in the jungle",
             "",
-            "I cannot tell from the picture where the person is"
+            "",
+            "The gorilla is in a forest, with green trees surrounding it.",
+            "it is a close up shot, but we can see that there are trees/forest in the background.",
+            "There isn't much scenery visible, but there is some green and brown in the background that appear to be trees",
+            "the scenario looks like a jungle",
+            "it looks like he is near a tree"
         ]
     },
     {
         "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "Is this a class in my area?",
+        "question": "How many people?",
         "answers": [
-            "It will depend on where you live.",
-            "",
-            ""
+            "10 people.",
+            "There are 10 people visible.",
+            "There are ten people in the image, including the instructor.",
+            "there appears to be one leader and at least 9 students"
         ]
     },
     {
-        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
-        "context": "news",
-        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
-        "question": "what does this have to do with news?",
-        "answers": [
-            "",
-            "",
-            "Presumably there is a recent development regarding astronomy",
-            "We, as the human race, are constantly developing outward and upward. The project at this observatory must be quite groundbreaking and noteworthy to make it into the mainstream news.",
-            "maybe it's a new science invention that will help us improve understanding or something along those lines"
-        ]
-    },
-    {
-        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
-        "context": "science_journals",
-        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
-        "question": "What is this location?",
-        "answers": [
-            "",
-            "a person swimming in the ocean or deep sea with gear used to help them breath ",
-            "This is located in the ocean",
-            "The location is in the shallow waters of an ocean like the pacific. "
-        ]
-    },
-    {
-        "image": "images/news/Avalanche_on_Everest.jpeg",
-        "context": "travel",
-        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
-        "question": "Where is it?",
-        "answers": [
-            "The top of a nearby mountain.",
-            "",
-            "",
-            "It is by a mountain."
-        ]
-    },
-    {
-        "image": "images/health/2456.jpg",
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
         "context": "health",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-        "question": "What country is the salad from.",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "Are the patrons staring at her?",
         "answers": [
-            "",
-            "",
-            "",
-            "It's hard to tell from the image alone.  I would say that it looks like maybe south korean cuisine"
+            "They don't appear to be, but they are quite a distance from her and their faces are blurry, so it isn't clear.",
+            "The other patrons are focused on their own exercises and are not staring at the woman.",
+            "No, there are no patrons staring at her.",
+            "It is difficult to say, first from the image, they seems to be very far from her and the image focuses more on the woman blurry other people in the image far behind",
+            "There aren't any other patrons around her, the only other people are way in the background."
         ]
     },
     {
-        "image": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+        "image": "images/shopping/Electric_kettle.jpeg",
         "context": "shopping",
-        "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
-        "question": "Where can I find her clothes. ",
+        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
+        "question": "Do you think it looks good?",
         "answers": [
-            "",
-            "",
-            "On this shopping website",
-            "You can find the type of clothes shes wearing at any store that sells clothing."
-        ]
-    },
-    {
-        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-        "context": "science_journals",
-        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
-        "question": "How dense are the trees?",
-        "answers": [
-            "one tree per 10-15 feet on average",
-            "",
-            "Not very dense, only a few trees show in the image."
+            "Yes it does look good.",
+            "It looks sleek and well-constructed. There is a bit of a futuristic element to the kettle's look and it looks sturdy.",
+            "It does not look good.",
+            "Personally, I don't think it looks very good.",
+            "The content inside the water container looks strange a little, like cloud trapped inside but the aesthetics looks cool.",
+            "It does look good, it has an interesting look and design and makes you want to use it."
         ]
     },
     {
@@ -223,18 +75,17 @@
             "shades of blue black and white",
             "Blue, black, white, brown",
             "Blue, white, metallic",
-            "The background is blue and white like the earth and the solar panels look like wood so they are brown."
-        ]
-    },
-    {
-        "image": "images/news/Showjumping_white_horse.jpeg",
-        "context": "social_media",
-        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
-        "question": "What kind of obstacle is the horse jumping over?",
-        "answers": [
-            "Something that looks like a white fence with multicolored bars",
-            "The stand is a typical horse jumping stand when equestrians compete.",
-            "white obstacle"
+            "The background is blue and white like the earth and the solar panels look like wood so they are brown.",
+            "Blue, black, white, green, brown, and the metallic grey colors of the space station.",
+            "The dominant colors are the blue and white colors of Earth, and the black of the universe.",
+            "mainly the pale blue of earth and shades of white/gray for the clouds on earth and the ISS itself.",
+            "The background is space, which is black. The Earth is blue with white clouds. The ISS is white and gray.",
+            "blue, white, black",
+            "The main colors are the blue water of the earth, with white clouds and black space.",
+            "black, silver, white and blue",
+            "Different shades of sky blue and cloud white and colors of materials that makes solar panels. Most cloud blue dominated",
+            "black, blue, white, gray",
+            "white, blue, black, pink-ish "
         ]
     },
     {
@@ -246,31 +97,76 @@
             "They look concentrated and hard at work. They have focused expressions but do not seem displeased or happy.",
             "They seem focused and determined ",
             "The group share a determined expression and their exertion shows on their faces",
-            "They are focused and concentrated as people usually are when engaging in exercise"
+            "They are focused and concentrated as people usually are when engaging in exercise",
+            "The facial expressions differ, but most people look like they're working hard.",
+            "Their facial expressions are those of deep concentration, as they are exerting themselves while working out.",
+            "most of them appear very focus on their workouts",
+            "They have serious expressions that look like they are exerting a lot of energy.",
+            "Concentration",
+            "Their faces are determined and focused on doing the exercise that they are working on.",
+            "Focused and determined. Fixed on the task at hand.",
+            "They look to be serious, calm and concentrating on the exercise.",
+            "The people are determined and focused on their exercise routine. No one is smiling, they look serious.",
+            "strained and serious/focused"
         ]
     },
     {
         "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "where is the group",
+        "question": "what is the activity",
         "answers": [
-            "On a rock by a body of water",
-            "On a rock near water",
-            "Outside during the day."
+            "They are sitting down and raising their hands towards the sky in a yoga routine.",
+            "they are practicing yoga outdoors",
+            "Group yoga",
+            "it is a \"Y\" pose "
         ]
     },
     {
-        "image": "images/travel/37044.jpg",
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "context": "science_journals",
-        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-        "question": "What is the significance of this image to a scientific article?",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "how old is the egg",
         "answers": [
-            "Maybe involving geography.",
-            "The article describes the geological aspects of the island",
-            "Natural islets like the one depicted in the photograph can often have rare and exciting natural flora and fauna ",
-            "The image is likely showing the exact place in the world where a scientific discovery took place or is of other, geographical significance. ",
-            "It is significant due to the fact that there are few disturbances to the wildlife."
+            "",
+            "",
+            "The egg is not very large, so likely to be a few days or weeks old.",
+            "",
+            "",
+            "months old",
+            "The egg looks half-developed and is likely halfway through its cycle before the creature is born.",
+            "Some features are developed, but still appears a while from hatching. ",
+            "The egg age cannot be expressively described but it seems a bit hold and close to maturity or fully formed",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "shopping",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What is the photographers expression?",
+        "answers": [
+            "concentration",
+            "It is difficult to see, but the photographer seems to be staring forward with little expression in his face.",
+            "",
+            "",
+            "The expression of the photographer cannot be seen because they are concealed under camouflaged foliage.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "where are we?",
+        "answers": [
+            "Somewhere cold.",
+            "They are located in a hotub that is in a snowy area with snow and trees all around them",
+            "There are trees and snow. Likely somewhere in the mountains.",
+            "Hard to say, feels like people inside a hot tub placed outside in the snow.",
+            "outside in a hot tub with snow on the ground"
         ]
     }
 ]
