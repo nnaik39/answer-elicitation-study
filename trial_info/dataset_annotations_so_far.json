@@ -7683,5 +7683,288 @@
             "In the rotunda of a government building such as a state Capitol building.",
             "In a building. "
         ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Are the people overweight?",
+        "answers": [
+            "No they are not.",
+            "The people do not look overweight.",
+            "Nobody in the photo appears to be overweight. They all seem to be in shape and have average body weight."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What type of water is the egg case in--ocean, murky swamp, etc?",
+        "answers": [
+            "It is a deep blue ocean that is clear and bright with a plant like structure in it.",
+            "clean ocean water",
+            "The egg case is most likely in the ocean, as it is from a shark or ray"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Are the members of the group men or women?",
+        "answers": [
+            "The group is all women, you can tell by their outfits and hair.",
+            "they are woman",
+            "they are all women "
+        ]
+    },
+    {
+        "image": "images/travel/2550.jpg",
+        "context": "shopping",
+        "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around.",
+        "question": "What country is the beach from.",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+        "context": "health",
+        "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
+        "question": "Is the advertisement for exercise only, a new diet, a weight-loss medication, etc.",
+        "answers": [
+            "There is no advertisement listed, only a photo of a woman jogging.",
+            "",
+            "Yes it is a suitable picture"
+        ]
+    },
+    {
+        "image": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "context": "shopping",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
+        "question": "Is he someone well-known?",
+        "answers": [
+            "He is not someone well known.",
+            "no clue who is ",
+            "This athlete could be sponsored by the pants brand which is why he is on their website",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "travel",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "why am i being shown a diver",
+        "answers": [
+            "to see a shipwreck",
+            "To show the scale of the shipwreck",
+            "",
+            "The image shows the potential activity that you might have when traveling, that is scuba diving"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What species of egg is it?",
+        "answers": [
+            "",
+            "Possibly of a shark or ray",
+            "Although I can not fully confirm, the egg does seem to be of a shark",
+            "",
+            "The image could be of a shark embryo.  "
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "Does it look appetizing?",
+        "answers": [
+            "Yes it looks refreshing and tasty.",
+            "It doesn't look that appetizing.",
+            "It does not look appetizing.  It's a bunch of onions and lettuce."
+        ]
+    },
+    {
+        "image": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+        "context": "shopping",
+        "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
+        "question": "What is Obama doing?",
+        "answers": [
+            "He is standing with hands clasped together",
+            "Mr. Obama stands in a doorway with his hands folded in front of him while others pass by",
+            "Waiting with his friends"
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "news",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "Where is the fashion show?",
+        "answers": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "who is the subject",
+        "answers": [
+            "The astronaut",
+            "It is an astronaut",
+            "the subject is an astronaut",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "health",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "What percentage of gym goers use these machines?",
+        "answers": [
+            "the larger percentage seems to be women so i figure about 65%",
+            "There are 6 people in this photo and four of them are using the machine",
+            "It is not possible to determine to percentage of gym goers who use these machines from the photo.  The rowing machines in this gym seem to all be in use.  The remainder of the gym doesn't seem to be full.  "
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How many members are there in the group?",
+        "answers": [
+            "There are nine members",
+            "There are 10 members visible in the image. ",
+            "There are ten members visible in the photo. "
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Is it daytime?",
+        "answers": [
+            "Yes, it is daytime.",
+            "Yes, it's early morning and the sun is almost fully out.",
+            "Yes, it is daytime",
+            "yes, please it is daytime "
+        ]
+    },
+    {
+        "image": "images/travel/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "What is the appeared gender of the two people?",
+        "answers": [
+            "One is male, the other is female.",
+            "The two peoples faces cannot be seen. But they both appear to be men.",
+            "A woman on the left, and a man on the right."
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "news",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "Who is doing the research.",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How long will it stay translucent for?",
+        "answers": [
+            "As long as they are attached to the branch",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/37044.jpg",
+        "context": "travel",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "Are there people in the photo?",
+        "answers": [
+            "no. There are no people",
+            "There are no people.  This is an aerial picture of the landscape.",
+            "no please, it doesn't look like it "
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "What buildings are in the image.",
+        "answers": [
+            "They appear to be apartments and houses.  Possibly some businesses.",
+            "The buildings are mostly low rise. None higher than 200 feet at the most. Others are much shorter. There are some apartment buildings and one building could be a business.",
+            "historic buildings"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What is the position they are doing",
+        "answers": [
+            "They are seated cross-legged with their arms reaching over their heads.",
+            "arms raised to the sky",
+            "They are sitting with legs crisscrossed and arms raised in the air. "
+        ]
+    },
+    {
+        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "context": "news",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+        "question": "Is the picture real or computer generated?",
+        "answers": [
+            "",
+            "",
+            "it is computer generated"
+        ]
+    },
+    {
+        "image": "images/news/Astronauts_in_weightlessness.jpeg",
+        "context": "science_journals",
+        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
+        "question": "Is it a real plane or a simulation?",
+        "answers": [
+            "It's not clear, but it's probably a real plane based on the general messiness of the cabin (coiled up cables, a duct-taped box, etc.).",
+            "It's hard to tell without more context, but it looks like a real plane.",
+            "it looks like a simulation to me "
+        ]
+    },
+    {
+        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+        "context": "social_media",
+        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
+        "question": "how many seals are there?",
+        "answers": [
+            "As many as the shores will allow",
+            "There a bunch more than 20 hard to count exactly as they are small in the background.",
+            "There are about a dozen seals that you can clearly see in front, and there are probably 100 at the back, swimming in the sea."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Are there animals in the photo?",
+        "answers": [
+            "No, there are no visible animals.",
+            "There are no animals visible in the photo. ",
+            "There are no animals in the photo."
+        ]
     }
 ]
