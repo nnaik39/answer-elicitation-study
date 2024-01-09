@@ -5379,5 +5379,318 @@
             "An underwater photographer",
             "Definitely a diver"
         ]
+    },
+    {
+        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "context": "travel",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+        "question": "What is the name of the country?",
+        "answers": [
+            "That cannot specifically be determined based on looking at the image alone. The focus is on the diver exploring an underwater wreck, ",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "context": "travel",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
+        "question": "What time of year is this?",
+        "answers": [
+            "It is summertime.",
+            "It really depends on where she is located. ",
+            "Hard to tell but likely spring or summer"
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What is he supposed to be shooting?",
+        "answers": [
+            "birds most likely",
+            "He is supposed to be shooting footage of some sort of wild animal. ",
+            "He is shooting pictures of wildlife."
+        ]
+    },
+    {
+        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "context": "social_media",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+        "question": "What type of pattern is on the dress?",
+        "answers": [
+            "it's a symmetrical geometric pattern",
+            "It might be described as a little tribal or animal print.",
+            "It's a gold luxurious looking pattern",
+            "The pattern is geometric at the bottoms. On the upper third of the dress it looks like a butterfly or a giant moth. "
+        ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "shopping",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "What are they selling?",
+        "answers": [
+            "diving equipment",
+            "It could be many things. Maybe a trip, maybe scuba diving equipment or maybe it's an underwater photography site.",
+            "I have no clue what they would be selling. ",
+            "A scuba diving experience."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "How long before it hatches?",
+        "answers": [
+            "I don't think it would hatch because it is attached to a branch under water and not with the mother.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "context": "health",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "How many other patrons are there?",
+        "answers": [
+            "I count around 5 in the background, but I'm sure there could be more that aren't in the picture.",
+            "There are four other women in the background, but there could be others outside of the angle. ",
+            "3 other patrons are in the background"
+        ]
+    },
+    {
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "news",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "Are people cheering? ",
+        "answers": [
+            "Yes, I can see people cheering in the background.",
+            "It doesn't look like it. It looks like a photo taken before the game starts.",
+            "It is hard to tell if the crowd in the back is cheering.  They are out of focus."
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "travel",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "Are there other people around on the city street?",
+        "answers": [
+            "I see one blurry person in the background walking.",
+            "Yes there are people in the background of the image. ",
+            "The photo does not show other people on the street.",
+            "Yes, there is one person in the background"
+        ]
+    },
+    {
+        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "context": "shopping",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+        "question": "How many audience members are there?",
+        "answers": [
+            "I can't tell exactly how many, but looks like a full audience.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Are they taking nature based pictures?",
+        "answers": [
+            "Yes, the photographer is in nature taking pictures of nature.",
+            "Yes, they are in nature and camouflaged so as to blend into the surroundings. ",
+            "Yes - most likely",
+            "We cannot see what he is taking a picture of, but based on his background being all nature and him being camouflaged, I would say yes. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "context": "health",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
+        "question": "Why are they here?",
+        "answers": [
+            "They are participating in a competition.",
+            "It looks like they are doing some sort of aquatic activity due to his swim cap having a number (possible race) and has swim goggles on. He is also wearing specific looking swim shorts (meant for athletics) as is another gentleman behind him. ",
+            "To compete in a sports activity and involved swimming or water sports ",
+            "They are participating in the swimming portion of a triathlon",
+            "They are here to compete in a sim competition"
+        ]
+    },
+    {
+        "image": "images/travel/Wdomenada2003b.jpeg",
+        "context": "shopping",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "Are the people male or female?",
+        "answers": [
+            "One is male and one is female",
+            "",
+            "most likely male, but the person with the white and black shirt could be female",
+            "It is hard to tell what they identify with.  To me it looks like a man and a woman. "
+        ]
+    },
+    {
+        "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "news",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
+        "question": "Is there anything around the object?",
+        "answers": [
+            "space and you can see earth from this angel ",
+            "There is nothing around the object.",
+            "The space center shown observing the earth. ",
+            "The only this around this image is space"
+        ]
+    },
+    {
+        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "context": "health",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
+        "question": "How does this fit with a health site?",
+        "answers": [
+            "its clean and thats what one wants from a diet ",
+            "It does not fit with a health site. ",
+            "I am not sure either, but my guess would be that it could be about getting enough rest or sleep, and the couch could be to denote rest. "
+        ]
+    },
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
+        "context": "social_media",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Is it related to something specific?",
+        "answers": [
+            "This photo shows how a person and an animal can work together.",
+            "Yes, it is related to someone's interests. This person posted a picture of a horse and rider, so it must be something about them or relevant to them.",
+            "The is related to an event"
+        ]
+    },
+    {
+        "image": "images/travel/26005.jpg",
+        "context": "news",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
+        "question": "where is the smoke coming from?",
+        "answers": [
+            "The smoke is coming streets most likely a food vendor.",
+            "",
+            "",
+            "A food vendor"
+        ]
+    },
+    {
+        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "context": "travel",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
+        "question": "What city is the picture taken in?",
+        "answers": [
+            "",
+            "It is unknown which city the picture is taken in.",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How many people are doing yoga?",
+        "answers": [
+            "The image shows 10 people, though there may be more.",
+            "10 fully or partially visible, could be more",
+            "There are 10 people in the image doing yoga. ",
+            "At least 10 people are doing yoga"
+        ]
+    },
+    {
+        "image": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "context": "social_media",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
+        "question": "What buildings are there?",
+        "answers": [
+            "Tall buildings, maybe residential apartments.",
+            "Fancy buildings with turrets. ",
+            "They look somewhat like historical buildings, with columns in front, and multi-storied, and some have spire roof towers on them."
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "social_media",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "How many audience members are visible?",
+        "answers": [
+            "7-10, depending on what you consider visible.",
+            "About a dozen audience members are visible.",
+            "Model of people Is Walking whiteness is cute",
+            "",
+            "There are about 20 audience members visable"
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What is the background?",
+        "answers": [
+            "The background is the edge of a cliff, possibly a rock quarry.",
+            "The group is practicing yoga on the edge of a big rock.",
+            "The background is a vast rock formation"
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "How well is he hidden in the foliage?",
+        "answers": [
+            "He is hidden reasonably well.",
+            "A Photographer is different think of himself",
+            "He is very well hidden in the foliage."
+        ]
+    },
+    {
+        "image": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "context": "shopping",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
+        "question": "Is the swimwear cute?",
+        "answers": [
+            "It is a very basic pair of black swim trunks. ",
+            "Yes it is cute",
+            "Cuteness is in the eye of the beholder. ",
+            "It's really not cute.  It's just a basic men's tight swimwear"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "context": "news",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
+        "question": "How many people are raising their hand?",
+        "answers": [
+            "Eight people are raising their hand.",
+            "A group of people are supported willing and interested to the website",
+            "At least 8",
+            "The photo has about 25-38 people visible and you can see about 5 of them with hands raised."
+        ]
+    },
+    {
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "What website is it?",
+        "answers": [
+            "a social media website",
+            "A website of some sort of gym. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+        "context": "travel",
+        "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
+        "question": "where is the event",
+        "answers": [
+            "",
+            "In the forest",
+            "This does not look like an event.  It looks like a man just taking a hike.",
+            "The event is taking place in a place with large mountians"
+        ]
     }
 ]

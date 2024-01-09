@@ -252,6 +252,12 @@
         "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
     },
     {
+        "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "category": "news",
+        "question": "Are people cheering? ",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+    },
+    {
         "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
         "category": "health",
         "question": "Where is the marathon by looking for landmarks?",
@@ -504,6 +510,12 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
+        "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+        "category": "social_media",
+        "question": "How many audience members are visible?",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+    },
+    {
         "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
         "category": "travel",
         "question": "What kind of clothes is the person wearing?",
@@ -558,6 +570,12 @@
         "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
     },
     {
+        "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "category": "health",
+        "question": "Why are they here?",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
+    },
+    {
         "filename": "images/travel/13957.jpg",
         "category": "news",
         "question": "What's going on in London?",
@@ -603,6 +621,12 @@
         "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
         "category": "social_media",
         "question": "What is the weather like?",
+        "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
+    },
+    {
+        "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+        "category": "social_media",
+        "question": "What buildings are there?",
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
     },
     {
@@ -786,6 +810,12 @@
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
     },
     {
+        "filename": "images/travel/Wdomenada2003b.jpeg",
+        "category": "shopping",
+        "question": "Are the people male or female?",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
+    },
+    {
         "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
         "category": "travel",
         "question": "What color is her hair?",
@@ -890,6 +920,12 @@
     {
         "filename": "images/travel/26005.jpg",
         "category": "news",
+        "question": "where is the smoke coming from?",
+        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+    },
+    {
+        "filename": "images/travel/26005.jpg",
+        "category": "news",
         "question": "Do the mountains have snow on them?",
         "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
     },
@@ -928,6 +964,12 @@
         "category": "news",
         "question": "does the image look scary?",
         "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+    },
+    {
+        "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+        "category": "shopping",
+        "question": "Is the swimwear cute?",
+        "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
     },
     {
         "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
@@ -969,6 +1011,12 @@
         "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
         "category": "health",
         "question": "What type of gym machine is she exercizing on?",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+    },
+    {
+        "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "category": "health",
+        "question": "How many other patrons are there?",
         "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
     },
     {
@@ -1218,6 +1266,12 @@
         "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
     },
     {
+        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "category": "travel",
+        "question": "What city is the picture taken in?",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
         "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
         "category": "science_journals",
         "question": "What does the scuba diver look like.",
@@ -1264,6 +1318,12 @@
         "category": "social_media",
         "question": "How much lave is there and how far down the volcano has it reached?",
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+    },
+    {
+        "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "category": "shopping",
+        "question": "How many audience members are there?",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
     },
     {
         "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
@@ -1424,6 +1484,12 @@
     {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
+        "question": "What is the background?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
         "question": "Are they happy?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
@@ -1462,6 +1528,12 @@
         "category": "news",
         "question": "What is the purpose of showing this man?",
         "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+    },
+    {
+        "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "category": "news",
+        "question": "Is there anything around the object?",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
     },
     {
         "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
@@ -1554,6 +1626,12 @@
         "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
     },
     {
+        "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+        "category": "news",
+        "question": "How many people are raising their hand?",
+        "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
+    },
+    {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "science_journals",
         "question": "What color is the water?",
@@ -1636,6 +1714,12 @@
         "category": "health",
         "question": "Is the woman fat or skinny?",
         "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+    },
+    {
+        "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "category": "social_media",
+        "question": "What website is it?",
+        "description": "A group of people are working out on indoor rowing machines at a gym."
     },
     {
         "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
@@ -1756,6 +1840,12 @@
         "category": "science_journals",
         "question": "What's the weather like? ",
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+    },
+    {
+        "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "category": "health",
+        "question": "How does this fit with a health site?",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
     },
     {
         "filename": "images/news/Astronauts_in_weightlessness.jpeg",
@@ -1968,6 +2058,18 @@
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
     },
     {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "science_journals",
+        "question": "How well is he hidden in the foliage?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+    },
+    {
+        "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "category": "shopping",
+        "question": "What are they selling?",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
+    },
+    {
         "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
         "category": "news",
         "question": "Why are they in space?",
@@ -1986,10 +2088,22 @@
         "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
     },
     {
+        "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+        "category": "travel",
+        "question": "What time of year is this?",
+        "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+    },
+    {
         "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
         "category": "social_media",
         "question": "Why am I seeing this on this social website?",
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+    },
+    {
+        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "category": "science_journals",
+        "question": "How long before it hatches?",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
     },
     {
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
@@ -2060,6 +2174,12 @@
     {
         "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
         "category": "travel",
+        "question": "where is the event",
+        "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
+    },
+    {
+        "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
+        "category": "travel",
         "question": "what is the subject doing",
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
     },
@@ -2080,6 +2200,18 @@
         "category": "health",
         "question": "What sort of yoga are they doing?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
+        "filename": "images/news/Showjumping_white_horse.jpeg",
+        "category": "social_media",
+        "question": "Is it related to something specific?",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+    },
+    {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "science_journals",
+        "question": "Are they taking nature based pictures?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
         "filename": "images/travel/Wdomenada2003b.jpeg",
@@ -2382,6 +2514,12 @@
         "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
     },
     {
+        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "category": "health",
+        "question": "How many people are doing yoga?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+    },
+    {
         "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
         "category": "travel",
         "question": "How long can we dive for?",
@@ -2412,9 +2550,21 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
     },
     {
+        "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "category": "social_media",
+        "question": "What type of pattern is on the dress?",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+    },
+    {
         "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
         "category": "travel",
         "question": "What is the climate like--snowy, sunny?",
+        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+    },
+    {
+        "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "category": "travel",
+        "question": "Are there other people around on the city street?",
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
     },
     {
@@ -2582,6 +2732,12 @@
     {
         "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
         "category": "travel",
+        "question": "What is the name of the country?",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
+    },
+    {
+        "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "category": "travel",
         "question": "Is this a hotel near the beach?",
         "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
     },
@@ -2673,6 +2829,12 @@
         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
         "category": "science_journals",
         "question": "Is this about photography?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+    },
+    {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "science_journals",
+        "question": "What is he supposed to be shooting?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
