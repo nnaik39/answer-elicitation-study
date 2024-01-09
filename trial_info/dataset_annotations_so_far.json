@@ -6662,5 +6662,96 @@
             "This is most likely an advertisement for traveling",
             "yes"
         ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Does it show something related to the store?",
+        "answers": [
+            "No it does not.",
+            "It does not have much to do with the store, unless you want to buy hot air balloons.",
+            "No, it shows a landscape unrelated to any clothing.",
+            "The image shows a hot air balloon ride experience you could purchase from the website."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Where are these temples located?",
+        "answers": [
+            "on the ground",
+            "These temples are located on what looks to be a riverbank or perhaps an estuary. There are multiple bodies of water including one large body of water that continues on both sides of the photo.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "news",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "Is it day or night in the image?",
+        "answers": [
+            "It is apx. 1pm",
+            "It is day in the image",
+            "it is day outside"
+        ]
+    },
+    {
+        "image": "images/social_media/Heidi_Klum4crop.jpeg",
+        "context": "news",
+        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+        "question": "How old is the woman.",
+        "answers": [
+            "",
+            "The woman is likely young to middle age, maybe 30 to 45.",
+            "around 20 to 30 years old",
+            "What kind of event is this woman attending?"
+        ]
+    },
+    {
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "social_media",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "Is there anyone in the picture?",
+        "answers": [
+            "No there is nobody in the picture",
+            "No people are displayed in the picture.",
+            "There is no one in the picture, only the chaise lounge in the center of the frame.",
+            "There is no one in the picture."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "shopping",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What side of the photographer is being shown?",
+        "answers": [
+            "It is hard to tell because he is camouflaged ",
+            "It appears to be the left side of the photographer",
+            "The front and left side"
+        ]
+    },
+    {
+        "image": "images/travel/37044.jpg",
+        "context": "science_journals",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "How old does the church look?",
+        "answers": [
+            "500 years old",
+            "What country is this island and church located in?",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/Astrid_Andersen_01.jpeg",
+        "context": "social_media",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
+        "question": "Are they walking in a line or next to each other?",
+        "answers": [
+            "yes they are",
+            "people walking in a line",
+            "They are walking in a line. "
+        ]
     }
 ]

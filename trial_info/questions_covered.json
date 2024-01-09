@@ -402,10 +402,22 @@
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
     },
     {
+        "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "category": "news",
+        "question": "Is it day or night in the image?",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+    },
+    {
         "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
         "category": "travel",
         "question": "About how many people are there?",
         "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+    },
+    {
+        "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+        "category": "social_media",
+        "question": "Are they walking in a line or next to each other?",
+        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
         "filename": "images/shopping/Astrid_Andersen_01.jpeg",
@@ -568,6 +580,12 @@
         "category": "news",
         "question": "What angle is the camera?",
         "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
+    },
+    {
+        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "category": "shopping",
+        "question": "What side of the photographer is being shown?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
         "filename": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
@@ -1668,6 +1686,12 @@
         "description": "A smiling woman with blonde bob haircut, wearing a red dress."
     },
     {
+        "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+        "category": "news",
+        "question": "How old is the woman.",
+        "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+    },
+    {
         "filename": "images/travel/2550.jpg",
         "category": "shopping",
         "question": "How many people are using the kayaks.",
@@ -1707,6 +1731,12 @@
         "filename": "images/travel/37044.jpg",
         "category": "science_journals",
         "question": "Where is this island located?",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+    },
+    {
+        "filename": "images/travel/37044.jpg",
+        "category": "science_journals",
+        "question": "How old does the church look?",
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
     },
     {
@@ -2058,6 +2088,12 @@
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
     },
     {
+        "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "category": "travel",
+        "question": "Where are these temples located?",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+    },
+    {
         "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
         "category": "health",
         "question": "How does this fit with a health site?",
@@ -2176,6 +2212,12 @@
         "category": "shopping",
         "question": "Is she in a store?",
         "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+    },
+    {
+        "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "category": "social_media",
+        "question": "Is there anyone in the picture?",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
     },
     {
         "filename": "images/science_journals/Wildland_Firefighter.jpeg",
@@ -2505,6 +2547,12 @@
         "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
         "category": "shopping",
         "question": "What is it related to?",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+    },
+    {
+        "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "category": "shopping",
+        "question": "Does it show something related to the store?",
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
     },
     {

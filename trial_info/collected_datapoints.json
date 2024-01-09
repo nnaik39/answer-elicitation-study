@@ -1,351 +1,93 @@
 [
     {
-        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "context": "science_journals",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "What color is the egg?",
-        "answers": [
-            "The egg is yellow",
-            "It has an orange tint.",
-            "The egg is a foggy orange.",
-            "The egg is a translucent orange."
-        ]
-    },
-    {
-        "image": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
         "context": "shopping",
-        "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-        "question": "What race is the model?",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Does it show something related to the store?",
         "answers": [
-            "The model is caucasian. ",
-            "caucasian ",
-            "The model looks to be Caucasian, but could be something else."
+            "No it does not.",
+            "It does not have much to do with the store, unless you want to buy hot air balloons.",
+            "No, it shows a landscape unrelated to any clothing.",
+            "The image shows a hot air balloon ride experience you could purchase from the website."
         ]
     },
     {
-        "image": "images/shopping/Virti_vaghani.jpeg",
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
         "context": "travel",
-        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-        "question": "What ethnicity is the woman?",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Where are these temples located?",
         "answers": [
-            "Indian, or southeast Asian",
-            "The woman in the photo appears to be Indian.",
-            "This is an Indian woman. "
-        ]
-    },
-    {
-        "image": "images/shopping/Electric_kettle.jpeg",
-        "context": "shopping",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "where is this kettle plugged into?",
-        "answers": [
-            "Nothing, this is likely an artwork, not used to cook",
-            "Its not plugged in ",
-            "",
-            "The image does not show where the kettle is plugged into because the actual cord is not shown in the image."
-        ]
-    },
-    {
-        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-        "context": "news",
-        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
-        "question": "where was the game",
-        "answers": [
-            "",
-            "on the field",
-            "The game is on a soccer field"
-        ]
-    },
-    {
-        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "context": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "Is the photographer in a regular forest or in a jungle?",
-        "answers": [
-            "No he it could be a rain forest",
-            "It looks like a forest ",
-            "This could be a forest but also possibly a jungle"
-        ]
-    },
-    {
-        "image": "images/social_media/170px-Baked_goods.jpeg",
-        "context": "health",
-        "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
-        "question": "How many rolls are there?",
-        "answers": [
-            "About 20 rolls",
-            "there are 8 rolls",
-            "There appears to be 10 rolls in total displayed in this image. Two of the 10 rolls have been sliced in half.",
-            "There are 8 fresh rolls in a basket",
+            "on the ground",
+            "These temples are located on what looks to be a riverbank or perhaps an estuary. There are multiple bodies of water including one large body of water that continues on both sides of the photo.",
             ""
-        ]
-    },
-    {
-        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-        "context": "shopping",
-        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-        "question": "whats the team name",
-        "answers": [
-            "",
-            "I have no idea.",
-            ""
-        ]
-    },
-    {
-        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-        "context": "social_media",
-        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
-        "question": "How big is the fire?",
-        "answers": [
-            "",
-            "It is larger than several trees wide. It is impossible to tell how large the fire is.",
-            "The fire is very large as it is engulfing and entire forest of trees. Everything is in flames.  "
         ]
     },
     {
         "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
         "context": "news",
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
-        "question": "Are there any buildings or structures in the photo?",
+        "question": "Is it day or night in the image?",
         "answers": [
-            "There are no buildings nearby this appears to happen away from any civilization",
-            "No, thankfully",
-            "No, there is only a volcano.",
-            "No, there are no buildings or structures in the photo."
-        ]
-    },
-    {
-        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-        "context": "social_media",
-        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-        "question": "Where are they at",
-        "answers": [
-            "On a runway.",
-            "The audience is seated on both sides of an aisle/the runway floor she's walking on.",
-            "They are at a Fashion Show",
-            "I am not sure of the actual location of the scene, but the model is walking the runway that appears to be some kind of a fashion show."
-        ]
-    },
-    {
-        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-        "context": "news",
-        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-        "question": "When was this photo taken?",
-        "answers": [
-            "The picture does not provide that information.",
-            "The description provided is of comic nebula with swirls of purple and blue against the backdrop of a starry sky. ",
-            "The photo of the nebula was taken during a very clear night via a very powerful telescope."
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "is there a local class?",
-        "answers": [
-            "Yes, I think so. Based on inferrence.",
-            "",
-            "Yes there appears to be a local class participating in yoga",
-            "",
-            "This is a stock photo of a class. The class might or might not be in your area."
-        ]
-    },
-    {
-        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "context": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "what is the subject",
-        "answers": [
-            "a photographer",
-            "stealth photography ",
-            "",
-            "The subject of the photo is the camouflaged photographer."
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "What are they wearing?",
-        "answers": [
-            "Yoga clothing",
-            "In this image, the individuals practicing yoga outdoors are likely wearing comfortable and flexible clothing dressed in activewear such as yoga pants, leggings, or shorts, paired with breathable tops. ",
-            "The group is wearing all different outfits ranging from yoga pants, workout shorts, t-shirts, and tank-tops of all different colors."
-        ]
-    },
-    {
-        "image": "images/science_journals/Wildland_Firefighter.jpeg",
-        "context": "news",
-        "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-        "question": "Where is the fire? ",
-        "answers": [
-            "The fire is either extinguished or near. The firefighter is working.",
-            "The fire appears to be in a forest of some kind.",
-            "The fire is in front of the firefighter, beyond the right side of the photo.",
-            ""
-        ]
-    },
-    {
-        "image": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-        "context": "science_journals",
-        "description": "A colony of seals lounges on rocky terrain near the water's edge.",
-        "question": "how friendly are these seals on the water's edge?",
-        "answers": [
-            "The seals look quite vicious.",
-            "They appear friendly.",
-            "",
-            "The seals are wailing and seem territorial on the rocky terrain.  "
-        ]
-    },
-    {
-        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "context": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "What are they shooting?",
-        "answers": [
-            "Wildlife photos",
-            "They're hunting",
-            "Unknown"
-        ]
-    },
-    {
-        "image": "images/health/2456.jpg",
-        "context": "social_media",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-        "question": "What is the caption or description below the image?",
-        "answers": [
-            "A bowl of Asian noodle salad with vegetables and herbs",
-            "A bowl of Asian noodle salad with vegetables and herbs.",
-            ""
+            "It is apx. 1pm",
+            "It is day in the image",
+            "it is day outside"
         ]
     },
     {
         "image": "images/social_media/Heidi_Klum4crop.jpeg",
-        "context": "shopping",
+        "context": "news",
         "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-        "question": "If the dress is for sale, what brand, model, etc.?",
+        "question": "How old is the woman.",
         "answers": [
             "",
-            "",
-            "",
-            "The dress is from House of CB"
+            "The woman is likely young to middle age, maybe 30 to 45.",
+            "around 20 to 30 years old",
+            "What kind of event is this woman attending?"
         ]
     },
     {
-        "image": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-        "context": "travel",
-        "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-        "question": "How blue is the water?",
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "social_media",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "Is there anyone in the picture?",
         "answers": [
-            "The water does not appear to be blue because the sun has not yet fully risen.",
-            "The water isn't blue.",
-            "Because the picture was taken at dawn it is not possible to see how blue the water truly is. In the photo, it does not look very blue.",
-            ""
+            "No there is nobody in the picture",
+            "No people are displayed in the picture.",
+            "There is no one in the picture, only the chaise lounge in the center of the frame.",
+            "There is no one in the picture."
         ]
     },
     {
         "image": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "context": "science_journals",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "What is the photographer trying to photograph?",
-        "answers": [
-            "Wildlife I'm assuming",
-            "Wildlife, but he must be well camoflouged.",
-            "",
-            "The subject the photographer is trying to photograph is not seen in this image, but based upon the lush backdrop, one may infer that the photographer is trying to photograph local wildlife."
-        ]
-    },
-    {
-        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-        "context": "social_media",
-        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-        "question": "who is the model",
-        "answers": [
-            "The model is a famous African American model in the industry. ",
-            "The model is possibly Naomi Campbell?",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "Are the people on the grass?",
-        "answers": [
-            "No, the people are sitting on yoga mats. ",
-            "No, they are on a sandlike dirt on the edge of the rock.",
-            "The people are not on the grass. They are on sand."
-        ]
-    },
-    {
-        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
         "context": "shopping",
-        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-        "question": "How tall is the guy?",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What side of the photographer is being shown?",
         "answers": [
-            "",
-            "It is difficult to tell from the picture. However, the man is a model, and most male models are taller than average, so it can be assumed that he is taller than average.",
-            "One is unable to determine the guy's height from the provided photo because it displays him from the chest up without enough background detail to infer height."
+            "It is hard to tell because he is camouflaged ",
+            "It appears to be the left side of the photographer",
+            "The front and left side"
         ]
     },
     {
-        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
-        "context": "travel",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-        "question": "What season is this?",
+        "image": "images/travel/37044.jpg",
+        "context": "science_journals",
+        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
+        "question": "How old does the church look?",
         "answers": [
-            "Likely late spring or sometime in summer",
-            "The season appears to be spring. Of course, \"spring\" in this context means moderate weather, no snow, and lush greens.",
-            "The season is summer",
-            "It seems like it is summer",
-            "Given the lush greenery which surrounds the waterfall, one may infer that it is either Spring or Summer.",
-            "It is the season of summer."
+            "500 years old",
+            "What country is this island and church located in?",
+            ""
         ]
     },
     {
         "image": "images/shopping/Astrid_Andersen_01.jpeg",
-        "context": "news",
+        "context": "social_media",
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-        "question": "What sort of people are they?",
+        "question": "Are they walking in a line or next to each other?",
         "answers": [
-            "They are conventionally fit male models",
-            "Male models with great fitness and darker skin.",
-            "male models"
-        ]
-    },
-    {
-        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
-        "context": "news",
-        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
-        "question": "Did the team win a championship?",
-        "answers": [
-            "They are not holding any trophies, so I can't tell. ",
-            "yes. they won the world cup",
-            ""
-        ]
-    },
-    {
-        "image": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-        "context": "travel",
-        "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-        "question": "How close is the person to the water?",
-        "answers": [
-            "The person is standing directly next to the water with their feet inches away from the small waves pushing up along the shoreline.",
-            "The person is directly next to the shoreline of the water, as close as she can get without getting wet.",
-            "The person is very close to the apex of the waves on the beach. If there is a slightly higher tide, the person may get water on them.",
-            "The person is about a foot or so from the water."
-        ]
-    },
-    {
-        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "context": "shopping",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-        "question": "Is this an advertisement?",
-        "answers": [
-            "It might be an advertisement.",
-            "This is most likely an advertisement for traveling",
-            "yes"
+            "yes they are",
+            "people walking in a line",
+            "They are walking in a line. "
         ]
     }
 ]

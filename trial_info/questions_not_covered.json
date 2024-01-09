@@ -30,12 +30,6 @@
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
     },
     {
-        "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-        "category": "news",
-        "question": "Is it day or night in the image?",
-        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
-    },
-    {
         "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
         "category": "travel",
         "question": "What kind of body of water is the boat in?",
@@ -52,12 +46,6 @@
         "category": "science_journals",
         "question": "Is this a forest environment or something else?",
         "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
-    },
-    {
-        "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-        "category": "social_media",
-        "question": "Are they walking in a line or next to each other?",
-        "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
     },
     {
         "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
@@ -99,12 +87,6 @@
         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
         "category": "shopping",
         "question": "What is the photographers expression?",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "category": "shopping",
-        "question": "What side of the photographer is being shown?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
@@ -390,12 +372,6 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs."
     },
     {
-        "filename": "images/social_media/Heidi_Klum4crop.jpeg",
-        "category": "news",
-        "question": "How old is the woman.",
-        "description": "A smiling woman with blonde bob haircut, wearing a red dress."
-    },
-    {
         "filename": "images/travel/2550.jpg",
         "category": "shopping",
         "question": "What country is the beach from.",
@@ -406,12 +382,6 @@
         "category": "travel",
         "question": "Are they smiling?",
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
-    },
-    {
-        "filename": "images/travel/37044.jpg",
-        "category": "science_journals",
-        "question": "How old does the church look?",
-        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
     },
     {
         "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
@@ -524,12 +494,6 @@
     {
         "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
         "category": "travel",
-        "question": "Where are these temples located?",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-    },
-    {
-        "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "category": "travel",
         "question": "Does the site really offer balloon tours of the place?",
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
     },
@@ -561,12 +525,6 @@
         "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
         "category": "social_media",
         "question": "Is this a hotel or suite?",
-        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
-    },
-    {
-        "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-        "category": "social_media",
-        "question": "Is there anyone in the picture?",
         "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
     },
     {
@@ -724,12 +682,6 @@
         "category": "news",
         "question": "who is the subject",
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
-    },
-    {
-        "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "category": "shopping",
-        "question": "Does it show something related to the store?",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
     },
     {
         "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
