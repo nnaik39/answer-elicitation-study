@@ -1,10 +1,10 @@
-var main_trials = {
+{
     "images": [
         {
             "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
             "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "What do they have their mats on rocks?"
+            "question": "What kind of yoga are they doing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
         },
         {
             "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",

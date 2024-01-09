@@ -1,14 +1,14 @@
 [
     {
-        "image": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
-        "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-        "question": "Where does the beach appear to be located?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What do they have their mats on rocks?",
         "answers": [
             "",
-            "The beach appears to be by an ocean rather than a lake and given how there is only sand on the beach and no rocks or other features, I believe the beach is located somewhere on the west coast of the United States.",
-            "On the East Coast.",
-            "The beach appears to be located on the east coast as the sun rises, or it could be on the west coast as the sun sets."
+            "",
+            "",
+            "They are outdoors in nature on a rock near water."
         ]
     },
     {
@@ -24,46 +24,9 @@
             "it is a close up shot, but we can see that there are trees/forest in the background.",
             "There isn't much scenery visible, but there is some green and brown in the background that appear to be trees",
             "the scenario looks like a jungle",
-            "it looks like he is near a tree"
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "How many people?",
-        "answers": [
-            "10 people.",
-            "There are 10 people visible.",
-            "There are ten people in the image, including the instructor.",
-            "there appears to be one leader and at least 9 students"
-        ]
-    },
-    {
-        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-        "context": "health",
-        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
-        "question": "Are the patrons staring at her?",
-        "answers": [
-            "They don't appear to be, but they are quite a distance from her and their faces are blurry, so it isn't clear.",
-            "The other patrons are focused on their own exercises and are not staring at the woman.",
-            "No, there are no patrons staring at her.",
-            "It is difficult to say, first from the image, they seems to be very far from her and the image focuses more on the woman blurry other people in the image far behind",
-            "There aren't any other patrons around her, the only other people are way in the background."
-        ]
-    },
-    {
-        "image": "images/shopping/Electric_kettle.jpeg",
-        "context": "shopping",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "Do you think it looks good?",
-        "answers": [
-            "Yes it does look good.",
-            "It looks sleek and well-constructed. There is a bit of a futuristic element to the kettle's look and it looks sturdy.",
-            "It does not look good.",
-            "Personally, I don't think it looks very good.",
-            "The content inside the water container looks strange a little, like cloud trapped inside but the aesthetics looks cool.",
-            "It does look good, it has an interesting look and design and makes you want to use it."
+            "it looks like he is near a tree",
+            "It's a distant forest scene.",
+            ""
         ]
     },
     {
@@ -85,7 +48,9 @@
             "black, silver, white and blue",
             "Different shades of sky blue and cloud white and colors of materials that makes solar panels. Most cloud blue dominated",
             "black, blue, white, gray",
-            "white, blue, black, pink-ish "
+            "white, blue, black, pink-ish ",
+            "Primarily blue, white, and brown.",
+            "There is a black background, with a blue planet and white clouds. "
         ]
     },
     {
@@ -107,19 +72,9 @@
             "Focused and determined. Fixed on the task at hand.",
             "They look to be serious, calm and concentrating on the exercise.",
             "The people are determined and focused on their exercise routine. No one is smiling, they look serious.",
-            "strained and serious/focused"
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "what is the activity",
-        "answers": [
-            "They are sitting down and raising their hands towards the sky in a yoga routine.",
-            "they are practicing yoga outdoors",
-            "Group yoga",
-            "it is a \"Y\" pose "
+            "strained and serious/focused",
+            "Strained, intense; they are in the middle of a heated workout.",
+            "They are focused and working hard at their workout"
         ]
     },
     {
@@ -138,35 +93,21 @@
             "Some features are developed, but still appears a while from hatching. ",
             "The egg age cannot be expressively described but it seems a bit hold and close to maturity or fully formed",
             "",
+            "",
+            "It seems to be far along in its development cycle.",
             ""
         ]
     },
     {
-        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "image": "images/social_media/Heidi_Klum4crop.jpeg",
         "context": "shopping",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "What is the photographers expression?",
+        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+        "question": "How old does the woman appear to be?",
         "answers": [
-            "concentration",
-            "It is difficult to see, but the photographer seems to be staring forward with little expression in his face.",
-            "",
-            "",
-            "The expression of the photographer cannot be seen because they are concealed under camouflaged foliage.",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-        "context": "travel",
-        "description": "A group of people sitting a hot tub located",
-        "question": "where are we?",
-        "answers": [
-            "Somewhere cold.",
-            "They are located in a hotub that is in a snowy area with snow and trees all around them",
-            "There are trees and snow. Likely somewhere in the mountains.",
-            "Hard to say, feels like people inside a hot tub placed outside in the snow.",
-            "outside in a hot tub with snow on the ground"
+            "The woman appears to be in her late 40's or early 50's",
+            "maybe they;re selling her top",
+            "She appears to be in her forties.",
+            "She appears to be approximately 30-35 years old"
         ]
     }
 ]
