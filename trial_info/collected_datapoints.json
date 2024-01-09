@@ -1,317 +1,347 @@
 [
     {
-        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-        "context": "social_media",
-        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
-        "question": "Is this an adverstisment?",
-        "answers": [
-            "yes it's an ad",
-            "I can't tell if it's an advertisement because there are no words or brand images. ",
-            "",
-            "It is not tagged as an advertisement.",
-            "I don't believe so. There is no price."
-        ]
-    },
-    {
-        "image": "images/travel/30208.jpg",
-        "context": "social_media",
-        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
-        "question": "what historic buildings",
-        "answers": [
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "context": "health",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "Is it advertising a product?",
-        "answers": [
-            "It could be for yoga or meditation.",
-            "I don't think this is advertising a product, I think it is suggesting a healthy type of exercise",
-            "I don't believe this is an advertisement because there's no price on anything."
-        ]
-    },
-    {
-        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
-        "context": "shopping",
-        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-        "question": "What race is the woman shown in the sari?",
-        "answers": [
-            "The woman is Asian ",
-            "The woman is Indian.",
-            "Most likely Asian",
-            "I enlarged the photo and the woman might be Hispanic, but it is hard to tell."
-        ]
-    },
-    {
-        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "image": "images/social_media/Heidi_Klum4crop.jpeg",
         "context": "news",
-        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-        "question": "What is surrounding the nebula?",
+        "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
+        "question": "In what context was this image captured?",
         "answers": [
-            "the stars and swirls of purple and blue light",
-            "The galaxy and stars.",
-            ""
+            "The image was captured at an event.",
+            "It looks like she is at a big party or event.",
+            "This looks like a social gathering, maybe an award ceremony or a fancy dinner event."
         ]
     },
     {
-        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-        "context": "social_media",
-        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-        "question": "Are there other models behind her?",
+        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+        "context": "news",
+        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
+        "question": "What is his career?",
         "answers": [
-            "There are no other models behind her",
-            "women who like clothes and care about women's fashion \n",
-            "No"
+            "",
+            "It's impossible to determine the man's career based off the image alone although one might assume he's a runway model.",
+            ""
         ]
     },
     {
         "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "context": "science_journals",
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-        "question": "Are there other organisms near the egg or is it alone on the branch?",
+        "question": "How big is the egg?",
         "answers": [
-            "It is alone on the branch",
-            "",
-            "It is alone",
-            "It is alone."
-        ]
-    },
-    {
-        "image": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-        "context": "news",
-        "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
-        "question": "why do you like soccer",
-        "answers": [
-            "It is a fast-paced tone to it.",
-            "",
+            "Moderately sized compared to sea vegetation, estimated around the size of a softball",
+            "The size of the egg is difficult to figure out. ",
             ""
         ]
     },
     {
-        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "image": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
         "context": "news",
-        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
-        "question": "Was there a new breakthrough in space tech?",
+        "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
+        "question": "What type of signs are they holding?",
         "answers": [
             "",
-            "It seems like NASA has found a new nebula in space. There isn't a name for it yet, but it's purple and blue.",
-            "It does not say anything about it."
+            "It is difficult to read the signs.",
+            "They look to be holding some type of stop sign potentially related to a protest.",
+            "protesting signs",
+            ""
         ]
     },
     {
         "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-        "question": "Do they seem happy?",
+        "question": "what time of day is it in the pic?",
         "answers": [
-            "All but one of the people have their backs to me, so it's hard to tell, but they look relaxed and like they're enjoying their time. Their arms are fully oustretched.",
-            "They seem content.",
-            "Cannot tell because everyone except the instructor is sitting with the back."
+            "it appears to be from morning to mid day.",
+            "It's hard to be sure, but it's definitely during the daylight hours - not night or dusk or dawn.",
+            "The time cannot be known but it is daylight outside"
         ]
     },
     {
-        "image": "images/health/2456.jpg",
-        "context": "health",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-        "question": "How many calories are in the salad.",
+        "image": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+        "context": "shopping",
+        "description": "A soccer team in striped blue and white kits poses for a group photo on the field.",
+        "question": "is this for adults or kids?",
+        "answers": [
+            "Could be for both but since they're adults shown maybe just for them",
+            "",
+            "for adults"
+        ]
+    },
+    {
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "context": "shopping",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "Do they look happy while using the equipment?",
+        "answers": [
+            "The woman has a serious expression while looking down, focused on the exercise, in which she is working out her legs while standing up.",
+            "They look neither happy nor unhappy.",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "How cold does it get?",
+        "answers": [
+            "The south pole gets extremely cold and regularly maintains temperatures below freezing, which allows snow and ice to remain without melting away.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What is this about?",
         "answers": [
             "",
-            "What ingredients are in the salad?",
-            ""
+            "A new discovery or species",
+            "The image seems to be showing what a developing shark embryo looks like inside of an egg case (I am not sure that is correct terminology). "
+        ]
+    },
+    {
+        "image": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+        "context": "social_media",
+        "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
+        "question": "Is this a hotel or suite?",
+        "answers": [
+            "",
+            "No, it is an empty room like a gallery or such",
+            "No, this is just the chaise in an otherwise empty scene.",
+            "It is not a hotel suite; the chaise appears to be in an empty photo studio."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "How big is the group?",
+        "answers": [
+            "It is a mid sized group, with about 10 people.",
+            "It's small group",
+            "Pretty small about 10 people.",
+            "There are 10 people present in the image"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "What gender are the people in the hot tub?",
+        "answers": [
+            "It is difficult to tell the genders of the people in the hot tub as their faces are not visible.",
+            "men and women",
+            "There are 6 people and half of them are female.",
+            "There are both males and females"
         ]
     },
     {
         "image": "images/news/Gov_Walker_Protests1_JR.jpeg",
         "context": "travel",
         "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
-        "question": "Why is this on a travel website.",
+        "question": "What happened? ",
         "answers": [
+            "it seems to be some sort of protest",
+            "Hard to say, they are protesting something.",
             "",
-            "It is included to show the government building being in session.",
-            "This could be on a travel website because people may travel to see this."
+            ""
         ]
     },
     {
-        "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
-        "context": "science_journals",
-        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
-        "question": "Are any people present in the picture?",
-        "answers": [
-            "no people in the picture ",
-            "No people are present",
-            "There's no people present."
-        ]
-    },
-    {
-        "image": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-        "context": "shopping",
-        "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-        "question": "What color are his eyes?",
-        "answers": [
-            "His eyes are brown.",
-            "His eyes are a very dark brown.",
-            "The man's eye color cannot be determined."
-        ]
-    },
-    {
-        "image": "images/travel/37044.jpg",
+        "image": "images/travel/Wdomenada2003b.jpeg",
         "context": "travel",
-        "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
-        "question": "Where is the island?",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "Are their trees or bushes in the area where they are skiing?",
         "answers": [
-            "The island is just off the mainland, connected only by the bridge, but otherwise completely surrounded by water.  Behind it is nothing but ocean.",
-            "",
-            "",
-            "In water on a coast somewhere."
+            "No, there are no trees or bushes present in the image.",
+            "There are no trees or bushes in the immediate area of the skiers.",
+            "There are no trees or bushes in the area ",
+            "There are not trees or bushes visible near the skiers.",
+            "No. There are no trees or bushes in the area that they are skiing. "
         ]
     },
     {
-        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
         "context": "news",
-        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
-        "question": "Did we discover something?",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "When did they launch into space?",
         "answers": [
-            "The observatory gives the ability to view the Milky Way galaxy.",
+            "I'm not sure when this individual launched into space. The spacesuit itself looks like an older design, so I would guess sometime before 2020.",
             "",
-            "It looks like they are trying to make discoveries from space."
+            "many years ago"
         ]
     },
     {
-        "image": "images/shopping/Electric_kettle.jpeg",
-        "context": "shopping",
-        "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-        "question": "Would you buy this?",
-        "answers": [
-            "I would not, boiling water shouldn't that complicated.",
-            "I would not buy this because I dislike the blue transparent color.",
-            "I would buy this to be able to make hot water for many different reasons, including hot tea."
-        ]
-    },
-    {
-        "image": "images/shopping/4068.jpg",
-        "context": "health",
-        "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
-        "question": "Is the person old, young, healthy, or sick?",
-        "answers": [
-            "Not sure if young or old as only see the fingers. ",
-            "Probably middle aged",
-            "I cant tell what the person is like because i can just see their hands."
-        ]
-    },
-    {
-        "image": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
         "context": "social_media",
-        "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
-        "question": "How rich are these people?",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "Are there any houses nearby?",
         "answers": [
-            "",
-            "How expensive is it to go water skiing?",
-            "Rich enough to afford water skiing gears, which is pretty uncommon"
+            "No, there aren't any houses nearby.",
+            "No houses nearby from the image.",
+            "i have no idea"
         ]
     },
     {
-        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-        "context": "science_journals",
-        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
-        "question": "What is the gorilla's name?",
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What pose are they doing?",
         "answers": [
-            "",
-            "",
-            ""
+            "they are doing  yoga",
+            "Sitting cross legged, arms up in a Y.",
+            "I don't know, but someone who knows more about yoga than me should be able to answer this question from the image."
         ]
     },
     {
-        "image": "images/travel/26005.jpg",
+        "image": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+        "context": "social_media",
+        "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
+        "question": "What are the surroundings of the volcano?",
+        "answers": [
+            "The surroundings are just cooled lava - black rock.",
+            "All I see is dark/black residue, mountains in the distance, and blue sky with some clouds.",
+            "Sky and rock",
+            "Blackened and hardened lava field in all directions with a blue sky background"
+        ]
+    },
+    {
+        "image": "images/news/Showjumping_white_horse.jpeg",
         "context": "travel",
-        "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
-        "question": "What is the destination?",
+        "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
+        "question": "Is there a destination tied to the photo?",
         "answers": [
+            "Yes, the Kentucky area.",
             "",
-            "adult website about travel, tips and news, for all genders\n ",
-            ""
+            "no",
+            "i dont have any idea"
         ]
     },
     {
         "image": "images/science_journals/220px-Wildlife_photography.jpeg",
         "context": "science_journals",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-        "question": "Are there any signs of wildlife around?",
+        "question": "Is it an ad for a product?",
         "answers": [
-            "yes there is signs of wildlife around. ",
-            "There are no signs of wildlife around",
-            "I don't see any signs of wildlife.",
-            "This man is outside, camouflaged getting information from the wild. Most likely to put in magazines and learn about."
+            "Yes an ad for camouflaged gear.",
+            "",
+            "It is possible that it is an ad for a camera or camera lens but it does not appear that it is likely an ad. "
         ]
     },
     {
-        "image": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "How is the weather and environment?",
+        "answers": [
+            "The weather is clear and it's daylight.",
+            "The weather will be very hot and the environment has a lot of green grasses.",
+            "It is bright and sunny.",
+            "The environment is a forest like area and the weather seems clear and sunny",
+            "It looks like a clear day."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "context": "health",
-        "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
-        "question": "How old is the child?",
-        "answers": [
-            "The age of the child was not given.",
-            "Eight years",
-            "The child is between 8-12 years old."
-        ]
-    },
-    {
-        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-        "context": "shopping",
-        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
-        "question": "Is it a trendy, formal or causal look being displayed?",
-        "answers": [
-            "Yes the attire is a trendy one.",
-            "The woman in this outfit seems to be between more of a trendy and casual look. She has sunglasses on and her blouse isn't done up, so the outfit certainly isn't formal. She also seems to have an expensive looking watch and handbag which make her look trendy.",
-            "It is a dressy casual look, preppy, cute."
-        ]
-    },
-    {
-        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
-        "context": "travel",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-        "question": "What is the location of the waterfall?",
-        "answers": [
-            "from the atmosphere it appears to be on Earth",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/social_media/220px-Paljuilua_1.jpeg",
-        "context": "travel",
-        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
-        "question": "Are they smiling?",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What yoga pose is the group in?",
         "answers": [
             "",
-            "Noone is sitting with the face away from camera, cannot tell.",
-            ""
+            "The group is doing the yoga pose called \"raised arm pose.\"",
+            "I do not know the name of the yoga pose that they are in. However, they are sitting with crossed legs and they have their arms outstretched above them while sitting up straight. "
         ]
     },
     {
-        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-        "context": "shopping",
-        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
-        "question": "What does the shipwreck have to do with it?",
+        "image": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+        "context": "science_journals",
+        "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
+        "question": "What color is the space station?",
         "answers": [
-            "The site may be selling scuba gear.",
-            "Animals could be living inside the shipwreck.",
-            "",
-            "It is the subject of the picture."
+            "silver and black",
+            "It looks like it is in gray or white color",
+            "Silver and brown"
         ]
     },
     {
-        "image": "images/travel/13957.jpg",
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
         "context": "social_media",
-        "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
-        "question": "How does this image relate to the site?",
+        "description": "A group of people sitting a hot tub located",
+        "question": "Is the hot tub near a pool?",
         "answers": [
-            "Its like a portal to find new people.",
+            "No. It is in the middle of an area covered with snow",
             "",
-            "This is a way for people to travel."
+            "There does not seem to be a pool nearby",
+            "A pool cannot be seen in the picture.",
+            "No. There is no pool near or adjacent to the hot tub in the image. However, the image does not show everything near the pool (e.g. behind the cameraman)"
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "Is there anyone else in the image?",
+        "answers": [
+            "There is no one else in the image.",
+            "No. There is no one else in the image. ",
+            "No, she is the only person visible in the photo"
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "travel",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "Does the site really offer balloon tours of the place?",
+        "answers": [
+            "",
+            "yes, balloon tours are offered in this place",
+            "Yes, it looks like it is a possibility to ride in a hot air balloon."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Where is it located?",
+        "answers": [
+            "",
+            "It is located on a rock, there is another, larger rock in the background.",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What do the people look like?",
+        "answers": [
+            "The people all look like women with various body types and ages.",
+            "It appears to be a group of women of which none are African American",
+            "They are all women"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "what is the point of this",
+        "answers": [
+            "To show what the egg of an aquatic animal like a shark or ray looks like. And to show how the egg looks in the wild.",
+            "So users can see what the egg of a shark would look like. It's scientific.",
+            "Showing what the creature looks like",
+            ""
+        ]
+    },
+    {
+        "image": "images/news/Gov_Walker_Protests1_JR.jpeg",
+        "context": "news",
+        "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
+        "question": "Where is the rally?",
+        "answers": [
+            "The rally takes place in Wisconsin",
+            "In the rotunda of a government building such as a state Capitol building.",
+            "In a building. "
         ]
     }
 ]
