@@ -1,310 +1,82 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
-            "category": "health",
-            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
-            "question": "Where is this waterfall located?"
+            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+            "category": "science_journals",
+            "question": "What is the gorilla's name?",
+            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
         },
         {
-            "filename": "images/health/2456.jpg",
-            "category": "social_media",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs.",
-            "question": "Where is the bowl? On a table?"
+            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+            "category": "news",
+            "question": "Is this a fashion ad?",
+            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
         },
         {
-            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
-            "category": "shopping",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
-            "question": "Is he a professional athlete?"
-        },
-        {
-            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
-            "category": "travel",
-            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
-            "question": "Why is she wearing a knitted sweater when the sun is out?"
+            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+            "category": "science_journals",
+            "question": "Are any people present in the picture?",
+            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
         },
         {
             "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
             "category": "news",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
-            "question": "Is it a dense cluster or more scattered?"
+            "question": "What colors are present in this image?",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
-            "question": "What color is the egg?"
-        },
-        {
-            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
-            "category": "social_media",
-            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
-            "question": "How old does she appear to be?"
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "category": "shopping",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
-            "question": "What race is the model?"
-        },
-        {
-            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
             "category": "news",
-            "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
-            "question": "In what context was this image captured?"
+            "question": "Is the picture real or computer generated?",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
         },
         {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "shopping",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "How much is it"
-        },
-        {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
-            "question": "What ethnicity is the woman?"
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
-            "question": "where is this kettle plugged into?"
-        },
-        {
-            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
             "category": "news",
-            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
-            "question": "Where did this take place?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "What's the photographer camouflaged with?"
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "question": "what is the event for"
-        },
-        {
-            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
-            "category": "news",
-            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
-            "question": "What is his career?"
-        },
-        {
-            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-            "category": "shopping",
-            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
-            "question": "what race of people?"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "what is the scenery like"
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
-            "question": "How many people are in the audience?"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "Why type of group is it, mostly female or male and also age specific?"
-        },
-        {
-            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "news",
-            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
-            "question": "where was the game"
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
-            "question": "Are they men or women?"
-        },
-        {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
-            "category": "health",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
-            "question": "What gender is the person?"
-        },
-        {
-            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "social_media",
-            "description": "A group of people are working out on indoor rowing machines at a gym.",
-            "question": "What gym is this at?"
-        },
-        {
-            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
-            "category": "science_journals",
-            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire.",
-            "question": "how big is the fire"
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
-            "question": "what is the subject"
+            "question": "Is it day or night in the image?",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
         },
         {
             "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
             "category": "travel",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
-            "question": "About how many people are there?"
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "shopping",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
-            "question": "What is it related to?"
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
-            "question": "Is the photographer in a regular forest or in a jungle?"
-        },
-        {
-            "filename": "images/social_media/170px-Baked_goods.jpeg",
-            "category": "health",
-            "question": "Why breads on a health website?",
-            "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
-        },
-        {
-            "filename": "images/shopping/4068.jpg",
-            "category": "health",
-            "question": "Is the person old, young, healthy, or sick?",
-            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "Are the members of the group men or women?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "Is this a class in my area?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "What are they wearing?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "How many people?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "Why type of group is it, mostly female or male and also age specific?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-            "category": "health",
-            "question": "this marathon is really crowded, what occasion is it? ",
-            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
-        },
-        {
-            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
-            "category": "health",
-            "question": "Is this a product they offer or part of a location they want you to visit or?",
-            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "what is the topic",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "health",
-            "question": "Is this for a health or fitness site?",
-            "description": "A group of people are working out on indoor rowing machines at a gym."
-        },
-        {
-            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-            "category": "health",
-            "question": "What kind of yoga are they doing?",
-            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-        },
-        {
-            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "health",
-            "question": "What percentage of gym goers use these machines?",
-            "description": "A group of people are working out on indoor rowing machines at a gym."
-        },
-        {
-            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
-            "category": "health",
-            "question": "How old is the child?",
-            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
-        },
-        {
-            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-            "category": "health",
-            "question": "Are the patrons staring at her?",
-            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
-        },
-        {
-            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
-            "category": "health",
-            "question": "Why are they here?",
-            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
-        },
-        {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "question": "what is the event",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
-        },
-        {
-            "filename": "images/health/Foods_(cropped).jpeg",
-            "category": "social_media",
-            "question": "What types of fruit are shown?",
-            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
-        },
-        {
-            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "social_media",
-            "question": "Where is this",
+            "question": "What kind of body of water is the boat in?",
             "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
         },
         {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "category": "social_media",
-            "question": "how many seals are there?",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge."
+            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+            "category": "travel",
+            "question": "About how many people are there?",
+            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
         },
         {
-            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
-            "category": "social_media",
-            "question": "what is the subject",
-            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+            "category": "science_journals",
+            "question": "How dense are the trees?",
+            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
         },
         {
-            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+            "category": "science_journals",
+            "question": "Is this a forest environment or something else?",
+            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
             "category": "social_media",
-            "question": "Is the backdrop purely green or are  there other notable details?",
-            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
+            "question": "Are they walking in a line or next to each other?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+            "category": "shopping",
+            "question": "What style is the sofa?",
+            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
+        },
+        {
+            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+            "category": "news",
+            "question": "Is it a dense cluster or more scattered?",
+            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
         },
         {
             "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
@@ -313,75 +85,57 @@ var main_trials = {
             "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
         },
         {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "filename": "images/travel/26005.jpg",
+            "category": "travel",
+            "question": "What is the destination?",
+            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+        },
+        {
+            "filename": "images/social_media/54183.jpg",
             "category": "social_media",
-            "question": "What kind of obstacle is the horse jumping over?",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+            "question": "Who is this? ",
+            "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
+            "category": "news",
+            "question": "What is his career?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
+        },
+        {
+            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+            "category": "shopping",
+            "question": "Is he a professional athlete?",
+            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
+        },
+        {
+            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+            "category": "shopping",
+            "question": "Is he someone well-known?",
+            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
         },
         {
             "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-            "category": "social_media",
-            "question": "Is it an ad?",
+            "category": "health",
+            "question": "Is this for a health or fitness site?",
             "description": "A group of people are working out on indoor rowing machines at a gym."
         },
         {
-            "filename": "images/health/2456.jpg",
-            "category": "social_media",
-            "question": "who social media page is it.",
-            "description": "A bowl of Asian noodle salad with vegetables and herbs."
-        },
-        {
-            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-            "category": "social_media",
-            "question": "How big is the fire?",
-            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "social_media",
-            "question": "What are the surroundings of the volcano?",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
-        },
-        {
-            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
-            "category": "social_media",
-            "question": "What buildings are there?",
-            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
-        },
-        {
             "filename": "images/travel/30208.jpg",
-            "category": "social_media",
-            "question": "What buildings are in the image.",
+            "category": "travel",
+            "question": "What country is this?",
             "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
         },
         {
-            "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
-            "category": "social_media",
-            "question": "Is this a hotel or suite?",
-            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
-        },
-        {
-            "filename": "images/news/Showjumping_white_horse.jpeg",
-            "category": "social_media",
-            "question": "Who is in the picture?",
-            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
-        },
-        {
             "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "question": "Are they taking nature based pictures?",
+            "category": "shopping",
+            "question": "What is the photographers expression?",
             "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
         },
         {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "How long before it hatches?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
             "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "question": "What's the photographer camouflaged with?",
+            "category": "shopping",
+            "question": "What side of the photographer is being shown?",
             "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
         },
         {
@@ -391,202 +145,40 @@ var main_trials = {
             "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
         },
         {
-            "filename": "images/travel/37044.jpg",
-            "category": "science_journals",
-            "question": "How old does the church look?",
-            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "Are there other organisms near the egg or is it alone on the branch?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "question": "Are there any signs of wildlife around?",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-        },
-        {
-            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
-            "category": "science_journals",
-            "question": "How dense are the trees?",
-            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "question": "Are there animals in the photo?",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-        },
-        {
-            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
-            "category": "science_journals",
-            "question": "how friendly are these seals on the water's edge?",
-            "description": "A colony of seals lounges on rocky terrain near the water's edge."
-        },
-        {
-            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-            "category": "science_journals",
-            "question": "How is the weather and environment?",
-            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "How long will it stay translucent for?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
-            "category": "science_journals",
-            "question": "Can you provide the eruption details?",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "how old is the egg",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "science_journals",
-            "question": "What type of water is the egg case in--ocean, murky swamp, etc?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
-            "category": "science_journals",
-            "question": "What kind of tree is it?",
-            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
-        },
-        {
-            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
             "category": "shopping",
-            "question": "is this for adults or kids?",
-            "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+            "question": "What is Obama doing?",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
         },
         {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
+            "category": "travel",
+            "question": "Where is this place?",
+            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
+        },
+        {
+            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
+            "category": "travel",
+            "question": "What season is this?",
+            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
+        },
+        {
+            "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+            "category": "social_media",
+            "question": "How rich are these people?",
+            "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
+        },
+        {
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
             "category": "shopping",
-            "question": "Are there any other people in the image?",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+            "question": "What color are his eyes?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
         },
         {
-            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+            "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
             "category": "shopping",
-            "question": "Where can I find her clothes. ",
-            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
-        },
-        {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "shopping",
-            "question": "What is the significance of shipwreck to consumers?",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
-        },
-        {
-            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-            "category": "shopping",
-            "question": "Are there are men using the equipment?",
-            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
-        },
-        {
-            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
-            "category": "shopping",
-            "question": "what race of people?",
-            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "shopping",
-            "question": "Does it show something related to the store?",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-        },
-        {
-            "filename": "images/travel/2550.jpg",
-            "category": "shopping",
-            "question": "What country is the beach from.",
-            "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around."
-        },
-        {
-            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-            "category": "shopping",
-            "question": "Do they look happy while using the equipment?",
-            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
-        },
-        {
-            "filename": "images/shopping/Electric_kettle.jpeg",
-            "category": "shopping",
-            "question": "Do you think it looks good?",
-            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
-        },
-        {
-            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
-            "category": "shopping",
-            "question": "What else the model wearing?",
-            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
-        },
-        {
-            "filename": "images/travel/Wdomenada2003b.jpeg",
-            "category": "shopping",
-            "question": "Are these people men or women?",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
-        },
-        {
-            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-            "category": "shopping",
-            "question": "Is it a trendy, formal or causal look being displayed?",
-            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
-        },
-        {
-            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-            "category": "shopping",
-            "question": "What are they selling?",
-            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
-        },
-        {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-            "category": "shopping",
-            "question": "What is it related to?",
-            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-        },
-        {
-            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-            "category": "news",
-            "question": "Is it dark out?",
-            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-        },
-        {
-            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
-            "category": "news",
-            "question": "Where is the fire? ",
-            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire."
-        },
-        {
-            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
-            "category": "news",
-            "question": "Is it day or night in the image?",
-            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
-        },
-        {
-            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
-            "category": "news",
-            "question": "Is this a fashion ad?",
-            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
-        },
-        {
-            "filename": "images/travel/26005.jpg",
-            "category": "news",
-            "question": "where is the smoke coming from?",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
-        },
-        {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "question": "What sort of people are they?",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+            "question": "How tall is the guy?",
+            "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears."
         },
         {
             "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
@@ -595,70 +187,220 @@ var main_trials = {
             "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
         },
         {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "question": "Where is the fashion show?",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
+            "category": "health",
+            "question": "How old is the child?",
+            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
         },
         {
-            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
-            "category": "news",
-            "question": "How large is the runway?",
-            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "shopping",
+            "question": "What kind of dress is she wearing?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
         },
         {
-            "filename": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "shopping",
+            "question": "How old does the woman appear to be?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+            "category": "science_journals",
+            "question": "What kind of tree is it?",
+            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+        },
+        {
+            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
             "category": "news",
-            "question": "Is the picture real or computer generated?",
-            "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars."
+            "question": "What were they protesting or supporting?",
+            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
+        },
+        {
+            "filename": "images/news/Rally_Against_Asset_Sales,_Palmerston_North,_14_July_2012_07.jpeg",
+            "category": "news",
+            "question": "Where did this take place?",
+            "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day."
+        },
+        {
+            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+            "category": "science_journals",
+            "question": "Why was this location selected?",
+            "description": "A colony of seals lounges on rocky terrain near the water's edge."
+        },
+        {
+            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+            "category": "shopping",
+            "question": "How many women typically wear such garb in the U.S.?",
+            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
+        },
+        {
+            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "health",
+            "question": "What percentage of gym goers use these machines?",
+            "description": "A group of people are working out on indoor rowing machines at a gym."
         },
         {
             "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
-            "category": "news",
-            "question": "why do you like soccer",
+            "category": "shopping",
+            "question": "Is the player famous? ",
             "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
         },
         {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "category": "news",
-            "question": "When was this photo taken?",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
-        },
-        {
-            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
-            "category": "news",
-            "question": "Is there anything around the object?",
-            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
-        },
-        {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-            "category": "news",
-            "question": "what is a nebula?",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "category": "science_journals",
+            "question": "What time of day is it",
+            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
         },
         {
             "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
             "category": "news",
-            "question": "Are people cheering? ",
+            "question": "Did the team win a championship?",
             "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
         },
         {
-            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+            "category": "science_journals",
+            "question": "What color is the space station?",
+            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
+        },
+        {
+            "filename": "images/shopping/4068.jpg",
+            "category": "health",
+            "question": "Is the person old, young, healthy, or sick?",
+            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
+        },
+        {
+            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
             "category": "news",
-            "question": "Who is doing the research.",
-            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+            "question": "What color is the laser beam?",
+            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
         },
         {
-            "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "question": "What ethnicity is the woman?",
-            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+            "filename": "images/travel/37044.jpg",
+            "category": "science_journals",
+            "question": "What color is the church?",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
         },
         {
-            "filename": "images/travel/30208.jpg",
+            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+            "category": "social_media",
+            "question": "how many seals are there?",
+            "description": "A colony of seals lounges on rocky terrain near the water's edge."
+        },
+        {
+            "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+            "category": "shopping",
+            "question": "Are their bubbles in the hot tub?",
+            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
+        },
+        {
+            "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+            "category": "shopping",
+            "question": "What gender are the people in the hot tub?",
+            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
+        },
+        {
+            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+            "category": "news",
+            "question": "what does this have to do with news?",
+            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+        },
+        {
+            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+            "category": "shopping",
+            "question": "Does the swimmer look like a professional?",
+            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
+        },
+        {
+            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+            "category": "social_media",
+            "question": "are families included in the group of people?",
+            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+        },
+        {
+            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+            "category": "social_media",
+            "question": "Is the backdrop purely green or are  there other notable details?",
+            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "health",
+            "question": "What gender is the person?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "health",
+            "question": "Where does the beach appear to be located?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
             "category": "travel",
-            "question": "What country is this?",
-            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+            "question": "Is there a destination tied to the photo?",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
+            "category": "travel",
+            "question": "Why is this on a travel website.",
+            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
+        },
+        {
+            "filename": "images/shopping/4068.jpg",
+            "category": "health",
+            "question": "What does this have to do with a health website.",
+            "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body."
+        },
+        {
+            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+            "category": "shopping",
+            "question": "Where can I find her clothes. ",
+            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+        },
+        {
+            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+            "category": "news",
+            "question": "Did we discover something?",
+            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+        },
+        {
+            "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+            "category": "news",
+            "question": "Is something happening?",
+            "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
+        },
+        {
+            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+            "category": "shopping",
+            "question": "Is this a sporting goods website advertising swimwear and accessories?",
+            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
+        },
+        {
+            "filename": "images/health/USMC-Rich_Froning_Jr.jpeg",
+            "category": "shopping",
+            "question": "Is there a marathon coming up?",
+            "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined."
+        },
+        {
+            "filename": "images/travel/26005.jpg",
+            "category": "travel",
+            "question": "Are they having a parade or festival? ",
+            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+        },
+        {
+            "filename": "images/travel/Water_skiing_on_the_yarra02.jpeg",
+            "category": "social_media",
+            "question": "Where were they at?",
+            "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
+        },
+        {
+            "filename": "images/social_media/170px-Baked_goods.jpeg",
+            "category": "health",
+            "question": "Why breads on a health website?",
+            "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
         },
         {
             "filename": "images/travel/30208.jpg",
@@ -673,10 +415,280 @@ var main_trials = {
             "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
         },
         {
-            "filename": "images/travel/37044.jpg",
+            "filename": "images/science_journals/Arctocephalus_Pusillus_Pusillus.jpeg",
+            "category": "science_journals",
+            "question": "how friendly are these seals on the water's edge?",
+            "description": "A colony of seals lounges on rocky terrain near the water's edge."
+        },
+        {
+            "filename": "images/news/London_Marathon_2005_at_Blackfriars.jpeg",
+            "category": "health",
+            "question": "this marathon is really crowded, what occasion is it? ",
+            "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside."
+        },
+        {
+            "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
+            "category": "health",
+            "question": "Where is this waterfall located?",
+            "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "Who is the woman in the image?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "In what context was this image captured?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "category": "science_journals",
+            "question": "Can you provide the eruption details?",
+            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
+        },
+        {
+            "filename": "images/health/Cycling_in_Amsterdam_(893).jpeg",
             "category": "travel",
-            "question": "Are there people in the photo?",
+            "question": "Are bike rentals available, if so where?",
+            "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats."
+        },
+        {
+            "filename": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+            "category": "travel",
+            "question": "What does the scenery around the gorilla look like?",
+            "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open"
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "social_media",
+            "question": "What are the surroundings of the volcano?",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+        },
+        {
+            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
+            "category": "news",
+            "question": "Where is the rally?",
+            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
+        },
+        {
+            "filename": "images/travel/Wdomenada2003b.jpeg",
+            "category": "travel",
+            "question": "What is the appeared gender of the two people?",
+            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
+        },
+        {
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+            "category": "shopping",
+            "question": "Do the clothes look appropriate for the gym?",
+            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+        },
+        {
+            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+            "category": "social_media",
+            "question": "How big is the fire?",
+            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
+        },
+        {
+            "filename": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+            "category": "social_media",
+            "question": "Are there any houses nearby?",
+            "description": "A wildfire engulfs trees in fierce orange flames against a dark background."
+        },
+        {
+            "filename": "images/social_media/170px-Baked_goods.jpeg",
+            "category": "health",
+            "question": "How many rolls are there?",
+            "description": "Baskets of fresh baked rolls and cornbread with honey on the side."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "What's the photographer camouflaged with?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+            "category": "travel",
+            "question": "Is it always crowded",
+            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+        },
+        {
+            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
+            "category": "science_journals",
+            "question": "Where is this happening",
+            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
+        },
+        {
+            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+            "category": "social_media",
+            "question": "Where is this",
+            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "shopping",
+            "question": "Is this advertising the camera",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "shopping",
+            "question": "How much is it",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+            "category": "shopping",
+            "question": "what race of people?",
+            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
+        },
+        {
+            "filename": "images/travel/30208.jpg",
+            "category": "social_media",
+            "question": "what historic buildings",
+            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+        },
+        {
+            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
+            "category": "science_journals",
+            "question": "how big is the fire",
+            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire."
+        },
+        {
+            "filename": "images/travel/30208.jpg",
+            "category": "social_media",
+            "question": "What city is it.",
+            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+        },
+        {
+            "filename": "images/travel/30208.jpg",
+            "category": "social_media",
+            "question": "What buildings are in the image.",
+            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "health",
+            "question": "How many calories are in the salad.",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "health",
+            "question": "What country is the salad from.",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "news",
+            "question": "How old is the woman.",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/travel/2550.jpg",
+            "category": "shopping",
+            "question": "What country is the beach from.",
+            "description": "A busy beach scene with colorful kayaks laid out on sand and people milling around."
+        },
+        {
+            "filename": "images/social_media/220px-Paljuilua_1.jpeg",
+            "category": "travel",
+            "question": "Are they smiling?",
+            "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
+        },
+        {
+            "filename": "images/travel/37044.jpg",
+            "category": "science_journals",
+            "question": "How old does the church look?",
             "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+        },
+        {
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+            "category": "shopping",
+            "question": "Do they look happy while using the equipment?",
+            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+        },
+        {
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+            "category": "shopping",
+            "question": "Are there are men using the equipment?",
+            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+        },
+        {
+            "filename": "images/science_journals/STS-130_Endeavour_flyaround_5.jpeg",
+            "category": "news",
+            "question": "What colors are in the image.",
+            "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve."
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "shopping",
+            "question": "Are there any other people in the image?",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+        },
+        {
+            "filename": "images/shopping/Recording_artist_Leigh_Jones_entertained_troops_at_Fort_Belvoir_090501_(4920457551).jpeg",
+            "category": "travel",
+            "question": "Why is she wearing a knitted sweater when the sun is out?",
+            "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow."
+        },
+        {
+            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+            "category": "health",
+            "question": "Is this a sofa in a doctor's office?",
+            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
+        },
+        {
+            "filename": "images/travel/30208.jpg",
+            "category": "social_media",
+            "question": "Is the city busy or empty?",
+            "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky."
+        },
+        {
+            "filename": "images/health/440px-Jogging_Woman_in_Grass.jpeg",
+            "category": "health",
+            "question": "Is the advertisement for exercise only, a new diet, a weight-loss medication, etc.",
+            "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "social_media",
+            "question": "Is the hot tub near a pool?",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
+            "category": "news",
+            "question": "Do the men look mean or nice?",
+            "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by."
+        },
+        {
+            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
+            "category": "science_journals",
+            "question": "How many people?",
+            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
+        },
+        {
+            "filename": "images/news/Astronauts_in_weightlessness.jpeg",
+            "category": "science_journals",
+            "question": "Is it a real plane or a simulation?",
+            "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity."
+        },
+        {
+            "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+            "category": "health",
+            "question": "Are the patrons staring at her?",
+            "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
+        },
+        {
+            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "social_media",
+            "question": "Is it an ad?",
+            "description": "A group of people are working out on indoor rowing machines at a gym."
         },
         {
             "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
@@ -685,52 +697,142 @@ var main_trials = {
             "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
         },
         {
-            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "filename": "images/travel/37044.jpg",
+            "category": "science_journals",
+            "question": "Is this a location of a scientific discovery?",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+        },
+        {
+            "filename": "images/travel/37044.jpg",
+            "category": "science_journals",
+            "question": "What is the significance of this image to a scientific article?",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+        },
+        {
+            "filename": "images/news/220px-Whales_Bubble_Net_Feeding-edit1.jpeg",
+            "category": "news",
+            "question": "How do these whales relate to the story?",
+            "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
+        },
+        {
+            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "social_media",
+            "question": "What are the people's facial expressions? ",
+            "description": "A group of people are working out on indoor rowing machines at a gym."
+        },
+        {
+            "filename": "images/news/Gov_Walker_Protests1_JR.jpeg",
             "category": "travel",
-            "question": "How blue is the water?",
-            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+            "question": "What happened? ",
+            "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building."
+        },
+        {
+            "filename": "images/science_journals/Wildland_Firefighter.jpeg",
+            "category": "news",
+            "question": "Where is the fire? ",
+            "description": "A firefighter in yellow gear directs a hose at vegetation, presumably to extinguish or prevent a fire."
+        },
+        {
+            "filename": "images/science_journals/260px-Tidepools_Small.jpeg",
+            "category": "science_journals",
+            "question": "Can you see any animals? ",
+            "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks."
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "travel",
+            "question": "Where are these temples located?",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "travel",
+            "question": "Does the site really offer balloon tours of the place?",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+        },
+        {
+            "filename": "images/shopping/685px-Sofa3800ppx.jpeg",
+            "category": "health",
+            "question": "Is this a product they offer or part of a location they want you to visit or?",
+            "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion."
+        },
+        {
+            "filename": "images/social_media/Heidi_Klum4crop.jpeg",
+            "category": "shopping",
+            "question": "If the dress is for sale, what brand, model, etc.?",
+            "description": "A smiling woman with blonde bob haircut, wearing a red dress."
+        },
+        {
+            "filename": "images/travel/13957.jpg",
+            "category": "social_media",
+            "question": "How does this image relate to the site?",
+            "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible."
         },
         {
             "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
-            "category": "travel",
-            "question": "What color is the stingray?",
+            "category": "science_journals",
+            "question": "Is there anything else of significance in the image?",
             "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
         },
         {
-            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+            "category": "social_media",
+            "question": "What gym is this at?",
+            "description": "A group of people are working out on indoor rowing machines at a gym."
+        },
+        {
+            "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
             "category": "travel",
-            "question": "Where is it?",
-            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
+            "question": "Is hiking popular there?",
+            "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance."
+        },
+        {
+            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+            "category": "science_journals",
+            "question": "What is this location?",
+            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
+        },
+        {
+            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+            "category": "science_journals",
+            "question": "Was there a new aquatic discovery?",
+            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
         },
         {
             "filename": "images/shopping/Virti_vaghani.jpeg",
-            "category": "travel",
-            "question": "Is there anything else in the building?",
+            "category": "shopping",
+            "question": "Is there anyone else in the image?",
             "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
         },
         {
-            "filename": "images/travel/26005.jpg",
-            "category": "travel",
-            "question": "What is the destination?",
-            "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky."
+            "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+            "category": "social_media",
+            "question": "Is this a hotel or suite?",
+            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
         },
         {
-            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-            "category": "travel",
-            "question": "How pricey is this?",
-            "description": "A group of people sitting a hot tub located"
+            "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+            "category": "social_media",
+            "question": "Is there anyone in the picture?",
+            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
         },
         {
-            "filename": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
-            "category": "travel",
-            "question": "About how many people are there?",
-            "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank."
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How many people?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
         },
         {
-            "filename": "images/travel/Wdomenada2003b.jpeg",
-            "category": "travel",
-            "question": "Are their trees or bushes in the area where they are skiing?",
-            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "question": "What is the point of the story?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "question": "What type of egg case is this?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
         },
         {
             "filename": "images/social_media/220px-Paljuilua_1.jpeg",
@@ -739,10 +841,779 @@ var main_trials = {
             "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
         },
         {
-            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "What is the caption or description below the image?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "What are they shooting?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+            "category": "shopping",
+            "question": "What is the significance of shipwreck to consumers?",
+            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "category": "social_media",
+            "question": "What kind of obstacle is the horse jumping over?",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How big is the group?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+            "category": "shopping",
+            "question": "What race is the model?",
+            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
+        },
+        {
+            "filename": "images/social_media/Model_Posing_On_Typical_Studio_Set.jpeg",
+            "category": "shopping",
+            "question": "What else the model wearing?",
+            "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "news",
+            "question": "Where is the fashion show?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/travel/37044.jpg",
             "category": "travel",
-            "question": "Does the site really offer balloon tours of the place?",
+            "question": "Where is the island?",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+        },
+        {
+            "filename": "images/travel/37044.jpg",
+            "category": "travel",
+            "question": "Are there people in the photo?",
+            "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "Are there animals in the photo?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "Where was the photo taken?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Where was this picture taken.",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How old do the participants appear to be.",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+            "category": "shopping",
+            "question": "Where are the items are women is wearing be sold?",
+            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+        },
+        {
+            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+            "category": "shopping",
+            "question": "Are the items all from one website or a combination of others.",
+            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+        },
+        {
+            "filename": "images/shopping/Window_seat_(one_of_a_pair)_(part_of_a_set)_MET_DP-14061-208.jpeg",
+            "category": "social_media",
+            "question": "Is this an adverstisment?",
+            "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "What is the photographer trying to photograph?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+            "category": "shopping",
+            "question": "What does the shipwreck have to do with it?",
+            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "When did they launch into space?",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What do they have their mats on rocks?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "social_media",
+            "question": "What does this have to do with social media",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "What species of egg is it?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
+            "category": "travel",
+            "question": "Is this an actual picture of the beach I will be staying at?",
+            "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in."
+        },
+        {
+            "filename": "images/social_media/220px-Summer_Games_Done_Quick_attendees_(48149404692).jpeg",
+            "category": "news",
+            "question": "Where is this event held?",
+            "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
+        },
+        {
+            "filename": "images/shopping/Electric_kettle.jpeg",
+            "category": "shopping",
+            "question": "Do you think it looks good?",
+            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
+        },
+        {
+            "filename": "images/shopping/Electric_kettle.jpeg",
+            "category": "shopping",
+            "question": "Would you buy this?",
+            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "what is the subject",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "what is the event",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "what is the activity",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "what is the topic",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "is this relevant",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "who is the subject",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "what is the subject",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "shopping",
+            "question": "What is it related to?",
             "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-        }        
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "shopping",
+            "question": "Does it show something related to the store?",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "news",
+            "question": "What sort of people are they?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "travel",
+            "question": "How nice is the place?",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Where is it located?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/news/Showjumping_white_horse.jpeg",
+            "category": "social_media",
+            "question": "Who is in the picture?",
+            "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "Is it an ad for a product?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/travel/Wdomenada2003b.jpeg",
+            "category": "travel",
+            "question": "Are their trees or bushes in the area where they are skiing?",
+            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What yoga pose is the group in?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+            "category": "news",
+            "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+            "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "travel",
+            "question": "What location is this person in?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "travel",
+            "question": "How close is the person to the water?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "news",
+            "question": "How large is the runway?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/shopping/Astrid_Andersen_01.jpeg",
+            "category": "news",
+            "question": "How many people are in the audience?",
+            "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose."
+        },
+        {
+            "filename": "images/shopping/Green_brocade_silk_saree.jpeg",
+            "category": "shopping",
+            "question": "What race is the woman shown in the sari?",
+            "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Are the people on the grass?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How many people are there?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "travel",
+            "question": "What ethnicity is the woman?",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+        },
+        {
+            "filename": "images/shopping/Virti_vaghani.jpeg",
+            "category": "travel",
+            "question": "Is there anything else in the building?",
+            "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building."
+        },
+        {
+            "filename": "images/science_journals/220px-Pahoeoe_fountain_original.jpeg",
+            "category": "news",
+            "question": "Are there any buildings or structures in the photo?",
+            "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Are the members of the group men or women?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How many members are there in the group?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "travel",
+            "question": "How many people are in the hot tub?",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "Are there other models behind her?",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "Does it look appetizing?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "travel",
+            "question": "Where is the beach?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/social_media/A_yoga_namaste_Hindu_culture_religion_rites_rituals_sights.jpeg",
+            "category": "travel",
+            "question": "How blue is the water?",
+            "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Do they seem happy?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Are these people healthy?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "Was there a new breakthrough in space tech?",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "where is the runway located",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "what is the event for",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "travel",
+            "question": "what is the scenery around the group of people",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "where is the group located",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "what is the scenery like",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/shopping/Electric_kettle.jpeg",
+            "category": "shopping",
+            "question": "where is this kettle plugged into?",
+            "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background."
+        },
+        {
+            "filename": "images/health/Foods_(cropped).jpeg",
+            "category": "social_media",
+            "question": "who is selling them?",
+            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "travel",
+            "question": "where are we?",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "what is a nebula?",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "why are we seeing this nebula?",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "is there a local class?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+            "category": "shopping",
+            "question": "is this for adults or kids?",
+            "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+        },
+        {
+            "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
+            "category": "news",
+            "question": "How cold does it get?",
+            "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What is the position they are doing",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+            "category": "travel",
+            "question": "When did the ship wreck",
+            "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "Where are they at",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "how old is the egg",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/news/ARG_Line-up_-_ARG_vs_MEX_for_2022_FIFA_WC.jpeg",
+            "category": "shopping",
+            "question": "whats the team name",
+            "description": "A soccer team in striped blue and white kits poses for a group photo on the field."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "Are there other organisms near the egg or is it alone on the branch?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "What type of water is the egg case in--ocean, murky swamp, etc?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "What is surrounding the nebula?",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Are they men or women?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "When was this photo taken?",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/travel/Wdomenada2003b.jpeg",
+            "category": "shopping",
+            "question": "Are these people men or women?",
+            "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
+        },
+        {
+            "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+            "category": "news",
+            "question": "Who is doing the research.",
+            "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
+        },
+        {
+            "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+            "category": "travel",
+            "question": "How pricey is this?",
+            "description": "A group of people sitting a hot tub located"
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "How long will it stay translucent for?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What kind of yoga are they doing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Is this a class in my area?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "where is the group",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "what is the point of this",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+            "category": "social_media",
+            "question": "who is the model",
+            "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
+        },
+        {
+            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+            "category": "news",
+            "question": "why do you like soccer",
+            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+        },
+        {
+            "filename": "images/news/Cristiano_Ronaldo_20120609.jpeg",
+            "category": "news",
+            "question": "where was the game",
+            "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field."
+        },
+        {
+            "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+            "category": "travel",
+            "question": "why am i being shown a diver",
+            "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
+        },
+        {
+            "filename": "images/health/Foods_(cropped).jpeg",
+            "category": "social_media",
+            "question": "What types of fruit are shown?",
+            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
+        },
+        {
+            "filename": "images/health/Foods_(cropped).jpeg",
+            "category": "social_media",
+            "question": "What types of veggies are shown?",
+            "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What pose are they doing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What are they wearing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "How big is the egg?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "science_journals",
+            "question": "What color is the egg?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "What type of vegetables are included?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "question": "Can you tell me what the color, size and texture looks like?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+            "category": "shopping",
+            "question": "Is it a trendy, formal or causal look being displayed?",
+            "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag."
+        },
+        {
+         "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "What kind of environment is the photographer laying in?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "Are there any signs of wildlife around?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Why type of group is it, mostly female or male and also age specific?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Any specific pose or mediation they are performing?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Is it advertising a product?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "shopping",
+            "question": "Is this an advertisement?",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "question": "What is this about?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "How many people are in the picture?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "what time of day is it in the pic?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "who social media page is it.",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "How is the weather and environment?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+            "category": "shopping",
+            "question": "Is it daytime?",
+            "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "What vegetables?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "Where is the bowl? On a table?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "What do the people look like?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        },
+        {
+            "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+            "category": "news",
+            "question": "Is it dark out?",
+            "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
+        },
+        {
+            "filename": "images/science_journals/Common_stingray_tenerife.jpeg",
+            "category": "travel",
+            "question": "What color is the stingray?",
+            "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail."
+        },
+        {
+            "filename": "images/health/2456.jpg",
+            "category": "social_media",
+            "question": "What types of vegetables are in the noodles?",
+            "description": "A bowl of Asian noodle salad with vegetables and herbs."
+        },
+        {
+            "filename": "images/news/Avalanche_on_Everest.jpeg",
+            "category": "travel",
+            "question": "Where is it?",
+            "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby."
+        },
+        {
+            "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
+            "category": "science_journals",
+            "question": "Is the photographer in a regular forest or in a jungle?",
+            "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
+        },
+        {
+            "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+            "category": "health",
+            "question": "Are the people overweight?",
+            "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
+        }
+    
     ]
 }
