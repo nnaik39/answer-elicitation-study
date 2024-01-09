@@ -5158,5 +5158,226 @@
             "The photographer is trying to blend in with a grassy setting, so that his subjects can't see him observing them.",
             "It appears that he's in a wooded or jungle setting."
         ]
+    },
+    {
+        "image": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
+        "context": "shopping",
+        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
+        "question": "What is the site trying to sell?",
+        "answers": [
+            "",
+            "Diver gear",
+            "",
+            "They are selling scuba gear."
+        ]
+    },
+    {
+        "image": "images/travel/440px-Taki-gyo_8118084.jpeg",
+        "context": "travel",
+        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
+        "question": "Is the woman alone or is this part of a meditation class?",
+        "answers": [
+            "",
+            "it is a man and they are alone",
+            "this is a man, and he appears to be alone",
+            "",
+            "The man appears to be alone."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "What sort of yoga are they doing?",
+        "answers": [
+            "",
+            "They are doing a yoga class where an instructor leads a group of others.",
+            "While the specific type of yoga is hard to determine, the people are sitting cross-legged on yoga mats in a natural setting with their arms upstretched on either side of their head."
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
+        "context": "shopping",
+        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
+        "question": "is the person male or female?",
+        "answers": [
+            "",
+            "",
+            "cant tell from the picture",
+            "This can not be answered in the photo due to it being so far away",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/Wdomenada2003b.jpeg",
+        "context": "shopping",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "Are the skis what is for sale?",
+        "answers": [
+            "The skis are what is for sale. Though, an argument could be made that other outdoor equipment like their clothes or backpacks could be for sale.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
+        "context": "science_journals",
+        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
+        "question": "Where can I see this?",
+        "answers": [
+            "It is deep in outer space.",
+            "You might be able to through a normal telescope. Depending on the distance, you might need to visit an observatory.",
+            "Outside at night if you have access to a large telescope. ",
+            "You can see this in the sky, or through other medias such as websites or television reporting on nebulas"
+        ]
+    },
+    {
+        "image": "images/science_journals/Geographic_Southpole_crop.jpeg",
+        "context": "news",
+        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
+        "question": "What happened in the South Pole?",
+        "answers": [
+            "Americans made it to the South Pole. ",
+            "",
+            "There was an American individual or group that had set foot on the South Pole."
+        ]
+    },
+    {
+        "image": "images/health/2456.jpg",
+        "context": "social_media",
+        "description": "A bowl of Asian noodle salad with vegetables and herbs.",
+        "question": "Any particular type of asian cuisine this represents?",
+        "answers": [
+            "It is not clear what type of Asian cuisine this is. ",
+            "I don't see anything that indicates which particular type of Asian cuisine. I would guess vietnamese based on the noodles.",
+            "",
+            "This type of rice noodle is most commonly associated with Chinese cuisine, however, it is not specific to Chinese cuisine so it is difficult to say if this dish represents one specific type of Asian cuisine."
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Where is this?",
+        "answers": [
+            "",
+            "beside a river.",
+            "It is outdoors next to large rock. "
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "news",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "does the image look scary?",
+        "answers": [
+            "it does not",
+            "The image does not look scary but it does show how large the galaxy is compared to the earth.",
+            "It might look a bit scary, since there is a a laser coming out from an opening in the observatory. The image is also very dark, aside from the laser and the stars in the sky. ",
+            "Because the photo is taken at night, it could appear scary to some, however, nothing particularly scary or horrific is shown in the image. Rather, the starry sky is enhanced in the photo to emphasize the Milky Way galaxy."
+        ]
+    },
+    {
+        "image": "images/science_journals/Shaki_Waterfall2.jpeg",
+        "context": "travel",
+        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
+        "question": "Is it sunny?",
+        "answers": [
+            "Yes, it is sunny",
+            "Yes, it seems to be in the morning. The sky is a clear blue.",
+            "Yes, there's blue sky and a bit of sunshine reflecting off the falls."
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "where are the people located",
+        "answers": [
+            "in a bath tub ",
+            "There is snow in the background, so it appears to be in the mountains or somewhere with a cold climate, but their exact location is unknown. ",
+            "They are located in a wooden hot tub in a snowy location close to some nearby trees.",
+            "The people are outside in a hot tub. The hot tub is in the snow next to evergreen trees"
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "What is he waiting to take a picture of?",
+        "answers": [
+            "of an animal he is hunting",
+            "",
+            "An animal/bird he is studying or photographing."
+        ]
+    },
+    {
+        "image": "images/science_journals/220px-Wildlife_photography.jpeg",
+        "context": "science_journals",
+        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
+        "question": "Are they photographing a certain animal?",
+        "answers": [
+            "",
+            "",
+            "They are more likely photographing an animal considering the photographer was camouflaged to look hidden."
+        ]
+    },
+    {
+        "image": "images/travel/Wdomenada2003b.jpeg",
+        "context": "travel",
+        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
+        "question": "Is their a town or buildings around?",
+        "answers": [
+            "No, no town or buildings around",
+            "There isn't a town or buildings around.",
+            "There are no towns or buildings around in this image. "
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "science_journals",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "Where is this located?",
+        "answers": [
+            "This is located in the ocean.",
+            "In the ocean or sea",
+            "The photo is taken underwater, but the specific geographic location is impossible to discern."
+        ]
+    },
+    {
+        "image": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
+        "context": "health",
+        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
+        "question": "What kind of gym equipment machine is this specifically?",
+        "answers": [
+            "This is a leg exercise machine.",
+            "I don't recall the name of the machine, but it is the one used for leg lifts, where you prop your thigh against and pull back.",
+            ""
+        ]
+    },
+    {
+        "image": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
+        "context": "social_media",
+        "description": "A group of people are working out on indoor rowing machines at a gym.",
+        "question": "Are there more males or females?",
+        "answers": [
+            "There are slightly more females.",
+            "There are more females than males.",
+            "There are about four females and two males in the picture.",
+            "more females than males"
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "who took the pic?",
+        "answers": [
+            "",
+            "An underwater photographer",
+            "Definitely a diver"
+        ]
     }
 ]

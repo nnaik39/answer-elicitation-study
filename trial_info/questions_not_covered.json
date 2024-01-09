@@ -186,12 +186,6 @@
         "description": "A person in a red and white suit is water skiing on a river, creating a spray of water."
     },
     {
-        "filename": "images/science_journals/Artist_impression_of_the_huge_outflow_ejected_from_the_quasar_SDSS_J1106+1939.jpeg",
-        "category": "science_journals",
-        "question": "Where can I see this?",
-        "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
-    },
-    {
         "filename": "images/shopping/440px-Tyson_Beckford_(cropped).jpeg",
         "category": "shopping",
         "question": "What color are his eyes?",
@@ -302,12 +296,6 @@
     {
         "filename": "images/travel/Wdomenada2003b.jpeg",
         "category": "shopping",
-        "question": "Are the skis what is for sale?",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
-    },
-    {
-        "filename": "images/travel/Wdomenada2003b.jpeg",
-        "category": "shopping",
         "question": "Are the people male or female?",
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
     },
@@ -346,12 +334,6 @@
         "category": "shopping",
         "question": "What gender are the people in the hot tub?",
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery."
-    },
-    {
-        "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
-        "category": "news",
-        "question": "does the image look scary?",
-        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy."
     },
     {
         "filename": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
@@ -588,12 +570,6 @@
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
-        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "category": "science_journals",
-        "question": "Are they photographing a certain animal?",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
         "filename": "images/social_media/Woman_running_barefoot_on_beach.jpeg",
         "category": "travel",
         "question": "Is it always crowded",
@@ -762,12 +738,6 @@
         "description": "A group of people sitting a hot tub located"
     },
     {
-        "filename": "images/travel/440px-Taki-gyo_8118084.jpeg",
-        "category": "travel",
-        "question": "Is the woman alone or is this part of a meditation class?",
-        "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose."
-    },
-    {
         "filename": "images/news/Livingood_Obama_State_of_the_Union_2011.jpeg",
         "category": "news",
         "question": "Do the men look mean or nice?",
@@ -810,12 +780,6 @@
         "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
     },
     {
-        "filename": "images/science_journals/Shaki_Waterfall2.jpeg",
-        "category": "travel",
-        "question": "Is it sunny?",
-        "description": "A majestic waterfall cascades over rocks surrounded by lush greenery."
-    },
-    {
         "filename": "images/travel/37044.jpg",
         "category": "science_journals",
         "question": "Is this a location of a scientific discovery?",
@@ -832,12 +796,6 @@
         "category": "news",
         "question": "How do these whales relate to the story?",
         "description": "A group of humpback whales is breaching with their mouths open in the ocean, with a seagull flying overhead."
-    },
-    {
-        "filename": "images/health/Amanda_Francozo_At_The_Runner_Sports-5.jpeg",
-        "category": "health",
-        "question": "What kind of gym equipment machine is this specifically?",
-        "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background."
     },
     {
         "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
@@ -912,18 +870,6 @@
         "description": "A group of people are working out on indoor rowing machines at a gym."
     },
     {
-        "filename": "images/health/CWV_(427_of_544)_-_FRIYAY_Roux_Fitness,_Jefferson_Louisiana_April_2022.jpeg",
-        "category": "social_media",
-        "question": "Are there more males or females?",
-        "description": "A group of people are working out on indoor rowing machines at a gym."
-    },
-    {
-        "filename": "images/science_journals/Geographic_Southpole_crop.jpeg",
-        "category": "news",
-        "question": "What happened in the South Pole?",
-        "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse."
-    },
-    {
         "filename": "images/travel/Hiking_to_the_Ice_Lakes._San_Juan_National_Forest,_Colorado.jpg",
         "category": "travel",
         "question": "Is hiking popular there?",
@@ -994,12 +940,6 @@
         "category": "science_journals",
         "question": "What are they shooting?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
-        "category": "shopping",
-        "question": "What is the site trying to sell?",
-        "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater."
     },
     {
         "filename": "images/travel/440px-Naufragio_por_Gustavo_Gerdel.jpeg",
@@ -1164,18 +1104,6 @@
         "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate."
     },
     {
-        "filename": "images/science_journals/220px-Wildlife_photography.jpeg",
-        "category": "science_journals",
-        "question": "What is he waiting to take a picture of?",
-        "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
-        "question": "Where is this?",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
         "filename": "images/shopping/Electric_kettle.jpeg",
         "category": "shopping",
         "question": "Do you think it looks good?",
@@ -1262,12 +1190,6 @@
     {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
-        "question": "What sort of yoga are they doing?",
-        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
-        "category": "health",
         "question": "Where is it located?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
     },
@@ -1294,12 +1216,6 @@
         "category": "science_journals",
         "question": "Are they taking nature based pictures?",
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
-    },
-    {
-        "filename": "images/travel/Wdomenada2003b.jpeg",
-        "category": "travel",
-        "question": "Is their a town or buildings around?",
-        "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance."
     },
     {
         "filename": "images/travel/Wdomenada2003b.jpeg",
@@ -1440,12 +1356,6 @@
         "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky."
     },
     {
-        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "category": "science_journals",
-        "question": "Where is this located?",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
-    },
-    {
         "filename": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
         "category": "social_media",
         "question": "where is the runway located",
@@ -1456,12 +1366,6 @@
         "category": "social_media",
         "question": "what is the event for",
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side."
-    },
-    {
-        "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
-        "category": "travel",
-        "question": "where are the people located",
-        "description": "A group of people sitting a hot tub located"
     },
     {
         "filename": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
@@ -1728,12 +1632,6 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs."
     },
     {
-        "filename": "images/health/2456.jpg",
-        "category": "social_media",
-        "question": "Any particular type of asian cuisine this represents?",
-        "description": "A bowl of Asian noodle salad with vegetables and herbs."
-    },
-    {
         "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
         "category": "news",
         "question": "Can you tell me what the color, size and texture looks like?",
@@ -1794,12 +1692,6 @@
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting."
     },
     {
-        "filename": "images/science_journals/200px-Hot_air_balloon_over_a_pagoda_in_Bagan.jpeg",
-        "category": "shopping",
-        "question": "is the person male or female?",
-        "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise."
-    },
-    {
         "filename": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
         "category": "health",
         "question": "How many people are in the picture?",
@@ -1810,12 +1702,6 @@
         "category": "health",
         "question": "what time of day is it in the pic?",
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky."
-    },
-    {
-        "filename": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
-        "category": "news",
-        "question": "who took the pic?",
-        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water."
     },
     {
         "filename": "images/health/2456.jpg",
