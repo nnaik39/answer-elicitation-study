@@ -6753,5 +6753,275 @@
             "people walking in a line",
             "They are walking in a line. "
         ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Why type of group is it, mostly female or male and also age specific?",
+        "answers": [
+            "It's a group of females, most of them look in their 30s.",
+            "This is a group of all women, of various ages from age 20-40",
+            "people who care people who care about health, adults over 30 years of age of general gender\nabout health\n"
+        ]
+    },
+    {
+        "image": "images/shopping/340px-Diane_von_Furstenberg_Spring-Summer_2014_07.jpeg",
+        "context": "social_media",
+        "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
+        "question": "what is the subject",
+        "answers": [
+            "A fashion show.",
+            "A model walking down a runway.",
+            "beautiful black model"
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "shopping",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "Are there any other people in the image?",
+        "answers": [
+            "There are no other people",
+            "no in the picture she looks alone",
+            "I believe it is an Indian women's clothing website \n"
+        ]
+    },
+    {
+        "image": "images/science_journals/200px-Mountain_gorilla_finger_detail.KMRA.jpg",
+        "context": "science_journals",
+        "description": "A gorilla rests its hand and head on a tree trunk, with it's eyes open",
+        "question": "What kind of tree is it?",
+        "answers": [
+            "The type of tree is not apparent.",
+            "I am unsure the exact type of tree, but its trunk is light brown and looks very dry and crackled.",
+            "I'm not entirely sure, but one that can be found in the natural habitat of gorillas. Probably a jungle tree of some sort. Very little of the actual tree is actually in frame though."
+        ]
+    },
+    {
+        "image": "images/shopping/Virti_vaghani.jpeg",
+        "context": "travel",
+        "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
+        "question": "Is there anything else in the building?",
+        "answers": [
+            "No there is not.",
+            "There are very ornate designs on the walls and archways",
+            "I would guess so since someone had to take the picture."
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "Is the city busy or empty?",
+        "answers": [
+            "It looks empty",
+            "Assume the city is busy as there are a ton of buildings close together",
+            "",
+            "It's empty"
+        ]
+    },
+    {
+        "image": "images/science_journals/EmissionNebula_NGC6357.jpeg",
+        "context": "news",
+        "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
+        "question": "What colors are present in this image?",
+        "answers": [
+            "black, orange and white",
+            "gold, black, silver, and orange/red",
+            "There some stars that emit a bluish light and other stars emit a bright white light against a black background. The atmosphere has an orange mass with some swirls."
+        ]
+    },
+    {
+        "image": "images/news/Avalanche_on_Everest.jpeg",
+        "context": "science_journals",
+        "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
+        "question": "What time of day is it",
+        "answers": [
+            "It looks to be day time because it is bright outside.",
+            "from the position of the shadows it appears to be late noon",
+            "mid day afternoon",
+            "It is approximately 8:00 in the morning"
+        ]
+    },
+    {
+        "image": "images/travel/30208.jpg",
+        "context": "social_media",
+        "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
+        "question": "What city is it.",
+        "answers": [
+            "There is no sign or notable landmarks that can identify the city ",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/travel/Diver_under_the_Salt_Pier,_Bonaire,_Dutch_Antilles.jpeg",
+        "context": "travel",
+        "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
+        "question": "When did the ship wreck",
+        "answers": [
+            "",
+            "",
+            "I can't say for certain, but it's probably been underwater for a significant period of time due to the coral formations around it and the barnacles which seem to be growing on it."
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "How nice is the place?",
+        "answers": [
+            "",
+            "Not really nice.",
+            "pretty nice to have a hot tub "
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "social_media",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "Is the backdrop purely green or are  there other notable details?",
+        "answers": [
+            "There is a vase with red and gold accents.",
+            "There are other notable details.",
+            "Notable details",
+            "The background appears to be green drapes that extend and flow towards the left of the picture"
+        ]
+    },
+    {
+        "image": "images/social_media/120px-Keystone_Day_1_Photo_96.jpeg",
+        "context": "travel",
+        "description": "A group of people sitting a hot tub located",
+        "question": "what is the scenery around the group of people",
+        "answers": [
+            "It is a snowy, forest background.",
+            "It looks like snow and trees as they are outdoors",
+            "Wintery and snowy",
+            "The hot tub is sitting outside amongst snow with some trees in the background"
+        ]
+    },
+    {
+        "image": "images/science_journals/Hobby_Fotografen_(_Chobe_2018).jpeg",
+        "context": "social_media",
+        "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
+        "question": "are families included in the group of people?",
+        "answers": [
+            "Possibly? But it isn't obvious one way or another",
+            "",
+            "A family could be included in the group of people"
+        ]
+    },
+    {
+        "image": "images/news/Astronauts_in_weightlessness.jpeg",
+        "context": "science_journals",
+        "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
+        "question": "How many people?",
+        "answers": [
+            "Three people appear in the photo",
+            "There are three people",
+            "Five people",
+            "Five people"
+        ]
+    },
+    {
+        "image": "images/shopping/Green_brocade_silk_saree.jpeg",
+        "context": "shopping",
+        "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
+        "question": "How many women typically wear such garb in the U.S.?",
+        "answers": [
+            "Not very many, I would say 2% of women in the U.S. wear this type of garb. It looks like an outfit more often worn in middle or far eastern communities.",
+            "",
+            "Only a few",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/300px-Burnout_ops_on_Mangum_Fire_McCall_Smokejumpers.jpeg",
+        "context": "science_journals",
+        "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
+        "question": "Is this a forest environment or something else?",
+        "answers": [
+            "There are multiple trees, so it looks like a forest, but it's not a dense forest, the trees are spaced out a bit.",
+            "for the public who likes to know about news \n",
+            "It does not appear to be a forest but something else"
+        ]
+    },
+    {
+        "image": "images/science_journals/Laser_Towards_Milky_Ways_Centre.jpeg",
+        "context": "news",
+        "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
+        "question": "Is something happening?",
+        "answers": [
+            "A laser is being emitted into the sky. ",
+            "The laser is shooting straight up into the night sky, but it isn't hitting anything.",
+            "Yes, there's a laser beam getting shot into the Milky Way"
+        ]
+    },
+    {
+        "image": "images/social_media/220px-Paljuilua_1.jpeg",
+        "context": "shopping",
+        "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
+        "question": "Are their bubbles in the hot tub?",
+        "answers": [
+            "no its a outside hot tub",
+            "it looks like bubbles on the far side",
+            ""
+        ]
+    },
+    {
+        "image": "images/science_journals/STS41B-35-1613_-_Bruce_McCandless_II_during_EVA_(Retouched).jpeg",
+        "context": "news",
+        "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
+        "question": "What details of Earth can be noticed, i.e. continents, colors, etc?",
+        "answers": [
+            "the blue ocean ",
+            "Blue water and white polar icecaps",
+            "how blue the earth is"
+        ]
+    },
+    {
+        "image": "images/social_media/Chiara_Ferragni_-_Giorgio_Armani_Show_-_Milan_Fashion_Week_-_23_Sept._2013.jpg",
+        "context": "news",
+        "description": "A woman in a heart-patterned blouse and red skirt poses with sunglasses, a watch, and a patterned bag.",
+        "question": "Is this a fashion ad?",
+        "answers": [
+            "Yes, it's probably an ad.",
+            "No it's not",
+            "for the public who likes to know about news, for the general public "
+        ]
+    },
+    {
+        "image": "images/health/Yoga4Love_Freedom_Gratitude.jpeg",
+        "context": "health",
+        "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
+        "question": "Where was this picture taken.",
+        "answers": [
+            "Somewhere near mountainous rocks.",
+            "The picture was taken on a rock",
+            "Outside on a natural rock near a body of water."
+        ]
+    },
+    {
+        "image": "images/science_journals/Scyliorhinus_canicula_foetus_in_an_egg.jpeg",
+        "context": "news",
+        "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
+        "question": "What type of egg case is this?",
+        "answers": [
+            "Translucent egg case.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/shopping/685px-Sofa3800ppx.jpeg",
+        "context": "health",
+        "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
+        "question": "Is this a sofa in a doctor's office?",
+        "answers": [
+            "",
+            "",
+            "The sofa does not look to be in a doctor's office. It seems to be a sofa that would be found in an average living room, it's too informal for a doctor's office."
+        ]
     }
 ]
