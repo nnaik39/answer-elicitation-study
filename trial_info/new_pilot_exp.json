@@ -1,22 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
-            "category": "shopping",
-            "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
-            "question": "What is the cost of the attire?"
-        },
-        {
             "filename": "images/Texas_Zip_liner_5430.jpeg",
             "category": "travel",
             "description": "A man in a red shirt and helmet is joyfully zip-lining against a backdrop of trees and sky.\n",
             "question": "Is this promoting online reservations?"
-        },
-        {
-            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-            "category": "science_journals",
-            "description": "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
-            "question": "Is the water clean?"
         },
         {
             "filename": "images/951_Gaspra.jpg",
@@ -31,22 +19,10 @@
             "question": "Who is the patient?"
         },
         {
-            "filename": "images/15718.jpg",
-            "category": "travel",
-            "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-            "question": "How popular is it"
-        },
-        {
             "filename": "images/400px-Norman_Borlaug.jpeg",
             "category": "health",
             "description": "A Caucasian man who is well up in his years stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
             "question": "where is the picture taken"
-        },
-        {
-            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
-            "category": "shopping",
-            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
-            "question": "how beautiful is the dog"
         },
         {
             "filename": "images/Solar_eclipse_1999_4.jpeg",
@@ -55,88 +31,16 @@
             "question": "Are there any stars twinkling?"
         },
         {
-            "filename": "images/P-51_Mustang_edit1.jpeg",
-            "category": "science_journals",
-            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
-            "question": "What color is the P-51 aircraft?"
-        },
-        {
-            "filename": "images/Nilgiri_Mountain_Train.jpeg",
-            "category": "social_media",
-            "description": "A steam train snakes through lush greenery on a bridge, with passengers enjoying the view from open windows.\n",
-            "question": "How is this relevant to Social Media"
-        },
-        {
             "filename": "images/Solar_eclipse_1999_4.jpeg",
             "category": "news",
             "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
             "question": "Are there light rays coming from the corona?"
         },
         {
-            "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-            "category": "shopping",
-            "description": "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair blown by wind.\n",
-            "question": "Where is she performing? Indoors or outdoors?"
-        },
-        {
-            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
-            "category": "health",
-            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
-            "question": "What color is this tree?"
-        },
-        {
-            "filename": "images/Yam_mu_yo.jpeg",
-            "category": "health",
-            "description": "A white plate of Thai yam mu yo salad with sliced sausage, onions, and herbs on a wooden table.\n",
-            "question": "What color is the wooden table?"
-        },
-        {
-            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-            "category": "shopping",
-            "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-            "question": "What is the age range of the people Involved?"
-        },
-        {
-            "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
-            "category": "shopping",
-            "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
-            "question": "Can you buy their wardrobes?"
-        },
-        {
-            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
-            "category": "social_media",
-            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
-            "question": "How is the mat secured on its back? Is it a normal size mat or dog-sized?"
-        },
-        {
             "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
             "category": "news",
             "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
             "question": "Is there anything in the water? "
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "What kind of room is he in?"
-        },
-        {
-            "filename": "images/Rafting_em_Brotas.jpeg",
-            "category": "travel",
-            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-            "question": "Would you be afraid of the danger?"
-        },
-        {
-            "filename": "images/Acorn_Soup_(4827753894).jpeg",
-            "category": "shopping",
-            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
-            "question": "Does it look tasty?"
-        },
-        {
-            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-            "category": "travel",
-            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
-            "question": "What city is this in?"
         },
         {
             "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
@@ -169,64 +73,10 @@
             "question": "How old is the martial artist?"
         },
         {
-            "filename": "images/440px-Giant_Panda_Eating.jpg",
-            "category": "science_journals",
-            "description": "A giant panda is sitting and happily munching on bamboo leaves. He is holding a stalk of bamboo to his right with both paws.\n",
-            "question": "Is this is a zoo or in a natural habitat"
-        },
-        {
             "filename": "images/Sergey_Brin_Ted_2010.jpg",
             "category": "news",
             "description": "A man with curly hair, wearing a microphone headset, and a black shirt with grey stripes down the sleeves, smiles and looks to the side against a blurred background.\n",
             "question": "What is he looking at?"
-        },
-        {
-            "filename": "images/Acorn_Soup_(4827753894).jpeg",
-            "category": "shopping",
-            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
-            "question": "Does the product look good/high quality?"
-        },
-        {
-            "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-            "category": "social_media",
-            "description": "A singer with long blonde hair performs on stage in a black skirt, jacket, and thigh-high stockings, holding a microphone.\n",
-            "question": "what type of surroundings "
-        },
-        {
-            "filename": "images/Rafting_em_Brotas.jpeg",
-            "category": "travel",
-            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-            "question": "What does the helmet look like?"
-        },
-        {
-            "filename": "images/Souk_in_Tunisia_1.jpeg",
-            "category": "social_media",
-            "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
-            "question": "What side of the market is each thing?"
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "social_media",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "does this bring inner peace to connect with yourself. "
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "Are they using proper form?"
-        },
-        {
-            "filename": "images/Rafting_em_Brotas.jpeg",
-            "category": "travel",
-            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-            "question": "Are the any rocks near the raft?"
-        },
-        {
-            "filename": "images/Rafting_em_Brotas.jpeg",
-            "category": "shopping",
-            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-            "question": "What is the item being sold in the picture?"
         },
         {
             "filename": "images/Souk_in_Tunisia_1.jpeg",
@@ -235,52 +85,196 @@
             "question": "What is the color of the vibrance?"
         },
         {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "Does the health website recommend yoga as a healthy activity?"
-        },
-        {
-            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-            "category": "travel",
-            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-            "question": "Where is this located?"
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "Is this a vegan website?"
-        },
-        {
-            "filename": "images/Solar_eclipse_1999_4.jpeg",
-            "category": "science_journals",
-            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-            "question": "What does the Sun Look like when eclipse?"
-        },
-        {
-            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-            "category": "travel",
-            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-            "question": "Can you tell what season this might be?"
-        },
-        {
             "filename": "images/Rafting_em_Brotas.jpeg",
             "category": "shopping",
             "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
             "question": "What are the weather conditions"
         },
         {
-            "filename": "images/Souk_in_Tunisia_1.jpeg",
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "social_media",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "What color is the yoga mat?"
+        },
+        {
+            "filename": "images/Rafting_em_Brotas.jpeg",
             "category": "travel",
+            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+            "question": "Are there any other rafts nearby that would be able to help the people in the first raft?"
+        },
+        {
+            "filename": "images/Souk_in_Tunisia_1.jpeg",
+            "category": "social_media",
             "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
-            "question": "What is in the picture"
+            "question": "Are there a lot of shoppers pictured?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "What is the name of the science magazine website?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "health",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "What color is the tree"
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "social_media",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "Are they men or women?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "What colors are seen in the eclipse?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "What color is the glow of the corona in the image?"
+        },
+        {
+            "filename": "images/Rafting_em_Brotas.jpeg",
+            "category": "shopping",
+            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+            "question": "Is the water current fast"
+        },
+        {
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+            "category": "science_journals",
+            "description": "A pile of freshly cut logs in the foreground with trees and shrubbery in the background. The sky is blue and very lightly clouded.\n",
+            "question": "Why is there too much going on?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "travel",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "What else can you see in the image?"
+        },
+        {
+            "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+            "category": "news",
+            "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+            "question": "What does the image relate to specifically?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Is the photo supposed to be from earth or in space?"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "news",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "What city is in the photograph?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "How big is it?"
+        },
+        {
+            "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+            "category": "travel",
+            "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+            "question": "Are there are a lot of trees in the area?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "travel",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "is this Korea or someplace else? "
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "news",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "is this image about Republicans ve democrats "
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "What form of yoga or meditation is this?"
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "social_media",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "What are the people dressed in"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Are there any stars in the sky?"
+        },
+        {
+            "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+            "category": "news",
+            "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+            "question": "Are the streets full of people, or are they casually walking on the sidewalk and using the crosswalk?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Is this photo linked to an article and if so what does the article headline say?"
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "social_media",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "How old are the athletes?"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "news",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "Are there any people in the image?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "When/where was this picture taken?"
         },
         {
             "filename": "images/220px-Ado-muka-shvanasana.jpeg",
             "category": "social_media",
             "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "What color is the yoga mat?"
+            "question": "What is the post about?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "health",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "Where is this tree positioned?"
+        },
+        {
+            "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+            "category": "news",
+            "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+            "question": "Is the image about the Los Altos Community Picnic or is it a generic photo that just includes the banner?"
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "social_media",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "what are they advertising"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Where can I safely see this?"
         }
     ]
 }
