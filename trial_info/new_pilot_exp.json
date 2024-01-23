@@ -1,3 +1,622 @@
 {
-    "images": []
+    "images": [
+        {
+            "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+            "category": "health",
+            "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+            "question": "How high is the kick?"
+        },
+        {
+            "filename": "images/Gigi_Hadid_2016.png",
+            "category": "news",
+            "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile. The background is blurry. \n",
+            "question": "Is that smile for me?"
+        },
+        {
+            "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
+            "category": "social_media",
+            "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
+            "question": "Does it look tasty?"
+        },
+        {
+            "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+            "category": "shopping",
+            "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+            "question": "What is the cost of the attire?"
+        },
+        {
+            "filename": "images/Texas_Zip_liner_5430.jpeg",
+            "category": "travel",
+            "description": "A man in a red shirt and helmet is joyfully zip-lining against a backdrop of trees and sky.\n",
+            "question": "Is this promoting online reservations?"
+        },
+        {
+            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+            "category": "science_journals",
+            "description": "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "question": "Is the water clean?"
+        },
+        {
+            "filename": "images/951_Gaspra.jpg",
+            "category": "news",
+            "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
+            "question": "What are they predicting will be visible?"
+        },
+        {
+            "filename": "images/510px-Spaltlampe-2.jpeg",
+            "category": "social_media",
+            "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
+            "question": "Who is the patient?"
+        },
+        {
+            "filename": "images/Natural_foodstuff_004.jpeg",
+            "category": "shopping",
+            "description": "A colorful assortment of fresh fruits including apples, grapes, pears, nuts, dates, lemons, oranges, and a small pumpkin.\n",
+            "question": "How many fruits are there each?"
+        },
+        {
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "category": "health",
+            "description": "A scientist in a lab coat and hairnet is using a medical instrument, and lab equipment near a window.\n",
+            "question": "What equipment is the scientist using?"
+        },
+        {
+            "filename": "images/400px-Norman_Borlaug.jpeg",
+            "category": "science_journals",
+            "description": "A Caucasian man who is well up in his years stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+            "question": "who are the people headlining the conference"
+        },
+        {
+            "filename": "images/15718.jpg",
+            "category": "travel",
+            "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+            "question": "How popular is it"
+        },
+        {
+            "filename": "images/400px-Norman_Borlaug.jpeg",
+            "category": "health",
+            "description": "A Caucasian man who is well up in his years stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+            "question": "where is the picture taken"
+        },
+        {
+            "filename": "images/15722.jpg",
+            "category": "science_journals",
+            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway.\n",
+            "question": "What is the location?"
+        },
+        {
+            "filename": "images/Souk_in_Tunisia_1.jpeg",
+            "category": "social_media",
+            "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
+            "question": "What does shopping have to do with making connections with other people?"
+        },
+        {
+            "filename": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+            "category": "travel",
+            "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+            "question": "Are the people in the car smiling or laughing?"
+        },
+        {
+            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
+            "category": "shopping",
+            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
+            "question": "how beautiful is the dog"
+        },
+        {
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+            "category": "news",
+            "description": "A pile of freshly cut logs in the foreground with trees and shrubbery in the background. The sky is blue and very lightly clouded.\n",
+            "question": "What time of day is it?"
+        },
+        {
+            "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
+            "category": "shopping",
+            "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods that they appear to be getting ready to ship out to customers.\n",
+            "question": "Where is this facility located"
+        },
+        {
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+            "category": "news",
+            "description": "A pile of freshly cut logs in the foreground with trees and shrubbery in the background. The sky is blue and very lightly clouded.\n",
+            "question": "Is this image related to an accompanying article?"
+        },
+        {
+            "filename": "images/Bhekasana1.jpeg",
+            "category": "health",
+            "description": "A woman is performing a yoga pose, 'Bhekasana,' lying on her stomach, bending her knees, and reaching back to touch her feet.\n",
+            "question": "Are her legs bend over her back?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "travel",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "where are the people, are they alone?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "science_journals",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Are there any stars twinkling?"
+        },
+        {
+            "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+            "category": "social_media",
+            "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+            "question": "What types of dishes are shown in the image? "
+        },
+        {
+            "filename": "images/250px-Raphanus_sativus.jpeg",
+            "category": "health",
+            "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+            "question": "Is there a recipe accompanying the photo?"
+        },
+        {
+            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
+            "category": "shopping",
+            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
+            "question": "does the dog know its photograph"
+        },
+        {
+            "filename": "images/P-51_Mustang_edit1.jpeg",
+            "category": "science_journals",
+            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+            "question": "What color is the P-51 aircraft?"
+        },
+        {
+            "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
+            "category": "travel",
+            "description": "A cable car moves uphill toward the photographer in San Francisco with Alcatraz Island in the background on a clear day.  There's a small marina at the bottom of the hill with several boats sailing near the island.\n",
+            "question": "Are there people inside the cable car, or is it hard to tell?"
+        },
+        {
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "news",
+            "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
+            "question": "Did a large competition taking place recently? What was it called/what sport? "
+        },
+        {
+            "filename": "images/Ilovechicago.jpeg",
+            "category": "social_media",
+            "description": "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+            "question": "What age or gender are the people in the image?"
+        },
+        {
+            "filename": "images/400px-Retinal_camera.jpeg",
+            "category": "health",
+            "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+            "question": "What does the exam room look like?"
+        },
+        {
+            "filename": "images/Souk_in_Tunisia_1.jpeg",
+            "category": "travel",
+            "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
+            "question": "how crowded are the streets/is it accessible. "
+        },
+        {
+            "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
+            "category": "news",
+            "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods that they appear to be getting ready to ship out to customers.\n",
+            "question": "Is the warehouse busy"
+        },
+        {
+            "filename": "images/Nilgiri_Mountain_Train.jpeg",
+            "category": "social_media",
+            "description": "A steam train snakes through lush greenery on a bridge, with passengers enjoying the view from open windows.\n",
+            "question": "How is this relevant to Social Media"
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "shopping",
+            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
+            "question": "What is the product made of?"
+        },
+        {
+            "filename": "images/MarsCuriosityRover-Drilling-Sol170++-2.jpg",
+            "category": "science_journals",
+            "description": "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars.\n",
+            "question": "Can you see anything beyond the terrain, such as outer space"
+        },
+        {
+            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+            "category": "travel",
+            "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+            "question": "Where are they jumping to? Ocean? Land?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Are there light rays coming from the corona?"
+        },
+        {
+            "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
+            "category": "shopping",
+            "description": "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair blown by wind.\n",
+            "question": "Where is she performing? Indoors or outdoors?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "health",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "What color is this tree?"
+        },
+        {
+            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
+            "category": "social_media",
+            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
+            "question": "What is the dog doing?"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
+            "question": "Does it look interesting?"
+        },
+        {
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "category": "science_journals",
+            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
+            "question": "what season is it?"
+        },
+        {
+            "filename": "images/Foodora_messenger.jpeg",
+            "category": "social_media",
+            "description": "A delivery person in a pink jacket and helmet rides a blue bike with a large pink food delivery backpack.\n",
+            "question": "what exactly is foodora?"
+        },
+        {
+            "filename": "images/250px-Raphanus_sativus.jpeg",
+            "category": "shopping",
+            "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+            "question": "Is this a suggested recipe for radishes?"
+        },
+        {
+            "filename": "images/500px-Backzutaten_041.jpeg",
+            "category": "health",
+            "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+            "question": "What kind of ingredients are in the photo?"
+        },
+        {
+            "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
+            "category": "news",
+            "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods that they appear to be getting ready to ship out to customers.\n",
+            "question": "What type of goods are they"
+        },
+        {
+            "filename": "images/Yam_mu_yo.jpeg",
+            "category": "health",
+            "description": "A white plate of Thai yam mu yo salad with sliced sausage, onions, and herbs on a wooden table.\n",
+            "question": "What color is the wooden table?"
+        },
+        {
+            "filename": "images/New_york_times_square-terabass_(cropped).jpg",
+            "category": "travel",
+            "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+            "question": "Is the ad even effective?\n"
+        },
+        {
+            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+            "category": "shopping",
+            "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+            "question": "What is the age range of the people Involved?"
+        },
+        {
+            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+            "category": "social_media",
+            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and with ornate lamps and carpets, likely in a high-end casino.\n",
+            "question": "any people around"
+        },
+        {
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+            "category": "science_journals",
+            "description": "A pile of freshly cut logs in the foreground with trees and shrubbery in the background. The sky is blue and very lightly clouded.\n",
+            "question": "What color are the leaves on the trees and shrubbery?"
+        },
+        {
+            "filename": "images/Sergey_Brin_Ted_2010.jpg",
+            "category": "news",
+            "description": "A man with curly hair, wearing a microphone headset, and a black shirt with grey stripes down the sleeves, smiles and looks to the side against a blurred background.\n",
+            "question": "What is the man listening to?"
+        },
+        {
+            "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+            "category": "shopping",
+            "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+            "question": "Can you buy their wardrobes?"
+        },
+        {
+            "filename": "images/Carolina_Herrera_AW14_12.jpeg",
+            "category": "news",
+            "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
+            "question": "Was this for a special event for someone or for a brand?"
+        },
+        {
+            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
+            "category": "social_media",
+            "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
+            "question": "How is the mat secured on its back? Is it a normal size mat or dog-sized?"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
+            "question": "What does this image have to do with an article?"
+        },
+        {
+            "filename": "images/New_york_times_square-terabass_(cropped).jpg",
+            "category": "travel",
+            "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+            "question": "What seasonal clothing is the crowd wearing (summer, winter)?"
+        },
+        {
+            "filename": "images/15718.jpg",
+            "category": "science_journals",
+            "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+            "question": "how old are these ancient baths?"
+        },
+        {
+            "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+            "category": "social_media",
+            "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+            "question": "What season does it look like?"
+        },
+        {
+            "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
+            "category": "news",
+            "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
+            "question": "Is there anything in the water? "
+        },
+        {
+            "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+            "category": "health",
+            "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+            "question": "Why is a martial artist performing so late at dusk?"
+        },
+        {
+            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+            "category": "shopping",
+            "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+            "question": "What is the brand of the attire they're wearing?"
+        },
+        {
+            "filename": "images/Apollo_17_AS17-140-21497.jpeg",
+            "category": "science_journals",
+            "description": "An astronaut examines a large lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+            "question": "what are the people wearing"
+        },
+        {
+            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+            "category": "shopping",
+            "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+            "question": "Does it look fun? Are they offering lessons?"
+        },
+        {
+            "filename": "images/P-51_Mustang_edit1.jpeg",
+            "category": "social_media",
+            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+            "question": "Can you tell which country they are flying over?"
+        },
+        {
+            "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+            "category": "news",
+            "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+            "question": "Are the people walking on their way to this picnic?"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "What kind of room is he in?"
+        },
+        {
+            "filename": "images/15692.jpg",
+            "category": "travel",
+            "description": "A modern bus terminal with a curved roof, under a cloudy sky.\n",
+            "question": "What is the location of this bus terminal?"
+        },
+        {
+            "filename": "images/Gigi_Hadid_2016.png",
+            "category": "news",
+            "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile. The background is blurry. \n",
+            "question": "What is the event?"
+        },
+        {
+            "filename": "images/510px-Spaltlampe-2.jpeg",
+            "category": "health",
+            "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
+            "question": "How does this image correlate with the goal of learning to live a healthy lifestyle?"
+        },
+        {
+            "filename": "images/Rafting_em_Brotas.jpeg",
+            "category": "travel",
+            "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+            "question": "Would you be afraid of the danger?"
+        },
+        {
+            "filename": "images/Drug_ampoule_JPN.jpeg",
+            "category": "science_journals",
+            "description": "A top-down view of several medical ampoules of different sizes and colors arranged on a white surface.\n",
+            "question": "What is the administration method for each of these medications?"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "Is the image intended to be a guide on how to perform the downward-facing dog pose?"
+        },
+        {
+            "filename": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+            "category": "social_media",
+            "description": "A blonde woman is standing by a brick wall, wearing a cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
+            "question": "What color is the woman's hair?"
+        },
+        {
+            "filename": "images/Apollo_17_AS17-140-21497.jpeg",
+            "category": "science_journals",
+            "description": "An astronaut examines a large lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+            "question": "what are the people talkikg about"
+        },
+        {
+            "filename": "images/Acorn_Soup_(4827753894).jpeg",
+            "category": "shopping",
+            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
+            "question": "Does it look tasty?"
+        },
+        {
+            "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
+            "category": "news",
+            "description": "A line of female models wearing various outfits that are preparing to walk out to the runway.\n",
+            "question": "what type of dresses "
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "travel",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
+            "question": "What city is this in?"
+        },
+        {
+            "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+            "category": "travel",
+            "description": "View from a shaded arcade showing a detailed historic building framed by archways against a blue sky.\n",
+            "question": "is it build with bricks or iron"
+        },
+        {
+            "filename": "images/15719.jpg",
+            "category": "science_journals",
+            "description": "Gothic revival architecture of a grand building with towers and an arched entrance, with a clear blue sky in the background. \n",
+            "question": "have they vivted one"
+        },
+        {
+            "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+            "category": "social_media",
+            "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+            "question": "Are these recipes to be made or food that gets ordered?"
+        },
+        {
+            "filename": "images/Sergey_Brin_Ted_2010.jpg",
+            "category": "news",
+            "description": "A man with curly hair, wearing a microphone headset, and a black shirt with grey stripes down the sleeves, smiles and looks to the side against a blurred background.\n",
+            "question": "What is the man looking at and smiling at?"
+        },
+        {
+            "filename": "images/Ludovic_and_Lauren_(8425515069).jpeg",
+            "category": "shopping",
+            "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered bibs and athletic gear.\n",
+            "question": "Are they advertising a specific product?"
+        },
+        {
+            "filename": "images/Acorn_Soup_(4827753894).jpeg",
+            "category": "health",
+            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
+            "question": "Can you copy the website to get the recipe please?"
+        },
+        {
+            "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
+            "category": "news",
+            "description": "A line of female models wearing various outfits that are preparing to walk out to the runway.\n",
+            "question": "How does a row of models correlate to the story?"
+        },
+        {
+            "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
+            "category": "shopping",
+            "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
+            "question": "What is the price"
+        },
+        {
+            "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
+            "category": "science_journals",
+            "description": "View from a shaded arcade showing a detailed historic building framed by archways against a blue sky.\n",
+            "question": "How big is the building?"
+        },
+        {
+            "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+            "category": "health",
+            "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+            "question": "How is the weather?"
+        },
+        {
+            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+            "category": "travel",
+            "description": "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
+            "question": "Does it show any surrounding landscape?"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "social_media",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "How does yoga help you with your connections"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
+            "question": "What is the name of the bridge? "
+        },
+        {
+            "filename": "images/MICHAEL_KORS_221.jpeg",
+            "category": "news",
+            "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
+            "question": "What color hair does the model have?"
+        },
+        {
+            "filename": "images/P-51_Mustang_edit1.jpeg",
+            "category": "social_media",
+            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+            "question": "is this war, or some kind of battle"
+        },
+        {
+            "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+            "category": "health",
+            "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+            "question": "How old is the martial artist?"
+        },
+        {
+            "filename": "images/15692.jpg",
+            "category": "travel",
+            "description": "A modern bus terminal with a curved roof, under a cloudy sky.\n",
+            "question": "What is the general mood of the people in the photo?"
+        },
+        {
+            "filename": "images/Nyle2.jpeg",
+            "category": "shopping",
+            "description": "A shirtless man with a beard, wearing white pants in a white room with all-white decor, stands by a window holding a coffee cup, in a bright room.\n",
+            "question": "What is the style of the man's white pants? Are they dressy or tattered and dirty?"
+        },
+        {
+            "filename": "images/440px-Giant_Panda_Eating.jpg",
+            "category": "science_journals",
+            "description": "A giant panda is sitting and happily munching on bamboo leaves. He is holding a stalk of bamboo to his right with both paws.\n",
+            "question": "Is this is a zoo or in a natural habitat"
+        },
+        {
+            "filename": "images/Sergey_Brin_Ted_2010.jpg",
+            "category": "news",
+            "description": "A man with curly hair, wearing a microphone headset, and a black shirt with grey stripes down the sleeves, smiles and looks to the side against a blurred background.\n",
+            "question": "What is he looking at?"
+        },
+        {
+            "filename": "images/Acorn_Soup_(4827753894).jpeg",
+            "category": "shopping",
+            "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
+            "question": "Does the product look good/high quality?"
+        },
+        {
+            "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+            "category": "social_media",
+            "description": "A singer with long blonde hair performs on stage in a black skirt, jacket, and thigh-high stockings, holding a microphone.\n",
+            "question": "what type of surroundings "
+        },
+        {
+            "filename": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
+            "category": "travel",
+            "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
+            "question": "Is there a person wearing the backpack? "
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "health",
+            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
+            "question": "What flavor is the protein shake or at least the color?"
+        }
+    ]
 }

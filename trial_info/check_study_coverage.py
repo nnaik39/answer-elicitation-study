@@ -71,6 +71,8 @@ with open("questions_not_covered.json", "w") as outfile:
 with open("questions_covered.json", "w") as outfile:
     outfile.write(json.dumps(questions_covered, indent = 4))
 
+# These are all the answers that have been collected -- 103 answers!!
+    
 for (image, context, description, question) in answers:
     if (len(answers[(image, context, description, question)]) >= 3):
         i = {
@@ -88,6 +90,9 @@ for (image, context, description, question) in answers:
             'question': question
         })
 
+print("Length of pilot exp ", len(pilot_exp['images']))
+
+print("Length of new pilot exp ", len(new_pilot_exp['images']))
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
 
