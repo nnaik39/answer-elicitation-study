@@ -37,21 +37,23 @@ for participant in study_info:
                 answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
             answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
 
-#all_answers = {}
+all_answers = {}
 
-#for participant in study_info:
- #   for trial in study_info[participant]:
-  #          if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in all_answers):
-   #             all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
-    #        all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
+for participant in study_info:
+    for trial in study_info[participant]:
+            if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in all_answers):
+                all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
+            all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
 
 questions_not_covered = []
 
 questions_covered = []
 
 for question in all_questions['images']:
-    if ((question['filename'], question['category'], question['description'], question['question']) in answers):
-        num_answers = len(answers[(question['filename'], question['category'], question['description'], question['question'])])
+    # Check first if the description is correct here!!
+    
+    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
+        num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
         questions_not_covered.append(question)
         continue 

@@ -1,13 +1,312 @@
 [
     {
-        "image": "images/510px-Spaltlampe-2.jpeg",
-        "context": "health",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "What are the genders of the doctor and patient?",
+        "image": "images/Gigi_Hadid_2016.png",
+        "context": "shopping",
+        "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
+        "question": "How long is the dress?",
         "answers": [
-            "Both doctor and patient appear to be women",
-            "Both are women.",
-            "they are both females"
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Ludovic_and_Lauren_(8425515069).jpeg",
+        "context": "health",
+        "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered badges and athletic gear.\n",
+        "question": "Are there other runners nearby?",
+        "answers": [
+            "There are bystanders in the background but I don't see any other runners in the image. ",
+            "There are no other runners visible.",
+            "No other runners are shown in the photograph but it is a race. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/Bhekasana1.jpeg",
+        "context": "health",
+        "description": "A woman in a yoga pose, 'Bhekasana,' lying on her stomach, bending her knees, and reaching back to touch her feet.\n",
+        "question": "Are there other health things offered by this site?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/MarsCuriosityRover-Drilling-Sol170++-2.jpg",
+        "context": "science_journals",
+        "description": "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars. The ground seems to be very dry with brownish red hue. \n",
+        "question": "Where was this photo taken?",
+        "answers": [
+            "It was taken on Mars and near a hill.",
+            "On the planet mars",
+            "On the surface of Mars."
+        ]
+    },
+    {
+        "image": "images/951_Gaspra.jpg",
+        "context": "science_journals",
+        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
+        "question": "are there stars",
+        "answers": [
+            "No stars are visible",
+            "There are not stars visible. ",
+            "No, I don't see any stars in the image. "
+        ]
+    },
+    {
+        "image": "images/Gigi_Hadid_2016.png",
+        "context": "shopping",
+        "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
+        "question": "Is there any information on the image about buying the dress?",
+        "answers": [
+            "No there is no information on buying the dress.",
+            "No",
+            "No, there is no information on the image about its purchase"
+        ]
+    },
+    {
+        "image": "images/440px-Protein_shake.jpg",
+        "context": "health",
+        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+        "question": "is this about how milk is unhealthy again?",
+        "answers": [
+            "No, this is about how milk can be used to create protein shakes.",
+            "No, it is not.",
+            "",
+            "No, it's meant to show how you can take a readily found product that is also a household item AKA milk, and turn it into a healthy protein shake by mixing it with the protein powder."
+        ]
+    },
+    {
+        "image": "images/002-soymilk.jpeg",
+        "context": "shopping",
+        "description": "A bottle of milk, a bowl of soybeans, and green pods on a wooden table, likely soy milk, with the soybeans as an ingredient. The green pods appear to be green beans.\n",
+        "question": "What is it's purpose?",
+        "answers": [
+            "",
+            "looks like perhaps for a magazine photo shoot.  the image is clear and astheic.",
+            "",
+            "The purpose is to hold the milk so that someone can drink it later. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
+        "context": "news",
+        "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
+        "question": "How large is the black smoker?",
+        "answers": [
+            "",
+            "With nothing else to compare to I would say the black smoker is fairly large.",
+            "The black smoker takes up the entire image and judging by the look and size of the rocks, the black smoke could be about 3 feet."
+        ]
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "travel",
+        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
+        "question": "Are there any trees, buildings, aircraft or gound visible?",
+        "answers": [
+            "No, the background is purely of an empty blue sky.",
+            "No trees, buildings, aircraft, or ground is visible.",
+            "None of these things are visible",
+            "No, the sky is empty. There is not even a cloud in sight. It looks like the skydivers are in a blue void where land doesn't exist."
+        ]
+    },
+    {
+        "image": "images/15719.jpg",
+        "context": "science_journals",
+        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+        "question": "have they vivted one",
+        "answers": [
+            "If this was meant to say visited, no I have not visited a site like this",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Carolina_Herrera_AW14_12.jpeg",
+        "context": "news",
+        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
+        "question": "What colors are the clothes the models are wearing?",
+        "answers": [
+            "most of them are wearing shades of black, white, grey, and burgundy",
+            "Most are dark colors, e.g. maroon, gray, and dark blue. One dress is a little sparkly and someone else's sweater is a light gray.",
+            "Mostly black and gray"
+        ]
+    },
+    {
+        "image": "images/440px-Giant_Panda_Eating.jpg",
+        "context": "travel",
+        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
+        "question": "Is the panda holding the bamboo with one paw or both paws?",
+        "answers": [
+            "The panda is facing the camera with both paws on the bamboo. ",
+            "both paws",
+            "The panda is holding the bamboo with both paws. "
+        ]
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "travel",
+        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
+        "question": "What emotion is on the people's faces?",
+        "answers": [
+            "",
+            "",
+            "Impossible to know but they are likely excited and having fun... or terrified."
+        ]
+    },
+    {
+        "image": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
+        "context": "news",
+        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
+        "question": "What is the background of the image?",
+        "answers": [
+            "the background is black and could be a stage",
+            "The color black. ",
+            "There is nothing in the background. The background is entirely black",
+            "The background of this image is solid black"
+        ]
+    },
+    {
+        "image": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+        "context": "news",
+        "description": "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
+        "question": "is this image about Republicans ve democrats ",
+        "answers": [
+            "no this image is not political",
+            "No, this is about martial arts.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Texas_Zip_liner_5430.jpeg",
+        "context": "travel",
+        "description": "A man in a red shirt and plaid shorts along with a helmet and is joyfully zip-lining against a backdrop of trees and sky. \n",
+        "question": "Is this promoting online reservations?",
+        "answers": [
+            "No, this is not promoting online reservations.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "travel",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
+        "question": "What is in the picture",
+        "answers": [
+            "There are several people walking, as well as tapestries hanging and on display, costume jewelry for sale, sports shirts and caps, a stool, and other decorations.",
+            "There are many hats, jerseys, shirts and blankets",
+            "People, tapestry, jewelry, tables, hats, and white-tiled floor are all shown in the photograph. ",
+            "The photo shows storefronts in a market setting selling clothing, bags, and local goods."
+        ]
+    },
+    {
+        "image": "images/440px-Lazada_Laguna_warehouse.jpeg",
+        "context": "news",
+        "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
+        "question": "How far does the warehouse go? can you see the end?",
+        "answers": [
+            "It is a very big warehouse so I can barely see the end.",
+            "It stretches on into the background and the end cannot really be seen.",
+            "You can not see the end of the warehouse."
+        ]
+    },
+    {
+        "image": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+        "context": "travel",
+        "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+        "question": "Are they driving in a nicer looking, sunny area?",
+        "answers": [
+            "Yes, they are driving in a nicer looking sunny area.",
+            "The car in the image seems to be a modern vehicle, most likely a car from 2010 and later. It is hard to tell in the image, but the weather seems to either be sunny or an overcast, and no precipitation.  ",
+            "They are driving next to a park, but it is cloudy outside and appears more temperate than subtropical"
+        ]
+    },
+    {
+        "image": "images/Ludovic_and_Lauren_(8425515069).jpeg",
+        "context": "shopping",
+        "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered badges and athletic gear.\n",
+        "question": "Does the clothing look aesthetically appealing?",
+        "answers": [
+            "No they are very plain athletic wear",
+            "no it does not",
+            "",
+            "No, they're dressed for comfort, not for fashion. Their plain-colored tops and shorts are not ugly but they're not beautiful either."
+        ]
+    },
+    {
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+        "context": "social_media",
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "a better description of the clothing being worn by the models",
+        "answers": [
+            "She is wearing a long white coat over a black turtleneck and black gloves and boots. he is wearing a black long sleeve shirt over a lighter shirt, black slacks, and black shoes.",
+            "The woman is wearing a long, white coat. She has a black shirt on under the coat. She is also wearing black gloves and black boots. The man is wearing a black sweater, black pants, and black shoes. The man is wearing a white shirt beneath the black sweater.",
+            "Conservative white and black outfit with futuristic tones."
+        ]
+    },
+    {
+        "image": "images/Ilovechicago.jpeg",
+        "context": "social_media",
+        "description": "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+        "question": "Is the plane visible at all in the image?",
+        "answers": [
+            "The plane is not visible at all in the image.",
+            "No. Only a vibrant blue sky and the two people wearing eye protection and skydiving gear are visible.",
+            "No, it is not visible",
+            "No, there is no plane visible in the image. "
+        ]
+    },
+    {
+        "image": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
+        "context": "health",
+        "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display. A woman carefully selecting fruit. \n",
+        "question": "Are these fruits healthy?",
+        "answers": [
+            "Yes these fruits are healthy",
+            "Yes when consumed in moderation.",
+            "Yes, these fruits are healthy"
+        ]
+    },
+    {
+        "image": "images/Yam_mu_yo.jpeg",
+        "context": "social_media",
+        "description": "A white plate of Thai yam mu yo salad with sliced sausage, onions, and herbs on a wooden table.\n",
+        "question": "Is there any silverware around the food?",
+        "answers": [
+            "No. There is no silverware to eat the food.",
+            "No there is not ",
+            "No silverware can be seen around the food. ",
+            "There is not any silverware around the food."
+        ]
+    },
+    {
+        "image": "images/Nyle2.jpeg",
+        "context": "social_media",
+        "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup while thinking, in a bright room that is lit by the sunlight through the floor-to-ceiling glass windows.\n",
+        "question": "Where is he standing?",
+        "answers": [
+            "bedroom",
+            "by a window",
+            "On top of his bed",
+            "He is standing very close to the glass windows, but his feet are on a large cushion, likely a bed."
+        ]
+    },
+    {
+        "image": "images/Sergey_Brin_Ted_2010.jpg",
+        "context": "science_journals",
+        "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
+        "question": "Is the man looking at anything specific?",
+        "answers": [
+            "perhaps the crowd ",
+            "No, nothing else can be seen except the man looking to the side",
+            "The man is looking out into the distance, perhaps at a screen or into the audience by following his line of sight, but the exact object isn't seen in the image. ",
+            ""
         ]
     }
 ]
