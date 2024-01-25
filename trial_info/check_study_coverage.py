@@ -4,7 +4,8 @@ with the datapoints that have yet to be covered.
 '''
 
 import json
-from math import e 
+from math import e
+from random import shuffle
 
 f = open('ig-vqa-default-rtdb-answer-elicitation-study-gpt4-descriptions-export.json')
 study_info = json.load(f)
@@ -62,6 +63,9 @@ for question in all_questions['images']:
 
 print("Number of questions not fully covered yet: ", len(questions_not_covered))
 print("Number of questions fully covered: ", len(questions_covered))
+
+shuffle(questions_covered)
+shuffle(questions_not_covered)
 
 with open("questions_not_covered.json", "w") as outfile:
     outfile.write(json.dumps(questions_not_covered, indent = 4))
