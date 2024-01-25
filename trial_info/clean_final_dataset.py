@@ -3,23 +3,11 @@ import random
 
 #f = open('dataset_annotations_so_far.json')
 f = open('ig-vqa-default-rtdb-answer-elicitation-study-gpt4-descriptions-export.json')
-
 data = json.load(f)
+f = open('correct_descriptions_each_image.json')
+correct_descriptions = json.load(f)
 
 new_dataset_annotations = []
-
-# First, just make a long list of image, context, description, question, and then answers
-#     {
-#        "image": "images/news/Showjumping_white_horse.jpeg",
- #       "context": "social_media",
- #       "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
- #       "question": "what's the vibe, is it happy are they winning?",
- #       "answers": [
- #           "The vibe is more serious and determined ",
- #           "The atmosphere is very passionate and active. However, it cannot be confirmed whether the match was won.",
- #           "the person is happy, they are doing what they enjoy"
- #       ]
-  #  },
 
 all_answers_per_question = {}
 
@@ -34,7 +22,7 @@ full_answer_list = []
 
 # Create a full answer list from this!
 for (image, context, description, question) in all_answers_per_question:
-    if (len(all_answers_per_question) >= 5):
+    if (len(all_answers_per_question) >= 3 and (image not in correct_descriptions or description == correct_descriptions[image])):
         full_answer_list.append({
             'image': image,
             'context': context,
@@ -42,6 +30,8 @@ for (image, context, description, question) in all_answers_per_question:
             'question': question,
             'answers': all_answers_per_question[(image, context, description, question)]
         })
+
+unique_images = []
 
 for i in full_answer_list:
     num_unanswerable_votes = 0
@@ -53,6 +43,10 @@ for i in full_answer_list:
     if (num_unanswerable_votes >= 2):
         continue
 
+    if (len(i['answers']) < 3):
+        continue 
+
+    unique_images.append(i['image'])
     # Take out all the unanswerable votes
     answers = [answer for answer in i['answers'] if answer != '']
 
@@ -64,5 +58,6 @@ for i in full_answer_list:
 
     new_dataset_annotations.append(i)
 
+print("Number of unique images: ", len(list(set(unique_images))))
 with open('dataset_annotations_cleaned.json', 'w') as f:
     f.write(json.dumps(new_dataset_annotations, indent = 4))

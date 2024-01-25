@@ -1,5 +1,27 @@
 [
     {
+        "image": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "context": "health",
+        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+        "question": "How high is the kick?",
+        "answers": [
+            "",
+            "The kick is high with both feet",
+            "I would estimate the kick to be about 5 feet high "
+        ]
+    },
+    {
+        "image": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
+        "context": "social_media",
+        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
+        "question": "Does it look tasty?",
+        "answers": [
+            "yes",
+            "It looks very tasty and freshly made.",
+            "It does look tasty - and hearty and healthy. "
+        ]
+    },
+    {
         "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
         "context": "shopping",
         "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
@@ -13,15 +35,14 @@
         ]
     },
     {
-        "image": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-        "context": "science_journals",
-        "description": "A mallard duck with iridescent green head and white neck ring is floating on water.\n",
-        "question": "Is the water clean?",
+        "image": "images/951_Gaspra.jpg",
+        "context": "news",
+        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
+        "question": "What are they predicting will be visible?",
         "answers": [
-            "",
-            "Yes, the water appears to be clean although it is not the focus of the picture.",
-            "The water is clean.",
-            "Yes, it seems clear"
+            "An oblong gray asteroid covered in craters of varying sizes is seen floating in the black vacuum of space.",
+            "An asteroid",
+            "The asteriod may be visible to some, depending upon where you are. "
         ]
     },
     {
@@ -36,15 +57,51 @@
         ]
     },
     {
-        "image": "images/440px-Yoga_dog_(4045140609).jpeg",
-        "context": "shopping",
-        "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
-        "question": "how beautiful is the dog",
+        "image": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+        "context": "travel",
+        "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+        "question": "Are the people in the car smiling or laughing?",
         "answers": [
-            "cute and precious",
-            "The dog is dressed very cute.",
-            "A very beautiful Bulldog",
-            "The dog is very cute and it is a beautiful dog."
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Korea-Boseong-Green.tea-09.jpg",
+        "context": "travel",
+        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+        "question": "where are the people, are they alone?",
+        "answers": [
+            "There aren't any people pictured",
+            "No people are visible in the image.",
+            "There are no people in this image.",
+            "",
+            "There are no people in this image. ",
+            "There are no people"
+        ]
+    },
+    {
+        "image": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+        "context": "social_media",
+        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+        "question": "What types of dishes are shown in the image? ",
+        "answers": [
+            "",
+            "There are a variety of vegan entrees.",
+            "Chicken wings, pasta salad, potato salad, brownies or cookies and it says its all vegan.",
+            "Apparently, they are vegan dishes but this may not be entirely true.  Some of them are labeled vegan, one is vegetarian and several have no legible label and might have meat, fish, or dairy.  As for food types, this is the deli salad case at Whole Foods."
+        ]
+    },
+    {
+        "image": "images/250px-Raphanus_sativus.jpeg",
+        "context": "health",
+        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+        "question": "Is there a recipe accompanying the photo?",
+        "answers": [
+            "No, there's no recipe accompanying the photo",
+            "There is not a recipe accompanying the photo, just the image itself.",
+            "No, there is not a recipe accompanying the photo"
         ]
     },
     {
@@ -62,28 +119,26 @@
         ]
     },
     {
-        "image": "images/Nilgiri_Mountain_Train.jpeg",
+        "image": "images/Ilovechicago.jpeg",
         "context": "social_media",
-        "description": "A steam train snakes through lush greenery on a bridge, with passengers enjoying the view from open windows.\n",
-        "question": "How is this relevant to Social Media",
+        "description": "Two people tandem skydiving, with expressions of thrill, against a clear blue sky.\n",
+        "question": "What age or gender are the people in the image?",
         "answers": [
-            "",
-            "Shows the transportation methods and scenery around the world",
-            "",
-            "very relevant to social media"
+            "A man and a woman maybe in their 20s-30s. The exact ages are unknown",
+            "They are young people doing this activity.",
+            "A male and female in their 20's"
         ]
     },
     {
-        "image": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-        "context": "shopping",
-        "description": "A woman performs on stage wearing a sparkling, jeweled black bodysuit, with her hair blown by wind.\n",
-        "question": "Where is she performing? Indoors or outdoors?",
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "What does the exam room look like?",
         "answers": [
-            "She is performing her routine indoors.",
-            "She looks to be on a stage indoors.",
-            "",
-            "She is performing Indoors",
-            ""
+            "Fairly dark ",
+            "Yes.",
+            "From what I can see, just a typical white walled, plain exam room.",
+            "It's a white room with the machinery inside"
         ]
     },
     {
@@ -101,6 +156,30 @@
         ]
     },
     {
+        "image": "images/250px-Raphanus_sativus.jpeg",
+        "context": "shopping",
+        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+        "question": "Is this a suggested recipe for radishes?",
+        "answers": [
+            "No it doesn't suggest a recipe",
+            "Not at all",
+            "",
+            "No this is just showing what red radishes should look like"
+        ]
+    },
+    {
+        "image": "images/500px-Backzutaten_041.jpeg",
+        "context": "health",
+        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+        "question": "What kind of ingredients are in the photo?",
+        "answers": [
+            "",
+            "Although all of the ingredient labels are not fully visible, it appears that the ingredients include eggs and some sort of flour, as well as a dark-colored liquid in a medium-sized bottle (label not legible) and something in a medium-sized blue and white box. ",
+            "Eggs, flour, salt, milk, sunflower oil",
+            "It seems that there are baking ingredients - eggs, flour, salt, and sugar. "
+        ]
+    },
+    {
         "image": "images/Yam_mu_yo.jpeg",
         "context": "health",
         "description": "A white plate of Thai yam mu yo salad with sliced sausage, onions, and herbs on a wooden table.\n",
@@ -112,17 +191,14 @@
         ]
     },
     {
-        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-        "context": "shopping",
-        "description": "In the clear, blue sky above the clouds, a group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-        "question": "What is the age range of the people Involved?",
+        "image": "images/New_york_times_square-terabass_(cropped).jpg",
+        "context": "travel",
+        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+        "question": "Is the ad even effective?\n",
         "answers": [
-            "The picture was taken at a distance, and the skydivers are wearing helmets so it is very difficult to say.",
-            "Somewhere between 20-50",
-            "I can't tell",
-            "",
-            "",
-            "Anywhere from young adult to middle aged."
+            "This question is unclear. It is Times Square, so there are ads and billboards everywhere. Unfortunately, I cannot make out any particular single ad to understand what it is advertising from this picture.",
+            "it is low quality photo and looks uncomfortably busy so no",
+            ""
         ]
     },
     {
@@ -138,26 +214,94 @@
         ]
     },
     {
-        "image": "images/440px-Yoga_dog_(4045140609).jpeg",
-        "context": "social_media",
-        "description": "A tan French Bulldog dressed in a pink yoga outfit with a little yoga mat rolled up on its back, looking at the camera.\n",
-        "question": "How is the mat secured on its back? Is it a normal size mat or dog-sized?",
+        "image": "images/Carolina_Herrera_AW14_12.jpeg",
+        "context": "news",
+        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
+        "question": "Was this for a special event for someone or for a brand?",
         "answers": [
-            "The yoga mat is rolled up, pink in color, and is hanging somewhat to the side of the dog's back, dangling off of what appears to be some sort of harness. The yoga mat is dog-sized. ",
-            "It is secured by a strap and it is a dog sized mat",
-            "The mat is a small, dog sized yoga mat. It is secured with a velcro strap to the dog's harness",
-            "The mat is in a holster of some kind, and the mat is dog sized"
+            "",
+            "Nope.",
+            "Possibly or possibly not"
         ]
     },
     {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "What kind of room is he in?",
+        "image": "images/New_york_times_square-terabass_(cropped).jpg",
+        "context": "travel",
+        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+        "question": "What seasonal clothing is the crowd wearing (summer, winter)?",
         "answers": [
-            "It looks like a dance room/studio",
             "",
-            "Appears to be a studio "
+            "The crowd is wearing summer clothing ",
+            "Probably summer"
+        ]
+    },
+    {
+        "image": "images/15718.jpg",
+        "context": "science_journals",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "how old are these ancient baths?",
+        "answers": [
+            "",
+            "They are from original Roman architecture.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "social_media",
+        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+        "question": "What season does it look like?",
+        "answers": [
+            "",
+            "It looks like summer",
+            "It looks like a warm summer night."
+        ]
+    },
+    {
+        "image": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "context": "health",
+        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+        "question": "Why is a martial artist performing so late at dusk?",
+        "answers": [
+            "",
+            "",
+            "Nothing exactly."
+        ]
+    },
+    {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+        "question": "Can you tell which country they are flying over?",
+        "answers": [
+            "I'm not able to tell which country they are flying over",
+            "There is a clear view of the land but you can only tell which country if you know geography. ",
+            "Nope."
+        ]
+    },
+    {
+        "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
+        "context": "news",
+        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+        "question": "Are the people walking on their way to this picnic?",
+        "answers": [
+            "",
+            "I cannot tell from the image.",
+            "There are people walking but it is not clear if they are walking toward the picnic",
+            "",
+            "it seems like they are crossing the street, not in the direction of the picnic.",
+            ""
+        ]
+    },
+    {
+        "image": "images/510px-Spaltlampe-2.jpeg",
+        "context": "health",
+        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
+        "question": "How does this image correlate with the goal of learning to live a healthy lifestyle?",
+        "answers": [
+            "A regular eye check up is important to maintaining healthy eyes.",
+            "it shows that we should get regular eye exams as part of living healthy.",
+            "It is important to get regular checkups."
         ]
     },
     {
@@ -174,61 +318,85 @@
         ]
     },
     {
-        "image": "images/Acorn_Soup_(4827753894).jpeg",
+        "image": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+        "context": "social_media",
+        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+        "question": "Are these recipes to be made or food that gets ordered?",
+        "answers": [
+            "Food that can be ordered",
+            "It is food that gets ordered because right next to the dish is a price tag.",
+            "I thinks it's food to be made.  "
+        ]
+    },
+    {
+        "image": "images/Leila_Goldkuhl_Chloe.jpeg",
         "context": "shopping",
-        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
-        "question": "Does it look tasty?",
+        "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
+        "question": "What is the price",
         "answers": [
-            "yes it does look tasty",
-            "no it does not",
-            "Somewhat"
-        ]
-    },
-    {
-        "image": "images/Aerial_view_-_Presidio-whole.jpg",
-        "context": "travel",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning the San Francisco Bay.  The blue sky hovers hovers over the blue water and hills with a few white clouds floating by.  Streaks of white waves break up the blue waters from boats passing by.\n",
-        "question": "What city is this in?",
-        "answers": [
-            "It is probably either San Francisco or Oakland",
-            "San Francisco",
-            "The city is San Francisco.",
-            "San Francisco"
-        ]
-    },
-    {
-        "image": "images/440px-Giant_Panda_Eating.jpg",
-        "context": "science_journals",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. He is holding a stalk of bamboo to his right with both paws.\n",
-        "question": "Is this is a zoo or in a natural habitat",
-        "answers": [
-            "The surroundings appear to be that of a zoo. It has a neater appearance compared to natural habitats.",
-            "",
-            "natural habitat",
-            "in a natural habitat"
-        ]
-    },
-    {
-        "image": "images/Acorn_Soup_(4827753894).jpeg",
-        "context": "shopping",
-        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs on a green plate. The herbs are leafy and green, and stringy and red.\n",
-        "question": "Does the product look good/high quality?",
-        "answers": [
-            "The image appears to be of good quality.",
-            "The product looks very high quality.",
-            "This product looks kind of gross, honestly. It also looks like it was hastily prepared",
+            "420",
+            "75 dollars",
             ""
         ]
     },
     {
-        "image": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-        "context": "social_media",
-        "description": "A singer with long blonde hair performs on stage in a black skirt, jacket, and thigh-high stockings, holding a microphone.\n",
-        "question": "what type of surroundings ",
+        "image": "images/Korea-Boseong-Green.tea-09.jpg",
+        "context": "health",
+        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+        "question": "How is the weather?",
         "answers": [
-            "The surrounds appear to be a big stage. With dark blue lighting overall. A bright spotlight is shining on the singer contrasting the dark background.",
-            "The background is blue.",
-            "She is on-stage, with some white lighting behind her."
+            "Is a bright day with lots of day light coming through",
+            "it looks like a sunny day",
+            "The weather is sunny."
+        ]
+    },
+    {
+        "image": "images/MICHAEL_KORS_221.jpeg",
+        "context": "news",
+        "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
+        "question": "What color hair does the model have?",
+        "answers": [
+            "She has a blonde hair",
+            "dark blonde",
+            "Reddish brown",
+            "The model appears to have dark blonde hair.",
+            "light brown"
+        ]
+    },
+    {
+        "image": "images/P-51_Mustang_edit1.jpeg",
+        "context": "social_media",
+        "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+        "question": "is this war, or some kind of battle",
+        "answers": [
+            "It's not a war",
+            "It looks like it's just a hobby aircraft so my guess is no",
+            "unsure but it looks to be just flying around with a pretty background of nature"
+        ]
+    },
+    {
+        "image": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
+        "context": "travel",
+        "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
+        "question": "Is there a person wearing the backpack? ",
+        "answers": [
+            "The backpack is laying facedown against a red surface. There is no one wearing the backpack.",
+            "No the image is just of the product",
+            "There is no person wearing the backpack, there are no people in the image.",
+            "Yes.",
+            "There is no person wearing the backpack. ",
+            "No there is not"
+        ]
+    },
+    {
+        "image": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+        "context": "news",
+        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+        "question": "Is there any text about this place?",
+        "answers": [
+            "There is no text on the image.",
+            "",
+            "Yes, I would imagine the new website would have a written article that is associated with the image. "
         ]
     },
     {
@@ -243,37 +411,13 @@
         ]
     },
     {
-        "image": "images/Souk_in_Tunisia_1.jpeg",
-        "context": "social_media",
-        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
-        "question": "What side of the market is each thing?",
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Has the weather temperature changed?",
         "answers": [
-            "There are textiles, clothing, and bags on the right with traditional goods on the left.",
-            "The right side has more of the clothing and bags while the left side has textiles and traditional goods. ",
-            "The textiles are mostly on the right though it is not clear if that is true throughout the market.",
-            "There are clothing on the left and textiles on the right. Most of the goods are mixed together so everything is on each side."
-        ]
-    },
-    {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "social_media",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "does this bring inner peace to connect with yourself. ",
-        "answers": [
-            "This image looks like the person is relaxed and practicing yoga, they are likely peaceful",
             "",
-            "It is said yoga assists with meditation, which in turn is said to have peaceful effects to one's mind."
-        ]
-    },
-    {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Are they using proper form?",
-        "answers": [
-            "Yes they are using proper form",
-            "I would say yes the man is using proper form for a yoga pose.",
-            "I think so",
+            "",
             ""
         ]
     },
@@ -302,14 +446,14 @@
         ]
     },
     {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Does the health website recommend yoga as a healthy activity?",
+        "image": "images/Rafting_em_Brotas.jpeg",
+        "context": "shopping",
+        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+        "question": "How are the people interacting witht he item being sold?",
         "answers": [
-            "Since the image appears on a health website, I would believe the site advocates for yoga as a health activity.",
-            "Yes, the website definitely recommends yoga.",
-            "yes, you can tell from the image."
+            "",
+            "They are holding onto their paddles and all wearing helmets and they are all sitting inside of a raft.",
+            ""
         ]
     },
     {
@@ -321,19 +465,6 @@
             "New York City",
             "It is located in New York",
             "large green park"
-        ]
-    },
-    {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Is this a vegan website?",
-        "answers": [
-            "Not necessarily, it's a health website and yoga could be seen as exercise.",
-            "",
-            "",
-            "no its a health website",
-            ""
         ]
     },
     {
@@ -361,25 +492,20 @@
         ]
     },
     {
-        "image": "images/Souk_in_Tunisia_1.jpeg",
-        "context": "travel",
-        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, textiles, and traditional goods.\n",
-        "question": "What is in the picture",
+        "image": "images/Rafting_em_Brotas.jpeg",
+        "context": "shopping",
+        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+        "question": "What are the weather conditions",
         "answers": [
-            "A lively marketplace filled with vibrantly colored objects, clothing, and goods. ",
-            "A middle eastern type of local market selling tshirts, hanbags, fake jewelery and what not. locals and tourist are seen strolling around. ",
-            "Many people, stalls, and items for sale"
-        ]
-    },
-    {
-        "image": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
-        "context": "news",
-        "description": "Two taekwondo athletes in mid-fight. One is executing a high kick to the head of his opponent who attempts to lean back and dodge.\n",
-        "question": "Who won the competition? ",
-        "answers": [
+            "It looks sunny",
             "",
-            "",
-            ""
+            "Weather conditions look like it's sunny and good weather.",
+            "sunny and windy",
+            "The weather appears to be clear and sunny since we see the sun reflexing on the raft.",
+            "Looks like at least partly sunny with no precip.",
+            "There is no rain coming down and it seems to be sunny. ",
+            "The sky is not shown  in the picture but it appears that it is a clear good weather day.",
+            "water is rough and turbulent"
         ]
     },
     {
@@ -395,14 +521,67 @@
         ]
     },
     {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
-        "context": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Is the person an instructor, or a pupil?",
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "What colors are seen in the eclipse?",
         "answers": [
+            "The black sky, a white coronal ring around a dark black circle, and small red flashes",
+            "White, black, orange and red.",
+            "The color red is very sparsely seen around the moon. The shades white, black, and gray are very prevalent. "
+        ]
+    },
+    {
+        "image": "images/Rafting_em_Brotas.jpeg",
+        "context": "shopping",
+        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+        "question": "Is the water current fast",
+        "answers": [
+            "yes it is very fast",
+            "The current is fast",
+            "Yes, the water is flowing rapidly.",
+            "It appears fast because there are rapids and the raft is tipping.",
+            "Yes, the current in the image is fast.",
+            "yes, the water is whitewater",
+            "My opinion is the water current is neither running fast nor slow.6",
+            "Yes the water current appears to be fast  as it is an area that contains a river rapid with churning waters",
+            "The water current appears to be violently fast.",
+            "As it is whitewater, it does appear that the current is fast or strong.",
+            "Yes, the water current is moving quite fast and with great force. ",
+            "The whitewater current is really fast, making the raft tilt to the side."
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "How big is it?",
+        "answers": [
+            "The black orb completely covers the sun, so it is complete.",
             "",
-            "",
-            ""
+            "It is small in size and takes up about half of the photo."
+        ]
+    },
+    {
+        "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
+        "context": "news",
+        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+        "question": "Are the streets full of people, or are they casually walking on the sidewalk and using the crosswalk?",
+        "answers": [
+            "They are casually walking on the sidewalk and using the crosswalk.",
+            "There are people casually using the crosswalk.",
+            "There are only a couple people in view, and they are using the crosswalk."
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "How bright is it?",
+        "answers": [
+            "Not very bright, considering that the light is mostly being eclipsed",
+            "It mostly appears to be dark with a little bit of rays of light.",
+            "very bright"
         ]
     }
 ]

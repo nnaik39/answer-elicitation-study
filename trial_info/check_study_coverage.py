@@ -36,23 +36,21 @@ for participant in study_info:
                 answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
             answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
 
-all_answers = {}
+#all_answers = {}
 
-for participant in study_info:
-    for trial in study_info[participant]:
-            if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in all_answers):
-                all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
-            all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
+#for participant in study_info:
+ #   for trial in study_info[participant]:
+  #          if ((trial['picture'], trial['category'], trial['description'], trial['question']) not in all_answers):
+   #             all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])] = []
+    #        all_answers[(trial['picture'], trial['category'], trial['description'], trial['question'])].append(trial['answer'])
 
 questions_not_covered = []
 
 questions_covered = []
 
-questions_almost_all_covered = []
-
 for question in all_questions['images']:
-    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
-        num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
+    if ((question['filename'], question['category'], question['description'], question['question']) in answers):
+        num_answers = len(answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
         questions_not_covered.append(question)
         continue 
@@ -71,9 +69,9 @@ with open("questions_not_covered.json", "w") as outfile:
 with open("questions_covered.json", "w") as outfile:
     outfile.write(json.dumps(questions_covered, indent = 4))
 
-# These are all the answers that have been collected -- 103 answers!!
-    
 for (image, context, description, question) in answers:
+    print("Image, question, length of answers: ", len(answers[(image, context, description, question)]))
+
     if (len(answers[(image, context, description, question)]) >= 3):
         i = {
             'image': image,
@@ -92,7 +90,6 @@ for (image, context, description, question) in answers:
 
 print("Length of pilot exp ", len(pilot_exp['images']))
 
-print("Length of new pilot exp ", len(new_pilot_exp['images']))
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
 
