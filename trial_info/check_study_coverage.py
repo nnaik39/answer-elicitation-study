@@ -90,7 +90,7 @@ for (image, context, description, question) in answers:
             'question': question
         })
 
-print("Length of new pilot exp ", len(pilot_exp['images']))
+print("Length of new pilot exp ", len(new_pilot_exp['images']))
 
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
