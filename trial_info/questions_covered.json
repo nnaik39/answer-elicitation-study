@@ -1,122 +1,194 @@
 [
     {
-        "filename": "images/951_Gaspra.jpg",
+        "filename": "images/15718.jpg",
+        "category": "science_journals",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "how old are these ancient baths?"
+    },
+    {
+        "filename": "images/Sergey_Brin_Ted_2010.jpg",
+        "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
+        "category": "science_journals",
+        "question": "How is this image connected to the story?"
+    },
+    {
+        "filename": "images/Solar_eclipse_1999_4.jpeg",
+        "category": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there stars pictured in the image as well?"
+    },
+    {
+        "filename": "images/Solar_eclipse_1999_4.jpeg",
         "category": "news",
-        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
-        "question": "Are the craters all over or scarce?"
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there any stars visible in the image?"
+    },
+    {
+        "filename": "images/15718.jpg",
+        "category": "travel",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "How popular is it"
+    },
+    {
+        "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
+        "category": "travel",
+        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
+        "question": "What are the hotels being featured and are they being recommended by the travel website?"
+    },
+    {
+        "filename": "images/Korea-Boseong-Green.tea-09.jpg",
+        "category": "travel",
+        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+        "question": "Are there people in the image?"
+    },
+    {
+        "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "category": "social_media",
+        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
+        "question": "Is the person alone or in a group"
+    },
+    {
+        "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "category": "health",
+        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
+        "question": "What is the gender of the person?"
+    },
+    {
+        "filename": "images/Solar_eclipse_1999_4.jpeg",
+        "category": "news",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "When/where was this picture taken?"
+    },
+    {
+        "filename": "images/Solar_eclipse_1999_4.jpeg",
+        "category": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there any stars in the sky?"
+    },
+    {
+        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+        "category": "travel",
+        "question": "What city is this?"
     },
     {
         "filename": "images/Korea-Boseong-Green.tea-09.jpg",
         "category": "health",
         "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
-        "question": "Where is this tree positioned?"
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there any stars twinkling?"
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there light rays coming from the corona?"
-    },
-    {
-        "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
-        "category": "travel",
-        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
-        "question": "Where is this from?"
+        "question": "What color is the tree"
     },
     {
         "filename": "images/400px-Retinal_camera.jpeg",
         "category": "health",
         "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
-        "question": "Is the camera positioned on a table or stand? Or is against the wall?"
+        "question": "What is the approximate size of the camera setup?"
     },
     {
-        "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
+        "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
         "category": "shopping",
-        "question": "Is it a concert?"
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "Can you buy their wardrobes?"
     },
     {
-        "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
-        "description": "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
-        "category": "social_media",
-        "question": "what are they advertising"
+        "filename": "images/250px-Raphanus_sativus.jpeg",
+        "category": "shopping",
+        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+        "question": "Are radishes on sale?"
     },
     {
-        "filename": "images/Rafting_em_Brotas.jpeg",
+        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
         "category": "travel",
-        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-        "question": "Would you be afraid of the danger?"
+        "question": "Are there people like me in the image?"
+    },
+    {
+        "filename": "images/400px-Norman_Borlaug.jpeg",
+        "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+        "category": "science_journals",
+        "question": "is the a conference going on "
+    },
+    {
+        "filename": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "category": "health",
+        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+        "question": "How high is the kick?"
+    },
+    {
+        "filename": "images/440px-Protein_shake.jpg",
+        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+        "category": "shopping",
+        "question": "What material is the shaker bottle?"
     },
     {
         "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
         "category": "news",
         "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
-        "question": "What does the image relate to specifically?"
+        "question": "Did something in particular happen?"
     },
     {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "news",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Are there any people in the image?"
+        "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+        "category": "shopping",
+        "question": "What is the brand of the attire they're wearing?"
     },
     {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Where can I safely see this?"
-    },
-    {
-        "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
-        "category": "health",
-        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-        "question": "What does the person look like?"
-    },
-    {
-        "filename": "images/510px-Spaltlampe-2.jpeg",
+        "filename": "images/500px-Soldier_running_in_water_original.jpeg",
+        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
         "category": "social_media",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "Who is the patient?"
+        "question": "Does this look like a scam"
     },
     {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Can you tell what season this might be?"
+        "filename": "images/440px-Bay_to_Breakers_2011_Up.jpg",
+        "category": "news",
+        "description": "A festive crowd with balloons and bubbles in front of classic San Francisco houses under a sunny sky. There is a miniature house under the balloons. \n",
+        "question": "What do you think they are celebrating?"
     },
     {
         "filename": "images/220px-Ado-muka-shvanasana.jpeg",
         "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
         "category": "social_media",
-        "question": "Does the picture appear to be a sponsor for something?"
+        "question": "How thick does the yoga mat look like?"
     },
     {
-        "filename": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "filename": "images/Souk_in_Tunisia_1.jpeg",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
         "category": "social_media",
-        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-        "question": "Is the person a man or a woman?"
+        "question": "What's the definition of a traditional good?"
     },
     {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "What is the name of the science magazine website?"
-    },
-    {
-        "filename": "images/Rafting_em_Brotas.jpeg",
+        "filename": "images/Souk_in_Tunisia_1.jpeg",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
         "category": "travel",
-        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-        "question": "Are there any other rafts nearby that would be able to help the people in the first raft?"
+        "question": "Who is in the picture"
     },
     {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+        "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
+        "category": "travel",
+        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+        "question": "Are there are a lot of trees in the area?"
+    },
+    {
+        "filename": "images/500px-Soldier_running_in_water_original.jpeg",
+        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
+        "category": "health",
+        "question": "Is the man in any competition?"
+    },
+    {
+        "filename": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
+        "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
         "category": "news",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "What city is in the photograph?"
+        "question": "Is it  harmful"
+    },
+    {
+        "filename": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "category": "travel",
+        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+        "question": "What kind of lights illuminate the rotunda?"
+    },
+    {
+        "filename": "images/400px-Retinal_camera.jpeg",
+        "category": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "Is there a doctor nearby it?"
     }
 ]

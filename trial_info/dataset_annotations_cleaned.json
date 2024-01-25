@@ -38,9 +38,9 @@
         "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
         "question": "What is the woman's facial expression?",
         "answers": [
-            "Looking down and focused on her right leg lifting the gym equipment",
-            "Focused and paying attention",
-            "The single person in gym,  identified as woman exercise for gastrocnemius  power"
+            "the woman has a neutral facial expression during her workout",
+            "you can partially see her face and if anything, it looks focused on her work out",
+            "She looks determined "
         ]
     },
     {
@@ -71,9 +71,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "What kind of nuts are on the surface?",
         "answers": [
-            "Pecans and another kind",
+            "the table has  on it  a  plenty variation of vegetable and fruits peaces.",
             "On the image, there appears to be a selection of nuts including walnuts and pecans.",
-            "the table has  on it  a  plenty variation of vegetable and fruits peaces."
+            "it appears to be almonds and chestnuts"
         ]
     },
     {
@@ -105,7 +105,7 @@
         "question": "Does this look like a good place for skiing or snowmobiles?",
         "answers": [
             "yes it does",
-            "No",
+            "I would say that it is a good place for cross country skiing, but not downhill skiing. Also I think snowmobiles would be usefull in the area.",
             "I would say no, this is not a good spot for skiing as it is all flat land, and while it might be for snowmobiles, the fact that the American flag is there makes me think that a bunch of snowmobilers would be unwelcome."
         ]
     },
@@ -137,9 +137,9 @@
         "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
         "question": "Is this an isolated location or a lot of human activity nearby?",
         "answers": [
+            "Isolated locatiion.",
             "Isolated location",
-            "This is an isolated location",
-            "Isolated locatiion."
+            "One of the border in my country people awareness"
         ]
     },
     {
@@ -255,8 +255,8 @@
         "description": "A group of people sitting a hot tub located",
         "question": "where is it located? ",
         "answers": [
-            "outdoors somewhere with a cold climate",
             "In a snowy place",
+            "It is located in a location that likely gets a fair amount of snow in the winter.",
             "Out in the snow"
         ]
     },
@@ -267,8 +267,8 @@
         "question": "What action is the woman performing in the image?",
         "answers": [
             "The woman is running, she is dressed in leggings and a sports bra",
-            "She is going on a run through the hillside.",
-            "She is exercising "
+            "She is exercising ",
+            "She is going on a run through the hillside."
         ]
     },
     {
@@ -279,7 +279,7 @@
         "answers": [
             "women only as far as I can tell",
             "Look like there's a ton of women in this photo.",
-            "They appear to be a group of women"
+            "Women"
         ]
     },
     {
@@ -309,9 +309,9 @@
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
         "question": "What color is the ISS?",
         "answers": [
-            "i believe it is silver and white",
-            "the ISS silver and white",
-            "The ISS is made of gray, silver and copper metals. "
+            "It is colorless or either white",
+            "The ISS is silver and metallic grey.",
+            "The ISS shows as silver and gray, based on lighting. "
         ]
     },
     {
@@ -320,9 +320,9 @@
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
         "question": "What does the rest of the image look like?",
         "answers": [
-            "there's non descript woods",
+            "There are six people in the hot tub, which is on top of a wooden wheeled stand. Steam is billowing from a pipe connecting to the tub. Thick green grass and trees can be seen in the background.",
             "The background is covered with trees while what looks like a smokestack is behind the tub most likely adding heat to the water",
-            "There are six people in the hot tub, which is on top of a wooden wheeled stand. Steam is billowing from a pipe connecting to the tub. Thick green grass and trees can be seen in the background."
+            "The hot tub is sitting on top of a trailer with wheels.  There are a series of steps leading up to the top of the hot tub for people to climb into it.  A tall chimney vent extends from the back of the tub, allowing steam to escape."
         ]
     },
     {
@@ -354,8 +354,8 @@
         "question": "How old are the people?",
         "answers": [
             "The people in the image are likely to be in their low to mid 30s",
-            "the people are in their late 20s to early 30s",
-            "The people appear to mostly be in their 20's or 30's."
+            "The people appear to mostly be in their 20's or 30's.",
+            "the people are in their late 20s to early 30s"
         ]
     },
     {
@@ -386,8 +386,8 @@
         "question": "What are the people doing at the beach?",
         "answers": [
             "there people looking at kayaks and sitting on the beach and sum under tents looking at the water and possibly talking.",
-            "a busy scene with colorful kayaks on the sand and people milling around, indicating potential activities such as kayaking, sunbathing, or enjoying the beach ambiance. ",
-            "They are preparing to go kayaking."
+            "Planning to attend a kayaking event of some kind.",
+            "a busy scene with colorful kayaks on the sand and people milling around, indicating potential activities such as kayaking, sunbathing, or enjoying the beach ambiance. "
         ]
     },
     {
@@ -396,9 +396,9 @@
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
         "question": "What is the weather like?",
         "answers": [
-            "its a beautiful, clear, and sunny day ",
-            "It looks like there's warm weather judging from the clear skies and sun.",
-            "Clear skies with a little bit of haze"
+            "Clear skies with a little bit of haze",
+            "Without explicit information about the weather in the image description, Its not possible to determine the current weather condition but the weather looks cool tho. ",
+            "Bright and sunny"
         ]
     },
     {
@@ -462,9 +462,9 @@
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
         "question": "Does the path appear to be in a secluded area or public?",
         "answers": [
-            "It appears to be a public walking trail.",
             "This path looks to be more secluded. ",
-            "it seems to be in a secluded area"
+            "it is more likely a secluded area than the public.",
+            "It appears to be a public walking trail."
         ]
     },
     {
@@ -473,9 +473,9 @@
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
         "question": "What does the balloon look like?",
         "answers": [
-            "It is bright, reddish-orange, with a yellow design on the sides. ",
+            "It is light orange in color with vertical lines.",
             "The balloon is a faded red color",
-            "It is light orange in color with vertical lines."
+            "The color of the balloon is dusty rose and has white designs on it."
         ]
     },
     {
@@ -484,9 +484,9 @@
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
         "question": "What time of day is it?",
         "answers": [
+            "I don't know",
             "Most likely noon, as the sun is not in the photo.",
-            "It is Midday",
-            "I don't know"
+            "It's uncertain to tell what time of day it is, but it's not dark at all so I'm guessing around noon."
         ]
     },
     {
@@ -495,9 +495,9 @@
         "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
         "question": "Are these people astronauts?",
         "answers": [
-            "based on the image and zero gravity, they look like astronauts",
-            "They look to be astronauts in training but not on a space mission at present.",
-            "Yes, they are astronauts."
+            "Yes, they are astronauts.",
+            "Yes this description does state these people are astronauts",
+            "They look to be astronauts in training but not on a space mission at present."
         ]
     },
     {
@@ -549,9 +549,9 @@
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
         "question": "What kind of clothes is the person wearing?",
         "answers": [
-            "He is nude from the top up.",
+            "The person is wearing no upper body clothing but the lower body clothing is not shown since it is covered by a body of water. The person could be naked or wearing swimwear.",
             "The person has no shirt or top on",
-            "The person is wearing no upper body clothing but the lower body clothing is not shown since it is covered by a body of water. The person could be naked or wearing swimwear."
+            "He is nude from the top up."
         ]
     },
     {
@@ -570,9 +570,9 @@
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
         "question": "Is there any fencing?",
         "answers": [
-            "No, no fence is visible in the image.\n",
-            "No, there isn't any fencing",
-            "No, no fencing is visible."
+            "No, no fencing is visible.",
+            "No, there does not appear to be any fencing present as it appears to be taken in nature.",
+            "There isn't any fencing but looks to be a small bridge or stairs in the background "
         ]
     },
     {
@@ -581,9 +581,9 @@
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
         "question": "Why are they in space?",
         "answers": [
-            "The astronaut is likely performing some sort of operation or mission that required them to be outside of their shuttle or space station.  They are likely performing some sort of repair activity or experimenting.",
-            "Probably to do a spacewalk or repairs.",
-            "They are in space because they are an astronaut and their job is to go to space."
+            "They are in space because they are an astronaut and their job is to go to space.",
+            "NASA sent them",
+            "The astronaut is likely performing some sort of operation or mission that required them to be outside of their shuttle or space station.  They are likely performing some sort of repair activity or experimenting."
         ]
     },
     {
@@ -645,9 +645,9 @@
         "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
         "question": "what color is the laser beam?",
         "answers": [
-            "The laser beam is yellow. ",
-            "The color of the laser beam is yellow.",
-            "The laser beam is yellow."
+            "Yellow-greenish",
+            "The laser beam is yellow",
+            "The laser beam is yellow. "
         ]
     },
     {
@@ -657,8 +657,8 @@
         "question": "What ethnicity is this woman?",
         "answers": [
             "The woman is indian.",
-            "She looks to be an Arabic young woman.",
-            "She seems to be indian or south asian"
+            "the woman looks to be of Indian descent ",
+            "She looks to be an Arabic young woman."
         ]
     },
     {
@@ -688,9 +688,9 @@
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
         "question": "Where is the marathon by looking for landmarks?",
         "answers": [
-            "The marathon looks like it is in London",
+            "Overseas",
             "The marathon is held along the town highway. You can see the tall buildings off to the side as it is  happening. ",
-            "Overseas"
+            "Unsure, but it seems to be in Europe based on the buildings and markings on the street."
         ]
     },
     {
@@ -711,8 +711,8 @@
         "question": "Who is this?",
         "answers": [
             "the leader of the swimmers",
-            "Rich Froning Jr.",
-            "The swimmer is Adam Peaty"
+            "This is a random person in the public. ",
+            "Rich Froning Jr."
         ]
     },
     {
@@ -732,8 +732,8 @@
         "description": "Entrance to the London Underground at dusk, with iconic roundel sign visible.",
         "question": "Is this related to London Underground?",
         "answers": [
+            "Yes,it\u2019s the entrance of the London Underground at dusk.",
             "yes, it's an image of the entrance",
-            "Yes, it is the entrance to London Underground.",
             "yes, it is the entrance to the underground"
         ]
     },
@@ -754,9 +754,9 @@
         "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
         "question": "Is any one in trouble? ",
         "answers": [
+            "No one is in trouble.",
             "No, there aren't any people or animals in the image.",
-            "I do not see any people, but the area is under a lot of flames and could possible spread to other areas.",
-            "No, there isn't anyone near the fire so nobody is in trouble."
+            "I do not see any people, but the area is under a lot of flames and could possible spread to other areas."
         ]
     },
     {
@@ -765,9 +765,9 @@
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
         "question": "Does it look like it takes place on a college campus?",
         "answers": [
-            "No, it looks like a hiking trail in a rural area. ",
-            "No, it looks like it takes place in some sort of a nature park.",
-            "This is on a local walking trail, not located by any campus"
+            "This is on a local walking trail, not located by any campus",
+            "No, the image appears to take place along a trail in the forest. ",
+            "No, it looks like a hiking trail in a rural area. "
         ]
     },
     {
@@ -787,8 +787,8 @@
         "question": "What color are the swimming flippers?",
         "answers": [
             "The flippers are blue",
-            "The swimming flippers are blue.",
-            "The flippers are blue."
+            "The flippers are blue.",
+            "The swimming flippers are blue."
         ]
     },
     {
@@ -850,9 +850,9 @@
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
         "question": "what is the subject doing",
         "answers": [
-            "The person is standing on the trail and looking out towards the view of the trees and mountains in the distance.",
-            "The subject is stopping to admire a view while hiking",
-            "They are hiking through a national forest. "
+            "They are hiking through a national forest. ",
+            "the person is hiking",
+            "The subject is stopping to admire a view while hiking"
         ]
     },
     {
@@ -861,9 +861,9 @@
         "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
         "question": "How big is the sign?",
         "answers": [
-            "The sign appears to be around 3' by 2' and rests atop legs around 4' high.",
+            "smaller than the flag pole the flag is anchored to.",
             "The sign is approximately 3 feet tall and 4 feet wide",
-            "The sign is small."
+            "taller then the sign and the pole "
         ]
     },
     {
@@ -903,9 +903,9 @@
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
         "question": "Who is in the image? Neil Armstrong?",
         "answers": [
-            "an astronaut",
-            "an unknown and unnamed astronaut ",
-            "There is no way to tell for sure who the astronaut is, but the image appears to be somewhat modern so it is unlikely that it is Neil Armstrong."
+            "There is no way to tell for sure who the astronaut is, but the image appears to be somewhat modern so it is unlikely that it is Neil Armstrong.",
+            "Astronaunt",
+            "The space suit prevents the astronaut from being identified due the helmet."
         ]
     },
     {
@@ -937,8 +937,8 @@
         "question": "What is the person wearing?",
         "answers": [
             "The person is not wearing any noticeable article of clothing on the upper body and the lower body is underwater but could have some type of swimming item like shorts on. ",
-            "The person is not wearing a top or shirt.  Not sure about garments below the waist as his bottom half is under water. ",
-            "the person is not wearing clothing"
+            "They appear to not be wearing any clothes",
+            "Presumably a bathing suit, but his lower half is in the water so it's impossible to tell.  He's not wearing anything on his top half."
         ]
     },
     {
@@ -982,7 +982,7 @@
         "answers": [
             "No, there are not.",
             "There are no man-made objects around.",
-            "No man-made objects, just rocks and snow."
+            "there are no man-made objects located inside of the image."
         ]
     },
     {
@@ -1065,9 +1065,9 @@
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
         "question": "What is the nature of the geography around them?",
         "answers": [
-            "There is a waterfall",
             "I can't give you an answer because the photo doesn't show the geography around the person who is meditating.",
-            "Flowing waterfall."
+            "Flowing waterfall.",
+            "It is a close up image of the man; you can only see the waterfall and that he is chest deep in water."
         ]
     },
     {
@@ -1076,8 +1076,8 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
         "question": "Is there an article referring to the picture?",
         "answers": [
+            "I am not sure if there is an article related to this picture. ",
             "not from what i can tell",
-            "yes mens are walking and fitness is very well ",
             "As I browse through a news website, my attention is captured by an article about a recent fashion show. The headlines read \" Male Models Rock the Runway in Nesh Shirts \""
         ]
     },
@@ -1120,9 +1120,9 @@
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
         "question": "Is it more like an artistic photo or a promotional one?",
         "answers": [
-            "artistic photo",
+            "The photo fits more into what I would think of as a travel photo, one that someone took on their travels. Which I guess would mean it is more promotional. It is picturesque enough to be art as well though.",
             "I think this one is promotional one.",
-            "It is more of an artistic photo. "
+            "artistic photo"
         ]
     },
     {
@@ -1151,9 +1151,9 @@
         "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
         "question": "where is this performer?",
         "answers": [
-            "The background is pretty blurry, but the performer appears to be outside on a fairly sunny day. ",
             "The performer is Beyonce",
-            "on an outdoor stage"
+            "on an outdoor stage",
+            "The background is pretty blurry, but the performer appears to be outside on a fairly sunny day. "
         ]
     },
     {
@@ -1195,9 +1195,9 @@
         "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
         "question": "Where was this picture taken and what is its significance.",
         "answers": [
-            "it is taken in a room. it is to show off furniture.",
+            "This picture was taken inside a studio. It appears significant for advertising purposes.",
             "The picture was taken in a empty room and not really significant about it.",
-            "This picture was likely taken in a studio with experts polishing it and framing it professionally "
+            "Random look's like for it to be sold."
         ]
     },
     {
@@ -1208,7 +1208,7 @@
         "answers": [
             "close up",
             "The swimmer is close up.",
-            "The swimmer was pretty close up."
+            "The swimmer is close up in the frame and is in fact the closest thing to the viewer. The swimmer is close enough that one can accurately see details on his trunks, cap and watch."
         ]
     },
     {
@@ -1249,9 +1249,9 @@
         "description": "A bald man with a defined jawline and a slight smile, wearing a collared shirt under a gray jacket. He has a confident demeanor, with a dark backdrop. he is also wearing ear rings on both ears.",
         "question": "Is this guy a celebrity or something",
         "answers": [
-            "I am not sure as he does not look familiar to me.  His confidence and clothes and slight smile makes me believe that he may be a model.",
             "I believe he is, I just cannot think of his name right now.",
-            "Presumably yes, since his picture is being featured on a news website"
+            "He may be judging by the quality of the photo and the location.",
+            "I am not sure as he does not look familiar to me.  His confidence and clothes and slight smile makes me believe that he may be a model."
         ]
     },
     {
@@ -1260,8 +1260,8 @@
         "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
         "question": "Are there any people around?",
         "answers": [
+            "There are no people in the photo. The area looks peaceful and secluded.",
             "No, there are not any people in the photo",
-            "there is no human in the image",
             "There are no people around."
         ]
     },
@@ -1272,7 +1272,7 @@
         "question": "Is this a show type of event or a competition? ",
         "answers": [
             "It looks like it is probably an equestrian competition.",
-            "No",
+            "Yes, an event with horses",
             "Competition"
         ]
     },
@@ -1315,8 +1315,8 @@
         "description": "A group of people on a flatboat tour, seated under a canopy, cruising close to a riverbank.",
         "question": "Who is there",
         "answers": [
-            "the boat passenger",
             "A tour group, likely including the person who's account is currently being viewed.",
+            "Looks like there are tourists there.",
             "it's a group of people on a flatboat tour, enjoying the cruise under a canopy, close to a riverbank. "
         ]
     },
@@ -1336,9 +1336,9 @@
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
         "question": "What color is the clothes that they are wearing?",
         "answers": [
-            "The woman has a black sports bra and blue and black pants",
+            "Black sports bra and black pants, with a blue towel or shirt hanging from her waist ",
             "black sports bra, black pants, blue at waistband",
-            "Black sports bra and black pants, with a blue towel or shirt hanging from her waist "
+            "The woman has a black sports bra and blue and black pants"
         ]
     },
     {
@@ -1358,9 +1358,9 @@
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
         "question": "Does the person look happy?",
         "answers": [
-            "Yes to be enjoying the nature",
+            "The person is faced away from the camera so we can't tell if he is happy or not.",
             "the facial expressions of the person cannot be seen or noted",
-            "The person is faced away from the camera so we can't tell if he is happy or not."
+            "Yes to be enjoying the nature"
         ]
     },
     {
@@ -1380,9 +1380,9 @@
         "description": "A wildfire engulfs trees in fierce orange flames against a dark background.",
         "question": "Can you make out the trees or are they completely engulfed?",
         "answers": [
-            "The trees are all engulfed in flames.",
-            "I can make out the trees and they seem completely engulfed to me.",
-            "i can make out trees"
+            "i can make out trees",
+            "You can see the sillouette of both, one is on fire and the other appears untouched.",
+            "The trees are all engulfed in flames."
         ]
     },
     {
@@ -1455,8 +1455,8 @@
         "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
         "question": "Can you see the entire kettle?",
         "answers": [
-            "Yes, the entire kettle is visible in this photo. ",
-            "Yes, the entire Kettle is visible ",
+            "Yes, the entire kettle is visible.",
+            "Yes you can.",
             "You can see the entire kettle. But this IS what it looks like from the front. Not side or top view."
         ]
     },
@@ -1519,9 +1519,9 @@
         "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
         "question": "what gender is the person?",
         "answers": [
-            "it is a woman",
+            "The person is female",
             "The person is a woman, as the person has long hair that appears to be tied back and the body frame is slight",
-            "The person is female"
+            "The person in the image appears to be female."
         ]
     },
     {
@@ -1531,8 +1531,8 @@
         "question": "Can you see the occupants of the balloon",
         "answers": [
             "No, you cannot see the occupants of the balloon.",
-            "No, occupants of the balloon are not visible. ",
-            "No you cannot see the occupants of the balloon."
+            "No you cannot see the occupants of the balloon.",
+            "No, you can't see as the hot air balloon is at a far distant."
         ]
     },
     {
@@ -1572,9 +1572,9 @@
         "description": "A colony of seals lounges on rocky terrain near the water's edge.",
         "question": "Are there any in the water?",
         "answers": [
-            "yes, but they are very small in the distant background.",
+            "It looks like there could be some in the water.",
             "There are no seals in the water",
-            "I think those specs in the background may be more seals, if they are then there are lots of seals in the water."
+            "There do appear to be some seals lounging in the water alongside the shore."
         ]
     },
     {
@@ -1594,9 +1594,9 @@
         "description": "A vibrant cosmic nebula with swirls of purple and blue against the backdrop of a starry sky.",
         "question": "where was this picture taken",
         "answers": [
+            "The nebula picture taken was in outerspace.",
             "The picture is of space so it could be from space or taken from earth with a strong lens",
-            "is an AI-generated image \n",
-            "The nebula picture taken was in outerspace."
+            "is an AI-generated image \n"
         ]
     },
     {
@@ -1616,9 +1616,9 @@
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
         "question": "How big is the branch?",
         "answers": [
-            "Probably 1 foot to two feet long, it's hard to tell because the photo is cropped.",
-            "It is hard to tell because it is underwater and it is unknown by the picture just how big or small the egg case is.",
-            "the branch is small."
+            "The branch is not that big but it is able to hold the egg",
+            "the branch is small.",
+            "not so big or small"
         ]
     },
     {
@@ -1638,9 +1638,9 @@
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
         "question": "Is there a \"before\" photo of the woman?",
         "answers": [
-            "No, there is no before photo of the woman, only the one where she is actively running",
+            "No. she is in running and fit the body",
             "no, at least not based on what is shown here",
-            "No there is not a before photo of the woman"
+            "No, there is no before photo of the woman."
         ]
     },
     {
@@ -1649,7 +1649,7 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "kinds of grains",
         "answers": [
-            "The kind of grains include almonds, pecans, and rice",
+            "There is a sheaf of wheat, and what could either be oatmeal or rice.",
             "Wheat and rice",
             "whole grains"
         ]
@@ -1661,8 +1661,8 @@
         "question": "what is the egg",
         "answers": [
             "The egg likely came from a shark or a ray, which are aquatic species. The yellow egg case contains an embryo, which is somewhat circular and better compared to the egg yolk of a chicken egg.",
-            "The egg looks like that of a shark under water.",
-            "the embryo of an aquatic species, possibly a shark or ray"
+            "the embryo of an aquatic species, possibly a shark or ray",
+            "The egg is some type of underwater mammal. It is difficult to tell from the image, but it could be a shark or a sting ray."
         ]
     },
     {
@@ -1671,9 +1671,9 @@
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
         "question": "Are there any fish in the picture? ",
         "answers": [
-            "no there are other marine life like anemones and algae. There seems to be a lot of other sea life. ",
             "no fish in the picture",
-            "no. it is possible there are some fish hidden in the details, but at this size i cannot clearly see any fish"
+            "no. it is possible there are some fish hidden in the details, but at this size i cannot clearly see any fish",
+            "There are not any fish in the picture."
         ]
     },
     {
@@ -1703,8 +1703,8 @@
         "description": "A female is jogging barefoot on a beach, waves gently breaking nearby. She has headphones in.",
         "question": "How healthy does the woman appear to be? (for example, is she overweight?)",
         "answers": [
-            "The woman shown in the image is not overweighted she has an attractive body and very beautiful as well.",
-            "She is very thin. She looks to be in excellent shape",
+            "This woman appears to be in great shape and has a normal healthy appearance.",
+            "She appears to be healthy. She isn't overweight at all.",
             "She is very healthy, and not overweight."
         ]
     },
@@ -1715,8 +1715,8 @@
         "question": "Does it look like it was shot from Earth or from space?",
         "answers": [
             "This is a shot from space.",
-            "This looks like it was shot from earth, from a very powerful telescope.",
-            "I would say it was taken from a space telescope"
+            "I would say it was taken from a space telescope",
+            "This looks like it was shot from earth, from a very powerful telescope."
         ]
     },
     {
@@ -1758,7 +1758,7 @@
         "question": "What are the predominant colors?",
         "answers": [
             "black and orange",
-            "The predominant colors of the nebula are shades of red and orange.",
+            "the skies ",
             "Black, red, yellow"
         ]
     },
@@ -1810,9 +1810,9 @@
         "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
         "question": "What are they wearing?",
         "answers": [
-            "The group seems to be wearing casual clothes, while all are wearing the same lanyard that is rainbow colored. ",
             "They are wearing clothes that makes me believe that it's the warmer months of the year or that the place is well-heated.",
-            "They are wearing casual street clothes. Mostly colorful T-shirts and shorts. Some are wearing sandals, while others are wearing sneakers. "
+            "Casual clothes, sometimes short pants",
+            "The group seems to be wearing casual clothes, while all are wearing the same lanyard that is rainbow colored. "
         ]
     },
     {
@@ -1821,9 +1821,9 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
         "question": "Are they having a good time?",
         "answers": [
-            "They appear to be having a good time. The child is smiling and they are looking at each other. ",
-            "They are having a good time.",
-            "yes, it looks like it"
+            "yes, it looks like it",
+            "yes they are, the adult and child are smiling directly at each other ",
+            "both people are smiling, so it appears that they are having a good time."
         ]
     },
     {
@@ -1842,9 +1842,9 @@
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
         "question": "What does the tree branch look like?",
         "answers": [
-            "looks like a dried branch .",
-            "It has 3 limbs sticking out of it and it's brown",
-            "It's branches are a burnt orange color and it has rigid branches."
+            "It's branches are a burnt orange color and it has rigid branches.",
+            "the tree branch looks like a fork ",
+            "looks like a dried branch ."
         ]
     },
     {
@@ -1853,9 +1853,9 @@
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
         "question": "What color is the balloon",
         "answers": [
-            "It's a rust red or a dark orange.",
+            "red",
             "light brown",
-            "red"
+            "the hot air balloon is orange"
         ]
     },
     {
@@ -1918,9 +1918,9 @@
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
         "question": "Is it a \"top down\" image, or can you see the ocean or the sky too in the image?",
         "answers": [
+            "It's a top-down image. You can only see the tidepool and its inhabitants. ",
             "The image is top down, sky is visible from this image, the camera is directly pointed into the ocean. ",
-            "it is top down",
-            "It's a top-down image. You can only see the tidepool and its inhabitants. "
+            "It is a top down image, but you cannot see the ocean or sky."
         ]
     },
     {
@@ -1939,9 +1939,9 @@
         "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
         "question": "Is there anything about the honey being organic?",
         "answers": [
-            "The honey is not labeled as organic, so I am not able to confirm it as being organic.",
-            "no there isnt",
-            "there is no indication of the type of honey"
+            "there is no mention of the honey being organic. ",
+            "No information regarding the honey being organic, the jar is bland without labeling. ",
+            "It does not show the honey is organic."
         ]
     },
     {
@@ -1950,9 +1950,9 @@
         "description": "This is an image of a star-forming nebula, with glowing gas, dust, and bright stars.",
         "question": "What shape is the nebula in?",
         "answers": [
-            "It looks like an exploding cloud",
-            "the shape of a ball",
-            "Looks like a star to me, hovering over a gaseous area."
+            "Looks like a star to me, hovering over a gaseous area.",
+            "It is hard to say, but it sort of resembles a large mountain.",
+            "It almost looks like a mountain, with stars above it"
         ]
     },
     {
@@ -1972,7 +1972,7 @@
         "question": "How old does the shipwreck look.",
         "answers": [
             "The shipwreck looks quite old and there appears to be algae growth all over the outside",
-            "probably from the 1800's",
+            "it looks old and worn out by the seawater...rusty like",
             "100 years old"
         ]
     },
@@ -1994,8 +1994,8 @@
         "question": "are they shooting water out of their back?",
         "answers": [
             "No they are not shooting water",
-            "No they are not. ",
-            "No, the water is sliding off their skin."
+            "No the whales backs are still in the water.",
+            "No they are not. "
         ]
     },
     {
@@ -2016,8 +2016,8 @@
         "question": "What kind of building does it look like?  Government type?  Library type?  Colorful?  Just grey?",
         "answers": [
             "It looks like some sort of royalty",
-            "It looks like a public building or the exterior of a large house, it is a warm beige color.",
-            "The building is a sandstone color. Subject is leaning against a pillar with ornate molding patterns carved into it, standing just outside an arched entryway."
+            "The building is a sandstone color. Subject is leaning against a pillar with ornate molding patterns carved into it, standing just outside an arched entryway.",
+            "It looks like a neutral-colored home"
         ]
     },
     {
@@ -2047,9 +2047,9 @@
         "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
         "question": "How many rolls/cornbread are in the basket?",
         "answers": [
-            "There are at least eighteen, possibly more.",
             "The corn muffins and bread rolls are awaiting a  breakfast person",
-            "18 pieces of bread and 4 brownies "
+            "there are 11 corn breads in the basket",
+            "8 are in the basket, 2 are on the plate cut in half"
         ]
     },
     {
@@ -2069,9 +2069,9 @@
         "description": "A white sign marks the South Pole with an American flag alongside, on a vast, snowy expanse.",
         "question": "Is it actively snowing?",
         "answers": [
-            "It is not actively snowing. The sky is clear.",
             "The ground appears to be covered in snow and ice but there is no snow currently falling in the picture.",
-            "no i think it snowed maybe 5hrs ago"
+            "No, it doesn't appear to be snowing",
+            "No, it is not snowing in the image."
         ]
     },
     {
@@ -2091,9 +2091,9 @@
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
         "question": "How steep is the slope?",
         "answers": [
-            "It's not very steep. There's a slight incline, about 25 degrees. It looks like a fairly effortless ascent.",
             "It is pretty steep; it looks to be around 45 degrees.",
-            "The slope is moderately steep."
+            "The slope is moderately steep.",
+            "It is a moderately steep uphill slope."
         ]
     },
     {
@@ -2103,8 +2103,8 @@
         "question": "Is it like a real meal or some meme?",
         "answers": [
             "This is a real meal. It is a nicely plated noodle salad.",
-            "Real meal\n",
-            "A real meal"
+            "A real meal",
+            "Real meal\n"
         ]
     },
     {
@@ -2113,9 +2113,9 @@
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
         "question": "What shape is the ISS?",
         "answers": [
-            "The ISS is shaped like a T with extended wings at the left and right end of the T",
             "The ISS is composed of a bunch of interconnect modules, which come together to make a T shape. This T shape then has solar panels sticking out of it.",
-            "The ISS is a complex structure that is made up of canisters, spheres, beams, and wide panels.  "
+            "The ISS is shaped like a T with extended wings at the left and right end of the T",
+            "The ISS has a distinct modular and elongated shape. "
         ]
     },
     {
@@ -2147,8 +2147,8 @@
         "question": "What is the focal point of the image?",
         "answers": [
             "Just below the white tether the person is holding onto, slightly to the left of the person in the image.",
-            "The focal point of the image is the person skiing on the river.",
-            "The guy skiiing."
+            "The guy skiiing.",
+            "The focal point of the image is the person, likely a male, who is being pulled on water skis  "
         ]
     },
     {
@@ -2179,9 +2179,9 @@
         "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
         "question": "Do the mountains have snow on them?",
         "answers": [
-            "Yes, one of the mountains has a small patch of snow at the top",
+            "No, there is no snow",
             "Some of the mountains do have snow on them",
-            "No, there is no snow"
+            "YES"
         ]
     },
     {
@@ -2234,7 +2234,7 @@
         "answers": [
             "yes it looks like a professional image",
             "Judging from my untrained eye it does look like a professional took this picture",
-            "no it looks amateur"
+            "No, the image appears to be an amateur photograph."
         ]
     },
     {
@@ -2243,9 +2243,9 @@
         "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
         "question": "Is it a tall waterfall?",
         "answers": [
-            "Yes the waterfall looks quite tall. ",
-            "It is somewhat difficult to tell due to the lack of scale comparison, but out appears to be moderately tall, perhaps 50 feet.",
-            "yes, the waterfall in the image is indeed tall. It cascades majestically over rocks, surrounded by lush greenery. "
+            "The waterfall looks to be medium-length. ",
+            "Yes, the waterfall goes down a cliff and  is about 20m tall.",
+            "Yes the waterfall looks quite tall. "
         ]
     },
     {
@@ -2265,9 +2265,9 @@
         "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
         "question": "how high is the aerial view",
         "answers": [
-            "The aerial view is taken from the perspective of a tall building.",
+            "Ten stories high",
             "its higher than all buildings in the image",
-            "About 10-12 stories high"
+            "The aerial view is taken from the perspective of a tall building."
         ]
     },
     {
@@ -2277,8 +2277,8 @@
         "question": "What kind of clothes are they wearing?",
         "answers": [
             "The people are wearing work out clothing.",
-            "The people are mostly wearing workout clothes, such as shorts, t-shirts, tank tops, and tennis shoes. ",
-            "Loose, casual clothes"
+            "Loose, casual clothes",
+            "They are wearing tank tops and shorts"
         ]
     },
     {
@@ -2287,9 +2287,9 @@
         "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
         "question": "Is there anything in the background?",
         "answers": [
-            "Sand that makes up the ocean floor.",
+            "Nothing notable in the background, just rocks / sand.",
             "There appear to be two or three rocks near the stingray's tail. There also appear to be traces of clay within the sand.",
-            "There is only sand in the background."
+            "There is nothing in the background"
         ]
     },
     {
@@ -2298,7 +2298,7 @@
         "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
         "question": "What is she doing with the lighting equitment?",
         "answers": [
-            "Posing underneath it.",
+            "She is posing to have her photo taken.",
             "she is standing 1 feet away in the middle of the stage room",
             "The lightning is making it easier for the camera to take a good picture of her, thus she's posing in the scene."
         ]
@@ -2331,8 +2331,8 @@
         "question": "Is the city lit up well?",
         "answers": [
             "The city is not lit up well.   The dusk shows plenty of daylight left, so the lights may not have come on yet.",
-            "No, the city is not lit up well, but it is still light out so additional lights aren't necessary. ",
-            "City is not lit up at all. "
+            "City is not lit up at all. ",
+            "No, the buildings do not appear to have lights on."
         ]
     },
     {
@@ -2342,8 +2342,8 @@
         "question": "What do the patterns look like?",
         "answers": [
             "flower patterns",
-            "The patterns are floral ",
-            "there are 2 floral patterns, one striped pattern, and one embroidered pattern"
+            "The patterns have a floral look took them for two of the pillows but the rest are too generic to give them a proper description",
+            "The patterns are floral "
         ]
     },
     {
@@ -2352,9 +2352,9 @@
         "description": "A stingray blends into sandy ocean bottom, its shape barely discernible except for two eyes and a slender tail.",
         "question": "is the image taken in the wild?",
         "answers": [
+            "Yes, it does appear to be taken in the wild in the ocean.",
             "It seems like the image was mostly taken in the wild.",
-            "Yes, the image is taken on the bottom of the ocean floor.",
-            "Yes, this was taken in the ocean"
+            "It looks to be in the wild, because it's a sandy ocean bottom. "
         ]
     },
     {
@@ -2385,9 +2385,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "Are there any specific type of nuts?",
         "answers": [
+            "There are pecans and walnuts on a wooden board",
             "It looks like there are pecans and walnuts",
-            "Pecans and walnuts.",
-            "No, there is not any nuts."
+            "Pecans and walnuts."
         ]
     },
     {
@@ -2396,9 +2396,9 @@
         "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
         "question": "Is this an ad.",
         "answers": [
-            "Yes, this appears to be an ad for clothing.",
+            "This could be an add for either vacation on the beach or casual clothing",
             "Yes",
-            "This could be an add for either vacation on the beach or casual clothing"
+            "Yes, this appears to be an ad for clothing."
         ]
     },
     {
@@ -2408,8 +2408,8 @@
         "question": "Is the egg case a certain color with transparency?",
         "answers": [
             "it is transparent with the inside egg being yellow ",
-            "yes, the egg case is medium to dark yellow",
-            "Yes, it is yellowish green."
+            "The case does not have a certain color, but is transparent. ",
+            "yes, the egg case is medium to dark yellow"
         ]
     },
     {
@@ -2419,8 +2419,8 @@
         "question": "How deep is the ocean does it look to be.",
         "answers": [
             "It looks fairly deep. This is where a boat sunk to the bottom but I cannot give an exact numerical depth. ",
-            "Fairly deep at a sea bed.",
-            "The ocean looks to be about 20 ft. deep."
+            "The ocean looks to be about 20 ft. deep.",
+            "Fairly deep at a sea bed."
         ]
     },
     {
@@ -2429,9 +2429,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "What kind of fruits are in the picture?",
         "answers": [
-            "There are bananas, watermelon, grapes, cantaloup, and apples. ",
-            "In addition to the apples and watermelon, there are lemons, green and purple grapes, peaches, raspberries and blueberries.",
-            "edible fruits "
+            "edible fruits ",
+            "The fruits in the image are watermelon ,apples ,peaches ,grapes ,melon ,raspberries ,blackberries and tomato's if the user considers them fruits.  ",
+            "In addition to the apples and watermelon, there are lemons, green and purple grapes, peaches, raspberries and blueberries."
         ]
     },
     {
@@ -2440,9 +2440,9 @@
         "description": "A bustling street festival with colorful crowds, smoke from the street, mountains in the backdrop, and a clear blue sky.",
         "question": "What is the weather like in that location? Is it hot or cold?",
         "answers": [
-            "It looks like it is a warm day with a few clouds in the sky. ",
+            "It seems to be warmish, but probably not hot. Most people are in light clothes like shorts and sleeveless, but some are in long sleeves and pants. ",
             "the people are wearing summer clothes and and others are wearing long sleeves. one can say it is rather mild outside; not too hot or cold",
-            "It seems to be warmish, but probably not hot. Most people are in light clothes like shorts and sleeveless, but some are in long sleeves and pants. "
+            "It looks like it is a warm day with a few clouds in the sky. "
         ]
     },
     {
@@ -2451,9 +2451,9 @@
         "description": "A woman in athletic wear jogs on a hilltop, with her hair flowing behind her. In the distance, a foggy landscape provides a serene backdrop.",
         "question": "What color are the athletic wear jogs?",
         "answers": [
-            "The athletic wear jogs are black ",
             "the athletic wear is black",
-            "Black jogging pants."
+            "Black jogging pants.",
+            "The athletic wear jogs are black "
         ]
     },
     {
@@ -2474,8 +2474,8 @@
         "question": "What is the general age range of the soccer player?",
         "answers": [
             "35 years of age",
-            "i believe the age range of the player is 30-35",
-            "35"
+            "The age range of the player is somewhere between 30 and 40.",
+            "i believe the age range of the player is 30-35"
         ]
     },
     {
@@ -2485,8 +2485,8 @@
         "question": "Are there any colors in this picture?",
         "answers": [
             "Yes multiple colors",
-            "there are various shades or purple, orange, yellow, and red in the image",
-            "There is a number of colors in this picture, from pitch black to brilliant reds, blues and golds."
+            "yes the colors are lighting",
+            "Black, purple, and orange"
         ]
     },
     {
@@ -2548,9 +2548,9 @@
         "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
         "question": "Is it really Barack Obama or is it a person that looks like him?",
         "answers": [
-            "It's hard to tell, but I think it really is Barack",
+            "It is really Barrack Obama, and it is obviously a real picture that was taken at some point, most likely while he was president.",
             "It appears to be Barack Obama, though the picture is somewhat blurry.",
-            "It is in all likelihood President Barack Obama. He has the same long face and large ears that President Obama did."
+            "Because the person is ever so slightly blurred it is hard to know for certain if it is Obama or if it's a person who looks very much like Obama. However, I could confidently say, that this person does in fact look like Obama"
         ]
     },
     {
@@ -2559,8 +2559,8 @@
         "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
         "question": "What color is the observatory?",
         "answers": [
-            "black",
             "It is night time and the observatory is not highlighted in the image, which makes it a bit hard to tell the color. It seems to be a sort of white or beige color, but the image is certainly more focused on the bright yellow laser beam shooting into the sky.",
+            "black",
             "The observatory itself is white with a large orange light shooting out of it's center into the sky above."
         ]
     },
@@ -2601,9 +2601,9 @@
         "description": "A soccer player in a red jersey with the number 7 dribbles the ball on the field.",
         "question": "Is the soccer player clean or dirty?",
         "answers": [
+            "Dirty",
             "Although the soccer player is sweaty he does appear to be clean.",
-            "The player looks clean of dirt, but does appear very sweaty",
-            "The soccer player is clean and has no dirt on him, but looks sweaty."
+            "He's clean."
         ]
     },
     {
@@ -2612,9 +2612,9 @@
         "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
         "question": "What does the wreck look like? (Structure, wear and tear, etc.)",
         "answers": [
-            "It looks rusted and full of barnacles. It''s also very mossy.",
-            "The wreck looks like giant metal pipes that the diver is swimming around. They are obviously coated in various sea plants and corals, and they are heavily rusting.",
-            "The wreck looks like deteriorated metal. There are three pole-looking things that the diver seems to be kind of \"enclosed\" in. "
+            "only limited parts are visible, perhaps the \"ribs\" of a sunken boat?",
+            "The wreck looks like deteriorated metal. There are three pole-looking things that the diver seems to be kind of \"enclosed\" in. ",
+            "It looks rusted and full of barnacles. It''s also very mossy."
         ]
     },
     {
@@ -2665,9 +2665,9 @@
         "description": "A tide pool with marine life, including sea anemones and algae, nestled among rocks.",
         "question": "Is the picture from the above or underwater perspective?",
         "answers": [
-            "unique, detailed underwater perspective",
+            "It's from above",
             "The picture looks to be from above in a birdseye view of the marine life tide pool.",
-            "It's from above"
+            "unique, detailed underwater perspective"
         ]
     },
     {
@@ -2709,9 +2709,9 @@
         "description": "A woman with long brown hair in a blue traditional outfit with jewelry, smiling in an ornate building.",
         "question": "What is a traditional outfit?",
         "answers": [
-            "In this case it appears to be an Indian garment with bright colors and flowing design. ",
-            "according to the picture it is a blue dress like garment with scarf ",
-            "One that goes with a persons culture"
+            "It appears to be from India.",
+            "One that goes with a persons culture",
+            "In this case it appears to be an Indian garment with bright colors and flowing design. "
         ]
     },
     {
@@ -2753,9 +2753,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "What are they wearing?",
         "answers": [
-            "yoga pants",
             "The people are wearing a variety of casual but comfortable clothing. Some outfits are loose fitting others are skin tight. They are wearing warm weather clothing. Except for the instructor they are all wearing pants",
-            "They are all wearing workout clothes, sometimes commonly referred to as yoga pants and various tops."
+            "They are all wearing workout clothes, sometimes commonly referred to as yoga pants and various tops.",
+            "Multiple casual wear"
         ]
     },
     {
@@ -2775,9 +2775,9 @@
         "description": "Close-up of hands strumming a resonator guitar, showcasing fingers on strings and the guitar's body.",
         "question": "What color is it?",
         "answers": [
-            "brown",
-            "The color is a gradient of sorts. The outside is dark brown and it fades to a lighter brown as it gets closer to the center. ",
-            "Brown and black"
+            "Brown and black",
+            "The guitar is a few shades of brown.",
+            "wood stained guitar with dark background"
         ]
     },
     {
@@ -2786,7 +2786,7 @@
         "description": "A model poses in a photo studio with lighting equipment, wearing a black outfit and black boots boots, she is a dirty blonde color and is staring directly at the camera.",
         "question": "What style is the model's hair--long, ponytail, etc?",
         "answers": [
-            "Long blonde hair",
+            "The model has long, straight, blonde hair down to below her shoulders.",
             "She has long straight hair draped over her shoulder on one side.",
             "She is standing with both her hands on her hips in a somewhat confident pose. Not smiling but not looking angry either, a plain facial expression. "
         ]
@@ -2797,9 +2797,9 @@
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
         "question": "How accessible is the path?",
         "answers": [
+            "The path isn't very accessible. it is a dirt path with lots of small rocks, in what looks to be a wooded area.",
             "The path is mostly accessible. It is flat and wide enough with plenty of room for people to walk. The gravel or rocks in the path could present an issue for someone using a wheelchair or has balance issues. ",
-            "The path seems a little out of the way as if it is on a rural trail.",
-            "Extremely accessible with no obstacles"
+            "The path seems a little out of the way as if it is on a rural trail."
         ]
     },
     {
@@ -2808,7 +2808,7 @@
         "description": "A woman with tousled hair sits on a rock in a desert setting with a hint of the sky behind her, gazing to the side. She wears a white knitted sweater and ripped jeans, with sun casting a warm glow.",
         "question": "What is going on here?",
         "answers": [
-            "The woman looks to be posing for a photoshoot",
+            "galaxies",
             "Display of natural beauty to promote a product.",
             "The woman is modeling clothing/accessory items for sale on this website."
         ]
@@ -2840,9 +2840,9 @@
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
         "question": "What kind of landscape is behind them?",
         "answers": [
-            "rural forested landscape",
             " A kind of rural but almost suburban backyard.",
-            "woods and trees, possibly a wooded backyard"
+            "It appears to be in a backyard.",
+            "lush trees"
         ]
     },
     {
@@ -2851,9 +2851,9 @@
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
         "question": "Is anything else in space visible, like a space station or debris?",
         "answers": [
-            "There is nothing else visible",
             "no, nothing else",
-            "In the picture there is only the astronaut and the earth behind them, nothing else is visible. "
+            "In the picture there is only the astronaut and the earth behind them, nothing else is visible. ",
+            "there are clouds and earth"
         ]
     },
     {
@@ -2883,9 +2883,9 @@
         "description": "A person meditates under a waterfall, hands pressed together in a prayer-like pose.",
         "question": "What is the facial expression of the person in the photo?",
         "answers": [
-            "Calm and at peace.",
-            "He shows an expression of relaxation and calmness",
-            "solemn"
+            "Although the person in the image has his head slightly bowed you can make out a peaceful and focused facial expression. ",
+            "solemn",
+            "Calm and at peace."
         ]
     },
     {
@@ -2894,9 +2894,9 @@
         "description": "A person in a red and white suit is water skiing on a river, creating a spray of water.",
         "question": "What is this \"person\" like? (Age, gender, race, etc)",
         "answers": [
+            "a younger, white man",
             "They appear to be a yong adult between 20-40 years old, and caucasian.",
-            "White, 32, male. Thats about all I can see about the man in the picture.",
-            "The person looks like a White man in his mid-20s, about 5'10\"-6' height, athletic build with some perceivable musculature, brown hair."
+            "White, 32, male. Thats about all I can see about the man in the picture."
         ]
     },
     {
@@ -2905,9 +2905,9 @@
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
         "question": "How many people are there and what are they doing?",
         "answers": [
-            "There are around 6 people all sitting together inside of a wooden hot tub having a good time",
             "There are six people pictured in the image. They are all sitting in a hot tub relaxing and socializing with each other. ",
-            "It looks like there are 6 or perhaps 7 people soaking in the tub."
+            "It looks like there are 6 or perhaps 7 people soaking in the tub.",
+            "There are around 6 people all sitting together inside of a wooden hot tub having a good time"
         ]
     },
     {
@@ -2916,8 +2916,8 @@
         "description": "An astronaut in a white space suit floats in space with Earth's blue horizon in the background.",
         "question": "Are there any defining landmarks of Earth visible such as a continent?",
         "answers": [
+            "There are visibly no defining landmarks. The focus of the image seems to be the floating astronaut. ",
             "There looks to be a land below the clouds behind the floating astronaut.",
-            "There are the blue oceans and white clouds, unique to Earth in our solar system.",
             "No, only ocean and clouds."
         ]
     },
@@ -2927,9 +2927,9 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
         "question": "What does the child and adult look like? ",
         "answers": [
-            "they are kind of hard to see but they appear to be white",
-            "The child and adult have similar skin color, appear to be Caucasian, and are of an age gap where they could be parent and child.",
-            "The child and adult are dressed in warm weather clothing and are smiling at each other as they ride their bikes."
+            "They are caucasian males wearing colorful knitted caps, winter jackets and gloves.",
+            "The child and adult are dressed in warm weather clothing and are smiling at each other as they ride their bikes.",
+            "The child and adult have similar skin color, appear to be Caucasian, and are of an age gap where they could be parent and child."
         ]
     },
     {
@@ -2949,9 +2949,9 @@
         "description": "A group of people of various ages walking in line along a grassy path, with trees on one side.",
         "question": "What time of day is it?",
         "answers": [
-            "It is daytime; around noon.",
-            "afternoon or morning",
-            "the time of the day is in the afternoon"
+            "the time of the day is in the afternoon",
+            "It is daytime between dawn and dusk. The sky is a constant blue and the sun is not rising or setting.",
+            "It is daytime; around noon."
         ]
     },
     {
@@ -2960,9 +2960,9 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
         "question": "What does the weather seem like? ",
         "answers": [
-            "Because the child and adult are wearing knitted hats and padded jackets, it can be determined that the weather is cold.",
             "The two people are wearing jackets and gloves as well as knitted hats. I the corner of the photo very small patches office can be seen near cars. The weather seems cold.",
-            "The weather seems cold, but still enjoyable."
+            "The weather seems cold, but still enjoyable.",
+            "Because the child and adult are wearing knitted hats and padded jackets, it can be determined that the weather is cold."
         ]
     },
     {
@@ -2981,9 +2981,9 @@
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
         "question": "How far underwater is the egg?",
         "answers": [
-            "Not too far",
-            "40 feet under water",
-            "The egg is completely submerged, but it is impossible to tell how deep the water is."
+            "The egg is underwater attached to a branch.",
+            "The egg is completely submerged, but it is impossible to tell how deep the water is.",
+            "Not too far"
         ]
     },
     {
@@ -3035,8 +3035,8 @@
         "question": "How close is the woman to the red pot?",
         "answers": [
             "she is standing right next to it ",
-            "She is standing in-front of the pot, about two feet.",
-            "She is about a foot away."
+            "She is about a foot away.",
+            "She is standing in-front of the pot, about two feet."
         ]
     },
     {
@@ -3045,9 +3045,9 @@
         "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
         "question": "How is it relevant?",
         "answers": [
-            "This is most likely related to an article featuring a recipe or health idea",
-            "The electric kettle could be used to boil healthy teas such as green tea.",
-            "A blue colored transparent kettle that can be used for boiling water for coffee, tea, etc"
+            "A blue colored transparent kettle that can be used for boiling water for coffee, tea, etc",
+            "I think its safer to boil water this way than boiling in a microwave. ",
+            "This is most likely related to an article featuring a recipe or health idea"
         ]
     },
     {
@@ -3120,9 +3120,9 @@
         "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
         "question": "What is Obama doing, ",
         "answers": [
-            "Standing up, hands interlocked in front of his waist",
-            "He is standing with his hands clasped together with other men on either side of him.",
-            "He appears to be standing while watching other people leave the room."
+            "Obama is interlocking his fingers in front of him facing the camera while also having his head slightly down.",
+            "Standing, while facing the camera, hands folded together in front of him. There are several other politicians in the room.",
+            "He is standing with his hands clasped together with other men on either side of him."
         ]
     },
     {
@@ -3142,9 +3142,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "What is the picture representing?",
         "answers": [
-            "The image represents a diverse selection of foods one might find in a well rounded vegan or vegetarian diet.",
+            "A vibrant and diverse assortment of fresh fruits, vegetables, grains, and nuts.  The items are spread on a wooden table and many are falling out of bushel baskets. some of the fruits, like melons are cut open and reveal the juicy fruit and seeds. ",
             "if you keep fruits in a dry pan, cover it with a lid or another plate and start eating the pan then after some time you can observe water vapour on the lid or on the plate that was used to cover the pan",
-            "This picture is representing an abundance of food that is all healthy. It's a plethora of fruits and vegetables hosting the different colors of the rainbow. "
+            "The image represents a diverse selection of foods one might find in a well rounded vegan or vegetarian diet."
         ]
     },
     {
@@ -3174,8 +3174,8 @@
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
         "question": "What is this image trying to sell, I can't tell?",
         "answers": [
+            "It's not clear what they are advertising by the photo. my guess would be possibly an investment ad or possibly something to do with retirement.",
             "I can't tell either. Possibly travel site?",
-            "a hot air balloon trip",
             "It is trying to sell a hot air balloon ride experience "
         ]
     },
@@ -3185,9 +3185,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "How is the weather?",
         "answers": [
-            "The weather is calm.",
             "Appears to be a cloudy day, though not raining.",
-            "comfortable, dry, maybe cloudy"
+            "The weather is calm.",
+            "partly to mostly cloudy and relatively warm"
         ]
     },
     {
@@ -3196,9 +3196,9 @@
         "description": "A diver, equipped with scuba gear, explores an underwater wreck surrounded by vibrant coral formations. The deep blue ocean provides a mysterious backdrop.",
         "question": "What does the wreck look like - is it recent or old, what kind of vessel, is it a recovery mission, etc.",
         "answers": [
+            "It looks to be metal, which means it isn't more than 150 years old",
             "It looks very old based on the coral formations and to be from a major vessel. There's only one diver exploring it by himself. ",
-            "The wreck is covered with algae and growth so it would appear to be old.  It is hard to see what kind of vessel it is.",
-            "By the large amount of coral formations and the colors of the wreck, it appears to be a very old ship. "
+            "The vessel is indiscernible as a whole, but it is old and covered in organic sea growth."
         ]
     },
     {
@@ -3218,8 +3218,8 @@
         "question": "what is the building",
         "answers": [
             "it looks like it is a government building ",
-            "Some kind of city hall",
-            "It appears to be the Capitol building."
+            "It appears to be the Capitol building.",
+            "It looks like a government building."
         ]
     },
     {
@@ -3249,9 +3249,9 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs.",
         "question": "Does it look tasty or gross?",
         "answers": [
-            "Though this is subjective, it looks quite tasty.",
+            "It doesn't look delicious to me.",
             "I would not want to try it",
-            "It doesn't look delicious to me."
+            "They look tasty"
         ]
     },
     {
@@ -3270,8 +3270,8 @@
         "description": "A group of people sitting a hot tub located",
         "question": "What color is the hot tub?",
         "answers": [
+            "The color of the hot tub is brown, with the top area being in the white color.",
             "brown is the color",
-            "The hot tub is white and tan",
             "white, wood panel sides"
         ]
     },
@@ -3281,9 +3281,9 @@
         "description": "Aerial city view at dusk, with historic buildings under a pastel-hued sky.",
         "question": "Are the buildings tall or short?",
         "answers": [
-            "The buildings appear to be tall with some shorter ones in the image.",
-            "Some are tall, most are short",
-            "It is mix of tall and short building, but most of them are short."
+            "The buildings are short.",
+            "It is mix of tall and short building, but most of them are short.",
+            "The buildings appear to be tall with some shorter ones in the image."
         ]
     },
     {
@@ -3302,9 +3302,9 @@
         "description": "A crowded marathon with runners on a city street, spectators line the route, and trees and buildings alongside.",
         "question": "Is there signage about the marathon?",
         "answers": [
-            "No there is not ",
             "There is no visible signage about the marathon",
-            "There isn's signage that is seeable in the picture. There probably is signage elsewhere though."
+            "No, but everyone is moving together in the same direction and it's not a rally or a protest...no one is holding signs.",
+            "No there is not "
         ]
     },
     {
@@ -3313,9 +3313,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "What type of people are in the group, ie. old vs young, women or men, etc? ",
         "answers": [
-            "it seems to be all younger women",
-            "It is a group of women who are from different age groups.",
-            "women in their mid ages"
+            "women in their mid ages",
+            "Not sure. Appears to be mostly younger women.",
+            "It is a group of women who are from different age groups."
         ]
     },
     {
@@ -3356,8 +3356,8 @@
         "question": "Are they scared?",
         "answers": [
             "They are not scared and seem happy to be cruising.",
-            "no they are not",
-            "No, they are not scared"
+            "It cannot be determined from this image",
+            "does not look like they are scared. "
         ]
     },
     {
@@ -3366,9 +3366,9 @@
         "description": "An ornate gold chaise lounge with curving arms and elegant legs on a plain background.",
         "question": "is the item relevant",
         "answers": [
-            "I guess the item's relevance depends on if you're looking for this type of furniture or not. If your style is of this kind, ornate and opulent, then yes, it is relevant",
             "Yes, if you are shopping for ornate furniture.",
-            "The item is relevant because it is something that one may see on a shopping website."
+            "The item is relevant because it is something that one may see on a shopping website.",
+            "Yes, the item is relevant if you're looking to purchase a long, upholstered gold colored seat."
         ]
     },
     {
@@ -3389,7 +3389,7 @@
         "question": "Is an instructor leading the group?",
         "answers": [
             "Yes, there is one instructor facing the rest of the group.",
-            "There appears to be an instructor leading the group.",
+            "There is an instructor leading the group.",
             "Yes, there does appear to be an instructor facing the group, they are copying exactly what that person is doing in there pose. "
         ]
     },
@@ -3399,8 +3399,8 @@
         "description": "A blue, transparent electric kettle filled with water, showing bubbles as it boils, on a white base with a blank background.",
         "question": "how does the kettle work, are there temperature settings",
         "answers": [
-            "Though not clearly shown, it's electric and appears to have settings near the handle.",
             "There is a switch by the handle to turn the unit off and on with and to control the temperature settings. ",
+            "Though not clearly shown, it's electric and appears to have settings near the handle.",
             "The kettle works by filling it's basin, plugging it in and heating the water.  The kettle can only be seen from the side but it appears that there are buttons and controls on both the top of the kettle and the lower handle which is on the right in the picture."
         ]
     },
@@ -3499,8 +3499,8 @@
         "question": "Does it show what he's shooting?",
         "answers": [
             "The image does not show what the photographer is shooting.",
-            "it does not",
-            "No it does not"
+            "No, it does not.",
+            "No it doesn't"
         ]
     },
     {
@@ -3586,8 +3586,8 @@
         "question": "Are there any people in the photo?",
         "answers": [
             "No, there are no people.",
-            "No. There are no people in the photo.",
-            "There are no people in the photo."
+            "No there are not",
+            "No. There are no people in the photo."
         ]
     },
     {
@@ -3607,9 +3607,9 @@
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
         "question": "What is the weather like?",
         "answers": [
-            "The weather looks to be clear. Based on what I can see, it looks like clear skies and the water looks calm.",
-            "it is clear and sunny",
-            "It is sunny and the water is still."
+            "It is sunny and the water is still.",
+            "The weather looks about near perfect. Blue cloudless sky and calm water. Sunny.",
+            "The weather looks to be clear. Based on what I can see, it looks like clear skies and the water looks calm."
         ]
     },
     {
@@ -3629,8 +3629,8 @@
         "description": "A crowded indoor rally, with people holding signs, likely a protest or civic event in a grand building.",
         "question": "What is the crowd there for?",
         "answers": [
+            "To protest or stand up for something.",
             "The crowd is there to protest. There are many people holding signs. ",
-            "the crowd was there for a protest",
             "The crowd is there for a protest. It is not clear what the protest is about."
         ]
     },
@@ -3685,8 +3685,8 @@
         "question": "Is there a game going on",
         "answers": [
             "While no other players are seen, there is a small crowd watching in the background. It is likely, although not 100 percent, that a game is going on.",
-            "There is a soccer game going on with Reynaldo playing. ",
-            "Yes, there is a soccer game going on"
+            "Yes, there is a soccer game going on",
+            "yes a soccer game"
         ]
     },
     {
@@ -3800,9 +3800,9 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
         "question": "What color are her eyes?",
         "answers": [
-            "Her eyes are brown",
-            "The eyes of the model are a dark color, perhaps brown.",
-            "Her eyes are brown"
+            "Brown eyes",
+            "from the image her eyes are white and she's beautiful and astonishing. she's an amazing model",
+            "Brown eyes"
         ]
     },
     {
@@ -3811,8 +3811,8 @@
         "description": "A performer sings into a microphone, wearing a yellow outfit with circular patterns, against a blurred background. She has long curly amber hair and light brown skin.",
         "question": "What type of music does she sing?",
         "answers": [
+            "Primarily pop music.",
             "She sings pop and R&B music.",
-            "loud vocals, beautiful woman voice, upbeat",
             "From the image alone you would not be able to discern what type of music she sings, unless you knew"
         ]
     },
@@ -3888,8 +3888,8 @@
         "question": "Where can I see this?",
         "answers": [
             "You might be able to through a normal telescope. Depending on the distance, you might need to visit an observatory.",
-            "You can see this in the sky, or through other medias such as websites or television reporting on nebulas",
-            "It is deep in outer space."
+            "Outside at night if you have access to a large telescope. ",
+            "You can see this in the sky, or through other medias such as websites or television reporting on nebulas"
         ]
     },
     {
@@ -3941,9 +3941,9 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
         "question": "What type of pattern is on the dress?",
         "answers": [
+            "The pattern is geometric at the bottoms. On the upper third of the dress it looks like a butterfly or a giant moth. ",
             "It might be described as a little tribal or animal print.",
-            "it's a symmetrical geometric pattern",
-            "The pattern is geometric at the bottoms. On the upper third of the dress it looks like a butterfly or a giant moth. "
+            "it's a symmetrical geometric pattern"
         ]
     },
     {
@@ -3952,8 +3952,8 @@
         "description": "An observatory under a starry sky emits a laser beam into the Milky Way galaxy.",
         "question": "does the image look scary?",
         "answers": [
-            "It might look a bit scary, since there is a a laser coming out from an opening in the observatory. The image is also very dark, aside from the laser and the stars in the sky. ",
             "The image does not look scary but it does show how large the galaxy is compared to the earth.",
+            "It might look a bit scary, since there is a a laser coming out from an opening in the observatory. The image is also very dark, aside from the laser and the stars in the sky. ",
             "Because the photo is taken at night, it could appear scary to some, however, nothing particularly scary or horrific is shown in the image. Rather, the starry sky is enhanced in the photo to emphasize the Milky Way galaxy."
         ]
     },
@@ -3973,9 +3973,9 @@
         "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
         "question": "What are they selling?",
         "answers": [
-            "diving equipment",
+            "It could be many things. Maybe a trip, maybe scuba diving equipment or maybe it's an underwater photography site.",
             "I have no clue what they would be selling. ",
-            "It could be many things. Maybe a trip, maybe scuba diving equipment or maybe it's an underwater photography site."
+            "diving equipment"
         ]
     },
     {
@@ -4006,9 +4006,9 @@
         "description": "Two people, an adult and a child, are joyfully riding bikes down a city street, both smiling and wearing knitted hats.",
         "question": "Are there other people around on the city street?",
         "answers": [
-            "Yes there are people in the background of the image. ",
+            "The photo does not show other people on the street.",
             "I see one blurry person in the background walking.",
-            "Yes, there is one person in the background"
+            "Yes there are people in the background of the image. "
         ]
     },
     {
@@ -4029,7 +4029,7 @@
         "question": "Are they taking nature based pictures?",
         "answers": [
             "We cannot see what he is taking a picture of, but based on his background being all nature and him being camouflaged, I would say yes. ",
-            "Yes, the photographer is in nature taking pictures of nature.",
+            "Yes, they are in nature and camouflaged so as to blend into the surroundings. ",
             "Yes - most likely"
         ]
     },
@@ -4071,9 +4071,9 @@
         "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
         "question": "Why are they here?",
         "answers": [
+            "They are here to compete in a sim competition",
             "It looks like they are doing some sort of aquatic activity due to his swim cap having a number (possible race) and has swim goggles on. He is also wearing specific looking swim shorts (meant for athletics) as is another gentleman behind him. ",
-            "They are participating in a competition.",
-            "They are here to compete in a sim competition"
+            "They are participating in the swimming portion of a triathlon"
         ]
     },
     {
@@ -4093,9 +4093,9 @@
         "description": "A translucent egg case, possibly of a shark or ray, with a visible embryo inside, attached to a branch under water.",
         "question": "What color is the egg?",
         "answers": [
+            "The egg is a translucent orange.",
             "The egg is yellow",
-            "The egg is a foggy orange.",
-            "It has an orange tint."
+            "The egg is a foggy orange."
         ]
     },
     {
@@ -4126,8 +4126,8 @@
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
         "question": "Is there anything around the object?",
         "answers": [
-            "The space center shown observing the earth. ",
             "There is nothing around the object.",
+            "The space center shown observing the earth. ",
             "The only this around this image is space"
         ]
     },
@@ -4137,9 +4137,9 @@
         "description": "A group of people sitting a hot tub located",
         "question": "where are the people located",
         "answers": [
-            "in a bath tub ",
             "They are located in a wooden hot tub in a snowy location close to some nearby trees.",
-            "There is snow in the background, so it appears to be in the mountains or somewhere with a cold climate, but their exact location is unknown. "
+            "There is snow in the background, so it appears to be in the mountains or somewhere with a cold climate, but their exact location is unknown. ",
+            "in a bath tub "
         ]
     },
     {
@@ -4192,8 +4192,8 @@
         "question": "How many people are doing yoga?",
         "answers": [
             "10 fully or partially visible, could be more",
-            "There are 10 people in the image doing yoga. ",
-            "At least 10 people are doing yoga"
+            "At least 10 people are doing yoga",
+            "There are 10 people in the image doing yoga. "
         ]
     },
     {
@@ -4256,8 +4256,8 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
         "question": "How many audience members are visible?",
         "answers": [
-            "There are about 20 audience members visable",
             "Model of people Is Walking whiteness is cute",
+            "There are about 20 audience members visable",
             "About a dozen audience members are visible."
         ]
     },
@@ -4278,8 +4278,8 @@
         "question": "Are there more males or females?",
         "answers": [
             "more females than males",
-            "There are more females than males.",
-            "There are about four females and two males in the picture."
+            "There are slightly more females.",
+            "There are more females than males."
         ]
     },
     {
@@ -4310,9 +4310,9 @@
         "description": "A group of people marching in a line along a park path, some carrying signs or umbrellas, on an overcast day.",
         "question": "Where did this take place?",
         "answers": [
-            "a park path im gonna assume in New York",
             "This is in or near a city park.",
-            "Along a park path "
+            "Along a park path ",
+            "a park path im gonna assume in New York"
         ]
     },
     {
@@ -4332,9 +4332,9 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
         "question": "what is the event for",
         "answers": [
-            "A fashion event with a runway for the models. ",
-            "This event looks like a modeling runway to show clothes.",
-            "A fashion show"
+            "A fashion show",
+            "It appears to be a fashion show in which the model (Naomi Campbell) is wearing a piece for the show. There are no brand logos or exact information, however. ",
+            "This event looks like a modeling runway to show clothes."
         ]
     },
     {
@@ -4430,8 +4430,8 @@
         "question": "Is the swimwear cute?",
         "answers": [
             "It is a very basic pair of black swim trunks. ",
-            "Yes it is cute",
-            "It's really not cute.  It's just a basic men's tight swimwear"
+            "It's really not cute.  It's just a basic men's tight swimwear",
+            "Yes it is cute"
         ]
     },
     {
@@ -4440,9 +4440,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "Are they men or women?",
         "answers": [
-            "The group practicing yoga are women.",
             "appears to be women only",
-            "looks to only be women boss man"
+            "looks to only be women boss man",
+            "They are all women."
         ]
     },
     {
@@ -4452,8 +4452,8 @@
         "question": "What gender is the person?",
         "answers": [
             "The person is a girl/female.",
-            "The person is a woman.",
-            "It's not entirely clear but it seems to be a woman because of the long hair. And now the page won't let me continue onto the next page even though I have answered everything."
+            "The gender of the person is a woman.",
+            "The person is a woman."
         ]
     },
     {
@@ -4462,9 +4462,9 @@
         "description": "A diverse group of people seated in rows, attentively watching an event, some raising hands to participate.",
         "question": "How many people are raising their hand?",
         "answers": [
+            "The photo has about 25-38 people visible and you can see about 5 of them with hands raised.",
             "A group of people are supported willing and interested to the website",
-            "Eight people are raising their hand.",
-            "The photo has about 25-38 people visible and you can see about 5 of them with hands raised."
+            "At least 8"
         ]
     },
     {
@@ -4548,8 +4548,8 @@
         "description": "A camouflaged photographer lies concealed in foliage with a camera and long lens poised for shooting.",
         "question": "Where was the photo taken?",
         "answers": [
+            "The photo was taken in the tall grass",
             "The photo can be taken from the forest",
-            "The photo was taken outside in nature in a small forrest.",
             "Looks like a tropical jungle area"
         ]
     },
@@ -4570,9 +4570,9 @@
         "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
         "question": "Is this a product they offer or part of a location they want you to visit or?",
         "answers": [
-            "it looks like part of a location, possibly therapy ",
+            "No. The image is being used as a reference to the dangers of having a sedentary lifestyle. People that spend too much time on the couch or sofa are more likely to develop health issues later on in life.",
             "It's not a product, it's actually meant to get you off the couch and toward healthy living",
-            "No. The image is being used as a reference to the dangers of having a sedentary lifestyle. People that spend too much time on the couch or sofa are more likely to develop health issues later on in life."
+            "Doubtful, it's more than likely a pic of couch to illustrate sedentary behavior. "
         ]
     },
     {
@@ -4581,9 +4581,9 @@
         "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
         "question": "How many rolls are there?",
         "answers": [
-            "there are 8 rolls",
             "There are 8 fresh rolls in a basket",
-            "About 20 rolls"
+            "There appears to be 10 rolls in total displayed in this image. Two of the 10 rolls have been sliced in half.",
+            "there are 8 rolls"
         ]
     },
     {
@@ -4603,8 +4603,8 @@
         "question": "What color is the stingray?",
         "answers": [
             "brownish grey",
-            "The stingray appears to be gray",
-            "Sandy brown color."
+            "its brown like the sand",
+            "The stingray appears to be gray"
         ]
     },
     {
@@ -4613,8 +4613,8 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "Any specific pose or mediation they are performing?",
         "answers": [
-            "A group of people sitting in cross legged position and raising their arms",
             "It looks like. seated sun salutation, possibly.",
+            "They are sitting.",
             "Hands in the sky"
         ]
     },
@@ -4624,8 +4624,8 @@
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
         "question": "Are there any buildings or structures in the photo?",
         "answers": [
-            "No, thankfully",
             "There are no buildings nearby this appears to happen away from any civilization",
+            "No, there is only a volcano.",
             "No, there are no buildings or structures in the photo."
         ]
     },
@@ -4656,9 +4656,9 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
         "question": "Where are they at",
         "answers": [
-            "I am not sure of the actual location of the scene, but the model is walking the runway that appears to be some kind of a fashion show.",
-            "The audience is seated on both sides of an aisle/the runway floor she's walking on.",
-            "They are at a Fashion Show"
+            "They are at a Fashion Show",
+            "On a runway.",
+            "I am not sure of the actual location of the scene, but the model is walking the runway that appears to be some kind of a fashion show."
         ]
     },
     {
@@ -4679,8 +4679,8 @@
         "question": "Does it show something related to the store?",
         "answers": [
             "It does not have much to do with the store, unless you want to buy hot air balloons.",
-            "No it does not.",
-            "The image shows a hot air balloon ride experience you could purchase from the website."
+            "No, it shows a landscape unrelated to any clothing.",
+            "No it does not."
         ]
     },
     {
@@ -4744,7 +4744,7 @@
         "question": "Is this an adverstisment?",
         "answers": [
             "I don't believe so. There is no price.",
-            "I can't tell if it's an advertisement because there are no words or brand images. ",
+            "It is not tagged as an advertisement.",
             "yes it's an ad"
         ]
     },
@@ -4809,9 +4809,9 @@
         "description": "Baskets of fresh baked rolls and cornbread with honey on the side.",
         "question": "Why breads on a health website?",
         "answers": [
-            "not sure myself",
             "The hhoney is on the side. ",
-            "The site may be promoting a healthy balance of foods in lifestyle or it may be demonizing carbs dependent on the style of health site"
+            "The site may be promoting a healthy balance of foods in lifestyle or it may be demonizing carbs dependent on the style of health site",
+            "not sure myself"
         ]
     },
     {
@@ -4940,9 +4940,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "What types of veggies are shown?",
         "answers": [
-            "Leafy greens.",
             "Potatoes, purple cabbage, lettuce, herbs, green beans, tomatoes, broccoli",
-            "There are vegetables like green beans, corn, and carrots."
+            "There are vegetables like green beans, corn, and carrots.",
+            "Leafy greens."
         ]
     },
     {
@@ -4962,8 +4962,8 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "How many people are there?",
         "answers": [
-            "There are 10 people shown in the image. One instructor facing the yoga class and nine people facing the instructor.",
             "There are nine more yoga participants. ",
+            "There are 10 in the image",
             "You can see nine people and one instructor in the image, so ten total. There may be more people in the group who aren't pictured, too, as the photo is frame more around the instructor than the class."
         ]
     },
@@ -5016,9 +5016,9 @@
         "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
         "question": "Where is this happening",
         "answers": [
-            "The described image portrays people in blue uniforms floating inside a plane's cabin, experiencing zero gravity. ",
-            "This is happening in a space capsule either on a real space flight or in training. ",
-            "In an airplane, tens of thousands of feet in the sky, where gravity is reduced."
+            "Inside a plane cabin.",
+            "In an airplane, tens of thousands of feet in the sky, where gravity is reduced.",
+            "This is happening in a space capsule either on a real space flight or in training. "
         ]
     },
     {
@@ -5048,8 +5048,8 @@
         "description": "A majestic waterfall cascades over rocks surrounded by lush greenery.",
         "question": "What season is this?",
         "answers": [
-            "Given the lush greenery which surrounds the waterfall, one may infer that it is either Spring or Summer.",
             "The season appears to be spring. Of course, \"spring\" in this context means moderate weather, no snow, and lush greens.",
+            "The season is summer",
             "It is the season of summer."
         ]
     },
@@ -5144,9 +5144,9 @@
         "description": "A person practices yoga on a beach at sunrise, reflecting peace and tranquility.",
         "question": "How close is the person to the water?",
         "answers": [
-            "The person is directly next to the shoreline of the water, as close as she can get without getting wet.",
+            "The person is about a foot or so from the water.",
             "The person is standing directly next to the water with their feet inches away from the small waves pushing up along the shoreline.",
-            "The person is about a foot or so from the water."
+            "The person is very close to the apex of the waves on the beach. If there is a slightly higher tide, the person may get water on them."
         ]
     },
     {
@@ -5165,9 +5165,9 @@
         "description": "A horse and rider jumping over a white obstacle in an equestrian showjumping event, under a cloudy sky.",
         "question": "Who is in the picture?",
         "answers": [
+            "In this picture, there is a horse and rider participating in an equestrian showjumping event. ",
             "A contestant in the equestrian showjumping event and a judge in the background watching the contestant's performance.",
-            "A horseback rider (an equestrian). If you're asking for specifics like a name, I have no clue.",
-            "An equestrian rider and his horse jumping obstacles on a course."
+            "A horseback rider (an equestrian). If you're asking for specifics like a name, I have no clue."
         ]
     },
     {
@@ -5199,8 +5199,8 @@
         "question": "Is there anyone in the picture?",
         "answers": [
             "No people are displayed in the picture.",
-            "There is no one in the picture.",
-            "No there is nobody in the picture"
+            "No there is nobody in the picture",
+            "There is no one in the picture, only the chaise lounge in the center of the frame."
         ]
     },
     {
@@ -5243,7 +5243,7 @@
         "answers": [
             "The benefits of yoga",
             "They are on some rocks outdoors.",
-            "Easy pose variation arms up"
+            "Yoga in a scenic area"
         ]
     },
     {
@@ -5263,8 +5263,8 @@
         "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
         "question": "What race is the woman shown in the sari?",
         "answers": [
+            "I enlarged the photo and the woman might be Hispanic, but it is hard to tell.",
             "Most likely Asian",
-            "The woman is Asian ",
             "The woman is Indian."
         ]
     },
@@ -5284,9 +5284,9 @@
         "description": "An active volcano emitting smoke, viewed from a high vantage point with snow-capped slopes nearby.",
         "question": "What time of day is it",
         "answers": [
-            "It is approximately 8:00 in the morning",
+            "mid day afternoon",
             "from the position of the shadows it appears to be late noon",
-            "mid day afternoon"
+            "It is approximately 8:00 in the morning"
         ]
     },
     {
@@ -5307,7 +5307,7 @@
         "question": "How big is the group?",
         "answers": [
             "It's small group",
-            "There are 10 people present in the image",
+            "It is a mid sized group, with about 10 people.",
             "Pretty small about 10 people."
         ]
     },
@@ -5318,8 +5318,8 @@
         "question": "Are there other models behind her?",
         "answers": [
             "There are no other models behind her",
-            "There are no models behind her but there are peoples legs who seem to be part of an audience.",
-            "women who like clothes and care about women's fashion \n"
+            "No",
+            "There are no models behind her but there are peoples legs who seem to be part of an audience."
         ]
     },
     {
@@ -5328,9 +5328,9 @@
         "description": "People relax in a wooden hot tub outdoors, surrounded by greenery.",
         "question": "What gender are the people in the hot tub?",
         "answers": [
-            "men and women",
             "There are 6 people and half of them are female.",
-            "It is difficult to tell the genders of the people in the hot tub as their faces are not visible."
+            "It is difficult to tell the genders of the people in the hot tub as their faces are not visible.",
+            "There are both males and females"
         ]
     },
     {
@@ -5360,9 +5360,9 @@
         "description": "A woman in an elegant green sari with gold details poses beside a red pot on a green backdrop.",
         "question": "Is the backdrop purely green or are  there other notable details?",
         "answers": [
+            "Notable details",
             "The background appears to be green drapes that extend and flow towards the left of the picture",
-            "There are other notable details.",
-            "Notable details"
+            "There is a vase with red and gold accents."
         ]
     },
     {
@@ -5371,9 +5371,9 @@
         "description": "A group of people sitting a hot tub located",
         "question": "what is the scenery around the group of people",
         "answers": [
-            "It is a snowy, forest background.",
+            "It looks like snow and trees as they are outdoors",
             "Wintery and snowy",
-            "It looks like snow and trees as they are outdoors"
+            "It is a snowy, forest background."
         ]
     },
     {
@@ -5436,9 +5436,9 @@
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
         "question": "Are their trees or bushes in the area where they are skiing?",
         "answers": [
-            "There are no trees or bushes in the immediate area of the skiers.",
-            "There are no trees or bushes in the area ",
-            "There are not trees or bushes visible near the skiers."
+            "No. There are no trees or bushes in the area that they are skiing. ",
+            "There are not trees or bushes visible near the skiers.",
+            "There are no trees or bushes in the immediate area of the skiers."
         ]
     },
     {
@@ -5478,7 +5478,7 @@
         "description": "People in blue uniforms float inside a plane's cabin, experiencing zero gravity.",
         "question": "How many people?",
         "answers": [
-            "Five people",
+            "There are three people",
             "Three people appear in the photo",
             "Five people"
         ]
@@ -5640,8 +5640,8 @@
         "description": "A massive eruption of lava is spewing from a volcano into the sky, with a fiery red and orange glow.",
         "question": "What are the surroundings of the volcano?",
         "answers": [
-            "All I see is dark/black residue, mountains in the distance, and blue sky with some clouds.",
             "Blackened and hardened lava field in all directions with a blue sky background",
+            "The surroundings are just cooled lava - black rock.",
             "Sky and rock"
         ]
     },
@@ -5736,9 +5736,9 @@
         "description": "A group of men in suits stand in a dimly lit corridor, watching former president Barack Obama blurred in the foreground pass by.",
         "question": "What is Obama doing?",
         "answers": [
-            "Waiting with his friends",
+            "Mr. Obama stands in a doorway with his hands folded in front of him while others pass by",
             "He is standing with hands clasped together",
-            "He is standing with his hands folded in front of him."
+            "Waiting with his friends"
         ]
     },
     {
@@ -5748,7 +5748,7 @@
         "question": "How is the weather and environment?",
         "answers": [
             "It is bright and sunny.",
-            "The weather is clear and it's daylight.",
+            "The environment is a forest like area and the weather seems clear and sunny",
             "It looks like a clear day."
         ]
     },
@@ -5789,9 +5789,9 @@
         "description": "A group of people sitting a hot tub located",
         "question": "Is the hot tub near a pool?",
         "answers": [
+            "No. There is no pool near or adjacent to the hot tub in the image. However, the image does not show everything near the pool (e.g. behind the cameraman)",
             "No. It is in the middle of an area covered with snow",
-            "There does not seem to be a pool nearby",
-            "A pool cannot be seen in the picture."
+            "There does not seem to be a pool nearby"
         ]
     },
     {
@@ -5823,7 +5823,7 @@
         "answers": [
             "I don't see any signs of wildlife.",
             "There are no signs of wildlife around",
-            "yes there is signs of wildlife around. "
+            "This man is outside, camouflaged getting information from the wild. Most likely to put in magazines and learn about."
         ]
     },
     {
@@ -5832,9 +5832,9 @@
         "description": "A woman in a yellow tank top and black shorts is exercising on a gym machine, with other gym equipment and patrons in the background.",
         "question": "Are there are men using the equipment?",
         "answers": [
-            "No, men are not seen using the equipment",
+            "No, there is no men that is using the equipment in the picture.",
             "No there are no men using the equipment. ",
-            "No I only see one woman using the machines"
+            "It's difficult to tell if there are any men in the picture"
         ]
     },
     {
@@ -5909,8 +5909,8 @@
         "question": "Can you tell me what the color, size and texture looks like?",
         "answers": [
             "The case looks squishy and with a yellow tint, the embryo inside is a soft yellow color.",
-            "The egg case is yellow and the size of a palm. The texture is squishy.",
-            "yellow color, the texture appears smooth"
+            "The color is golden yellow, the size appears to be fairly small but easily visible to the naked eye, and the texture appears to be smooth",
+            "The egg case is colored a yellowish orange, it is about 4 inches long, and its texture appears to be smooth."
         ]
     },
     {
@@ -5941,9 +5941,9 @@
         "description": "A diver explores a sunken shipwreck near a coral reef underwater, the diver has a pair of swimming flippers on and is wearing an oxygen tank. The image is shown to be underwater.",
         "question": "What does the shipwreck have to do with it?",
         "answers": [
-            "Animals could be living inside the shipwreck.",
             "The site may be selling scuba gear.",
-            "It is the subject of the picture."
+            "Animals could be living inside the shipwreck.",
+            "The diver is exploring the shipwreck as part of an experience."
         ]
     },
     {
@@ -5973,9 +5973,9 @@
         "description": "A hot air balloon flies over a verdant landscape dotted with ancient temples at sunrise.",
         "question": "Is it daytime?",
         "answers": [
-            "Yes, it is daytime",
-            "yes, please it is daytime ",
-            "Yes, it's early morning and the sun is almost fully out."
+            "Yes, it is daytime.",
+            "Yes, it's early morning and the sun is almost fully out.",
+            "yes, please it is daytime "
         ]
     },
     {
@@ -5996,8 +5996,8 @@
         "question": "How far away is the photo being taken?",
         "answers": [
             "It's hard to tell but maybe about a quarter mile.",
-            "Roughly a few hundred feet.",
-            "not far"
+            "not far",
+            "roughly 100 meters"
         ]
     },
     {
@@ -6006,9 +6006,9 @@
         "description": "A person hiking on a winding trail through a lush green forest with tall pine trees. Majestic snow-capped mountains rise in the distance.",
         "question": "Is hiking popular there?",
         "answers": [
-            "Yes and it is a tourist location",
-            "Since the hiking trail is clear of obstructions and looks to be well maintained, it is likely that hiking is popular at this location.",
-            "Because there is a trail that has been paved out, it is likely that this is a popular hiking area"
+            "theres is a path in a forest that is well formed from many people walking in this forest",
+            "Because there is a trail that has been paved out, it is likely that this is a popular hiking area",
+            "Since the hiking trail is clear of obstructions and looks to be well maintained, it is likely that hiking is popular at this location."
         ]
     },
     {
@@ -6028,9 +6028,9 @@
         "description": "A variety of fresh fruits, vegetables, and nuts are arranged on a wooden surface. There's a basket of apples, a watermelon slice, and grains.",
         "question": "What types of fruit are shown?",
         "answers": [
-            "Apples, lemons, watermelon, grapes, blackberry, cantaloupe",
+            "these arnt fruit there veggies",
             "There are a variety of fruits such as apples, grapes, blueberries, raspberry, lemons, tomatoes, and bananas.",
-            "these arnt fruit there veggies"
+            "Apples, lemons, watermelon, grapes, blackberry, cantaloupe"
         ]
     },
     {
@@ -6039,9 +6039,9 @@
         "description": "A muscular athlete in swim gear emerges from water, yellow cap on, goggles up, focused and determined.",
         "question": "Does the swimmer look like a professional?",
         "answers": [
+            "Yes, the swimmer looks like a professional given his build and gear. ",
             "Based on the swimmer's body which is quite in shape and his professional looking swimming attire, I would say that he is.",
-            "yes this person looks like a pro",
-            "More so semi-professional. Due to his large muscles it would be difficult to compete in professional swimming."
+            "yes this person looks like a pro"
         ]
     },
     {
@@ -6050,9 +6050,9 @@
         "description": "A beautiful African American model walks a bright runway wearing a black dress with intricate gold patterns. She has long black hair and is wearing black heels. Audience members watch from the side.",
         "question": "what is the event",
         "answers": [
-            "Logic would say that this likely a modeling event/runway show. There is no direct confirmation in the image though, just an implication based on where she is. ",
             "This event is a fashion show",
-            "The event is a fashion show. "
+            "Logic would say that this likely a modeling event/runway show. There is no direct confirmation in the image though, just an implication based on where she is. ",
+            "The event is a fashion show."
         ]
     },
     {
@@ -6061,7 +6061,7 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "How many people are in the picture?",
         "answers": [
-            "10 people are in the picture",
+            "There are 10 people in the picture, but not all are fully showing in the image",
             "10 or more",
             "There are 10 people total in the picture. 1 teacher that is facing 9 students."
         ]
@@ -6094,9 +6094,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "How many people?",
         "answers": [
+            "There are 10 people visible.",
             "10 people.",
-            "there appears to be one leader and at least 9 students",
-            "There are 10 people visible."
+            "there appears to be one leader and at least 9 students"
         ]
     },
     {
@@ -6115,9 +6115,9 @@
         "description": "A group of male models walk the runway in a fashion show wearing white mesh shirts, a large white jacket, and long white pants. The material is loose.",
         "question": "How large is the runway?",
         "answers": [
-            "The runway is very narrow. ",
-            "The runway appears to be approximately forty to fifty feet long in the photo.  ",
-            "It is the floor between two row of inner facing seats."
+            "It is the floor between two row of inner facing seats.",
+            "I cannot tell how long it is, but it is very narrow.",
+            "The runway appears to be approximately forty to fifty feet long in the photo.  "
         ]
     },
     {
@@ -6126,8 +6126,8 @@
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
         "question": "Are there people in the photo?",
         "answers": [
-            "no please, it doesn't look like it ",
             "There are no people in the photo. ",
+            "There are no people.  This is an aerial picture of the landscape.",
             "no. There are no people"
         ]
     },
@@ -6137,9 +6137,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "where is the group located",
         "answers": [
-            "They're on a rocky plateau over looking a river",
-            "The group is located along a river at the base of a cliff.",
-            "The group is located on a large rock, surrounded by rock foundations."
+            "The group is located on a large rock, surrounded by rock foundations.",
+            "The groups is located outside by a lake.",
+            "The group is located along a river at the base of a cliff."
         ]
     },
     {
@@ -6192,7 +6192,7 @@
         "question": "What kind of environment is the photographer laying in?",
         "answers": [
             "The environment is a forest or wilderness",
-            "The photographer is laying in a grassy area that is surrounded by forest.",
+            "He's either in a jungle or a forest",
             "the photographer is laying in a long grassy foliage"
         ]
     },
@@ -6212,9 +6212,9 @@
         "description": "A beige sofa with four decorative pillows: two green with distinct patterns, one with a blend of muted colors, and a floral print cushion.",
         "question": "What style is the sofa?",
         "answers": [
-            "It's an overstuffed style. ",
             "this sofa is a leather type style",
-            "The style of the sofa is called an english arm roll"
+            "The style of the sofa is called an english arm roll",
+            "It's an overstuffed style. "
         ]
     },
     {
@@ -6266,8 +6266,8 @@
         "description": "A bowl of Asian noodle salad with vegetables and herbs.",
         "question": "What vegetables?",
         "answers": [
+            "Broccoli and mushrooms, along with possibly carrots and red peppers.",
             "Broccoli, carrots, and spinach are the most visible vegetables in this picture. There may be more vegetables in the dish that are not seen explictly.  ",
-            "Greens and peppers",
             "The vegetables on the plate look to be parsley, onions, kale, and shredded strips of red pepper."
         ]
     },
@@ -6289,8 +6289,8 @@
         "question": "Are the patrons staring at her?",
         "answers": [
             "It is difficult to say, first from the image, they seems to be very far from her and the image focuses more on the woman blurry other people in the image far behind",
-            "There aren't any other patrons around her, the only other people are way in the background.",
-            "No, there are no patrons staring at her."
+            "They don't appear to be, but they are quite a distance from her and their faces are blurry, so it isn't clear.",
+            "There aren't any other patrons around her, the only other people are way in the background."
         ]
     },
     {
@@ -6309,9 +6309,9 @@
         "description": "Two people cross-country skiing on a snow-covered slope with mountains in the distance.",
         "question": "Are these people men or women?",
         "answers": [
-            "For me one looks like a man and the other a woman",
             "It appears to be a man and a woman.",
-            "There is a man and a women on the ski slope.  "
+            "For me one looks like a man and the other a woman",
+            "Men and women"
         ]
     },
     {
@@ -6354,8 +6354,8 @@
         "question": "Do you think it looks good?",
         "answers": [
             "Yes it does look good.",
-            "It looks sleek and well-constructed. There is a bit of a futuristic element to the kettle's look and it looks sturdy.",
-            "It does not look good."
+            "It does not look good.",
+            "Personally, I don't think it looks very good."
         ]
     },
     {
@@ -6395,9 +6395,9 @@
         "description": "The International Space Station orbits Earth, with solar panels extended, against the backdrop of our planet\u2019s curve.",
         "question": "What colors are in the image.",
         "answers": [
-            "blue, white, black",
-            "Different shades of sky blue and cloud white and colors of materials that makes solar panels. Most cloud blue dominated",
-            "The earth is bright blue with scattered white clouds. The space in the background being pitch black. The space station is silver and is reflecting sunlight so it is very bright and clear."
+            "Blue, black, white, brown",
+            "black, silver, white and blue",
+            "mainly the pale blue of earth and shades of white/gray for the clouds on earth and the ISS itself."
         ]
     },
     {
@@ -6428,9 +6428,9 @@
         "description": "A group of people are working out on indoor rowing machines at a gym.",
         "question": "What are the people's facial expressions? ",
         "answers": [
-            "They look concentrated and hard at work. They have focused expressions but do not seem displeased or happy.",
-            "The group share a determined expression and their exertion shows on their faces",
-            "They have serious expressions that look like they are exerting a lot of energy."
+            "They seem focused and determined ",
+            "Focused and determined. Fixed on the task at hand.",
+            "The group share a determined expression and their exertion shows on their faces"
         ]
     },
     {
@@ -6439,9 +6439,9 @@
         "description": "A group practicing yoga outdoors, with mats on rock, arms raised to the sky.",
         "question": "what is the activity",
         "answers": [
-            "they are practicing yoga outdoors",
             "Group yoga",
-            "They are sitting down and raising their hands towards the sky in a yoga routine."
+            "They are sitting down and raising their hands towards the sky in a yoga routine.",
+            "it is a \"Y\" pose "
         ]
     },
     {
@@ -6472,9 +6472,9 @@
         "description": "A serene view of a small island with a church on top, connected to the mainland by a winding path, set against the ocean.",
         "question": "What is the significance of this image to a scientific article?",
         "answers": [
-            "The article describes the geological aspects of the island",
             "The image is likely showing the exact place in the world where a scientific discovery took place or is of other, geographical significance. ",
-            "Natural islets like the one depicted in the photograph can often have rare and exciting natural flora and fauna "
+            "Maybe involving geography.",
+            "The article describes the geological aspects of the island"
         ]
     },
     {
@@ -6483,9 +6483,9 @@
         "description": "A group of people sitting a hot tub located",
         "question": "where are we?",
         "answers": [
-            "There are trees and snow. Likely somewhere in the mountains.",
-            "outside in a hot tub with snow on the ground",
-            "Hard to say, feels like people inside a hot tub placed outside in the snow."
+            "Hard to say, feels like people inside a hot tub placed outside in the snow.",
+            "They are located in a hotub that is in a snowy area with snow and trees all around them",
+            "There are trees and snow. Likely somewhere in the mountains."
         ]
     },
     {
@@ -6494,9 +6494,9 @@
         "description": "A smiling woman with blonde bob haircut, wearing a red dress.",
         "question": "How old does the woman appear to be?",
         "answers": [
-            "She appears to be in her forties.",
-            "she looks about 33",
-            "maybe they;re selling her top"
+            "In her 40s.",
+            "maybe they;re selling her top",
+            "The woman appears to be in her late 40's or early 50's"
         ]
     },
     {
@@ -6532,6 +6532,17 @@
         ]
     },
     {
+        "image": "images/510px-Spaltlampe-2.jpeg",
+        "context": "social_media",
+        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
+        "question": "Who is the patient?",
+        "answers": [
+            "Nurse who has an eye problem",
+            "The patient is an elderly female.",
+            "An older woman."
+        ]
+    },
+    {
         "image": "images/15718.jpg",
         "context": "travel",
         "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
@@ -6548,9 +6559,20 @@
         "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
         "question": "where are the people, are they alone?",
         "answers": [
-            "There are no people in this image. ",
+            "There are no people in this image.",
             "No people are visible in the image.",
-            "There are no people"
+            "There are no people in this image. "
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there any stars twinkling?",
+        "answers": [
+            "There are no stars shown",
+            "There are no stars visible in the image.",
+            "No, there is no stars twinkling."
         ]
     },
     {
@@ -6581,9 +6603,9 @@
         "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
         "question": "What color is the P-51 aircraft?",
         "answers": [
-            "Silver with red nose",
-            "Silver with yellow, red and black stripes on the wings.",
-            "Gray with yellow stripes on the wings."
+            "Grey",
+            "Gray with yellow stripes on the wings.",
+            "Silver with red nose"
         ]
     },
     {
@@ -6604,8 +6626,19 @@
         "question": "What does the exam room look like?",
         "answers": [
             "From what I can see, just a typical white walled, plain exam room.",
-            "Yes.",
-            "It's a white room with the machinery inside"
+            "It's a white room with the machinery inside",
+            "Fairly dark "
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there light rays coming from the corona?",
+        "answers": [
+            "There are milky white light rays coming from the corona. ",
+            "Yes there are.",
+            "There are bright, white rays protruding from the corona."
         ]
     },
     {
@@ -6614,9 +6647,9 @@
         "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
         "question": "What color is this tree?",
         "answers": [
+            "The leaves are green and the branches are brown.",
             "The green trees surround the area. There is sunlight streaming in through the green leaves.",
-            "The trees surrounding the area are a lively green.",
-            "The tree is green"
+            "The trees surrounding the area are a lively green."
         ]
     },
     {
@@ -6731,9 +6764,9 @@
         "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
         "question": "Would you be afraid of the danger?",
         "answers": [
-            "The rapids can be unpredictable but I feel safe because of the provided life jacket.",
             "It would be exciting. I would trust the guide.",
-            "Yes very possibly."
+            "Yes",
+            "yes, the water current seems strong and the raft seems light"
         ]
     },
     {
@@ -6774,9 +6807,9 @@
         "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
         "question": "What color hair does the model have?",
         "answers": [
-            "light brown",
-            "The model appears to have dark blonde hair.",
-            "She has a blonde hair"
+            "She has a blonde hair",
+            "dark blonde",
+            "light brown"
         ]
     },
     {
@@ -6796,9 +6829,9 @@
         "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
         "question": "Is there a person wearing the backpack? ",
         "answers": [
-            "No the image is just of the product",
             "No there is not",
-            "There is no person wearing the backpack. "
+            "No the image is just of the product",
+            "The backpack is laying facedown against a red surface. There is no one wearing the backpack."
         ]
     },
     {
@@ -6828,9 +6861,9 @@
         "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
         "question": "Are the any rocks near the raft?",
         "answers": [
-            "Yes, there are rocks in front of the raft.",
-            "There appears to be rocks",
-            "There are a couple of rocks visible near the raft that are underneath the water"
+            "There are some rocks to the left of the raft, right side of the image.",
+            "There are a couple of rocks visible near the raft that are underneath the water",
+            "Yes, there are rocks in front of the raft."
         ]
     },
     {
@@ -6861,9 +6894,9 @@
         "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
         "question": "What does the Sun Look like when eclipse?",
         "answers": [
-            "The sun looks like a black sphere during the eclipse with white rays shimmering around it on a background of black.",
             "It looks like a glowing halo around the moon, surrounded by the total darkness of space",
-            "A glowing corona"
+            "A glowing corona",
+            "You can't see the whole sun, you can only see the sun's corona layer. It's being covered up by the moon as it's directly in front of it."
         ]
     },
     {
@@ -6883,9 +6916,20 @@
         "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
         "question": "What are the weather conditions",
         "answers": [
-            "There is no rain coming down and it seems to be sunny. ",
-            "sunny and windy",
-            "It looks sunny"
+            "water is rough and turbulent",
+            "The weather appears to be clear and sunny since we see the sun reflexing on the raft.",
+            "There is no rain coming down and it seems to be sunny. "
+        ]
+    },
+    {
+        "image": "images/Rafting_em_Brotas.jpeg",
+        "context": "travel",
+        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
+        "question": "Are there any other rafts nearby that would be able to help the people in the first raft?",
+        "answers": [
+            "No, not that can be seen.",
+            "There are no other rafts nearby.",
+            "There are none"
         ]
     },
     {
@@ -6916,9 +6960,19 @@
         "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
         "question": "Is the water current fast",
         "answers": [
-            "Yes the water current appears to be fast  as it is an area that contains a river rapid with churning waters",
-            "My opinion is the water current is neither running fast nor slow.6",
-            "yes it is very fast"
+            "The whitewater current is really fast, making the raft tilt to the side.",
+            "The water current appears to be violently fast.",
+            "The current is fast"
+        ]
+    },
+    {
+        "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
+        "context": "news",
+        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+        "question": "What does the image relate to specifically?",
+        "answers": [
+            "Community events ",
+            "Lifestyle"
         ]
     },
     {
@@ -6943,6 +6997,72 @@
         ]
     },
     {
+        "image": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+        "context": "news",
+        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+        "question": "Are there any people in the image?",
+        "answers": [
+            "No there are no people close enough to be visible.",
+            "Doesn't look like it, but shot is taken from high up so hard to tell for sure.",
+            "The image is not panned in enough to see if there are any people in it, but it would suffice to assume that there are people in the background. "
+        ]
+    },
+    {
+        "image": "images/Korea-Boseong-Green.tea-09.jpg",
+        "context": "health",
+        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+        "question": "Where is this tree positioned?",
+        "answers": [
+            "Hanging in the top of the frame.",
+            "The tree is on the top half of the image.  ",
+            "The picture is taken from underneath the canopy of a tree that is positioned behind the photographer."
+        ]
+    },
+    {
+        "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
+        "context": "travel",
+        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
+        "question": "Where is this from?",
+        "answers": [
+            "Los Altos Community Picnic",
+            "Los Altos California USA.",
+            "The banner says \"Los Altos\", though it's unclear exactly where that is."
+        ]
+    },
+    {
+        "image": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "context": "health",
+        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
+        "question": "What does the person look like?",
+        "answers": [
+            "From the back the person looks mid sized and is slightly balding.",
+            "A balding man that looks to be in his older years with a healthy looking body.",
+            "Looks like a male, shot from behind. Thinning hair on top. Fairly fit."
+        ]
+    },
+    {
+        "image": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
+        "question": "Is the person a man or a woman?",
+        "answers": [
+            "The person is a man.",
+            "The person appears to be masculine, so likely to be a man.",
+            "The person is a man. "
+        ]
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "Is the camera positioned on a table or stand? Or is against the wall?",
+        "answers": [
+            "The camera is positioned on a stand against the wall.",
+            "The camera is positioned on a stand  in a corner of the  room",
+            "It's on a stand and not against the wall."
+        ]
+    },
+    {
         "image": "images/Solar_eclipse_1999_4.jpeg",
         "context": "science_journals",
         "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
@@ -6951,6 +7071,28 @@
             "Not very bright, considering that the light is mostly being eclipsed",
             "It mostly appears to be dark with a little bit of rays of light.",
             "very bright"
+        ]
+    },
+    {
+        "image": "images/951_Gaspra.jpg",
+        "context": "news",
+        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
+        "question": "Are the craters all over or scarce?",
+        "answers": [
+            "There are craters all over.",
+            "The craters are all over.",
+            "The craters are all over."
+        ]
+    },
+    {
+        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "context": "social_media",
+        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+        "question": "Does the picture appear to be a sponsor for something?",
+        "answers": [
+            "There are no brands shown in the image, so assumed that it is not sponsored. ",
+            "I suppose that it could be.",
+            "It doesn't have any brands"
         ]
     }
 ]

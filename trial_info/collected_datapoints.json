@@ -1,84 +1,47 @@
 [
     {
-        "image": "images/510px-Spaltlampe-2.jpeg",
-        "context": "social_media",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "Who is the patient?",
+        "image": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "context": "health",
+        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+        "question": "How high is the kick?",
         "answers": [
             "",
-            "The patient is an elderly female.",
-            "Old woman\n",
-            "An older woman.",
-            "Nurse who has an eye problem"
+            "The kick is high with both feet",
+            "I would estimate the kick to be about 5 feet high "
         ]
     },
     {
-        "image": "images/Solar_eclipse_1999_4.jpeg",
-        "context": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there any stars twinkling?",
-        "answers": [
-            "There are no stars shown",
-            "There are no stars visible in the image.",
-            "No, there is no stars twinkling."
-        ]
-    },
-    {
-        "image": "images/Solar_eclipse_1999_4.jpeg",
-        "context": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there light rays coming from the corona?",
-        "answers": [
-            "There are bright, white rays protruding from the corona.",
-            "Yes, there are light rays coming from the corona.",
-            "Yes there are.",
-            "There are milky white light rays coming from the corona. "
-        ]
-    },
-    {
-        "image": "images/Rafting_em_Brotas.jpeg",
+        "image": "images/15718.jpg",
         "context": "travel",
-        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-        "question": "Would you be afraid of the danger?",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "How popular is it",
         "answers": [
-            "It would be exciting. I would trust the guide.",
-            "The rapids can be unpredictable but I feel safe because of the provided life jacket.",
-            "Yes",
-            "Yes very possibly.",
-            "yes, the water current seems strong and the raft seems light"
+            "Fairly popular, as a decently large group of people can be seen in the picture.",
+            "It is fairly popular as there are a lot of people viewing it",
+            "It is decently crowded."
         ]
     },
     {
-        "image": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "context": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Can you tell what season this might be?",
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+        "context": "shopping",
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "Can you buy their wardrobes?",
         "answers": [
-            "Yes, it's either late spring or summer, seeing as how all the trees and grass are green and not patchy. ",
-            "A beautiful city with tall buildings and big trees ",
-            "It appears to be spring, because the leaves of the trees look very green and there is no snow."
-        ]
-    },
-    {
-        "image": "images/Rafting_em_Brotas.jpeg",
-        "context": "travel",
-        "description": "A group of people in helmets and life vests are whitewater rafting, navigating through rough river rapids.  The raft is tilted on its side and looks like it could flip if they are not careful.\n",
-        "question": "Are there any other rafts nearby that would be able to help the people in the first raft?",
-        "answers": [
-            "No, not that can be seen.",
-            "There are no other rafts nearby.",
-            "There are none"
-        ]
-    },
-    {
-        "image": "images/Solar_eclipse_1999_4.jpeg",
-        "context": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "What is the name of the science magazine website?",
-        "answers": [
-            "The name of the science magazine website is ",
-            "The website is not named",
+            "It is unclear as to whether the models' wardrobes are available for purchase given the nature of the image.",
             "",
+            "It appears you can potentially buy their wardrobes or clothes similar.",
+            "yes, it does not look too expensive",
+            ""
+        ]
+    },
+    {
+        "image": "images/15718.jpg",
+        "context": "science_journals",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "how old are these ancient baths?",
+        "answers": [
+            "",
+            "They are from original Roman architecture.",
             "",
             ""
         ]
@@ -87,152 +50,321 @@
         "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
         "context": "news",
         "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
-        "question": "What does the image relate to specifically?",
+        "question": "Did something in particular happen?",
         "answers": [
-            "Community events ",
-            "Lifestyle",
-            ""
-        ]
-    },
-    {
-        "image": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "context": "news",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "What city is in the photograph?",
-        "answers": [
-            "It is New York City, as the park is Central Park.",
+            "This appears to be a normal day with sun where pedestrians are walking through a crosswalk.",
             "",
-            "",
-            "It looks like NYC"
-        ]
-    },
-    {
-        "image": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "context": "news",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Are there any people in the image?",
-        "answers": [
-            "No people in the image",
-            "The image is not panned in enough to see if there are any people in it, but it would suffice to assume that there are people in the background. ",
-            "Doesn't look like it, but shot is taken from high up so hard to tell for sure.",
-            "No there are no people close enough to be visible."
+            "It appears that the Los Altos Community Picnic is taking place. There are cars parked along the street and a couple young girls seeming to be enjoying the festivities. ",
+            "The image description is pretty much complete. It is the middle of the day and a couple of pedestrians are crossing the street.",
+            "The Los Altos Community Picnic."
         ]
     },
     {
         "image": "images/Korea-Boseong-Green.tea-09.jpg",
         "context": "health",
         "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
-        "question": "Where is this tree positioned?",
+        "question": "What color is the tree",
         "answers": [
-            "The picture is taken from underneath the canopy of a tree that is positioned behind the photographer.",
-            "Above the camera",
-            "Hanging in the top of the frame.",
-            "The tree is on the top half of the image.  "
-        ]
-    },
-    {
-        "image": "images/Solar_eclipse_1999_4.jpeg",
-        "context": "science_journals",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Where can I safely see this?",
-        "answers": [
-            "",
-            "On a computer screen. You can't look at it directly in real life.",
-            "Most likely at night.",
-            ""
+            "The tree is vibrant green in the middle of bright and dark as we might see in the United States.",
+            "the tree is green",
+            "The tree is lush green",
+            "The tree is green",
+            "The trees are green"
         ]
     },
     {
         "image": "images/440px-Los_Altos_Main_Street_2.jpeg",
         "context": "travel",
         "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
-        "question": "Where is this from?",
+        "question": "Are there are a lot of trees in the area?",
         "answers": [
-            "Los Altos Community Picnic",
-            "Los Altos California USA.",
-            "The banner says \"Los Altos\", though it's unclear exactly where that is."
+            "There are a lot of trees in the background, lining the busy street.",
+            "Yes, there are trees down the street on both sides",
+            "There are trees lining the road so there might be"
         ]
     },
     {
-        "image": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
-        "context": "health",
-        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-        "question": "What does the person look like?",
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there any stars in the sky?",
         "answers": [
-            "From the back the person looks mid sized and is slightly balding.",
-            "A balding man that looks to be in his older years with a healthy looking body.",
-            "Looks like a male, shot from behind. Thinning hair on top. Fairly fit.",
-            ""
+            "Stars are not visible in this particular image.",
+            "it doesnt look like a star",
+            "there are no stars! "
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "When/where was this picture taken?",
+        "answers": [
+            "",
+            "2023, from a telescope",
+            "The picture was taken during a solar eclipse"
         ]
     },
     {
         "image": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
         "context": "social_media",
         "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
-        "question": "Is the person a man or a woman?",
+        "question": "Is the person alone or in a group",
         "answers": [
-            "The person is a man.",
-            "The person appears to be masculine, so likely to be a man.",
-            "The person is a man. "
+            "",
+            "The photo only contains one person.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Palace_of_Fine_Arts_during_Schon_\u2013_Holt_Salahi_wedding.jpg",
+        "context": "travel",
+        "description": "An illuminated neoclassical rotunda by a calm reflecting pool during twilight.\n",
+        "question": "What kind of lights illuminate the rotunda?",
+        "answers": [
+            "There's a light in the center that illuminates the rotunda can't specify the type of light.",
+            "A twilight illuminates rotunda.",
+            "I think soft electric lights."
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "news",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there any stars visible in the image?",
+        "answers": [
+            "Just the corona of the sun",
+            "There are no stars visible in the image.",
+            "No there doesn't appear to be any stars in the sky."
         ]
     },
     {
         "image": "images/400px-Retinal_camera.jpeg",
         "context": "health",
         "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
-        "question": "Is the camera positioned on a table or stand? Or is against the wall?",
+        "question": "What is the approximate size of the camera setup?",
         "answers": [
-            "The camera is positioned on a stand against the wall.",
-            "The camera is positioned on a stand  in a corner of the  room",
-            "It's on a stand and not against the wall."
+            "",
+            "",
+            "",
+            "I can't tell you for sure the exact size, but the camera setup is about the length of ones upper body in the corner of a room."
         ]
     },
     {
-        "image": "images/951_Gaspra.jpg",
-        "context": "news",
-        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
-        "question": "Are the craters all over or scarce?",
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "Is there a doctor nearby it?",
         "answers": [
-            "There are craters all over.",
-            "",
-            "The craters are all over.",
-            "The craters are all over."
+            "No, there is not a doctor nearby.",
+            "no, there is not.",
+            "There is not."
         ]
     },
     {
-        "image": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-        "context": "shopping",
-        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
-        "question": "Is it a concert?",
+        "image": "images/Korea-Boseong-Green.tea-09.jpg",
+        "context": "travel",
+        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
+        "question": "Are there people in the image?",
         "answers": [
+            "There are no people or animals in this image.",
+            "None that I can see, no.",
+            "No there are no people"
+        ]
+    },
+    {
+        "image": "images/Solar_eclipse_1999_4.jpeg",
+        "context": "science_journals",
+        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+        "question": "Are there stars pictured in the image as well?",
+        "answers": [
+            "No, the sky is pitch black.",
+            "There are no stars aside from what little of the sun is visible behind the moon.",
+            "There are no stars pictured in the image. "
+        ]
+    },
+    {
+        "image": "images/80px-Rocket-yoga-13_handstand_(cropped).jpeg",
+        "context": "health",
+        "description": "A person wearing shorts, performing a handstand on a yoga mat by the sea, legs straight up and toes pointed.\n",
+        "question": "What is the gender of the person?",
+        "answers": [
+            "Male is the gender",
+            "This person appears to be male.",
+            "The gender seems to be an older male.",
+            "The person is a male.",
+            "A man. He is a yoga position by the sea ",
+            "Male it appears as while you can't see his face, he is shirtless."
+        ]
+    },
+    {
+        "image": "images/500px-Soldier_running_in_water_original.jpeg",
+        "context": "health",
+        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
+        "question": "Is the man in any competition?",
+        "answers": [
+            "It isn't possible to tell from the image.",
             "",
-            "",
-            "",
-            "Yes, it is a concert and seem to be very real one",
-            ""
+            "He's probably ony in competition with hisself. "
+        ]
+    },
+    {
+        "image": "images/Aerial_view_-_Presidio-whole.jpg",
+        "context": "travel",
+        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+        "question": "What city is this?",
+        "answers": [
+            "San Francisco",
+            "San Francisco",
+            "San Francisco, a large city by the sea with dense housing and a landmark, the bridge."
         ]
     },
     {
         "image": "images/220px-Ado-muka-shvanasana.jpeg",
         "context": "social_media",
         "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Does the picture appear to be a sponsor for something?",
+        "question": "How thick does the yoga mat look like?",
         "answers": [
-            "There are no brands shown in the image, so assumed that it is not sponsored. ",
-            "I suppose that it could be.",
-            "It doesn't have any brands"
+            "It's very thin.",
+            "It's really thin.",
+            "it looks quite thin but like a standard yoga mat "
         ]
     },
     {
-        "image": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+        "image": "images/440px-Protein_shake.jpg",
+        "context": "shopping",
+        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+        "question": "What material is the shaker bottle?",
+        "answers": [
+            "The shaker bottle is glass.",
+            "The shaker bottle is plastic. ",
+            "Milk and protein shake powder (mixed)",
+            "it's made from plastic. "
+        ]
+    },
+    {
+        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "context": "shopping",
+        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+        "question": "What is the brand of the attire they're wearing?",
+        "answers": [
+            "Skydivng suits, I can't tell what brand",
+            "the american hero attire",
+            "Columbia Sports",
+            ""
+        ]
+    },
+    {
+        "image": "images/500px-Soldier_running_in_water_original.jpeg",
         "context": "social_media",
-        "description": "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
-        "question": "what are they advertising",
+        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
+        "question": "Does this look like a scam",
+        "answers": [
+            "It doesn't not look like a scam. Nothing is being offered or sold. ",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "context": "travel",
+        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
+        "question": "Are there people like me in the image?",
+        "answers": [
+            "There are no people visible in the image.",
+            "",
+            "No, there are no people in this image. "
+        ]
+    },
+    {
+        "image": "images/Sergey_Brin_Ted_2010.jpg",
+        "context": "science_journals",
+        "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
+        "question": "How is this image connected to the story?",
+        "answers": [
+            "",
+            "This could be a speaker during a TED talk or the like speaking about different topics that relate to the science magazine website.",
+            "No, the website search was related to new development in science. "
+        ]
+    },
+    {
+        "image": "images/250px-Raphanus_sativus.jpeg",
+        "context": "shopping",
+        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+        "question": "Are radishes on sale?",
         "answers": [
             "",
             "",
             "",
-            "they are advertising for the wrestling company"
+            "",
+            "who knows it's hard to say. i do not have that information "
+        ]
+    },
+    {
+        "image": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
+        "context": "travel",
+        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
+        "question": "What are the hotels being featured and are they being recommended by the travel website?",
+        "answers": [
+            "New location",
+            "Bellagio Las Vegas and Caesars Palace. I am not sure if they are being recommended but they are featured in the image.",
+            "The hotels featured in the image include prominent establishments along the Las Vegas Strip. The travel website is likely recommending these hotels and experiences.  "
+        ]
+    },
+    {
+        "image": "images/400px-Norman_Borlaug.jpeg",
+        "context": "science_journals",
+        "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+        "question": "is the a conference going on ",
+        "answers": [
+            "No. There is not a conference going on. It is a statute.",
+            "With the podium, and the elderly man standing on the stage, it looks to be a conference.",
+            "Thre probably is a conference going on, and the person at the podium is giving a talk. "
+        ]
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "travel",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
+        "question": "Who is in the picture",
+        "answers": [
+            "Five locals",
+            "random people ",
+            "5 or 6 tourists walking through the street"
+        ]
+    },
+    {
+        "image": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
+        "context": "news",
+        "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
+        "question": "Is it  harmful",
+        "answers": [
+            "",
+            "",
+            "While there's no way to tell for certain, the black smoker hydrothermal vent may be seen as harmful."
+        ]
+    },
+    {
+        "image": "images/Souk_in_Tunisia_1.jpeg",
+        "context": "social_media",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
+        "question": "What's the definition of a traditional good?",
+        "answers": [
+            "traditional goods are products that come from a market from a culture.",
+            "",
+            "A product related to a cultural and historical practice, heritage, customs, etc. ",
+            "I product that has been used in a society for generations and isn't modern."
+        ]
+    },
+    {
+        "image": "images/440px-Bay_to_Breakers_2011_Up.jpg",
+        "context": "news",
+        "description": "A festive crowd with balloons and bubbles in front of classic San Francisco houses under a sunny sky. There is a miniature house under the balloons. \n",
+        "question": "What do you think they are celebrating?",
+        "answers": [
+            "",
+            "The up movie is what it looks like ",
+            ""
         ]
     }
 ]
