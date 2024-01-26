@@ -1,269 +1,409 @@
 [
     {
-        "image": "images/15718.jpg",
-        "context": "science_journals",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "How many people can fit inside the bath?",
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+        "context": "shopping",
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "Are the outfits adequate for the environment they're in?",
         "answers": [
-            "",
-            "",
-            "The bath can fit up to 100 people. ",
-            "About one-hundred people can fit inside the bath."
+            "Yes they are adequate, but fully cover them so might be a bit too much.",
+            "No, the outfits are too clean, formal, and impractical for an outdoor desert setting.",
+            "The outfits appear to be able to keep the models warm. "
         ]
     },
     {
-        "image": "images/510px-Spaltlampe-2.jpeg",
+        "image": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
         "context": "health",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "a better description of the clinic, or the point of view the photograph was taken",
+        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
+        "question": "What base does the veggie burger appear to be made of?",
         "answers": [
-            "This shows a eye doctor (optometrist) in the middle of an eye screening to determine the patients eye health and if they need corrective glasses.",
-            "An optometrist is examining a patient's eyes using a slit lamp in a clinic from behind the right shoulder of the optometrist; the clinic is generic but contains warmer lights and plants than a typical sterile clinic setting.",
-            "The photo was taken from behind the optometrist, from an outsiders point of view",
-            "It looks like a typical clinic with a large window."
-        ]
-    },
-    {
-        "image": "images/470px-Uggs2.jpeg",
-        "context": "shopping",
-        "description": "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
-        "question": "What are the boots for?",
-        "answers": [
-            "To wear and protect your legs",
-            "keeping your feet warm indoors and outdoors in cold weather",
-            "They are used to keeep your legs/feet warm in the outdoors and also provide a good way to manage rough terrain."
-        ]
-    },
-    {
-        "image": "images/Ludovic_and_Lauren_(8425515069).jpeg",
-        "context": "shopping",
-        "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered badges and athletic gear.\n",
-        "question": "What brand of athletic gear are they wearing?",
-        "answers": [
-            "They are wear",
-            "Adidas and unknown",
             "",
-            "One runner has an adidas t-shirt and the other has an under armor shirt. It is difficult to tell the branding of rtheir shorts or shoes."
+            "The veggie burger appears to be made of greens, but the nutritional content is not explicitly stated. ",
+            "a multigrain bun"
         ]
     },
     {
-        "image": "images/15718.jpg",
+        "image": "images/P-51_Mustang_edit1.jpeg",
         "context": "science_journals",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "what kind of decorations on the baths are there?",
+        "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+        "question": "What is the aircraft going to do?",
         "answers": [
-            "columns and statues",
-            "Cement columns",
-            "",
-            "architectural decorations surrounding it,."
-        ]
-    },
-    {
-        "image": "images/Bhekasana1.jpeg",
-        "context": "social_media",
-        "description": "A woman in a yoga pose, 'Bhekasana,' lying on her stomach, bending her knees, and reaching back to touch her feet.\n",
-        "question": "Is the woman an influencer?",
-        "answers": [
-            "",
-            "Yes, she records herself doing yoga and posts it for others to see and learn.",
-            "It looks that way since she is posting something to show people"
-        ]
-    },
-    {
-        "image": "images/Gigi_Hadid_2016.png",
-        "context": "news",
-        "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
-        "question": "what color of dress is she actually wearing?",
-        "answers": [
-            "The dress is black",
-            "Dark black",
-            "She is wearing a black dress"
-        ]
-    },
-    {
-        "image": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "context": "science_journals",
-        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "question": "Why is there too much going on?",
-        "answers": [
-            "",
-            "The image has very many things in it",
-            "it is the up close of the logs you don't see too uch at the background.",
-            "I don't think there is too much going on, it's just a picture with trees, and logs and that is it.",
-            "That is just the way that the photographer framed the picture. They have the log pile front left to center with trees, shrubbery and patch of clear possibly cut grass framing the rest of the log pile. "
-        ]
-    },
-    {
-        "image": "images/440px-Vegas_by_night_(360655015).jpeg",
-        "context": "travel",
-        "description": "Aerial view of a brightly lit city at night with dense buildings and long streets.\n",
-        "question": "How big is the city?",
-        "answers": [
-            "Very big city ",
-            "",
-            "It seems like a pretty big sized city.",
+            "The aircraft is flying over a body of water, heading away from land.",
+            "The aircraft is probably flying on a test flight.",
+            "The aircraft is going to land",
             ""
         ]
     },
     {
-        "image": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
+        "image": "images/Acorn_Soup_(4827753894).jpeg",
         "context": "shopping",
-        "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
-        "question": "Is anyone wearing the backpack?",
+        "description": "A close-up of a baked acorn squash filled with a creamy soup, topped with herbs and breadcrumbs.\n",
+        "question": "Does it look delicious?",
         "answers": [
-            "no one is wearing the backpack",
-            "No one is wearing the backpack.",
-            "No one is wearing the backpack, it is displayed by itself."
+            "Yes, it looks well baked and delicious.",
+            "It does look delicious.",
+            "Yes, it looks like it is very tasty."
         ]
     },
     {
-        "image": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
-        "context": "news",
-        "description": "A row of models in various dresses are lined up on a modeling runway.\n",
-        "question": "what type of dresses ",
-        "answers": [
-            "Fashion dresses, those akin to the red carpet",
-            "Many different varieties, not short, but new concepts/styles for people to see.",
-            "various types however only first model is visible and hers has cutaway at the midriff and a deep v plunging neckline in blue with white flowers pattern. models behind her are wearing indistinguishable dresses. all appear to mid thigh or longer however.",
-            "from thigh to knee length, long and short sleeve, some with patterns and other solid"
-        ]
-    },
-    {
-        "image": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
-        "context": "travel",
-        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
-        "question": "Can you see any of the hotel names on the buildings?",
-        "answers": [
-            "No, I can't see the names of the hotels.",
-            "Caesars palace",
-            "No, that is not visible.",
-            "no, the distance is too great",
-            "Yes, you can see the left building is named The Cosmopolitan, the middle building is called Bellagio, and the right building is Caesar's Palace."
-        ]
-    },
-    {
-        "image": "images/220px-Ado-muka-shvanasana.jpeg",
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
         "context": "social_media",
-        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "How does yoga help you with your connections",
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "a better description of the eyewear the models are wearing",
         "answers": [
-            "Yoga is traditionally popular for the health benefits it may provide, but the help it provides with connections may be an added benefit for some. ",
-            "It helps you feel better and alleviate some aches and pains, and makes for a better lifestyle to be a bit more friendlier.",
-            "It gives me insight into a healthy natural way of life. "
+            "The eyewear is futuristic. It looks like a thin black strip across their eyes. ",
+            "the eyewear looks light brown and transparent",
+            "Both individuals are wearing casual glasses with a black frame and white lens. Very small in size"
         ]
     },
     {
-        "image": "images/Bellagio_garden_crystal_ball.jpeg",
+        "image": "images/Souk_in_Tunisia_1.jpeg",
         "context": "travel",
-        "description": "A large crystal ball stands in a lush garden with red and yellow flowers and a wooden fence in the background.\n",
-        "question": "Is the location being depicted known for the supernatural occult?",
+        "description": "Shoppers walk through a vibrant market street lined with stalls selling clothing, bags, and traditional goods.\n",
+        "question": "how crowded are the streets/is it accessible. ",
         "answers": [
-            "No, it doesnt depict supernatural occult. It rather shows more of nature. It is the front view of a house",
-            "No, I don't think so, it has a ball in the middle but there is no sign of supernatural ",
-            "No it doesn't seem so. ",
-            "not at all"
+            "The streets are very crowded",
+            "",
+            "The streets in the image appear slightly crowded/busy.",
+            "Although the market is busy with shoppers, the shops are easily accessible and the area is clean."
         ]
     },
     {
         "image": "images/MarsCuriosityRover-Drilling-Sol170++-2.jpg",
-        "context": "science_journals",
-        "description": "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars. The ground seems to be very dry with brownish red hue. \n",
-        "question": "Is the rover on tracks or wheels",
-        "answers": [
-            "It is on wheels.",
-            "The rover doesn't appear over tracks or wheels. It seems to be on the ground.",
-            "The rover is on tracks which getter traction than wheels.",
-            "The Mars Perseverance Rover has 6 wheels but are not included in the image"
-        ]
-    },
-    {
-        "image": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
         "context": "news",
-        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
-        "question": "What's in the distance that the woman is gazing at?",
+        "description": "A Mars rover arm is extended over a rocky surface with a hill in the background, likely a photo from Mars. The ground seems to be very dry with brownish red hue. \n",
+        "question": "Is the arm holding something?",
         "answers": [
-            "",
-            "",
-            "Approximately 400 Feet."
+            "I don't believe it is holding anything. It is just touching the ground.",
+            "The arm is holding the camera.",
+            "it is hard to determine in the arm is actually holding something."
         ]
     },
     {
-        "image": "images/Dan_+_Shay_in_2017.jpeg",
-        "context": "social_media",
-        "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
-        "question": "Is there a crowd?",
+        "image": "images/440px-Lazada_Laguna_warehouse.jpeg",
+        "context": "shopping",
+        "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
+        "question": "What are some of the goods pictured?",
         "answers": [
             "",
-            "There is a crowd. ",
-            ""
+            "Some baskets are pictured",
+            "Seems to be boxed products that contain shoes or other small apparel products"
+        ]
+    },
+    {
+        "image": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
+        "context": "news",
+        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
+        "question": "are there any cars",
+        "answers": [
+            "It looks like there might be on the left side of the picture.",
+            "There are no cars in the image.",
+            "",
+            "no i dont see any cars"
         ]
     },
     {
         "image": "images/Aerial_view_-_Presidio-whole.jpg",
-        "context": "travel",
+        "context": "science_journals",
         "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "question": "What city is this in?",
+        "question": "What time of day is it?",
         "answers": [
-            "A city on the coast",
-            "San Francisco, CA",
-            "San Francisco"
-        ]
-    },
-    {
-        "image": "images/Apollo_17_AS17-140-21497.jpeg",
-        "context": "news",
-        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-        "question": "Does the rock have any holes in it or does it have a unique shape?",
-        "answers": [
-            "Yes, the rock has a very unique shape.",
-            "It does have a unique shape. It kind of goes up to a point. ",
-            "it has a unique shape."
-        ]
-    },
-    {
-        "image": "images/500px-Soldier_running_in_water_original.jpeg",
-        "context": "social_media",
-        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
-        "question": "Is someone drowning?",
-        "answers": [
-            "No, no one is drowning. ",
-            "no,no one is drowning",
-            "No one is drowning, the water is shallow",
-            ""
-        ]
-    },
-    {
-        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "context": "travel",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "question": "what is the layout like?",
-        "answers": [
-            "There is a long, wide corridor with shops on either side.",
-            "It is like a long alley way with shops on the side. It could be like circle or square layout.",
-            "The layout seems very open with the glass ceiling, wide hallway, and large stores. I cannot see beyond this hallway so I do not know about the layout of the whole mall.",
-            "It is a very wide hall with carpet down the center covering most of the center. there are storefronts on both side. The ceiling is curved ornate glass"
+            "It is mid-day",
+            "It appears to be the middle of the day, perhaps noon or later, as everything is bright and clear. ",
+            "U",
+            "It looks like it's the late morning or early afternoon.",
+            "Seems to be around 11 am"
         ]
     },
     {
         "image": "images/Sergey_Brin_Ted_2010.jpg",
         "context": "news",
         "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
-        "question": "What is he looking at?",
+        "question": "What is the man looking at and smiling at?",
         "answers": [
             "",
             "",
-            "I have no idea"
+            "He looks and smiles at the blurred background "
         ]
     },
     {
-        "image": "images/San_Francisco_Bay_Wheels.jpg",
-        "context": "health",
-        "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background.\n",
-        "question": "Are there bike lanes in the city street?",
+        "image": "images/15722.jpg",
+        "context": "science_journals",
+        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
+        "question": "Are these buildings pertaining to something science related? ",
         "answers": [
-            "Yes, there are a row of rental bikes lined up on a city street. ",
-            "There are bike lines in most cities",
-            "It is possible that there is a small bike lane along the side of the street but from the angle it is very hard to tell, and it seems like a bus is partially driving in it."
+            "It doesn't look like it just looking at the photo.",
+            "",
+            "not that i can tell",
+            ""
+        ]
+    },
+    {
+        "image": "images/15718.jpg",
+        "context": "science_journals",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "Where would you find this place?",
+        "answers": [
+            "Ancient Rome conquered much of the ancient world, so there are many places in Europe that this location could be. It's not possible to determine the exact location based on the picture.",
+            "You need to go to Rome and prepare a travel plan that takes you to see the Roman baths of ancient time.",
+            "In Italy or Greece",
+            ""
+        ]
+    },
+    {
+        "image": "images/400px-Retinal_camera.jpeg",
+        "context": "health",
+        "description": "An ophthalmic retinal camera setup in a clinical examination room.\n",
+        "question": "What is the camera used for?",
+        "answers": [
+            "From the image it appears a person would press there face against the machine.  specifically eyes.",
+            "Studying people's eyes/retinas",
+            "Opthalmic retinal",
+            "The camera is used for examining the part of the eye called the retina.",
+            "It is used for ophthalmologic retinal examinations "
+        ]
+    },
+    {
+        "image": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+        "context": "news",
+        "description": "Two martial arts athletes in mid-fight; one is executing a high kick to the head of the opponent.  The person doing the kicking is wearing blue and the person being kicked is in red.\n",
+        "question": "Did a large competition taking place recently? What was it called/what sport? ",
+        "answers": [
+            "",
+            "",
+            "It's not clear if the competition was recent or what martial art is being practiced.",
+            "There are a plethora of people in the background which means a competition is taking place with kickboxing being the sport",
+            ""
+        ]
+    },
+    {
+        "image": "images/Natural_foodstuff_004.jpeg",
+        "context": "shopping",
+        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
+        "question": "Is this website for a grocery store?",
+        "answers": [
+            "",
+            "Maybe. Could be.",
+            "Yes a fruit department in the grocery store I think"
+        ]
+    },
+    {
+        "image": "images/500px-Flying_Double_Side_Kick_in_Martial_Arts.jpeg",
+        "context": "health",
+        "description": "A martial artist in a dobok is performing a flying side kick at a bag hanging from a tree at dusk.\n",
+        "question": "Is the \"flying side kick\" relevant to whatever the content is about?",
+        "answers": [
+            "",
+            "Yes, it is a type of exercise.",
+            "Yes it is relevant to the image",
+            "Yes, is resembles someone that is healthy."
+        ]
+    },
+    {
+        "image": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+        "context": "social_media",
+        "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+        "question": "Are there any passengers inside the car other than the driver?",
+        "answers": [
+            "",
+            "",
+            "",
+            "",
+            "You are unable to determine if there are other passengers in the car because of the angle of the camera.  Only the front driver's area is captured."
+        ]
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "science_journals",
+        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+        "question": "Do you think that astronaut is afraid of faults in his gear?",
+        "answers": [
+            "",
+            "I do not believe they are because being an astronauts require extensive training where they prepared for situations like that and know how to handle them in worst case scenario.",
+            "",
+            "The astronaut has the traditional suit on but there is no view of what his gear's attachments.  She may be afraid that she's ventured too far.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Gigi_Hadid_Stuart_Weitzman.jpg",
+        "context": "social_media",
+        "description": "A beautiful woman is standing by a brick wall, wearing a white cropped cable knit sweater, beige blazer, and blue jeans, gazing upwards.\n",
+        "question": "Is this person someone I may know?",
+        "answers": [
+            "No, it is a model",
+            "It is unlikely that you know this woman because she is famous.",
+            "no it looks to be a model",
+            "looks just like gigi hadid"
+        ]
+    },
+    {
+        "image": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
+        "context": "health",
+        "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
+        "question": "What type of procedure is being done.",
+        "answers": [
+            "",
+            "With both an assistant and doctor it looks like a tooth is being extracted which is root canal related",
+            "A dentist is performing dental procedure.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Nyle2.jpeg",
+        "context": "social_media",
+        "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup while thinking, in a bright room that is lit by the sunlight through the floor-to-ceiling glass windows.\n",
+        "question": "Can you describe any other features, does he look athletic?",
+        "answers": [
+            "He is in good shape",
+            "Yes, the man looks athletic, he has broad shoulders, muscular biceps.",
+            "cant be answered by this description",
+            "Yes he looks athletic and is a brunette",
+            "He looks very athletic and muscular. He has dark hair, thick eyebrows, and dark chest hair.",
+            "The man is fit and slim but well built for a man. ",
+            "The model has dark hair and seems very well fit, with noticeable muscles in his arms and abs."
+        ]
+    },
+    {
+        "image": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
+        "context": "shopping",
+        "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display. A woman carefully selecting fruit. \n",
+        "question": "How many fruit stalls are there?",
+        "answers": [
+            "",
+            "There are couple of stalls like 2 to 3 fruit stalls.",
+            "As far as it is seem on the photo, there is 2 fruit stall side by side"
+        ]
+    },
+    {
+        "image": "images/500px-Backzutaten_041.jpeg",
+        "context": "health",
+        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+        "question": "What flavor are the pies and how many varities do the pies come in?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
+        "context": "social_media",
+        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
+        "question": "What gender are the models?",
+        "answers": [
+            "There appears to be one male and one female model.",
+            "Male and female",
+            "It appears to be a male and a female but one should never assume."
+        ]
+    },
+    {
+        "image": "images/250px-Raphanus_sativus.jpeg",
+        "context": "health",
+        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+        "question": "Are the radishes sitting on a cutting board or table?",
+        "answers": [
+            "It is hard to discern, but the radishes appear to be in some kind of glass or plastic bowl. ",
+            "It's hard to tell, they appear to be resting on a surface.",
+            "look to be a table underneath"
+        ]
+    },
+    {
+        "image": "images/Ludovic_and_Lauren_(8425515069).jpeg",
+        "context": "shopping",
+        "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered badges and athletic gear.\n",
+        "question": "What is the weather like?",
+        "answers": [
+            "The weather is overcast. ",
+            "looks to be overcast",
+            "From the picture it looks overcast and cloudy but comfortable enough for shorts and t-shirts"
+        ]
+    },
+    {
+        "image": "images/440px-Bay_to_Breakers_2011_Up.jpg",
+        "context": "travel",
+        "description": "A festive crowd with balloons and bubbles in front of classic San Francisco houses under a sunny sky. There is a miniature house under the balloons. \n",
+        "question": "Why is there a miniature house",
+        "answers": [
+            "It's just a fun decoration. It's part of the balloon display. It's very festive and joyous.",
+            "Because it is a festive filled with bubbles and bubbles",
+            "It is a tourist location. "
+        ]
+    },
+    {
+        "image": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+        "context": "shopping",
+        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
+        "question": "Is there any branding present in the image",
+        "answers": [
+            "There is no branding or advertisements at all in the image.",
+            "No, there is no obvious branding.",
+            "There is no branding present in the image. "
+        ]
+    },
+    {
+        "image": "images/Blacksmoker_in_Atlantic_Ocean.jpg",
+        "context": "news",
+        "description": "Underwater photo of a black smoker, a type of hydrothermal vent, emitting a blue plume of mineral-rich water.\n",
+        "question": "Is the smoker a person?",
+        "answers": [
+            "No the smoker is made up of minerals that have precipitated out of the very hot seawater that is being pushed out of the Earth's crust.  It is inanimate and looks like a rock formation. ",
+            "No, it is not a person.",
+            "No it is not"
+        ]
+    },
+    {
+        "image": "images/15718.jpg",
+        "context": "science_journals",
+        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+        "question": "The history of this place is amazing ,where I can find more information about it ?",
+        "answers": [
+            "",
+            "",
+            "The exact location is not identified."
+        ]
+    },
+    {
+        "image": "images/440px-Bay_to_Breakers_2011_Up.jpg",
+        "context": "news",
+        "description": "A festive crowd with balloons and bubbles in front of classic San Francisco houses under a sunny sky. There is a miniature house under the balloons. \n",
+        "question": "Is it obvious why they are there with balloons and bubbles?",
+        "answers": [
+            "No, there aren't any identifiable signs or iconography to explain why the people are gathered.",
+            "No it is not obvious.",
+            "Yes, this can clearly be seen in the image."
+        ]
+    },
+    {
+        "image": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
+        "context": "shopping",
+        "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
+        "question": "What kind of backpack is it?",
+        "answers": [
+            "It appears to be a hiking backpack considering the knife attached to it.",
+            "It looks like a modern camping or hiking backpack with many useful features.",
+            "It looks like a traditional backpack in black."
+        ]
+    },
+    {
+        "image": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+        "context": "travel",
+        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+        "question": "Are the skydivers strapped to an instructor?",
+        "answers": [
+            "unable to answer from the description",
+            "",
+            "It does not appear to be the case. This seems like more experienced sky divers without being strapped."
+        ]
+    },
+    {
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
+        "context": "news",
+        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+        "question": "How was this picture taken?\n",
+        "answers": [
+            "This picture was taken by another astronaut or lunar rover.",
+            "i actually have no idea. however they take pictures in outer space?",
+            "The picture was taken from a distance inside the lunar module by another astronaut"
         ]
     }
 ]
