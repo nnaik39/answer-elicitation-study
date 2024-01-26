@@ -71,8 +71,6 @@ print("Number of questions not fully covered yet: ", len(questions_not_covered))
 print("Number of questions fully covered: ", len(questions_covered))
 print("Number of images not fully covered: ", len(list(set(images_not_covered))))
 
-print("Images not covered ", list(set(images_not_covered)))
-
 shuffle(questions_covered)
 shuffle(questions_not_covered)
 
