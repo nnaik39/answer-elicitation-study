@@ -49,22 +49,29 @@ questions_not_covered = []
 
 questions_covered = []
 
+images_not_covered = []
+
 for question in all_questions['images']:
     # Check first if the description is correct here!!
-    
+
     if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
         num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
         questions_not_covered.append(question)
+        images_not_covered.append(question['filename'])
         continue 
 
     if (num_answers < 3):
         questions_not_covered.append(question)
+        images_not_covered.append(question['filename'])
     else:
         questions_covered.append(question)
 
 print("Number of questions not fully covered yet: ", len(questions_not_covered))
 print("Number of questions fully covered: ", len(questions_covered))
+print("Number of images not fully covered: ", len(list(set(images_not_covered))))
+
+print("Images not covered ", list(set(images_not_covered)))
 
 shuffle(questions_covered)
 shuffle(questions_not_covered)
