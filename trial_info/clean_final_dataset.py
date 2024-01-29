@@ -39,8 +39,9 @@ for i in full_answer_list:
     num_unanswerable_votes = 0
 
     for answer in i['answers']:
-        # Note: Sometimes the checkbox was true but the answer was still entered here...
-        if (answer == '' or i['checkbox'] == True):
+        # Problem: Sometimes the checkbox was true for unanswerable but the answer was still entered here...
+        # TODO: Let me fix this!!
+        if (answer == ''):
             num_unanswerable_votes += 1
 
     if (num_unanswerable_votes >= 2):
