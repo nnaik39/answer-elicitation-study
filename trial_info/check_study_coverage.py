@@ -53,7 +53,6 @@ images_not_covered = []
 
 for question in all_questions['images']:
     # Check first if the description is correct here!!
-
     if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
         num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
