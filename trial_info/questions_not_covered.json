@@ -1,33 +1,15 @@
 [
     {
-        "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
-        "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
-        "category": "shopping",
-        "question": "How many workers are there shown?"
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "How well does this work? "
-    },
-    {
-        "filename": "images/Hemp_Oregon_State.jpeg",
-        "category": "health",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "its it just one plant"
+        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
+        "category": "news",
+        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+        "question": "Is the place related to the news?"
     },
     {
         "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
         "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "category": "science_journals",
-        "question": "Is that not enough detail?"
-    },
-    {
-        "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-        "description": "A blonde, white singer performs on stage in a black skirt, black leather jacket, and black thigh-high stockings, holding a microphone. Her shirt is bedazzled and she's in the middle of a song..\n",
-        "category": "social_media",
-        "question": "Is this an ad?"
+        "category": "news",
+        "question": "Is this image part of an ad?"
     },
     {
         "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
@@ -36,58 +18,16 @@
         "question": "What lab are they in?"
     },
     {
-        "filename": "images/15718.jpg",
+        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
         "category": "science_journals",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "what classifies it as classic architecture?"
+        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+        "question": "How well does this work? "
     },
     {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
+        "filename": "images/Natural_foodstuff_004.jpeg",
+        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
         "category": "health",
-        "question": "Why is this served with chili peppers"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "What time of day is the photo taken?"
-    },
-    {
-        "filename": "images/500px-Backzutaten_041.jpeg",
-        "category": "health",
-        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-        "question": "How many ingredients are in it?"
-    },
-    {
-        "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-        "category": "social_media",
-        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
-        "question": "How many dishes are in the image?"
-    },
-    {
-        "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
-        "category": "travel",
-        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
-        "question": "What colors are the lights?"
-    },
-    {
-        "filename": "images/15719.jpg",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-        "category": "science_journals",
-        "question": "What materials are used in this construction?"
-    },
-    {
-        "filename": "images/250px-Raphanus_sativus.jpeg",
-        "category": "shopping",
-        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
-        "question": "What kind of radishes are these?"
-    },
-    {
-        "filename": "images/400px-Norman_Borlaug.jpeg",
-        "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
-        "category": "health",
-        "question": "how is this helping me live a better life"
+        "question": "What kind of plant is behind the fruits? "
     },
     {
         "filename": "images/Apollo_17_AS17-140-21497.jpeg",
@@ -96,70 +36,28 @@
         "question": "Do you think that astronaut is afraid of running out of air?"
     },
     {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
+        "filename": "images/15719.jpg",
+        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
         "category": "science_journals",
-        "question": "Is this a real image or generated by AI? "
+        "question": "What materials are used in this construction?"
     },
     {
-        "filename": "images/Drug_ampoule_JPN.jpeg",
-        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-        "category": "news",
-        "question": "How is it relevant to me"
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "travel",
-        "question": "how tall is the ceiling?"
-    },
-    {
-        "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
-        "category": "social_media",
-        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
-        "question": "Where did it come from?"
-    },
-    {
-        "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
-        "category": "science_journals",
-        "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
-        "question": "What is the procedure called?"
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "What planets or things you can see? "
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+        "filename": "images/Ipomoea_stir_fry.jpeg",
+        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
         "category": "health",
-        "question": "What equipment is the scientist using?"
+        "question": "Why is this served with chili peppers"
     },
     {
-        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-        "category": "news",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "What is the weather like in the picture?"
-    },
-    {
-        "filename": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
-        "category": "shopping",
-        "description": "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
-        "question": "what does she look like (hair, etc) "
-    },
-    {
-        "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
+        "filename": "images/440px-Protein_shake.jpg",
+        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
         "category": "health",
-        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
-        "question": "What kind of sauce is on the veggie burger?"
+        "question": "What flavor is the protein shake or at least the color?"
     },
     {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "science_journals",
-        "question": "What lab equipment is he/she using?"
+        "filename": "images/500px-Backzutaten_041.jpeg",
+        "category": "health",
+        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+        "question": "How many ingredients are in it?"
     },
     {
         "filename": "images/Carolina_Herrera_AW14_12.jpeg",
@@ -170,26 +68,32 @@
     {
         "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
         "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "social_media",
-        "question": "how beautiful it is"
-    },
-    {
-        "filename": "images/Hemp_Oregon_State.jpeg",
-        "category": "science_journals",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "a description of the colors of the hemp plant"
-    },
-    {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
         "category": "travel",
-        "question": "what types of trees and other plants are in the image"
+        "question": "how tall is the ceiling?"
     },
     {
-        "filename": "images/15719.jpg",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+        "category": "health",
+        "question": "What equipment is the scientist using?"
+    },
+    {
+        "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
         "category": "science_journals",
-        "question": "Where is this located?"
+        "question": "Is that not enough detail?"
+    },
+    {
+        "filename": "images/Drug_ampoule_JPN.jpeg",
+        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
+        "category": "news",
+        "question": "How is it relevant to me"
+    },
+    {
+        "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+        "category": "social_media",
+        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+        "question": "How many dishes are in the image?"
     },
     {
         "filename": "images/440px-Telescope_Kepler-NASA.jpg",
@@ -198,75 +102,27 @@
         "question": "What does the space telescope look like?"
     },
     {
-        "filename": "images/Natural_foodstuff_004.jpeg",
-        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
+        "filename": "images/Hemp_Oregon_State.jpeg",
         "category": "health",
-        "question": "What kind of plant is behind the fruits? "
+        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
+        "question": "its it just one plant"
     },
     {
-        "filename": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
-        "category": "social_media",
-        "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
-        "question": "What is the name of the website?"
-    },
-    {
-        "filename": "images/MICHAEL_KORS_221.jpeg",
-        "category": "shopping",
-        "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
-        "question": "How long is the gown?"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-        "category": "social_media",
-        "question": "Is the image from a restaurant?"
-    },
-    {
-        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-        "category": "news",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "Is the place related to the news?"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "Where are the park and red bridge in terms of the housing? Is the red bridge in the middle? Is the park to the right? "
-    },
-    {
-        "filename": "images/440px-Giant_Panda_Eating.jpg",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
+        "filename": "images/15722.jpg",
+        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
         "category": "travel",
-        "question": "Is the panda sitting in an enclosure in a zoo or is it in the wild?"
+        "question": "what types of trees and other plants are in the image"
     },
     {
-        "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "category": "news",
-        "question": "Is this image part of an ad?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
-        "category": "health",
-        "question": "What flavor is the protein shake or at least the color?"
-    },
-    {
-        "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
-        "description": "A row of models in various dresses are lined up on a modeling runway.\n",
-        "category": "news",
-        "question": "What is this news story about?"
-    },
-    {
-        "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
-        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
-        "category": "shopping",
-        "question": "Are they flying above a specific location"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+        "filename": "images/Hemp_Oregon_State.jpeg",
         "category": "science_journals",
-        "question": "Is this a big city like San Francisco? "
+        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
+        "question": "a description of the colors of the hemp plant"
+    },
+    {
+        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
+        "category": "science_journals",
+        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+        "question": "What planets or things you can see? "
     }
 ]
