@@ -1,34 +1,22 @@
 var main_trials = {
     "images": [
         {
-            "filename": "images/New_york_times_square-terabass_(cropped).jpg",
+            "filename": "images/Drug_ampoule_JPN.jpeg",
+            "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
             "category": "news",
-            "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-            "question": "Is the place related to the news?"
-        },
-        {
-            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-            "category": "news",
-            "question": "Is this image part of an ad?"
-        },
-        {
-            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-            "category": "health",
-            "question": "What lab are they in?"
+            "question": "How is it relevant to me"
         },
         {
             "filename": "images/440px-Telescope_Kepler-NASA.jpg",
             "category": "science_journals",
             "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "How well does this work? "
+            "question": "What does the space telescope look like?"
         },
         {
-            "filename": "images/Natural_foodstuff_004.jpeg",
-            "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
             "category": "health",
-            "question": "What kind of plant is behind the fruits? "
+            "question": "What equipment is the scientist using?"
         },
         {
             "filename": "images/Apollo_17_AS17-140-21497.jpeg",
@@ -37,28 +25,22 @@ var main_trials = {
             "question": "Do you think that astronaut is afraid of running out of air?"
         },
         {
-            "filename": "images/15719.jpg",
-            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
             "category": "science_journals",
-            "question": "What materials are used in this construction?"
+            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+            "question": "How well does this work? "
         },
         {
-            "filename": "images/Ipomoea_stir_fry.jpeg",
-            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-            "category": "health",
-            "question": "Why is this served with chili peppers"
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
+            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
+            "category": "science_journals",
+            "question": "Is that not enough detail?"
         },
         {
-            "filename": "images/440px-Protein_shake.jpg",
-            "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
             "category": "health",
-            "question": "What flavor is the protein shake or at least the color?"
-        },
-        {
-            "filename": "images/500px-Backzutaten_041.jpeg",
-            "category": "health",
-            "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-            "question": "How many ingredients are in it?"
+            "question": "What lab are they in?"
         },
         {
             "filename": "images/Carolina_Herrera_AW14_12.jpeg",
@@ -73,58 +55,10 @@ var main_trials = {
             "question": "how tall is the ceiling?"
         },
         {
-            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-            "category": "health",
-            "question": "What equipment is the scientist using?"
-        },
-        {
-            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-            "category": "science_journals",
-            "question": "Is that not enough detail?"
-        },
-        {
-            "filename": "images/Drug_ampoule_JPN.jpeg",
-            "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-            "category": "news",
-            "question": "How is it relevant to me"
-        },
-        {
             "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
             "category": "social_media",
             "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
             "question": "How many dishes are in the image?"
-        },
-        {
-            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-            "category": "science_journals",
-            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "What does the space telescope look like?"
-        },
-        {
-            "filename": "images/Hemp_Oregon_State.jpeg",
-            "category": "health",
-            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-            "question": "its it just one plant"
-        },
-        {
-            "filename": "images/15722.jpg",
-            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-            "category": "travel",
-            "question": "what types of trees and other plants are in the image"
-        },
-        {
-            "filename": "images/Hemp_Oregon_State.jpeg",
-            "category": "science_journals",
-            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-            "question": "a description of the colors of the hemp plant"
-        },
-        {
-            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-            "category": "science_journals",
-            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "What planets or things you can see? "
         }
     ]
 }

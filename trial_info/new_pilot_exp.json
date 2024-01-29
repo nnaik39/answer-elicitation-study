@@ -1,28 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-            "category": "travel",
-            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-            "question": "how tall is the ceiling?"
-        },
-        {
-            "filename": "images/15719.jpg",
-            "category": "science_journals",
-            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-            "question": "What materials are used in this construction?"
-        },
-        {
             "filename": "images/Apollo_17_AS17-140-21497.jpeg",
             "category": "science_journals",
             "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
             "question": "Do you think that astronaut is afraid of running out of air?"
-        },
-        {
-            "filename": "images/Hemp_Oregon_State.jpeg",
-            "category": "science_journals",
-            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-            "question": "a description of the colors of the hemp plant"
         },
         {
             "filename": "images/440px-Telescope_Kepler-NASA.jpg",
@@ -40,115 +22,25 @@
             "filename": "images/440px-Telescope_Kepler-NASA.jpg",
             "category": "science_journals",
             "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "What planets or things you can see? "
+            "question": "How well does this work? "
         },
         {
-            "filename": "images/15722.jpg",
-            "category": "travel",
-            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-            "question": "what types of trees and other plants are in the image"
-        },
-        {
-            "filename": "images/Ipomoea_stir_fry.jpeg",
-            "category": "health",
-            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-            "question": "Why is this served with chili peppers"
-        },
-        {
-            "filename": "images/Natural_foodstuff_004.jpeg",
-            "category": "health",
-            "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
-            "question": "What kind of plant is behind the fruits? "
-        },
-        {
-            "filename": "images/Hemp_Oregon_State.jpeg",
-            "category": "health",
-            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-            "question": "its it just one plant"
-        },
-        {
-            "filename": "images/440px-Protein_shake.jpg",
-            "category": "health",
-            "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
-            "question": "What flavor is the protein shake or at least the color?"
-        },
-        {
-            "filename": "images/440px-Protein_shake.jpg",
-            "category": "shopping",
-            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-            "question": "is it good?"
-        },
-        {
-            "filename": "images/440px-Protein_shake.jpg",
-            "category": "shopping",
-            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-            "question": "what color is the protein powder"
-        },
-        {
-            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-            "category": "social_media",
-            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-            "question": "What color is Katy Perry's hair?  What colors are used for her outfit?  "
-        },
-        {
-            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-            "category": "science_journals",
-            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-            "question": "How large is the crystal ball?"
-        },
-        {
-            "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-            "category": "social_media",
-            "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
-            "question": "How many dishes are in the image?"
-        },
-        {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-            "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "what race is the man"
-        },
-        {
-            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "filename": "images/Drug_ampoule_JPN.jpeg",
             "category": "news",
-            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-            "question": "Are there any stars in the sky?  "
+            "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
+            "question": "How is it relevant to me"
         },
         {
-            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
             "category": "health",
-            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-            "question": "Is the man practicing yoga at home, or in a yoga studio?  "
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+            "question": "What lab are they in?"
         },
         {
-            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-            "category": "social_media",
-            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-            "question": "Is this image from a music video, a live performance, or something else?  "
-        },
-        {
-            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
             "category": "science_journals",
-            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-            "question": "What color is the crystal ball?"
-        },
-        {
-            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-            "category": "social_media",
-            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-            "question": "What kind of stage is she performing on?"
-        },
-        {
-            "filename": "images/Ipomoea_stir_fry.jpeg",
-            "category": "social_media",
-            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
-            "question": "how big is the plate"
-        },
-        {
-            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-            "category": "science_journals",
-            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-            "question": "What does this have to do with science?"
+            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
+            "question": "Is that not enough detail?"
         }
     ]
 }
