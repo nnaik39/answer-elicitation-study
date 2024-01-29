@@ -1,946 +1,520 @@
-var main_trials = 
-{
-    "images":  [
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "health",
-        "question": "What equipment is the scientist using?"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "What time of day is the photo taken?"
-    },
-    {
-        "filename": "images/510px-Spaltlampe-2.jpeg",
-        "category": "social_media",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "What brand is the lamp?"
-    },
-    {
-        "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
-        "category": "social_media",
-        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
-        "question": "Where did it come from?"
-    },
-    {
-        "filename": "images/440px-Giant_Panda_Eating.jpg",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
-        "category": "travel",
-        "question": "Is this a young panda or a fully grown panda?"
-    },
-    {
-        "filename": "images/440px-Giant_Panda_Eating.jpg",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
-        "category": "travel",
-        "question": "Is the panda sitting in an enclosure in a zoo or is it in the wild?"
-    },
-    {
-        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-        "category": "news",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "What is the weather like in the picture?"
-    },
-    {
-        "filename": "images/15718.jpg",
-        "category": "science_journals",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "what classifies it as classic architecture?"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "Is this a big city like San Francisco? "
-    },
-    {
-        "filename": "images/Nilgiri_Mountain_Train.jpeg",
-        "description": "A steam train snakes through lush greenery on a copper-colored bridge, with passengers enjoying the view from open windows.\n",
-        "category": "travel",
-        "question": "Is it a day trip or a longer voyage"
-    },
-    {
-        "filename": "images/Drug_ampoule_JPN.jpeg",
-        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-        "category": "science_journals",
-        "question": "What are ampoules?"
-    },
-    {
-        "filename": "images/Fruit_Stall_in_Barcelona_Market.jpeg",
-        "description": "A colorful street fruit market with bananas, mangoes, oranges, and other fruits on display. A woman carefully selecting fruit. \n",
-        "category": "shopping",
-        "question": "What is the criteria for her selection?"
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "science_journals",
-        "question": "just one person or many"
-    },
-    {
-        "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
-        "description": "A row of models in various dresses are lined up on a modeling runway.\n",
-        "category": "news",
-        "question": "What is this news story about?"
-    },
-    {
-        "filename": "images/Nilgiri_Mountain_Train.jpeg",
-        "description": "A steam train snakes through lush greenery on a copper-colored bridge, with passengers enjoying the view from open windows.\n",
-        "category": "social_media",
-        "question": "how does this have anything to do with learning more about my connections?"
-    },
-    {
-        "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
-        "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
-        "category": "news",
-        "question": "What is the company that the warehouse belongs to?"
-    },
-    {
-        "filename": "images/15719.jpg",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-        "category": "science_journals",
-        "question": "Where is this located?"
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "What planets or things you can see? "
-    },
-    {
-        "filename": "images/250px-Raphanus_sativus.jpeg",
-        "category": "shopping",
-        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
-        "question": "What kind of radishes are these?"
-    },
-    {
-        "filename": "images/Bebe_Rexha_-_Untold_2023_-_53113724212_(cropped).jpg",
-        "description": "A woman with medium-length, blonde, wavy hair, performs on stage wearing a sparkling, jeweled black bodysuit, which accentuates her figure and has a jeweled chocker-style collar.  Her hair waves in the breeze and she looks off into the distance.\n",
-        "category": "shopping",
-        "question": "Where is she performing? Indoors or outdoors?"
-    },
-    {
-        "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
-        "description": "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
-        "category": "travel",
-        "question": "Does this look like a favorable travel destination?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
-        "category": "health",
-        "question": "What flavor is the protein shake or at least the color?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "category": "health",
-        "question": "Are they using proper form?"
-    },
-    {
-        "filename": "images/Ludovic_and_Lauren_(8425515069).jpeg",
-        "description": "Two runners, a man and a woman, are smiling and jogging in a race, wearing numbered badges and athletic gear.\n",
-        "category": "shopping",
-        "question": "Are they advertising a specific product?"
-    },
-    {
-        "filename": "images/San_Francisco_Bay_Wheels.jpg",
-        "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background.\n",
-        "category": "health",
-        "question": "Are the bikes electric or old-fashioned?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
-        "category": "health",
-        "question": "how much does cost the product? Is that good?"
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "How well does this work? "
-    },
-    {
-        "filename": "images/250px-Raphanus_sativus.jpeg",
-        "category": "health",
-        "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
-        "question": "Why should radishes be included in a healthy lifestyle?"
-    },
-    {
-        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-        "category": "news",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "Is the place related to the news?"
-    },
-    {
-        "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-        "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
-        "category": "travel",
-        "question": "Is it possible to tell where they took the picture?"
-    },
-    {
-        "filename": "images/510px-Spaltlampe-2.jpeg",
-        "category": "health",
-        "description": "An optometrist is examining a patient's eyes using a slit lamp in a clinic.\n",
-        "question": "What are the races of the doctor and patient?"
-    },
-    {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-        "category": "travel",
-        "question": "What part of the world is is located in?"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-        "category": "health",
-        "question": "Why is this served with chili peppers"
-    },
-    {
-        "filename": "images/Drug_ampoule_JPN.jpeg",
-        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-        "category": "news",
-        "question": "what shape are they?"
-    },
-    {
-        "filename": "images/15718.jpg",
-        "category": "science_journals",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "Does the bath have windows?"
-    },
-    {
-        "filename": "images/500px-Backzutaten_041.jpeg",
-        "category": "health",
-        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-        "question": "How many ingredients are in it?"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "Does it look interesting?"
-    },
-    {
-        "filename": "images/500px-Soldier_running_in_water_original.jpeg",
-        "description": "A white, shirtless, in-shape man in swim trunks is running through water, creating splashes around him, with a focused expression.\n",
-        "category": "health",
-        "question": "Is the man in the image advertising a product?"
-    },
-    {
-        "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-        "category": "science_journals",
-        "question": "Do you think that astronaut is afraid of running out of air?"
-    },
-    {
-        "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
-        "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
-        "category": "shopping",
-        "question": "Are they flying above a specific location"
-    },
-    {
-        "filename": "images/Gigi_Hadid_2016.png",
-        "description": "A woman in a sparkling black sleeveless dress is walking on a runway with a soft smile.\n",
-        "category": "shopping",
-        "question": "Are there a lot of people watching her walk?"
-    },
-    {
-        "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
-        "description": "A French Bulldog dressed in a pink yoga outfit with a mat rolled up on its back. The dog is looking at the camera.\n",
-        "category": "shopping",
-        "question": "Does the dog appear to be crossbred with another breed?"
-    },
-    {
-        "filename": "images/MICHAEL_KORS_221.jpeg",
-        "category": "shopping",
-        "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
-        "question": "How long is the gown?"
-    },
-    {
-        "filename": "images/Ransom_Canyon_Texas_Vogue_Magazine_Photo_Shoot.jpeg",
-        "category": "social_media",
-        "description": "Two models in stylish black and white attire stand on a road with a backdrop of cacti and a body of water. Both models are white and have on narrow futuristic looking eyewear.\n",
-        "question": "What are the expressions on the models' faces?"
-    },
-    {
-        "filename": "images/Carolina_Herrera_AW14_12.jpeg",
-        "category": "shopping",
-        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
-        "question": "Is the image an ad for a brand?"
-    },
-    {
-        "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
-        "category": "travel",
-        "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
-        "question": "What colors are the lights?"
-    },
-    {
-        "filename": "images/Drug_ampoule_JPN.jpeg",
-        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-        "category": "news",
-        "question": "How is it relevant to me"
-    },
-    {
-        "filename": "images/400px-Norman_Borlaug.jpeg",
-        "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
-        "category": "health",
-        "question": "how is this helping me live a better life"
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "social_media",
-        "question": "any people around"
-    },
-    {
-        "filename": "images/Gordon_Ramsay_cooking_(262930612).jpeg",
-        "description": "Celebrity chef Gordon Ramsey cooking in an outdoor kitchen surrounded by an audience, with a woman assisting him.\n",
-        "category": "news",
-        "question": "What was Gordon Ramsey cooking?"
-    },
-    {
-        "filename": "images/623px-Stanford_University_Arches_with_Memorial_Church_in_the_background.jpg",
-        "description": "View from a shaded archway showing a detailed historic building framed by archways against a blue sky.\n",
-        "category": "science_journals",
-        "question": "How big is the building?"
-    },
-    {
-        "filename": "images/Nyle2.jpeg",
-        "description": "A shirtless man with a beard, wearing white pants, stands by a window holding a coffee cup while thinking, in a bright room that is lit by the sunlight through the floor-to-ceiling glass windows.\n",
-        "category": "shopping",
-        "question": "Is there anything visible through the windows?"
-    },
-    {
-        "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
-        "category": "health",
-        "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
-        "question": "What kind of sauce is on the veggie burger?"
-    },
-    {
-        "filename": "images/15719.jpg",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-        "category": "science_journals",
-        "question": "What materials are used in this construction?"
-    },
-    {
-        "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
-        "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
-        "category": "shopping",
-        "question": "How many workers are there shown?"
-    },
-    {
-        "filename": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
-        "category": "shopping",
-        "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
-        "question": "Is the knife part of the backpack?"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "Where are the park and red bridge in terms of the housing? Is the red bridge in the middle? Is the park to the right? "
-    },
-    {
-        "filename": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
-        "category": "social_media",
-        "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
-        "question": "What is the name of the website?"
-    },
-    {
-        "filename": "images/15692.jpg",
-        "description": "A modern bus terminal with a curved roof, sitting behind an empty bus lane, full of people under a cloudy sky.\n",
-        "category": "news",
-        "question": "What season is it?"
-    },
-    {
-        "filename": "images/Korea-Boseong-Green.tea-09.jpg",
-        "category": "health",
-        "description": "Lush green tea fields roll over hills under a sunlight-dappled tree in Boseong, Korea.\n",
-        "question": "What type of tree is it"
-    },
-    {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-        "category": "science_journals",
-        "question": "Is this a real image or generated by AI? "
-    },
-    {
-        "filename": "images/Dan_+_Shay_in_2017.jpeg",
-        "category": "news",
-        "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
-        "question": "About how old are the musicians?"
-    },
-    {
-        "filename": "images/Carolina_Herrera_AW14_12.jpeg",
-        "category": "news",
-        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
-        "question": "What kind of clothes are the models wearing?"
-    },
-    {
-        "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-        "category": "social_media",
-        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
-        "question": "How many dishes are in the image?"
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "health",
-        "question": "Is it day or night?"
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "travel",
-        "question": "how tall is the ceiling?"
-    },
-    {
-        "filename": "images/San_Francisco_Bay_Wheels.jpg",
-        "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background.\n",
-        "category": "health",
-        "question": "What kinds of bikes are they?"
-    },
-    {
-        "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "category": "news",
-        "question": "Is this image part of an ad?"
-    },
-    {
-        "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "category": "science_journals",
-        "question": "Is that not enough detail?"
-    },
-    {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-        "category": "travel",
-        "question": "what types of trees and other plants are in the image"
-    },
-    {
-        "filename": "images/Aerial_view_-_Presidio-whole.jpg",
-        "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
-        "category": "science_journals",
-        "question": "How affordable is the housing in this area?"
-    },
-    {
-        "filename": "images/440px-Giant_Panda_Eating.jpg",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
-        "category": "science_journals",
-        "question": "Is this is a zoo or in a natural habitat"
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "science_journals",
-        "question": "What is the gender of the scientist?"
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "science_journals",
-        "question": "What lab equipment is he/she using?"
-    },
-    {
-        "filename": "images/Natural_foodstuff_004.jpeg",
-        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
-        "category": "health",
-        "question": "What kind of plant is behind the fruits? "
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "category": "health",
-        "question": "What kind of room is he in?"
-    },
-    {
-        "filename": "images/15722.jpg",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-        "category": "travel",
-        "question": "Is it handicapped accessible?"
-    },
-    {
-        "filename": "images/Natural_foodstuff_004.jpeg",
-        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
-        "category": "shopping",
-        "question": "Do they look real?"
-    },
-    {
-        "filename": "images/Carolina_Herrera_AW14_12.jpeg",
-        "category": "shopping",
-        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
-        "question": "What color of dress does the first model have on?"
-    },
-    {
-        "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
-        "category": "science_journals",
-        "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
-        "question": "Is the patient awake or passed out?"
-    },
-    {
-        "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
-        "category": "shopping",
-        "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
-        "question": "What kind of shoes is she wearing?"
-    },
-    {
-        "filename": "images/15718.jpg",
-        "category": "travel",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "How much of the structures remain?"
-    },
-    {
-        "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-        "category": "news",
-        "question": "How is the astronaut investigating the rock?"
-    },
-    {
-        "filename": "images/New_york_times_square-terabass_(cropped).jpg",
-        "category": "travel",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "What decade does it appear to be, judging by clothing and vehicles?"
-    },
-    {
-        "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
-        "category": "health",
-        "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
-        "question": "what kind of procedure are they performing"
-    },
-    {
-        "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "category": "health",
-        "question": "What lab are they in?"
-    },
-    {
-        "filename": "images/951_Gaspra.jpg",
-        "category": "news",
-        "description": "An image of a rocky, irregular-shaped asteroid with craters against a black backdrop.\n",
-        "question": "Is there an upcoming astronomical event?"
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "travel",
-        "question": "Does it seem like a place that is realistic?"
-    },
-    {
-        "filename": "images/Sergey_Brin_Ted_2010.jpg",
-        "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
-        "category": "news",
-        "question": "Where is he?"
-    },
-    {
-        "filename": "images/15718.jpg",
-        "category": "travel",
-        "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
-        "question": "Is it indoors or outdoors?"
-    },
-    {
-        "filename": "images/Hemp_Oregon_State.jpeg",
-        "category": "health",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "its it just one plant"
-    },
-    {
-        "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "category": "social_media",
-        "question": "how beautiful it is"
-    },
-    {
-        "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
-        "category": "science_journals",
-        "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
-        "question": "What is the procedure called?"
-    },
-    {
-        "filename": "images/440px-Giant_Panda_Eating.jpg",
-        "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
-        "category": "science_journals",
-        "question": "What is the scientific development that has to do with a panda"
-    },
-    {
-        "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
-        "description": "A blonde, white singer performs on stage in a black skirt, black leather jacket, and black thigh-high stockings, holding a microphone. Her shirt is bedazzled and she's in the middle of a song..\n",
-        "category": "social_media",
-        "question": "Is this an ad?"
-    },
-    {
-        "filename": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
-        "category": "shopping",
-        "description": "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
-        "question": "what does she look like (hair, etc) "
-    },
-    {
-        "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
-        "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
-        "category": "shopping",
-        "question": "Are the Skydivers part of an advertisement?"
-    },
-    {
-        "filename": "images/San_Francisco_Bay_Wheels.jpg",
-        "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background.\n",
-        "category": "travel",
-        "question": "From the architecture, where is the street most likely located? "
-    },
-    {
-        "filename": "images/440px-Los_Altos_Main_Street_2.jpeg",
-        "category": "news",
-        "description": "A busy street scene with parked cars, pedestrians walking across the street, and a banner for 'Los Altos Community Picnic'.\n",
-        "question": "Is there something being reported about the Los Altos Community Picnic?"
-    },
-    {
-        "filename": "images/Nilgiri_Mountain_Train.jpeg",
-        "description": "A steam train snakes through lush greenery on a copper-colored bridge, with passengers enjoying the view from open windows.\n",
-        "category": "social_media",
-        "question": "Where is this greenery that the steam train snakes through?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "category": "health",
-        "question": "Is this a vegan website?"
-    },
-    {
-        "filename": "images/Hemp_Oregon_State.jpeg",
-        "category": "science_journals",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "a description of the colors of the hemp plant"
-    },
-    {
-        "filename": "images/470px-Uggs2.jpeg",
-        "category": "shopping",
-        "description": "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
-        "question": "Is it light or dark brown?"
-    },
-    {
-        "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-        "category": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "What does the space telescope look like?"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-        "category": "social_media",
-        "question": "Is the image from a restaurant?"
-    },
-    {
-        "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
-        "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
-        "category": "science_journals",
-        "question": "What brand is the magazine apart of?"
-    },
-    {
-        "filename": "images/P-51_Mustang_edit1.jpeg",
-        "category": "social_media",
-        "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
-        "question": "Where was it taken"
-    },
-    {
-        "filename": "images/Dan_+_Shay_in_2017.jpeg",
-        "category": "social_media",
-        "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
-        "question": "Are the musicians recognizable?"
-    },
-    {
-        "filename": "images/500px-Backzutaten_041.jpeg",
-        "category": "health",
-        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-        "question": "What would you bake it in?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "What part of the world does the image appear to be from?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Is the aerial view from directly above, or from an angle?  "
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Are there people in the image--if so, how many?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "What kind of plants are in the image?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "Is it safe?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "whats the address?"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "How big is the park"
-    },
-    {
-        "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
-        "category": "travel",
-        "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
-        "question": "How many boats are there"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "What color is the yoga mat?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Is the man practicing yoga at home, or in a yoga studio?  "
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "What kind of things are in the room, e.g. furniture, etc.?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "Is the room brightly lit or can you tell that it's daytime?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "what does this benefit?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "where is he doing yoga?"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "what race is the man"
-    },
-    {
-        "filename": "images/220px-Ado-muka-shvanasana.jpeg",
-        "category": "health",
-        "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
-        "question": "what kind of outfit is he wearing"
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Is the image taken with a telescope, or is it a 3D render?"
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there any stars in the sky?  "
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Is the image clear?"
-    },
-    {
-        "filename": "images/Solar_eclipse_1999_4.jpeg",
-        "category": "news",
-        "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
-        "question": "Are there clouds in the sky?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "How large is the crystal ball?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "Is the crystal ball smooth and round, or is it polygonal?  "
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "How large is the crystal ball compared to its surroundings?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "What color is the crystal ball?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "Whats the reason for this?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "What does this have to do with science?"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "what color is the crystal ball"
-    },
-    {
-        "filename": "images/Bellagio_garden_crystal_ball.jpeg",
-        "category": "science_journals",
-        "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
-        "question": "what color is the fence "
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "What is the brand of protein powder?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "How many ounces is the tall glass of protein shake?  "
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "What color is the protein shake?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "What color is the protein powder?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "is it good?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "What are the ingredients?"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "what color is the shaker bottle"
-    },
-    {
-        "filename": "images/440px-Protein_shake.jpg",
-        "category": "shopping",
-        "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
-        "question": "what color is the protein powder"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "category": "social_media",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
-        "question": "How do you make it?"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "category": "social_media",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
-        "question": "Is it healthy?"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "category": "social_media",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
-        "question": "What kinds of vegetables are on the plate"
-    },
-    {
-        "filename": "images/Ipomoea_stir_fry.jpeg",
-        "category": "social_media",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
-        "question": "how big is the plate"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "social_media",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "What color is Katy Perry's hair?  What colors are used for her outfit?  "
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "social_media",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "Is this image from a music video, a live performance, or something else?  "
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "social_media",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "What kind of stage is she performing on?"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "social_media",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "How does the audience look if the camera shows it?"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "news",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "where was she?"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "news",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "what color was the cape?"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "news",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "What color(s) are her hair"
-    },
-    {
-        "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
-        "category": "news",
-        "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
-        "question": "What color(s) are her dress"
-    }
-]}
+var main_trials = {
+    "images": [
+        {
+            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+            "category": "travel",
+            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
+            "question": "how tall is the ceiling?"
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "health",
+            "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+            "question": "how much does cost the product? Is that good?"
+        },
+        {
+            "filename": "images/15718.jpg",
+            "category": "science_journals",
+            "description": "Ancient Roman baths with columns and statues, a green pool, surrounded by classical architecture.\n",
+            "question": "what classifies it as classic architecture?"
+        },
+        {
+            "filename": "images/CH.VD.Bex_2007-09-02_Airshow_396_16x9-R_5120x2880_(cropped).jpg",
+            "category": "shopping",
+            "description": "Three skydivers are connected in the air, forming a stacked formation with blue parachutes against a clear sky.\n",
+            "question": "Are they flying above a specific location"
+        },
+        {
+            "filename": "images/Drug_ampoule_JPN.jpeg",
+            "category": "science_journals",
+            "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
+            "question": "What are ampoules?"
+        },
+        {
+            "filename": "images/US_Navy_030124-N-1328C-510_Navy_dentist_treats_patients_aboard_ship.jpeg",
+            "category": "science_journals",
+            "description": "A dentist and assistant are performing a procedure on a patient in a dental clinic.\n",
+            "question": "What is the procedure called?"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A man in all white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "What kind of room is he in?"
+        },
+        {
+            "filename": "images/360px-MeghanTrainor_jingle_ball_tour.jpeg",
+            "category": "social_media",
+            "description": "A blonde, white singer performs on stage in a black skirt, black leather jacket, and black thigh-high stockings, holding a microphone. Her shirt is bedazzled and she's in the middle of a song..\n",
+            "question": "Is this an ad?"
+        },
+        {
+            "filename": "images/Gordon_Ramsay_cooking_(262930612).jpeg",
+            "category": "news",
+            "description": "Celebrity chef Gordon Ramsey cooking in an outdoor kitchen surrounded by an audience, with a woman assisting him.\n",
+            "question": "What was Gordon Ramsey cooking?"
+        },
+        {
+            "filename": "images/Nilgiri_Mountain_Train.jpeg",
+            "category": "social_media",
+            "description": "A steam train snakes through lush greenery on a copper-colored bridge, with passengers enjoying the view from open windows.\n",
+            "question": "how does this have anything to do with learning more about my connections?"
+        },
+        {
+            "filename": "images/San_Francisco_Bay_Wheels.jpg",
+            "category": "health",
+            "description": "A row of rental bikes lined up on a city street with buildings and clear skies in the background.\n",
+            "question": "Are the bikes electric or old-fashioned?"
+        },
+        {
+            "filename": "images/15719.jpg",
+            "category": "science_journals",
+            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "question": "What materials are used in this construction?"
+        },
+        {
+            "filename": "images/Apollo_17_AS17-140-21497.jpeg",
+            "category": "science_journals",
+            "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+            "question": "Do you think that astronaut is afraid of running out of air?"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "category": "social_media",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
+            "question": "Is the image from a restaurant?"
+        },
+        {
+            "filename": "images/440px-Uber_ride_Bogota_(10277864666).jpeg",
+            "category": "social_media",
+            "description": "A person is driving a car with a smartphone mounted on the dashboard, possibly for navigation or ride-sharing.\n",
+            "question": "What is the name of the website?"
+        },
+        {
+            "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
+            "category": "social_media",
+            "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
+            "question": "Where did it come from?"
+        },
+        {
+            "filename": "images/Cable_Car_No._1_and_Alcatraz_Island.jpg",
+            "category": "travel",
+            "description": "A cable car in San Francisco with Alcatraz Island in the background on a clear day.\n",
+            "question": "Does this look like a favorable travel destination?"
+        },
+        {
+            "filename": "images/Hemp_Oregon_State.jpeg",
+            "category": "science_journals",
+            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
+            "question": "a description of the colors of the hemp plant"
+        },
+        {
+            "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
+            "category": "shopping",
+            "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
+            "question": "How many workers are there shown?"
+        },
+        {
+            "filename": "images/New_york_times_square-terabass_(cropped).jpg",
+            "category": "news",
+            "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
+            "question": "What is the weather like in the picture?"
+        },
+        {
+            "filename": "images/Michael_Kors_Spring-Summer_2014_60.jpeg",
+            "category": "news",
+            "description": "A row of models in various dresses are lined up on a modeling runway.\n",
+            "question": "What is this news story about?"
+        },
+        {
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "category": "science_journals",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+            "question": "What is the gender of the scientist?"
+        },
+        {
+            "filename": "images/Sergey_Brin_Ted_2010.jpg",
+            "category": "news",
+            "description": "A man with curly hair, wearing a microphone headset, smiles and looks to the side against a blurred background.\n",
+            "question": "Where is he?"
+        },
+        {
+            "filename": "images/Backpack_mounted_knife_D.D._Teoli_Jr.jpg",
+            "category": "shopping",
+            "description": "A black backpack with mounted knife on the strap and 'The North Face' logo visible.\n",
+            "question": "Is the knife part of the backpack?"
+        },
+        {
+            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
+            "category": "science_journals",
+            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+            "question": "What does the space telescope look like?"
+        },
+        {
+            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+            "category": "social_media",
+            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
+            "question": "how beautiful it is"
+        },
+        {
+            "filename": "images/15719.jpg",
+            "category": "science_journals",
+            "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
+            "question": "Where is this located?"
+        },
+        {
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "category": "science_journals",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+            "question": "What lab equipment is he/she using?"
+        },
+        {
+            "filename": "images/440px-Lazada_Laguna_warehouse.jpeg",
+            "category": "news",
+            "description": "An expansive warehouse with numerous workers at stations and aisles filled with packages and goods.\n",
+            "question": "What is the company that the warehouse belongs to?"
+        },
+        {
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "category": "health",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+            "question": "What equipment is the scientist using?"
+        },
+        {
+            "filename": "images/Leila_Goldkuhl_Chloe.jpeg",
+            "category": "shopping",
+            "description": "A woman in a casual outfit with a black cap, graphic tee, and light blue jeans walks on a city street.\n",
+            "question": "What kind of shoes is she wearing?"
+        },
+        {
+            "filename": "images/Dan_+_Shay_in_2017.jpeg",
+            "category": "news",
+            "description": "Two musicians are performing on stage, one singing into a microphone and the other playing guitar, with colorful stage lighting, including red and yellow.\n",
+            "question": "About how old are the musicians?"
+        },
+        {
+            "filename": "images/500px-Diane_von_Furstenberg_Spring-Summer_2014_06.jpeg",
+            "category": "shopping",
+            "description": "A model walks down a runway in a simple white dress with red straps, against a reflective floor and audience on both sides.\n",
+            "question": "what does she look like (hair, etc) "
+        },
+        {
+            "filename": "images/MICHAEL_KORS_221.jpeg",
+            "category": "shopping",
+            "description": "A model in a shimmering gold gown walks the runway, with seated spectators and note-takers in the background.\n",
+            "question": "How long is the gown?"
+        },
+        {
+            "filename": "images/470px-Uggs2.jpeg",
+            "category": "shopping",
+            "description": "A pair of brown, plush-lined boots is shown from the calf down on a gravelly surface.\n",
+            "question": "Is it light or dark brown?"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+            "question": "Where are the park and red bridge in terms of the housing? Is the red bridge in the middle? Is the park to the right? "
+        },
+        {
+            "filename": "images/400px-Norman_Borlaug.jpeg",
+            "category": "health",
+            "description": "An elderly man stands at a podium labeled 'Agricultural Science and Technology,' giving a speech.\n",
+            "question": "how is this helping me live a better life"
+        },
+        {
+            "filename": "images/P-51_Mustang_edit1.jpeg",
+            "category": "social_media",
+            "description": "A P-51 Mustang aircraft in flight, captured from above with a landscape of water and land below.\n",
+            "question": "Where was it taken"
+        },
+        {
+            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
+            "category": "science_journals",
+            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+            "question": "What planets or things you can see? "
+        },
+        {
+            "filename": "images/250px-Raphanus_sativus.jpeg",
+            "category": "shopping",
+            "description": "A bunch of fresh red radishes with green leaves and white roots.\n",
+            "question": "What kind of radishes are these?"
+        },
+        {
+            "filename": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+            "category": "travel",
+            "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
+            "question": "Does it seem like a place that is realistic?"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+            "question": "Is this a big city like San Francisco? "
+        },
+        {
+            "filename": "images/440px-Giant_Panda_Eating.jpg",
+            "category": "travel",
+            "description": "A giant panda is sitting and happily munching on bamboo leaves. You can see his teeth and he enjoys his snack.\n",
+            "question": "Is the panda sitting in an enclosure in a zoo or is it in the wild?"
+        },
+        {
+            "filename": "images/15722.jpg",
+            "category": "travel",
+            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
+            "question": "what types of trees and other plants are in the image"
+        },
+        {
+            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
+            "category": "science_journals",
+            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+            "question": "just one person or many"
+        },
+        {
+            "filename": "images/Skydiving_from_a_Ukraine_Air_Force_Ilyushin_Il-76MD.jpeg",
+            "category": "shopping",
+            "description": "A group of skydivers in colorful gear is about to jump from an open cargo bay of a flying airplane.\n",
+            "question": "Are the Skydivers part of an advertisement?"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "category": "health",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
+            "question": "Why is this served with chili peppers"
+        },
+        {
+            "filename": "images/15722.jpg",
+            "category": "science_journals",
+            "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
+            "question": "Is this a real image or generated by AI? "
+        },
+        {
+            "filename": "images/15692.jpg",
+            "category": "news",
+            "description": "A modern bus terminal with a curved roof, sitting behind an empty bus lane, full of people under a cloudy sky.\n",
+            "question": "What season is it?"
+        },
+        {
+            "filename": "images/Natural_foodstuff_004.jpeg",
+            "category": "health",
+            "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
+            "question": "What kind of plant is behind the fruits? "
+        },
+        {
+            "filename": "images/440px-Mallard_Drake_on_Adobe_Creek_2010.jpeg",
+            "category": "science_journals",
+            "description": "A mallard duck with it descent green head and white neck ring is floating on water.\n",
+            "question": "What brand is the magazine apart of?"
+        },
+        {
+            "filename": "images/Hemp_Oregon_State.jpeg",
+            "category": "health",
+            "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
+            "question": "its it just one plant"
+        },
+        {
+            "filename": "images/Aerial_view_-_Presidio-whole.jpg",
+            "category": "science_journals",
+            "description": "Aerial shot of a city with dense housing, a large park, and a red bridge spanning a blue bay.\n",
+            "question": "What time of day is the photo taken?"
+        },
+        {
+            "filename": "images/500px-Backzutaten_041.jpeg",
+            "category": "health",
+            "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
+            "question": "What would you bake it in?"
+        },
+        {
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "category": "science_journals",
+            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
+            "question": "Whats the reason for this?"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "news",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "What color(s) are her dress"
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "health",
+            "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
+            "question": "What flavor is the protein shake or at least the color?"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "category": "social_media",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
+            "question": "What kinds of vegetables are on the plate"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "travel",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "What part of the world does the image appear to be from?"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "news",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "What color(s) are her hair"
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "shopping",
+            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
+            "question": "is it good?"
+        },
+        {
+            "filename": "images/440px-Protein_shake.jpg",
+            "category": "shopping",
+            "description": "A shaker bottle with milk, a glass of protein shake, and a scoop of protein powder on a black background.\n",
+            "question": "what color is the protein powder"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "social_media",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "What color is Katy Perry's hair?  What colors are used for her outfit?  "
+        },
+        {
+            "filename": "images/Veggie_burger_miikkahoo_flickr_creative_commons.jpeg",
+            "category": "health",
+            "description": "A veggie burger with a multigrain bun, arugula, and sauce, served with herbed potatoes and peas on a white plate.\n",
+            "question": "What kind of sauce is on the veggie burger?"
+        },
+        {
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "category": "science_journals",
+            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
+            "question": "How large is the crystal ball?"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "category": "social_media",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
+            "question": "How do you make it?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Is the image taken with a telescope, or is it a 3D render?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Is the image clear?"
+        },
+        {
+            "filename": "images/Bellagio_Las_Vegas_December_2013_panorama.jpeg",
+            "category": "travel",
+            "description": "A panoramic night view of multiple lit-up Las Vegas hotels and a casino fronting a reflective water body.\n",
+            "question": "What colors are the lights?"
+        },
+        {
+            "filename": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
+            "category": "social_media",
+            "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
+            "question": "How many dishes are in the image?"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "what race is the man"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "travel",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "Is the aerial view from directly above, or from an angle?  "
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Are there clouds in the sky?"
+        },
+        {
+            "filename": "images/Solar_eclipse_1999_4.jpeg",
+            "category": "news",
+            "description": "A solar eclipse with a glowing corona around a darkened moon, against a black sky.\n",
+            "question": "Are there any stars in the sky?  "
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "what kind of outfit is he wearing"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "Is the man practicing yoga at home, or in a yoga studio?  "
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "social_media",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "How does the audience look if the camera shows it?"
+        },
+        {
+            "filename": "images/440px-Yoga_dog_(4045140609).jpeg",
+            "category": "shopping",
+            "description": "A French Bulldog dressed in a pink yoga outfit with a mat rolled up on its back. The dog is looking at the camera.\n",
+            "question": "Does the dog appear to be crossbred with another breed?"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "social_media",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "Is this image from a music video, a live performance, or something else?  "
+        },
+        {
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "category": "science_journals",
+            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
+            "question": "What color is the crystal ball?"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "travel",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "How many boats are there"
+        },
+        {
+            "filename": "images/220px-Ado-muka-shvanasana.jpeg",
+            "category": "health",
+            "description": "A person dressed in white practicing the downward-facing dog pose on a yoga mat in a room.\n",
+            "question": "What kind of things are in the room, e.g. furniture, etc.?"
+        },
+        {
+            "filename": "images/340px-Katy_Perry_-_The_Prismatic_(Sunrise)_01_(cropped).jpg",
+            "category": "social_media",
+            "description": "Katy Perry, with pastel-colored hair, is singing into a microphone, wearing a sparkly, multicolored outfit with a cape.\n",
+            "question": "What kind of stage is she performing on?"
+        },
+        {
+            "filename": "images/20170721_Gotham_Shield_NYC_Aerials-225_medium_(cropped).jpg",
+            "category": "travel",
+            "description": "Aerial view of a large green park surrounded by a dense cityscape and a blue lake with boats.\n",
+            "question": "Are there people in the image--if so, how many?"
+        },
+        {
+            "filename": "images/Ipomoea_stir_fry.jpeg",
+            "category": "social_media",
+            "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate. The plate is on a wood table.\n",
+            "question": "how big is the plate"
+        },
+        {
+            "filename": "images/Bellagio_garden_crystal_ball.jpeg",
+            "category": "science_journals",
+            "description": "A large crystal ball art piece in a lush garden with flowers and a fence in the background.\n",
+            "question": "What does this have to do with science?"
+        }
+    ]
+}
