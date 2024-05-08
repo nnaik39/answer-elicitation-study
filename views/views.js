@@ -174,7 +174,8 @@ var main = {
         // fill variables in view-template
         var viewTemplate = $("#main-view").html();
 
-//        console.log("Main trials ", exp.trial_info.main_trials)
+        console.log('Changed JSON to answer elicitation study')
+        console.log("Main trials ", exp.trial_info.main_trials)
 
 //        console.log("Current trial ", exp.trial_info.main_trials[CT])
   //      console.log("CT index ", CT)
