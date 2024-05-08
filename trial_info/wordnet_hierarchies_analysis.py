@@ -38,3 +38,5 @@ for entry in dataset:
             num_words_per_context[context] += 1
 
 print("Average depth across contexts: ", avg_depth_in_context)
+
+# Print "Average depth from the root of every noun in each caption to measure referring expressions"

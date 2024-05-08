@@ -9,104 +9,48 @@
             "25 feet give or take.",
             "",
             "",
-            ""
-        ]
-    },
-    {
-        "image": "images/15719.jpg",
-        "context": "science_journals",
-        "description": "Gothic revival architecture of a grand building with towers and an arched entrance.\n",
-        "question": "What materials are used in this construction?",
-        "answers": [
-            "Stone",
-            "It appears to be made entirely of stone.",
             "",
-            "It looks like concrete and different stones ",
+            "The ceiling is quite high, around 20 feet tall.",
+            "15 feet tall",
+            "The ceilings are very tall, think Vegas Hotel heights for this ",
+            "around 30 feet",
             ""
         ]
     },
     {
-        "image": "images/Hemp_Oregon_State.jpeg",
+        "image": "images/Apollo_17_AS17-140-21497.jpeg",
         "context": "science_journals",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "a description of the colors of the hemp plant",
+        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
+        "question": "Do you think that astronaut is afraid of running out of air?",
         "answers": [
-            "Its still a very healthy green, fuzzy at the top and slightly discolored there. ",
-            "The hemp plant is various shades of green. ",
-            "Very dark kind of green."
+            "",
+            "Probably, I would be.",
+            "I don't know if he's worried about running out of air, but he does appear to have appropriate gear on"
         ]
     },
     {
         "image": "images/440px-Telescope_Kepler-NASA.jpg",
         "context": "science_journals",
         "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "What planets or things you can see? ",
+        "question": "What does the space telescope look like?",
         "answers": [
-            "Looks like earth. I cannot tell what the other planet is supposed to be. I think the Sun is situated on the edges.",
-            "Distant stars and less distant planets in the background with the Keplar telescope in the foreground. there is a faint outline of the sun on the bottom left",
-            "",
-            "I can see the solar system and planet earth"
+            "It is shiny, metallic, and cylindrical. ",
+            "very futuristic",
+            "It does not look like a conventional telescope. It looks like the bottom of a rocket. It is gray and tubular with a panel on the side that is blue. "
         ]
     },
     {
-        "image": "images/15722.jpg",
-        "context": "travel",
-        "description": "A quaint courtyard with green lawn, flanked by old buildings and an arched passageway. The sky is blue and clear, and trees and other plants spot the yard.\n",
-        "question": "what types of trees and other plants are in the image",
-        "answers": [
-            "There are pink flowers, lush green grass, and medium sized trees",
-            "",
-            "",
-            "There are vines on the walls that have pink flowers, come low lying shrubs, and a couple broad leaved trees. ",
-            "",
-            "",
-            "There are roses, vines, and regular treeling.",
-            "I don't know what kind of tree it is."
-        ]
-    },
-    {
-        "image": "images/Ipomoea_stir_fry.jpeg",
+        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
         "context": "health",
-        "description": "A dish of stir-fried green leafy vegetables with red chili peppers served on a white plate.\n",
-        "question": "Why is this served with chili peppers",
+        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
+        "question": "What equipment is the scientist using?",
         "answers": [
-            "to give it spice",
-            "",
-            "It might be to accentuate the taste and provide a vegan diet."
-        ]
-    },
-    {
-        "image": "images/Natural_foodstuff_004.jpeg",
-        "context": "health",
-        "description": "A colorful assortment of fresh fruits including red apples, green grapes, pears, nuts, lemons, and an orange pumpkin. A plant sits behind them.\n",
-        "question": "What kind of plant is behind the fruits? ",
-        "answers": [
-            "",
-            "A small house plant",
+            "a pipette.",
+            "The scientist is using a microscope and a dropper. ",
+            "The scientist is using a pipette.",
+            "The scientist is using a microscope",
+            "a pippette",
             ""
-        ]
-    },
-    {
-        "image": "images/Hemp_Oregon_State.jpeg",
-        "context": "health",
-        "description": "A close-up of a hemp plant with a large bud and surrounding foliage in focus, against a blurred green background.\n",
-        "question": "its it just one plant",
-        "answers": [
-            "yes, just one plant in focus. ",
-            "this picture is of one plant",
-            "Yes, there is just one plant in the immediate foreground of the picture."
-        ]
-    },
-    {
-        "image": "images/440px-Protein_shake.jpg",
-        "context": "health",
-        "description": "A shaker bottle with milk in it, a tall glass of protein shake, and a small glass of protein powder on a black background.\n",
-        "question": "What flavor is the protein shake or at least the color?",
-        "answers": [
-            "The flavor is probably strawberry",
-            "The color appears to be brown. The flavor could be anything.",
-            "The color is brown",
-            "The color of the protein shake is light brown."
         ]
     },
     {
@@ -126,7 +70,23 @@
             "There are 12 dishes in the image.",
             "There are 14 dishes",
             "There are about 12 kind of dishes.",
-            "There are 14 dishes in the image"
+            "There are 14 dishes in the image",
+            "There are twelve dishes in the image.",
+            "There are 14 dishes",
+            "There are 15 platters or bowls of food.",
+            "14 total, but you  can only  see 8 labels",
+            "13 dishes in the image "
+        ]
+    },
+    {
+        "image": "images/440px-Telescope_Kepler-NASA.jpg",
+        "context": "science_journals",
+        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
+        "question": "How well does this work? ",
+        "answers": [
+            "",
+            "The question cannot be answered from the image but the checkbox on this survey doesn't work.",
+            ""
         ]
     },
     {
@@ -144,42 +104,38 @@
             "Not that I can see.",
             "",
             "There is no particular brand showing. ",
-            "It is likely, as the image appears on a shopping website."
+            "It is likely, as the image appears on a shopping website.",
+            "The image is not an ad for a brand, it's an image of a runway show.",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Drug_ampoule_JPN.jpeg",
+        "context": "news",
+        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
+        "question": "How is it relevant to me",
+        "answers": [
+            "It's about medicine, so it might not be",
+            "It could be relevant if the article has to do with drinking.",
+            "",
+            "",
+            "This is not relevant to me, so I can't say how it may be relevant to anyone else",
+            "These may be medications used by your local doctors and hospitals. ",
+            ""
         ]
     },
     {
         "image": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "context": "news",
+        "context": "science_journals",
         "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "question": "Is this image part of an ad?",
+        "question": "Is that not enough detail?",
         "answers": [
-            "No it isn't part of an ad.",
+            "Yes there is enough details",
             "",
-            "",
-            "I don't think it is part of an ad."
-        ]
-    },
-    {
-        "image": "images/500px-Backzutaten_041.jpeg",
-        "context": "health",
-        "description": "Ingredients, measuring cup and a bowl sitting on a green and speckled kitchen counter.  In front of them is a cookbook, laying open to what appears to be a recipe with a picture of a pie, suggesting preparation for baking.\n",
-        "question": "How many ingredients are in it?",
-        "answers": [
-            "There are six ingredients ",
-            "",
-            "There are 6 ingredients"
-        ]
-    },
-    {
-        "image": "images/New_york_times_square-terabass_(cropped).jpg",
-        "context": "news",
-        "description": "A bustling Times Square with bright billboards, crowded streets, and towering buildings at dusk.\n",
-        "question": "Is the place related to the news?",
-        "answers": [
-            "Probably, a lot of news happens in NYC everyday ",
-            "",
-            "",
-            "Yes it is where news companies are located."
+            ""
         ]
     }
 ]

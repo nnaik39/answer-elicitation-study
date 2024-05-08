@@ -1,46 +1,10 @@
 {
     "images": [
         {
-            "filename": "images/Apollo_17_AS17-140-21497.jpeg",
-            "category": "science_journals",
-            "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-            "question": "Do you think that astronaut is afraid of running out of air?"
-        },
-        {
-            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-            "category": "science_journals",
-            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "What does the space telescope look like?"
-        },
-        {
-            "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-            "category": "health",
-            "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-            "question": "What equipment is the scientist using?"
-        },
-        {
-            "filename": "images/440px-Telescope_Kepler-NASA.jpg",
-            "category": "science_journals",
-            "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-            "question": "How well does this work? "
-        },
-        {
-            "filename": "images/Drug_ampoule_JPN.jpeg",
-            "category": "news",
-            "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-            "question": "How is it relevant to me"
-        },
-        {
             "filename": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
             "category": "health",
             "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
             "question": "What lab are they in?"
-        },
-        {
-            "filename": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-            "category": "science_journals",
-            "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-            "question": "Is that not enough detail?"
         }
     ]
 }
