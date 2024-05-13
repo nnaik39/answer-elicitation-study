@@ -5877,7 +5877,6 @@
         "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
         "question": "What is Charlie wearing?",
         "answers": [
-            "",
             "She is wearing a sparkly blue babydoll dress with spaghetti straps and some jewelry ",
             "She is wearing a blue dress."
         ]
@@ -5917,16 +5916,6 @@
         ]
     },
     {
-        "image": "images/340px-AquaMap_Diver_LBL_Acoustic_Positioning_Equipment.jpeg",
-        "context": "science_journals",
-        "description": "Two divers with underwater positioning equipment.\n",
-        "question": "What type of water are the divers in?",
-        "answers": [
-            "",
-            ""
-        ]
-    },
-    {
         "image": "images/Aquarium_60cm.jpeg",
         "context": "health",
         "description": "A vibrant aquarium tank that shines from the lamp above it, showcasing the clean water and beautiful fish. \n",
@@ -5947,17 +5936,6 @@
             "This photo was taken in Africa.",
             "The photo is from a forested location.",
             "Forest or jungle"
-        ]
-    },
-    {
-        "image": "images/Kerbau_Jawa.jpeg",
-        "context": "travel",
-        "description": "A man plowing a field with two water buffalo in a tropical landscape.\n",
-        "question": "What ethnicity is the man?",
-        "answers": [
-            "Southeast Asian ",
-            "",
-            ""
         ]
     },
     {
@@ -6039,6 +6017,456 @@
             "The golden statues look like humans frozen in place ",
             "The golden statues look like small people/children engaged in various activities.",
             "The golden statues are bright ornate, and regal in appearance."
+        ]
+    },
+    {
+        "image": "images/Athirapally_Waterfalls_after_the_Monsoons.jpeg",
+        "context": "science_journals",
+        "description": "A wide waterfall in a lush green landscape, sounded by hills and nature.\n",
+        "question": "Is this tropical?",
+        "answers": [
+            "Appears to be a tropical rainforest environment",
+            "YES IT IS ",
+            "The landscape is very lush, but it doesn't necessarily look like a tropical landscape.",
+            "It is all lush green landscape and the waterfall is in the middle of the green lush landscape, so it very well could be. "
+        ]
+    },
+    {
+        "image": "images/440px-Focaccia_with_Crumb.jpeg",
+        "context": "shopping",
+        "description": "Crisp golden focaccia bread, with visible air pockets in the crumb, topped with rosemary and flaky salt. \n",
+        "question": "How big is it?",
+        "answers": [
+            "The bread seems to be an ordinary size where it can be about the size to make an average sized focaccia sandwich.",
+            "not so big. it is a sliced bread"
+        ]
+    },
+    {
+        "image": "images/Sustainability_and_Style_(27881359281).jpeg",
+        "context": "news",
+        "description": "A woman discussing in a fashion showroom addressing an audience of at least two people. \n",
+        "question": "What is the woman wearing?",
+        "answers": [
+            "The woman is wearing a pair of black glasses, a black lanyard, a plaid patterened shirt that is unbuttoned, and a white button down shirt. She's also wearing a wristwatch on her left wrist, and a ring on her left ring finger. Her nails are painted a dark burgundy. ",
+            "A plad shirt over a plain white button up shirt with wide, stiff, open cuffs",
+            "The woman is wearing stylish and professional attire. ",
+            "A white, buttoned down blouse, not low cut, with large white cuffs that stick out from the checkered jacket or shirt she's wearing over that.  She is also wearing a lanyard."
+        ]
+    },
+    {
+        "image": "images/Dirndl-2011.jpeg",
+        "context": "travel",
+        "description": "A woman stands confidently outdoors in a traditional Dirndl, a folk dress with a green apron.\n",
+        "question": "what is the setting where she is",
+        "answers": [
+            "This woman looks like she might be in Europe",
+            "She is standing on a walkway/driveway in front of a building. It could be a historical site where tours are held.",
+            "Outside a restaura"
+        ]
+    },
+    {
+        "image": "images/440px-Rhododendron_arboreum_zeylanicum_flower.jpeg",
+        "context": "science_journals",
+        "description": "A vibrant red Rhododendron arboreum flower blooming amidst green, leathery leaves.\n",
+        "question": "Is the plant out in the wild or someone like in a lab?",
+        "answers": [
+            "The plant is out in the wild",
+            "In the wild",
+            "The plant appears to be out in the wild with green stems attached. ",
+            "The plant is out in the wild ",
+            "A red Rhododendron arboreum flower with dark spots on its leaves located in a forest-like setting"
+        ]
+    },
+    {
+        "image": "images/Barcaccia_e_scalinata.jpeg",
+        "context": "news",
+        "description": "A bustling square with a fountain in front of a grand staircase leading to a castle like building..\n",
+        "question": "What occurred here? ",
+        "answers": [
+            "people stood around a giant fountain in a city square ",
+            "People are walking around in the square with family and friends.",
+            "Seems like a tourism session ",
+            "Nothing special occurred. It looks like it's just a touristy area and people are walking by and taking everything in."
+        ]
+    },
+    {
+        "image": "images/Blackberry_from_Srem,_Serbia_(Sremska_kupine,_selo_Dobrinci).jpeg",
+        "context": "health",
+        "description": "Blackberries gathered with a red scoop.\n",
+        "question": "Does it look like this picture was taken inside or outside? ",
+        "answers": [
+            "Outside because of the type of light shining on the blackberries and the light shown through what appears to be a table. ",
+            "It is hard to determine whether the picture was taken inside or outside but my guess is outside. ",
+            "It doesn't show if it is outside or inside. It looks like there is cement under the scoop and very well lit so it could be outside. "
+        ]
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "science_journals",
+        "description": "A spacecraft with solar panels against the backdrop of Earth's atmosphere.\n",
+        "question": "Where is the image",
+        "answers": [
+            "Just above Earth's atmosphere.",
+            "in the sky or space ",
+            "The image is likely from a space exploration website. "
+        ]
+    },
+    {
+        "image": "images/Elephas_maximus_maximus_-_01.jpeg",
+        "context": "travel",
+        "description": "Two elephants on a grassy field near water. One of the elephants appears to be a baby looking to nurse with it's mother.\n",
+        "question": "Is it sunny",
+        "answers": [
+            "It seems to be but the sky is not visible, could be light or scattered cloud cover",
+            "It is hard to tell but I believe it is sunny"
+        ]
+    },
+    {
+        "image": "images/Aquarium_60cm.jpeg",
+        "context": "news",
+        "description": "A vibrant aquarium tank that shines from the lamp above it, showcasing the clean water and beautiful fish. \n",
+        "question": "What fish are in the tank?",
+        "answers": [
+            "beautiful fish",
+            "According to the description, there are beautiful fishes in the tank. However, it does not tell what kind of fish they are.",
+            "small fish are in the tank "
+        ]
+    },
+    {
+        "image": "images/G7_in_het_Catshuis.jpeg",
+        "context": "travel",
+        "description": "A group of presidents from a nine country including Barrack Obama seated and having discussions in a room with some country flags in the room\n",
+        "question": "What does this have to do with travel?",
+        "answers": [
+            "Leaders from the nine countries have traveled to this location to be present together in this country. ",
+            "This has nothing to do with travel, per se.",
+            "This might be an advertisement to advertise that certain important people have eaten at or stayed in this specific location."
+        ]
+    },
+    {
+        "image": "images/Hazelnuts_(Corylus_avellana)_-_whole_with_kernels.jpeg",
+        "context": "health",
+        "description": "Whole and shelled hazelnuts on a blue surface.\n",
+        "question": "why was the hazel unit shelled",
+        "answers": [
+            "The hazelnut was shelled probably to show the edible portion of the nut.",
+            "The hazelnut was shelled for eating.",
+            "to show what it is like inside"
+        ]
+    },
+    {
+        "image": "images/Holt_Renfrew_Mannequins.jpeg",
+        "context": "social_media",
+        "description": "Three mannequins in dresses are displayed under elegant chandeliers in a boutique setting.\n",
+        "question": "What is the location?",
+        "answers": [
+            "The location is a boutique.",
+            "The location is a boutique inside of a shopping plaza or indoor mall.",
+            "The mannequins are in a boutique",
+            "It looks like it's in a boutique."
+        ]
+    },
+    {
+        "image": "images/Charli_D'Amelio_at_KCA_2022.jpeg",
+        "context": "shopping",
+        "description": "Charlie D'amilo (tik-toker, turned reality star) holding an Nickelodeon award on stage, with a microphone and touching her heart.\n",
+        "question": "How is this picture relevant to shopping?",
+        "answers": [
+            "Maybe the person in the picture supports the products on the page.",
+            "This picture might be relevant to shopping in the context of influencer marketing, this could influence fans to purchase products or brands associated with her creating a potential link between her popularity and consumer behaviour.",
+            "This site sells Nickelodeon award replicas ",
+            "This picture is likely relevant to shopping because it could be featured on a website selling merchandise related to Charlie D'Amelio."
+        ]
+    },
+    {
+        "image": "images/Langfardsskridskoakning.jpeg",
+        "context": "travel",
+        "description": "Skiers trekking across a frozen, snowy landscape.\n",
+        "question": "How many skiers are there?",
+        "answers": [
+            "There are three skiers.",
+            "There are three skiers on a  frozen river going at a moderate pace",
+            "Three Skiers"
+        ]
+    },
+    {
+        "image": "images/Pumpkin2007.jpeg",
+        "context": "shopping",
+        "description": "A glowing jack-o'-lantern with menacing eyes and jagged teeth in a dark room.\n",
+        "question": "Can you provide more details about the features, size, and materials displayed in the image",
+        "answers": [
+            "The Jack-o-lantern has large eyes, and a large sinister smile. It looks like the artist carved it pretty professionally. There is a candle that is lit visible inside the pumpkin, making the whole face light up!",
+            "It's a pretty large pumpkin. It's eyes are carved as triangles that are on its side, each facing each other. The nose is two long triangular slits. The mouth is several upside down triangles. There is a small candle inside.",
+            "The image is a carved pumpkin with the face of a smiling jackolantern. The pumpking has a lit candle inside of it whose light is visible. "
+        ]
+    },
+    {
+        "image": "images/SBNMS_-_feeding_humpback_whale_(31319806616).jpeg",
+        "context": "science_journals",
+        "description": "It is an extreme close-up of a whale's head above water. The image is zoomed in what appears to be the whale's mount opening right above the water. \n",
+        "question": "What are the shape and texture of the whale",
+        "answers": [
+            "The shape is oval, but viewed from the side, almost a profile view. The texture is smooth and slick, except for evenly placed large bumps protruding from the top of the mouth.",
+            "It is rough and bumpy. shape is unknown.",
+            "The whale is rectangular and bumpy. ",
+            "The head of the whale, which is visible, appears almost triangular in shape, conical, The texture appears smooth and slick with large bumps"
+        ]
+    },
+    {
+        "image": "images/Roma-_Altare_della_Patria_(Piazza_Venezia)_-_52347399654_(cropped).jpeg",
+        "context": "news",
+        "description": "Rome\u2019s Altare della Patria lit up at twilight, with statues and columns.\n",
+        "question": "What color is the Altare della Patria?",
+        "answers": [
+            "The color is an antiqued, burnished or aged pale beige/pink linen color.",
+            "OFF WHITE COLOR",
+            "It is constructed of concrete, so the color is of a concrete beige color. ",
+            "white marble "
+        ]
+    },
+    {
+        "image": "images/440px-Iman_1996.jpeg",
+        "context": "shopping",
+        "description": "A woman with a radiant smile and voluminous curly hair.\n",
+        "question": "What sort of style does her clothing have with regard to colors, designs, etc?",
+        "answers": [
+            "She has a tan top or dress on",
+            "We can't see her clothing too much, only the very top of the",
+            "she is putting on a cream colored jacket"
+        ]
+    },
+    {
+        "image": "images/300px-KIMONO_GORLS_IN_TOKYO_A.jpeg",
+        "context": "travel",
+        "description": "Two women standing next to each other in traditional Japanese kimonos. The one on the left is wearing a blue kimono with multicolor floral prints and the one on the right is black with purple floral prints.\n",
+        "question": "Are the two people in the image famous, or just regular people?",
+        "answers": [
+            "",
+            "I'm not sure but they seem to be regular people based on how casual the photo is.",
+            "The two people seem to be just regular people. "
+        ]
+    },
+    {
+        "image": "images/gorge.jpeg",
+        "context": "travel",
+        "description": "A river gorge with steep, lush green walls and turquoise water flowing through it.\n",
+        "question": "What time of year is this picture from?",
+        "answers": [
+            "Based on the foliage in the picture, it was either taken in spring or summer. The foliage is lush and green.",
+            "",
+            "Summertime.",
+            "It is the beginning of Spring as things start to warm up."
+        ]
+    },
+    {
+        "image": "images/Carnegie_Mellon_University_as_seen_from_the_Cathedral_of_Learning.jpeg",
+        "context": "science_journals",
+        "description": "An aerial view of a university campus with modern and traditional architecture.\n",
+        "question": "how does the architectural layout of the campus foster interdisciplinary collaboration among scientist and researchers?",
+        "answers": [
+            "The campus buildings are arranged very close to each other, making for a condensed building structure on campus. The close proximity fosters collaboration among scientists and researchers. ",
+            "",
+            "Research going on in universities can benefit scientists and their discoveries.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Manisharora1.jpeg",
+        "context": "social_media",
+        "description": "A model twirling in a vibrant, colorful outfit on a fashion runway. Her skirt is a patchwork of many patterns including chevron and black and white stripes.\n",
+        "question": "Is she on a runway? ",
+        "answers": [
+            "yes, she is on a runway",
+            "Yes, the model is on a runway.",
+            "Yes, she is on a runway."
+        ]
+    },
+    {
+        "image": "images/Carpilius_convexus_is_consuming_Heterocentrotus_trigonarius_in_Hawaii.jpeg",
+        "context": "science_journals",
+        "description": "A red spiny sea creature next to a brown crab on an underwater coral reef.\n",
+        "question": "where is the reef located ",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Durians_Markt_Thailand.jpeg",
+        "context": "travel",
+        "description": "A basket filled with large, spiky, green durian fruits.\n",
+        "question": "Is the fruit ripe?",
+        "answers": [
+            "yeah it is",
+            "yes it is ripe, large spiky green durian fruits",
+            "It is hard to determine whether or not the fruit is ripe because they have not been cut open. ",
+            "Yes",
+            "Yes, the fruit is really riped",
+            "Yes the fruit looks ripe."
+        ]
+    },
+    {
+        "image": "images/440px-Carrots_at_Ljubljana_Central_Market.jpeg",
+        "context": "health",
+        "description": "A heap of fresh orange carrots with green tops on display.\n",
+        "question": "Where are the carrots on display? ",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Diving_tower_at_the_2008_EC.jpeg",
+        "context": "news",
+        "description": "A high diving platform inside a pool arena with a competition logo.\n",
+        "question": "Is this image specific to a country, or does it focus on the competitor?",
+        "answers": [
+            "Neither, it is just the diving platform and the pool.",
+            "To be a competition",
+            "Just notes European"
+        ]
+    },
+    {
+        "image": "images/Kate_Upton_at_G-Star_2014_(2).jpeg",
+        "context": "social_media",
+        "description": "A female model in a white gown with golden shoulder armor at a promotional event.\n",
+        "question": "What event is she at?",
+        "answers": [
+            "She is promoting the game of war at the hungry app event",
+            "Game war is probably some sort of video game event.",
+            "It looks like she might be at a Game War event.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Underwater_mcmurdo_sound.jpeg",
+        "context": "travel",
+        "description": "Sea floor with starfish, various shellfish and ice above.\n",
+        "question": "where was this photo taken",
+        "answers": [
+            "It was taken underwater in the sea.",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Kerbau_Jawa.jpeg",
+        "context": "science_journals",
+        "description": "A man plowing a field with two water buffalo in a tropical landscape.\n",
+        "question": "what does the man look like",
+        "answers": [
+            "The man is of average height and weight. He is wearing tan pants with a white long-sleeve shirt. He is wearing a blue hat.",
+            "The man is wearing work clothes like a hat, white t shirt and jeans ",
+            "The man is dressed in shorts, a long-sleeve white shirt, and a baseball cap. His back is hunched over as he follows behind the water buffalo, appearing to follow the plow's progress in the dirt."
+        ]
+    },
+    {
+        "image": "images/440px-Durians_Markt_Thailand.jpeg",
+        "context": "shopping",
+        "description": "A basket filled with large, spiky, green durian fruits.\n",
+        "question": "How many durian are in the basket?",
+        "answers": [
+            "There are around 10 durians in the basket, but some could be hidden by the shadows in the photo.",
+            "they are about 11",
+            "There are nine durian in the basket",
+            "10"
+        ]
+    },
+    {
+        "image": "images/Raspberry_-_halved_(Rubus_idaeus).jpeg",
+        "context": "health",
+        "description": "A close-up of a halved red raspberry.\n",
+        "question": "Is the raspberry on any surface?",
+        "answers": [
+            "yes it is on a surface",
+            "IT IS ON A TABLE",
+            "yes the rasberry is on a surface",
+            "It seems to be on a black table"
+        ]
+    },
+    {
+        "image": "images/AntiqueFiskeAquarium.jpeg",
+        "context": "health",
+        "description": "A vintage octagonal aquarium on a decorative pedestal amidst houseplants.\n",
+        "question": "What kind of fish are in the aquarium?",
+        "answers": [
+            "It looks like a couple of white angelfish, but there may be more that we can't see.",
+            "The shot is not close up, but I think I see at least two clownfish",
+            "goldfish "
+        ]
+    },
+    {
+        "image": "images/VL_85-022_container_train.jpeg",
+        "context": "news",
+        "description": "A train curves around the edge of a lake with green trees behind it and grass and flowers to its side.\n",
+        "question": "Is it about transit issues or the environment?",
+        "answers": [
+            "It could be either, but more likely the environment",
+            "It is about transit because there are some cargo containers on the train. ",
+            "Transit issues"
+        ]
+    },
+    {
+        "image": "images/London_MMB_1E6_Lightning.jpeg",
+        "context": "science_journals",
+        "description": "Lightning striking across the sky behind a building at night.\n",
+        "question": "What kind of lightning is it?",
+        "answers": [
+            "The lightning looks like veins in the sky with many branches.",
+            "A strong and a very powerful lightening",
+            "Natural white lightning, not man made.  Imagine looking at the tree branches of a tree in the sky."
+        ]
+    },
+    {
+        "image": "images/440px-58g_aquascape.jpeg",
+        "context": "science_journals",
+        "description": "A lushly planted freshwater aquarium.\n",
+        "question": "What types of organisms can be found in this aquarium? Are there any specific species or ecosystems being showcased, and what do they tell us about the natural world?",
+        "answers": [
+            "Planted freshwater, plats grow in the water as well",
+            "",
+            "There are various plants. I can't tell if there are any animals. They show the beauty of aquatic nature"
+        ]
+    },
+    {
+        "image": "images/Cambridge_CMS_Bicycle_Racks.jpeg",
+        "context": "social_media",
+        "description": "A bike rack in front of a modern building. with a man approaching.\n",
+        "question": "Where is the location of the bike rack and modern building? Is it a specific city, university, or company?",
+        "answers": [
+            "It appears that the bike rack is in front of a university building. It is hard to determine what city the bike rack is in. ",
+            "The bike rack is along the outer wall of the modern building. It does not show more specifics.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Bella_Hadid_Met_Gala_2017.jpeg",
+        "context": "social_media",
+        "description": "A woman in an off-shoulder black lace dress posing at a gala. The dress is mostly see-through. She has a silver watch on her left hand and silver bracelets on her right. She has painted her nails red. She has middle parted dark-brown hair that goes down to her shoulders.\n",
+        "question": "whats her race?",
+        "answers": [
+            "she is white",
+            "she is caucasian"
+        ]
+    },
+    {
+        "image": "images/Flickr_-_Rainbirder_-_Giant_Squirrel_(Ratufa_macroura).jpeg",
+        "context": "travel",
+        "description": "A squirrel with grey hair and pink nose is perched on a tree branch.\n",
+        "question": "What is the context of the image, is it a photo of a wildlife sanctuary or a scenic park?",
+        "answers": [
+            "The squirrel appears to be in its natural habitat. ",
+            "scenic park"
+        ]
+    },
+    {
+        "image": "images/440px-Kongobuji_Koyasan07n3200.jpeg",
+        "context": "shopping",
+        "description": "People walk up a staircase, approaching a traditional Japanese gate framed by vibrant autumn leaves.\n",
+        "question": "What is the context of this image? Is it being used as a background image or is there a specific product or service being promoted through this image?",
+        "answers": [
+            "I think the image is being used to show what looks like people possibly peacefully shopping somewhere beautiful. ",
+            "As there don't seem to be any products or services in the image, it's feasible to conclude it's a background image."
         ]
     }
 ]
