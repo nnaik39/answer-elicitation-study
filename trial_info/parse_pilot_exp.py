@@ -6,7 +6,7 @@ new_pilot_exp = {}
 new_pilot_exp['images'] = []
 
 for item in pilot_exp['images']:
-    print("ITem: ", item)
+    print("Item: ", item)
     
     new_pilot_exp['images'].append({
         'filename': item['filename'],

@@ -3308,5 +3308,618 @@
             "The social media user may be advertising a variety of potatoes they have for sale.",
             "The image is to show a variety of different colored potatoes, likely to display the successful harvest of a crop of potatoes grown, or to display for educational purposes, as there appear to be posters and paper on the straw behind the basket that may be informational."
         ]
+    },
+    {
+        "image": "images/440px-Pumpkin-Pie-Whole-Slice.jpeg",
+        "context": "social_media",
+        "description": "A thick-crusted pumpkin pie with one slice cut out and placed on a table beside the pie.\n",
+        "question": "What else is on the table?",
+        "answers": [
+            "an aluminum pan that the pie is in. nothing else is on the table.",
+            "there is nothing else on the table",
+            "There is nothing else in the image; it is just the pie.",
+            "PIE PAN",
+            "There is nothing else on the table except the pie and one slice cut out from it placed next to it. ",
+            "Nothing Else."
+        ]
+    },
+    {
+        "image": "images/440px-Happy_Isles_flood.jpeg",
+        "context": "science_journals",
+        "description": "A rushing river flows through a tree-lined forest. The waters are crashing against rocks causing little sprays of water to launch into the air. It's a sunny day and the trees are covered in bright green leaves.\n",
+        "question": "Is this image taken in the Spring time?",
+        "answers": [
+            "possibly, but it could definitely be summer too",
+            "",
+            "Yes, this image looks like it was taken either spring or summer time. The reason I say this is because the vegetation is a powerful green color, and the water is not frozen! The trees are all in bloom."
+        ]
+    },
+    {
+        "image": "images/Chipotle_Brandon.jpeg",
+        "context": "shopping",
+        "description": "A Chipotle restaurant counter. There's a menu overhead that's written in white letters on a red background. People are waiting in line and servers are doing their jobs.\n",
+        "question": "What is the item being sold?",
+        "answers": [
+            "its a chipotle restaurant",
+            "Mexican-American food is being sold, like burritos and bowls.",
+            "Chipotle products that are made to order"
+        ]
+    },
+    {
+        "image": "images/Ecotourism_Svalbard.jpeg",
+        "context": "science_journals",
+        "description": "Tourists in a raft near an icy glacier.\n",
+        "question": "How many people are in the picture?",
+        "answers": [
+            "There look like there are 6 people in the picture",
+            "seven people are in the raft",
+            "There are eight people in the picture.",
+            "Seven people are in the raft."
+        ]
+    },
+    {
+        "image": "images/384px-NanoRacksCubeSatLaunch_ISS038-E-056389.jpeg",
+        "context": "social_media",
+        "description": "Satellite deployment from the International Space Station with Earth in the background. There is another satellite in the foreground while the new satellite is being ejected into space. \n",
+        "question": "How big was the satelite?",
+        "answers": [
+            "It looks large but it is hard to fully tell its size ",
+            "very large",
+            "very long and large",
+            "The satellite looks like it may be ten to fifteen feet long."
+        ]
+    },
+    {
+        "image": "images/Tyra_Banks_Glamour_2020.png",
+        "context": "shopping",
+        "description": "A stylish looking woman with long hair in pink blazer and golden jewelry showing on her finger and wrist.\n",
+        "question": "What else is the woman wearing, and does it seem luxurious or more casual?",
+        "answers": [
+            "It seems more luxurious because she is wearing a diamond ring and bracelet as well",
+            "The woman also wears heavy makeup and some more gold jewelry (necklace and earrings). Her hair is down and wavy. It looks very luxurious overall",
+            "Seems more luxurious. "
+        ]
+    },
+    {
+        "image": "images/CH.ZG.Zug_Boardstock_2008-07-27_Wakeboarder_27_16x9-R_4K.jpg",
+        "context": "health",
+        "description": "An athlete performing a high-flying stunt on a wakeboard over calm waters.\n",
+        "question": "Did he wear protective gear?",
+        "answers": [
+            "No, only a wetsuit",
+            "No, the athlete is not wearing any protective gear",
+            "No, he did not wear protective gear."
+        ]
+    },
+    {
+        "image": "images/150px-1Pranamasana.jpeg",
+        "context": "health",
+        "description": "A person standing upright with palms together in a yoga pose.\n",
+        "question": "Is this person a man or a woman?",
+        "answers": [
+            "The person is a man",
+            "This is a man.  ",
+            "this person appears to be a man"
+        ]
+    },
+    {
+        "image": "images/400px-20140913_1810_W_AUT_HUN_1265.jpeg",
+        "context": "news",
+        "description": "A close-up of a female soccer player looking to the side.\n",
+        "question": "What does the soccer player look like?",
+        "answers": [
+            "She looks like a blonde from a nordic country",
+            "A fit young looking blonde woman with her hair put up in a pony tail.",
+            "A white blonde woman with a ponytail"
+        ]
+    },
+    {
+        "image": "images/Recycling_Shoes_and_Clothing.jpeg",
+        "context": "news",
+        "description": "Two clothing donation bins for recycling, one pink, one green.\n",
+        "question": "What do the colors mean?",
+        "answers": [
+            "it is not clear what the color mean. ",
+            "The green recycle bin is for the Salvation army, while the pink bin is most likely for those supporting the fight against breast cancer. The pink bin is probably more for female clothing only.",
+            "The green represents The Salvation Army's commitment to nature through recycling items.  The pink is meant to represent breast cancer awareness."
+        ]
+    },
+    {
+        "image": "images/Vegetarian_thali_at_an_Indian_restaurant_in_Dubai.jpeg",
+        "context": "health",
+        "description": "In front of you is a platter full of delicious Indian food. The largest portion on this platter is a bowl of fluffy white rice. Surrounding the rice are 6 smaller ramekins full of various curries in a multitude of colors.\n",
+        "question": "is there any meat",
+        "answers": [
+            "",
+            "There is no meat in this photo",
+            "There isn't any obvious signs of meat on the platter, however, there may be some meat in the ramekins of various curries."
+        ]
+    },
+    {
+        "image": "images/Curling_at_the_Huntsville_Curling_Club_(I0005717).jpg",
+        "context": "shopping",
+        "description": "People playing curling indoors, with colorful flags hanging above.\n",
+        "question": "what are the dimensions of the curling playing surface . ",
+        "answers": [
+            "It is a rectangle playing surface",
+            "it is about the size of a hockey or ice rink",
+            ""
+        ]
+    },
+    {
+        "image": "images/US_Navy_101101-N-2821G-032_Rear_Adm._Mark_D._Guadagnini,_commander_of_the_Abraham_Lincoln_Carrier_Strike_Group,_leads_a.jpg",
+        "context": "health",
+        "description": "Men skipping rope in a gym aboard a ship.\n",
+        "question": "Are they both jumping rope together or separately?",
+        "answers": [
+            "They are facing each other so they appear to be jumping rope together.",
+            "They are jumping rope together but not in unison and they are on different planes, with one man facing the other two men.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Swains_Island_2.jpeg",
+        "context": "science_journals",
+        "description": "People walking on a path in a lush tropical rainforest.\n",
+        "question": "Are there any other objects in the picture?",
+        "answers": [
+            "Yes, there are few people on the image.",
+            "no other objects",
+            "Yes there are trees and branches",
+            "This image has a variety of trees that make up a verdant canopy.  There are palms, rubber trees, and other tropical plants.  The forest floor is a tangle of roots and vines.  "
+        ]
+    },
+    {
+        "image": "images/440px-Arttherapyprocess.jpeg",
+        "context": "social_media",
+        "description": "A painted round rock with a door, trees and text that says 'Fear Judgement and Therapy.\n",
+        "question": "Is there a human being in the image? What do they look like?",
+        "answers": [
+            "No there is not a human being",
+            "No, there is not a human being in this image. ",
+            "There is no human being in the image"
+        ]
+    },
+    {
+        "image": "images/Pelz-Verkaufsstand_in_Tallinn,_Estland.jpeg",
+        "context": "travel",
+        "description": "Inside a shopping center, there is a stall selling a wide variety of fur hats and fur scarves in many colors. There is a man behind the counter. \n",
+        "question": "Does the stall have other products than furs?",
+        "answers": [
+            "It appears to have other items, such as jewelry, scarves, and pumpkins.",
+            "",
+            "Yes, they also have miniature pumpkins."
+        ]
+    },
+    {
+        "image": "images/240px-Setra_S515HDH_Schneider_Langendorf.jpeg",
+        "context": "social_media",
+        "description": "A modern coach bus on the street, labeled 'SCHNEIDER,' with a scenic mountain background.\n",
+        "question": "Who is on the bus?",
+        "answers": [
+            "Individuals who are taking a longer than average trip are on the bus.",
+            "The bus is seemingly empty",
+            "From the image, it is hard to say who is on the bus because of the tinted windows. The rear windows are tinted a dark black, while the front windows, there is a big glare, so you are not able to see inside!",
+            "The bus likely carries a mix of tourists and travelers each with their own reason for the journey"
+        ]
+    },
+    {
+        "image": "images/Som_tam_khao_niao_kai_yang.jpeg",
+        "context": "social_media",
+        "description": "A meal with chicken, rice, and soup.\n",
+        "question": "Is it homemade or from a restaurant?",
+        "answers": [
+            "a restaurant",
+            "It is hard to say, the plating making you think restaurant. On the other hand the food can be homemade; based on the good quality of food.",
+            "This meal appears to be from a restaurant based on the plating.",
+            "This meal is likely from a restaurant based on the plating techniques, and the cutting technique on the chicken looks rather advanced for the average home chef."
+        ]
+    },
+    {
+        "image": "images/Water_polo-2.jpeg",
+        "context": "news",
+        "description": "Men\u2019s water polo game in action in a pool.\n",
+        "question": "Can you tell me if there are many spectators?",
+        "answers": [
+            "There is not any indication that there are any spectators based on the image.",
+            "There are no spectators visible in the image.  The image is focused on the pool and the players themselves.  There are a total of four players, two from each team, in view.  The photo is centered along the goalkeeper attempting a save by leaping to keep the ball from entering the net while three other players swim in proximity.  The goalkeeper is wearing a red water polo cap and another is wearing blue.  The two players closest to the goal keeper are wearing white water polo caps.  One player with a white cap and one with the blue cap have a visible number '12' on the side.",
+            "The photo is just a close up of men's water polo game and only the athletes are in the photo."
+        ]
+    },
+    {
+        "image": "images/Yamnaem71.jpeg",
+        "context": "health",
+        "description": "A plate of salad containing peanuts and veggies along with various other side dishes.\n",
+        "question": "How appetizing does these dishes look?",
+        "answers": [
+            "The look healthy and delicious.",
+            "they look very flavorful and filling",
+            "The dishes are aesthetically pleasing and showcase an array of colorful vegetables and grains.  The image shows golden brown falafel and a salad with peppery seasonings, peanuts, and sprigs of herbs.   "
+        ]
+    },
+    {
+        "image": "images/Iman_(model).jpeg",
+        "context": "social_media",
+        "description": "A smiling woman in a strapless checkered gown at an event with people in the background.\n",
+        "question": "Who is the woman?",
+        "answers": [
+            "",
+            "The woman is seen to be of Black origin",
+            "Iman the model, David Bowies wife",
+            "The woman looks like Mrs. Smith",
+            "This woman looks like Iman; but, I wouldn't rely on my assessment.  She has North African features and is tall.  Her posture reminds me of a model."
+        ]
+    },
+    {
+        "image": "images/Sugar_Pumpkins.jpeg",
+        "context": "news",
+        "description": "Five small orange pumpkins on grass.\n",
+        "question": "What is in the background?",
+        "answers": [
+            "Pumpkin plant patch",
+            "the field is in the background where they were grown.",
+            "Vines and leaves in the background",
+            "In the background, there are green vines on brown dirt."
+        ]
+    },
+    {
+        "image": "images/440px-Alaskan_ceviche.jpeg",
+        "context": "health",
+        "description": "A brown bowl filled with a salad made of bits of mozzarella cheese bits, red cherry tomatoes that have been cut in half length-wise, cilantro leaves and slices of chive. \n",
+        "question": "Is there any dressing on the salad?",
+        "answers": [
+            "The salad appears to be either lightly tossed in olive oil or Italian dressing.",
+            "no there is no dressing on the salad ",
+            "No, there is no dressing on the side of the salad"
+        ]
+    },
+    {
+        "image": "images/440px-2016_Phnom_Penh,_Tradycyjny_Kambodzanski_Pokaz_Tanca_(079).jpeg",
+        "context": "shopping",
+        "description": "A performer in an elaborate Cambodian dance costume with blue wings spread wide, accompanied by musicians onstage.\n",
+        "question": "what color is the dance costume?",
+        "answers": [
+            "blue   cambodian dance aleborate",
+            "It looks much like a peacock's color scheme. Teal silk on their body and blue wings/tail.",
+            "turquiose with gold and red accents",
+            "purple blue red black"
+        ]
+    },
+    {
+        "image": "images/440px-Spaghetti_alla_Carbonara.jpeg",
+        "context": "travel",
+        "description": "A plate of spaghetti carbonara paired with a glass and bottle of red wine, with cutlery alongside.\n",
+        "question": "Is this a specific dish or a representation of the country it is photographed in?",
+        "answers": [
+            "Not really the dish is what you find at most Italian restaurants.",
+            "specific dish. if the wine is italian then yes, it would represent italy",
+            "It is a photo of a specific dish, but it also could represent Italian food.  "
+        ]
+    },
+    {
+        "image": "images/240px-Chignon-jennadrudi.jpeg",
+        "context": "shopping",
+        "description": "A neat, elegant chignon hairstyle from the back view of a person in a white top.\n",
+        "question": "What clothing are they wearing?",
+        "answers": [
+            "a white cotton or linen blouse with a lace-trimmed collar that buttons at the back",
+            "They are wearing a light white top that buttons in the back and has some frills around the neck.",
+            "A white thin, frilly blouse with a button clasp behind the neck with an opening in the back. ",
+            "It appears that the woman is wearing a white dress, likely made out of thin cotton"
+        ]
+    },
+    {
+        "image": "images/Kue_di_Bandar_Udara_Sultan_Iskandarmuda.jpeg",
+        "context": "travel",
+        "description": "A selection of fried snacks on a blue plate.\n",
+        "question": "What is the setting of where the blue plate is?",
+        "answers": [
+            "it is resting on a surface with some yellow and red patterns",
+            "The setting looks like it might be Mexico or somewhere in South or Central America.",
+            "The blue plate is sitting on a brightly colored (red and yellow) tablecloth."
+        ]
+    },
+    {
+        "image": "images/IDHM_Wasserspringen_2018-02-18_3m_mixed_Vorkampf_Sprung_3_18.jpeg",
+        "context": "social_media",
+        "description": "The divers mid-air after their jump during a synchronized diving event.\n",
+        "question": "what are they doing as they fall",
+        "answers": [
+            "They are diving into a pool, upside down with their arms straight above their heads",
+            "Stretching out their arms down to the water and holding their legs together tightly.",
+            "Pointing their body and arms towards the water "
+        ]
+    },
+    {
+        "image": "images/Mumbadevi_temple.jpeg",
+        "context": "news",
+        "description": "A temple with colorful flags atop a worn facade.\n",
+        "question": "What kind of temple is it?",
+        "answers": [
+            "",
+            "It is the home to someone in Europe",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Formation_recorte.jpeg",
+        "context": "social_media",
+        "description": "A performer with long brown hair in sparkling pink attire singing to an audience in the rain with a smile on her face with on hand holding a golden mic and the other hand over her heart.\n",
+        "question": "Can you see the sky? Is it grey?",
+        "answers": [
+            "No there is no sky",
+            "You can't see the sky. She is on an indoor stage.",
+            "The sky is overcast and dark grey from the rain as far as I can tell"
+        ]
+    },
+    {
+        "image": "images/320px-Saguenay_500m.jpeg",
+        "context": "social_media",
+        "description": "Speed skaters racing closely on an ice track.\n",
+        "question": "is this an event",
+        "answers": [
+            "It appears to be a speed skating event",
+            "Yes, this is a speed skating race.",
+            "Yes, this is an event.  It is a racing event.  "
+        ]
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "social_media",
+        "description": "A woman from behind wearing a traditional blue and white flower patterned kimono at a bustling event at a street in Japan.\n",
+        "question": "Is this someone who is visiting Japan?",
+        "answers": [
+            "It is someone either visiting Japan, or a Japanese festival. ",
+            "Possibly yes",
+            ""
+        ]
+    },
+    {
+        "image": "images/320px-Saguenay_500m.jpeg",
+        "context": "news",
+        "description": "Speed skaters racing closely on an ice track.\n",
+        "question": "What are the speed skaters wearing>",
+        "answers": [
+            "The skaters are wearing a leotard-like outfit made for the sport.",
+            "The skaters are wearing bodysuits with their countries' names and colors on them.",
+            "They are wearing multicolored skinsuits"
+        ]
+    },
+    {
+        "image": "images/HH_Polizeihauptmeister_MZ.jpeg",
+        "context": "travel",
+        "description": "A older policeman in uniform with a radio.\n",
+        "question": "What is the environment the policeman is in?",
+        "answers": [
+            "They are standing outside in front of a brick police station.",
+            "Policeman is in a city at the police station.",
+            "in front of a court house likely.",
+            "It looks like an old town image the policeman is in."
+        ]
+    },
+    {
+        "image": "images/Male_and_female_chicken_sitting_together.jpeg",
+        "context": "travel",
+        "description": "A rooster and hen perched side by side.\n",
+        "question": "why its there a picture of a rooster and hen on a travel website? are they part of a farm or rural experience at the destination?",
+        "answers": [
+            "",
+            "The Hawaiian Islands, especially Kauai, has wild chickens roaming all over. They are even depicted in all kinds of souvenirs, such as t-shirts and stuffed animals.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Lanna_cuisine_starters.jpeg",
+        "context": "health",
+        "description": "A tray with assorted Thai dishes of various flavors\n",
+        "question": "Are there a lot of vegetables in the dishes?",
+        "answers": [
+            "Yes, there's sliced cucumbers, cabbage, on a bed of greens.",
+            "There are not many vegetables, but there are cucumber spears and cabbage.",
+            "There are a few vegetables in the photograph, but they are used mainly as garnishes or sides to the main courses."
+        ]
+    },
+    {
+        "image": "images/600px-Les_Plantes_Cultivades._Cereals._Imatge_119.jpg",
+        "context": "science_journals",
+        "description": "An array of different types of grains spread on a surface.\n",
+        "question": "What type of grains are these?",
+        "answers": [
+            "There are no grains",
+            "",
+            "There are several types of different grains on display. (List names of the different types)"
+        ]
+    },
+    {
+        "image": "images/440px-Laika_ac_Shitamachi_Tanabata_Matsuri_(7560650862).jpeg",
+        "context": "travel",
+        "description": "A woman from behind wearing a traditional blue and white flower patterned kimono at a bustling event at a street in Japan.\n",
+        "question": "Is the woman's hair done in a traditional bun to match the kimono?",
+        "answers": [
+            "Yes, the woman's hair is done in a traditional bun complete with a hair brooch.  ",
+            "No, it is not in a traditional hair bun.",
+            "Yes, the woman's hair is done in a traditional bun to match the kimono. "
+        ]
+    },
+    {
+        "image": "images/LegskinSwimsuit.jpeg",
+        "context": "health",
+        "description": "Black swim tights (full length, elastic waistband) with grey accents.  \n",
+        "question": "How much grey is on the swim tights?",
+        "answers": [
+            "There is a small amount of gray on the leggings which runs a few inches up on either side of the knees.",
+            "There are narrow grey panels of fabric sewn into the garment at the side of the knees. Also, there are grey stripes on the front and sides of the pants.",
+            "The grey is an accent to the black. It is only on the trim parts of the swim tights.",
+            "Very small amounts as accents."
+        ]
+    },
+    {
+        "image": "images/BCfood17.jpeg",
+        "context": "social_media",
+        "description": "An ornate Japanese blue porcelain bowl with four scallops resting in broth with garnish in the middle. The bowl sits on a wooden stand. Behind it is the stitching of a pillow's design\n",
+        "question": "Can you describe the pillow's design in a bit more detail?",
+        "answers": [
+            "The buttercup yellow pillow is seen sitting just behind the bowl in the background of the photo. It is sporadically patterned with larger green, orange, and burgundy round designs with similarly colored smaller patterns helping to fill the remaining space.",
+            "The pillow is cream in colour.",
+            "The overall color of the blanket is white-tan. There are a few circles made up of even smaller geometric shapes. The color of the shapes are light green, purple, orange, and gray. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/Silk_Sari_Weaving_at_Kanchipuram,_Tamil_Nadu.jpeg",
+        "context": "science_journals",
+        "description": "Weaving red and white silk on a loom. The loom is in a small room and the red silk strands are crossed horizontally while the white silk strands descend vertically and mingle with the red strands.\n",
+        "question": "What type of product does it look like they are weaving?",
+        "answers": [
+            "",
+            "It looks like they might be weaving a sheet of some kind.",
+            "a wool rug"
+        ]
+    },
+    {
+        "image": "images/Sustainability_and_Style_(27881359281).jpeg",
+        "context": "shopping",
+        "description": "A woman discussing in a fashion showroom addressing an audience of at least two people. \n",
+        "question": "How many people are in the audience?",
+        "answers": [
+            "From what we can see in the photo, there are two people in the audience, with more we possibly cannot see. ",
+            "There are 2 people in the image",
+            "at least two people"
+        ]
+    },
+    {
+        "image": "images/Ceremonia_del_Grito_de_Independencia_2023_-_3.jpeg",
+        "context": "travel",
+        "description": "A night-time celebration with a crowd, confetti, and illuminated buildings. An official is standing at a balcony ready to give a speech.\n",
+        "question": "Are there any flags in the picture?",
+        "answers": [
+            "Yes, there are Mexican flags.",
+            "There are many flags in the picture. They look to be the flag of Mexico.",
+            "Yes I can see Italy in the picture "
+        ]
+    },
+    {
+        "image": "images/Tyra_Banks_Glamour_2020.png",
+        "context": "news",
+        "description": "A stylish looking woman with long hair in pink blazer and golden jewelry showing on her finger and wrist.\n",
+        "question": "What is this ad for?",
+        "answers": [
+            "This ad is most likely for jewelry, particularly rings.",
+            "",
+            "Beauty and fashion ad"
+        ]
+    },
+    {
+        "image": "images/440px-Jasper_Dwayne_Reilander-4.jpeg",
+        "context": "science_journals",
+        "description": "A brown bear standing in a lush green forest, looking towards the camera.\n",
+        "question": "How big is the bear?",
+        "answers": [
+            "The bear is bigger than a cub, but not extremely large. It is most likely an adult. ",
+            "PRETTY DARN BIG",
+            "Slightly taller than the grass when standing on all four paws."
+        ]
+    },
+    {
+        "image": "images/240px-Chace_Crawford.jpeg",
+        "context": "social_media",
+        "description": "A young man in a suit with a slim tie gives a side glance, sporting styled hair and slight stubble.\n",
+        "question": "What type of shoes is here wearing?\n",
+        "answers": [
+            "I'm not sure, the picture only shows him from the waist up.",
+            "",
+            "The picture is from the waist up and I cannot see his shoes."
+        ]
+    },
+    {
+        "image": "images/440px-Frying_onion.jpeg",
+        "context": "shopping",
+        "description": "Chopped onions being saut\u00e9ed in a pan, with steam rising.\n",
+        "question": "What color ",
+        "answers": [
+            "the color of the onions is white",
+            "the pan is black and the onions are white.",
+            "Off-white is the color "
+        ]
+    },
+    {
+        "image": "images/Aldrin_Looks_Back_at_Tranquility_Base_-_GPN-2000-001102.jpeg",
+        "context": "science_journals",
+        "description": "Astronaut on the moon with the lunar module.\n",
+        "question": "Is this displaying the last time we had a lunar landing?",
+        "answers": [
+            "No, I don't believe this is the last time we had a lunar landing.",
+            "",
+            "It is displaying a moon landing but it is unclear whether it is the final moon landing or one prior to it. "
+        ]
+    },
+    {
+        "image": "images/STS-128_ISS-20_Destiny_Canadarm2.jpeg",
+        "context": "science_journals",
+        "description": "Astronauts working inside a space station module.\n",
+        "question": "How many astronauts at there?",
+        "answers": [
+            "Two astronauts are shown in the picture.",
+            "There are two astronauts.",
+            "there are two astronauts.",
+            "There are 2 astronauts"
+        ]
+    },
+    {
+        "image": "images/Novosibirsk_skyline_in_winter.jpeg",
+        "context": "shopping",
+        "description": "Aerial view of a winter city skyline at dusk with lit buildings and streets.\n",
+        "question": "What city is it",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Salad_platter.jpeg",
+        "context": "health",
+        "description": "Platter of green salad with toast, cheese, sundried tomatoes, and olives and dressing cup.\n",
+        "question": "What kind of vegetables are in the salad?",
+        "answers": [
+            "TOMATIES AND SOMETHING ELSE, NOT SURE WHAT",
+            "Cucumbers, beets, and green onions.",
+            "Olives, cucumbers, and sundried tomatoes",
+            "There are no other vegetables other than the lettuce."
+        ]
+    },
+    {
+        "image": "images/Pansotti_alle_noci_01.jpeg",
+        "context": "health",
+        "description": "Plate of green ravioli-like pasta with walnut sauce in a white plate\n",
+        "question": "Is the food vegan?",
+        "answers": [
+            "The dish is likely considered vegan.",
+            "probably not. if no eggs or milk were used, yes but probably not.",
+            "",
+            "It sounds like a vegan meal."
+        ]
+    },
+    {
+        "image": "images/Swift,_Taylor_(2007).jpeg",
+        "context": "news",
+        "description": "Female singer with an acoustic guitar on a concert stage.\n",
+        "question": "What hairstyle is the female singer wearing?",
+        "answers": [
+            "Long curly hair parted on the right side.",
+            "long blonde wavy hair",
+            "she has a side part."
+        ]
+    },
+    {
+        "image": "images/STS-128_ISS-20_Destiny_Canadarm2.jpeg",
+        "context": "news",
+        "description": "Astronauts working inside a space station module.\n",
+        "question": "How long have the inhabitants been abord? ",
+        "answers": [
+            "It is not clear how long the astronauts have been aboard.",
+            "I cannot determine how long the astronauts have been on board.",
+            "",
+            "The picture doesn't provide any information that would allow me to answer this."
+        ]
     }
 ]
