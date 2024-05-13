@@ -49,7 +49,198 @@
         "question": "What country does this take place in?",
         "answers": [
             "This takes place in Canada",
-            "Based upon clothing, it appears to be in Canada or Russia or European country.",
+            "Based upon clothing, it appears to be in Canada or Russia or European country."
+        ]
+    },
+    {
+        "image": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
+        "context": "social_media",
+        "description": "A worn-out sneaker on a forest floor.\n",
+        "question": "What else is on the forest floor?",
+        "answers": [
+            "sticks",
+            "tree branches",
+            "dry leaves and sticks with some moss ",
+            "There are also branches and leaves on the forest floor.",
+            "Many thin tree branches also cover the forest floor depicted in the image.",
+            "There are branches, fallen leaves on the floor."
+        ]
+    },
+    {
+        "image": "images/DR0071DSC_9245.jpeg",
+        "context": "science_journals",
+        "description": "A green landscape with numerous small islands.\n",
+        "question": "Are there any wildlife on these landscapes?",
+        "answers": [
+            "There is no wildlife pictured here.",
+            "perhaps but you cannot see them",
+            ""
+        ]
+    },
+    {
+        "image": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
+        "context": "news",
+        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
+        "question": "Does he appear to be in distress?",
+        "answers": [
+            "This man does not appear to be in distress. ",
+            "No, he appears to be posing for a photograph. ",
+            "no, he looks somewhat inquisitive. "
+        ]
+    },
+    {
+        "image": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
+        "context": "shopping",
+        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
+        "question": "What style is the clothes?",
+        "answers": [
+            "Seems to be a take on business casual",
+            "It's casual fashion.",
+            "The clothes style is business professional, but very sheen and upscale fashion.",
+            "The clothes are business casual. ",
+            "The style of clothing are more business casual, or perhaps clothing that can be worn in the evenings for a night out at a club or fancy restaurant."
+        ]
+    },
+    {
+        "image": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
+        "context": "health",
+        "description": "A chicken shawarma wrap with some lettuce on a plate.\n",
+        "question": "Is this from a restaurant or home kitchen?",
+        "answers": [
+            "It seems like it is from a restaurant because it is plated well and the utensils are wrapped in a napkin",
+            "The plate is sitting on a wooden table with cutlery wrapped in a napkin like restaurants prepare cutlery for customer use. The cutlery preparation style may indicate this is in a restaurant, but offers no guarantee.",
+            "This is likely from a restaurant because there is silverware wrapped in a napkin on the table next to it.",
+            "This image is from a restaurant. There is silverware rolled up in napkins on the table. ",
+            "This is from a restaurant",
+            "restaurant "
+        ]
+    },
+    {
+        "image": "images/Khao_soi_nam_na.jpeg",
+        "context": "travel",
+        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
+        "question": "Is it spicy?",
+        "answers": [
+            "Likely not as Asian food of this variety with these herbs would not appear to be spicy.",
+            "Unknown, but the color of the meat indicates that it could be spicy",
+            "It looks to possibly contain peppers but its somewhat difficult to tell from the photo."
+        ]
+    },
+    {
+        "image": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
+        "context": "health",
+        "description": "Wheelchair athlete racing intensely on road.\n",
+        "question": "Is this athlete racing with other people?",
+        "answers": [
+            "The photo is a close-up so you cannot see if there are other people or not",
+            "The athlete is not racing with other people based on the image, as it only shows him.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
+        "context": "travel",
+        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
+        "question": "What performance level are they indicative of? (e.g., extreme cyclist, elderly enthusiasts or young thrill seekers)",
+        "answers": [
+            "There's a mixed level of riders of all levels.",
+            "they look like regular cyclists ",
+            "These cyclists appear to be extreme cyclists. They appear to be at a nighttime event strictly for cyclists, indicating they have ridden bicycles many times and are passionate about attending an event for cycling."
+        ]
+    },
+    {
+        "image": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
+        "context": "social_media",
+        "description": "Seven layers of chocolate and hazelnut cake with a chocolate bar on top. The chocolate bar on top have writing on it. The cake is sitting on a gold, flat plate.\n",
+        "question": "Is it a whole cake, or just a piece?",
+        "answers": [
+            "whole cake",
+            "",
+            "I think it's a whole cake",
+            "Just a piece",
+            "It is a whole cake.",
+            "It appears to be a whole cake, although pretty small."
+        ]
+    },
+    {
+        "image": "images/Meditating_in_Madison_Square_Park.jpeg",
+        "context": "health",
+        "description": "Four people meditating in a city park with trees and chairs around them\n",
+        "question": "What are they wearing ?",
+        "answers": [
+            "They are wearing normal clothes",
+            "They are dressed casually. They are wearing T-shirts or jackets and pants or shorts. They are not wearing shoes. One man is wearing a baseball hat.",
+            "They are all casually dressed in t-shirts and jeans.",
+            "One male is wearing a green t shirt, black hat, and blue jeans.  One female is wearing glasses, a white t shirt with a grey vest over it, and black pants.  One male is wearing a black and white short sleeve collared shirt with dark pants. One female is wearing a green sleeveless top and white pants.  All of their shoes are next to them.",
+            "The 3 people are wearing earth tone colored clothing, one has a baseball hat on, and they are in a sitting position for meditation."
+        ]
+    },
+    {
+        "image": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
+        "context": "science_journals",
+        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
+        "question": "Does it look like someone has been there recently?",
+        "answers": [
+            "Yes the grounds are manicured and the house looks ell maintained",
+            "Yes, because the grass is neatly kept. ",
+            "It does not look like someone has been there.",
+            "No; the description doesn't give the indication of a structured building.",
+            "The property looks like it is well maintained, it would be safe to assume so."
+        ]
+    },
+    {
+        "image": "images/Young_ladies_at_Harajuku.jpeg",
+        "context": "news",
+        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
+        "question": "What are the women using the purses and scarves for?",
+        "answers": [
+            "They are carrying things in them that would be of personal use for normal daily operations",
+            "",
+            "Fashion or tradition"
+        ]
+    },
+    {
+        "image": "images/520px-thumbnail.jpeg",
+        "context": "health",
+        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
+        "question": "what color is the water in the pool",
+        "answers": [
+            "It is clear water that has the appearance of blue due to the pool lining",
+            "The color of the water in the pool is a bright aqua color, typical of what you would find in a typical community or school pool.",
+            "A light blue, like you would expect any public pool to look."
+        ]
+    },
+    {
+        "image": "images/Pilates_(9956534863).jpeg",
+        "context": "social_media",
+        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
+        "question": "Are they an instructor?",
+        "answers": [
+            "They are likely an online instructor for fitness and motivation on social media, but unlikely as a physical instructor ",
+            "",
+            "Not specified"
+        ]
+    },
+    {
+        "image": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
+        "context": "health",
+        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
+        "question": "Is it in a restaurant?",
+        "answers": [
+            "It is not clear, but based on the presentation, it is safe to assume this is a restaurant ",
+            "Yes, this food appears to be served in a restaurant due to the good quality of the tablecloth and utensils, along with the cleanliness of the plates and entire picture.",
+            "Not specified."
+        ]
+    },
+    {
+        "image": "images/Kate_middleton.jpeg",
+        "context": "social_media",
+        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
+        "question": "Who is the person?",
+        "answers": [
+            "unknown. It is possible the person is the owner of the social media account of one of their friends",
+            "The person is Kate Middleton. ",
+            "The woman in the image is Kate Middleton, a member of the Royal Family."
         ]
     }
 ]
