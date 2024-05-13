@@ -1,5 +1,6 @@
 '''
-This file checks coverage of questions in the experiment, saves all completed datapoints to a new file, and fills 'new_pilot_exp.json'
+This file checks coverage of questions in the experiment,
+saves all completed datapoints to a new file, and fills 'new_pilot_exp.json'
 with the datapoints that have yet to be covered.
 '''
 
@@ -7,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('ig-vqa-default-rtdb-answer-elicitation-study-gpt4-descriptions-export.json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (7).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}
@@ -26,6 +27,10 @@ all_questions = json.load(f)
 
 for participant in study_info:
     for trial in study_info[participant]:
+        if (trial['glb_comments'] != ''):
+            print('GLB comments: ', trial['glb_comments'])
+        if (trial['comments'] != ''):
+            print(trial['comments'])
         found_in_pilot_exp = False 
         for pilot_exp_entry in pilot_exp['images']:
             if (trial['picture'] == pilot_exp_entry['filename'] and trial['category'] == pilot_exp_entry['category']
@@ -52,7 +57,6 @@ questions_covered = []
 images_not_covered = []
 
 for question in all_questions['images']:
-    # Check first if the description is correct here!!
     if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
         num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
     else:
@@ -60,6 +64,9 @@ for question in all_questions['images']:
         images_not_covered.append(question['filename'])
         continue 
 
+    # Do a screening
+    if (num_answers == 2):
+        print("Two answers covered! ", num_answers)
     if (num_answers < 3):
         questions_not_covered.append(question)
         images_not_covered.append(question['filename'])
@@ -80,7 +87,13 @@ with open("questions_covered.json", "w") as outfile:
     outfile.write(json.dumps(questions_covered, indent = 4))
 
 for (image, context, description, question) in answers:
-    if (len(answers[(image, context, description, question)]) >= 3):
+    # Check if there are at least two unanswerable ratings!!
+
+    unanswerable = False 
+    if (answers[(image, context, description, question)].count('') >= 2):
+        unanswerable = True 
+
+    if (len(answers[(image, context, description, question)]) >= 3 or unanswerable):
         i = {
             'image': image,
             'context': context,

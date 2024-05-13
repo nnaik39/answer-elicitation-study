@@ -1,141 +1,55 @@
 [
     {
-        "image": "images/Shops_in_the_Bellagio_casino,_Las_Vegas.jpeg",
+        "image": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
         "context": "travel",
-        "description": "An opulent shopping arcade with a glass ceiling, luxury storefronts, and ornate lamps, likely in a high-end casino.\n",
-        "question": "how tall is the ceiling?",
+        "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
+        "question": "What is the expression on the couples faces?",
         "answers": [
-            "The glass ceiling seems to be at least two stories tall.",
-            "25 feet give or take.",
-            "",
-            "",
-            "",
-            "The ceiling is quite high, around 20 feet tall.",
-            "15 feet tall",
-            "The ceilings are very tall, think Vegas Hotel heights for this ",
-            "around 30 feet",
-            ""
+            "They have a stern look on their faces",
+            "They appear pleased with the camera and whoever is off screen",
+            "The couple both look happy, with slight smiles on their faces"
         ]
     },
     {
-        "image": "images/Apollo_17_AS17-140-21497.jpeg",
-        "context": "science_journals",
-        "description": "An astronaut examines a huge lunar rock on the moon's surface, with the desolate lunar landscape in the background.\n",
-        "question": "Do you think that astronaut is afraid of running out of air?",
-        "answers": [
-            "",
-            "Probably, I would be.",
-            "I don't know if he's worried about running out of air, but he does appear to have appropriate gear on"
-        ]
-    },
-    {
-        "image": "images/440px-Telescope_Kepler-NASA.jpg",
-        "context": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "What does the space telescope look like?",
-        "answers": [
-            "It is shiny, metallic, and cylindrical. ",
-            "very futuristic",
-            "It does not look like a conventional telescope. It looks like the bottom of a rocket. It is gray and tubular with a panel on the side that is blue. "
-        ]
-    },
-    {
-        "image": "images/Faculty_of_Food_Engineering_and_Biotechnology_4.jpeg",
-        "context": "health",
-        "description": "A scientist in a white lab coat and hairnet is using a pipette and lab equipment near a window.\n",
-        "question": "What equipment is the scientist using?",
-        "answers": [
-            "a pipette.",
-            "The scientist is using a microscope and a dropper. ",
-            "The scientist is using a pipette.",
-            "The scientist is using a microscope",
-            "a pippette",
-            ""
-        ]
-    },
-    {
-        "image": "images/440px-Vegan_Gardein_Tofu_Foods_Display_(cropped1).jpeg",
-        "context": "social_media",
-        "description": "A display of various vegan dishes, all labeled, under bright lights at a food counter.\n",
-        "question": "How many dishes are in the image?",
-        "answers": [
-            "14 dishes in image",
-            "there appears to be 11 dishes in the images all with food",
-            "Thirteen dishes",
-            "There are 15 dishes visible",
-            "There are 14 dishes in the image.",
-            "It looks like there are fourteen dishes in the picture above. ",
-            "14 vegan dishes are shown ",
-            "twelve",
-            "There are 12 dishes in the image.",
-            "There are 14 dishes",
-            "There are about 12 kind of dishes.",
-            "There are 14 dishes in the image",
-            "There are twelve dishes in the image.",
-            "There are 14 dishes",
-            "There are 15 platters or bowls of food.",
-            "14 total, but you  can only  see 8 labels",
-            "13 dishes in the image "
-        ]
-    },
-    {
-        "image": "images/440px-Telescope_Kepler-NASA.jpg",
-        "context": "science_journals",
-        "description": "An illustration of the Kepler space telescope orbiting Earth with stars and planets in the background.\n",
-        "question": "How well does this work? ",
-        "answers": [
-            "",
-            "The question cannot be answered from the image but the checkbox on this survey doesn't work.",
-            ""
-        ]
-    },
-    {
-        "image": "images/Carolina_Herrera_AW14_12.jpeg",
+        "image": "images/440px-Haselnuss.jpeg",
         "context": "shopping",
-        "description": "A line of models walk down a runway with a dark background in a fashion show, showcasing a variety of elegant outfits.\n",
-        "question": "Is the image an ad for a brand?",
+        "description": "A cracked hazelnut shell, with the nut visible inside, against a white background.\n",
+        "question": "Why is it relevant to a shopping website?\n",
         "answers": [
-            "No brands are identified in it.",
-            "There's no brand visible",
-            "No it's not an ad for a brand.",
-            "It might be an ad but there aren't any super visible logos ",
-            "",
-            "",
-            "Not that I can see.",
-            "",
-            "There is no particular brand showing. ",
-            "It is likely, as the image appears on a shopping website.",
-            "The image is not an ad for a brand, it's an image of a runway show.",
-            "",
-            "",
-            "",
-            ""
+            "The hazelnut is being sold.",
+            "The shopping website may be selling prepared hazelnuts for consumption and the image is to show detail and entice customers."
         ]
     },
     {
-        "image": "images/Drug_ampoule_JPN.jpeg",
+        "image": "images/320px-Atlantic_Attack_Ringette_Team.jpeg",
         "context": "news",
-        "description": "Several medical ampoules of different sizes and colors arranged on a white surface.\n",
-        "question": "How is it relevant to me",
+        "description": "Players in a ringette game in motion on the ice.\n",
+        "question": "Are there any notable or significant events happening within the game that are worth reporting on?",
         "answers": [
-            "It's about medicine, so it might not be",
-            "It could be relevant if the article has to do with drinking.",
-            "",
-            "",
-            "This is not relevant to me, so I can't say how it may be relevant to anyone else",
-            "These may be medications used by your local doctors and hospitals. ",
-            ""
+            "no, it looks like a simple passing move ",
+            "The number of goals scored in the hockey game.",
+            "Red team is currently in control"
         ]
     },
     {
-        "image": "images/440px-Redwood_Grove_logs_to_mill.jpeg",
-        "context": "science_journals",
-        "description": "A scene of fall foiliage with pile of freshly cut logs in the foreground with tall mixed trees and shrubbery in the background.\n",
-        "question": "Is that not enough detail?",
+        "image": "images/Noaa-walrus12.jpeg",
+        "context": "social_media",
+        "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
+        "question": "what does this picture have to do with connections?",
         "answers": [
-            "Yes there is enough details",
-            "",
-            ""
+            "You could say the walruses are connected in the way they lay together in their leisure time. They look very comfortable, since one is laying its face on the rock, while two others are near.",
+            "The walruses could be a metaphor for people. Or the image could be part of a meme.",
+            "The walruses look to be displaying a familial connection by the way they are interacting."
+        ]
+    },
+    {
+        "image": "images/Curling_at_the_Huntsville_Curling_Club_(I0005717).jpg",
+        "context": "travel",
+        "description": "People playing curling indoors, with colorful flags hanging above.\n",
+        "question": "What country does this take place in?",
+        "answers": [
+            "This takes place in Canada",
+            "Based upon clothing, it appears to be in Canada or Russia or European country.",
         ]
     }
 ]
