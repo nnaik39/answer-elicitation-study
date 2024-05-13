@@ -1,51 +1,9 @@
 [
     {
-        "filename": "images/Kate_middleton.jpeg",
-        "category": "social_media",
-        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
-        "question": "Who is the person?"
-    },
-    {
-        "filename": "images/Curling_at_the_Huntsville_Curling_Club_(I0005717).jpg",
-        "category": "travel",
-        "description": "People playing curling indoors, with colorful flags hanging above.\n",
-        "question": "What country does this take place in?"
-    },
-    {
-        "filename": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
+        "filename": "images/340px-Jersei-coll-alt.jpeg",
         "category": "shopping",
-        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
-        "question": "What style is the clothes?"
-    },
-    {
-        "filename": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
-        "category": "travel",
-        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
-        "question": "What performance level are they indicative of? (e.g., extreme cyclist, elderly enthusiasts or young thrill seekers)"
-    },
-    {
-        "filename": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
-        "category": "health",
-        "description": "Wheelchair athlete racing intensely on road.\n",
-        "question": "Is this athlete racing with other people?"
-    },
-    {
-        "filename": "images/Pilates_(9956534863).jpeg",
-        "category": "social_media",
-        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-        "question": "Are they an instructor?"
-    },
-    {
-        "filename": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
-        "category": "science_journals",
-        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
-        "question": "Does it look like someone has been there recently?"
-    },
-    {
-        "filename": "images/Aquarium_fg01.jpeg",
-        "category": "travel",
-        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
-        "question": "What kind of fishes are in the aquarium?"
+        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
+        "question": "Is it fitted or loose sweater"
     },
     {
         "filename": "images/DR0071DSC_9245.jpeg",
@@ -54,58 +12,10 @@
         "question": "Are there any wildlife on these landscapes?"
     },
     {
-        "filename": "images/Alexa_Chung_2015_(cropped).jpeg",
-        "category": "news",
-        "description": "A woman in a floral off-shoulder dress and heels, holding an award, smiling on stage.\n",
-        "question": "what is the award"
-    },
-    {
-        "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-        "category": "health",
-        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
-        "question": "Is it in a restaurant?"
-    },
-    {
-        "filename": "images/Young_ladies_at_Harajuku.jpeg",
-        "category": "news",
-        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
-        "question": "What are the women using the purses and scarves for?"
-    },
-    {
-        "filename": "images/520px-thumbnail.jpeg",
-        "category": "health",
-        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
-        "question": "what color is the water in the pool"
-    },
-    {
-        "filename": "images/Khao_soi_nam_na.jpeg",
+        "filename": "images/BGSU_Aquarium.jpeg",
         "category": "travel",
-        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
-        "question": "Is it spicy?"
-    },
-    {
-        "filename": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
-        "category": "travel",
-        "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
-        "question": "What is the expression on the couples faces?"
-    },
-    {
-        "filename": "images/Nymphaea_nouchali00.jpeg",
-        "category": "travel",
-        "description": "Close-up of a lavender-colored water lily with bees on it.\n",
-        "question": "what is the weather like"
-    },
-    {
-        "filename": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
-        "category": "social_media",
-        "description": "A worn-out sneaker on a forest floor.\n",
-        "question": "What else is on the forest floor?"
-    },
-    {
-        "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-        "category": "news",
-        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
-        "question": "Does he appear to be in distress?"
+        "description": "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n",
+        "question": "How large is the room?"
     },
     {
         "filename": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
@@ -114,10 +24,34 @@
         "question": "Is this from a restaurant or home kitchen?"
     },
     {
-        "filename": "images/Meditating_in_Madison_Square_Park.jpeg",
+        "filename": "images/520px-thumbnail.jpeg",
         "category": "health",
-        "description": "Four people meditating in a city park with trees and chairs around them\n",
-        "question": "What are they wearing ?"
+        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
+        "question": "what color is the water in the pool"
+    },
+    {
+        "filename": "images/Alexa_Chung_2015_(cropped).jpeg",
+        "category": "news",
+        "description": "A woman in a floral off-shoulder dress and heels, holding an award, smiling on stage.\n",
+        "question": "what is the award"
+    },
+    {
+        "filename": "images/Aquarium_fg01.jpeg",
+        "category": "social_media",
+        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
+        "question": "What is the woman looking at in the room?"
+    },
+    {
+        "filename": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
+        "category": "travel",
+        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
+        "question": "What performance level are they indicative of? (e.g., extreme cyclist, elderly enthusiasts or young thrill seekers)"
+    },
+    {
+        "filename": "images/Amazon_CIAT_(2).jpeg",
+        "category": "science_journals",
+        "description": "Wide river bordered by dense jungle under a partly cloudy sky.\n",
+        "question": "What does the environment look like?"
     },
     {
         "filename": "images/320px-Atlantic_Attack_Ringette_Team.jpeg",
@@ -126,16 +60,160 @@
         "question": "Are there any notable or significant events happening within the game that are worth reporting on?"
     },
     {
-        "filename": "images/Roma-_Altare_della_Patria_(Piazza_Venezia)_-_52347399654_(cropped).jpeg",
+        "filename": "images/440px-Living_on_the_rainforest.jpeg",
+        "category": "travel",
+        "description": "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
+        "question": "does it appear to be romantic of for family "
+    },
+    {
+        "filename": "images/Young_ladies_at_Harajuku.jpeg",
+        "category": "news",
+        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
+        "question": "What are the women using the purses and scarves for?"
+    },
+    {
+        "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
+        "category": "news",
+        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
+        "question": "Does he appear to be in distress?"
+    },
+    {
+        "filename": "images/Kate_middleton.jpeg",
+        "category": "social_media",
+        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
+        "question": "Who is the person?"
+    },
+    {
+        "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
         "category": "science_journals",
-        "description": "Rome\u2019s Altare della Patria lit up at twilight, with statues and columns.\n",
-        "question": "What is the setting in the image"
+        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
+        "question": "Is the Jules Verne manuscript open or closed?"
+    },
+    {
+        "filename": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
+        "category": "travel",
+        "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
+        "question": "What is the expression on the couples faces?"
+    },
+    {
+        "filename": "images/Beluga_premier.gov.ru-1.jpeg",
+        "category": "science_journals",
+        "description": "A smiling beluga whale above water.\n",
+        "question": "What behavior or activity is the beluga whale engaged in?"
+    },
+    {
+        "filename": "images/Fashion_Runway.jpeg",
+        "category": "shopping",
+        "description": "Models walking on a fashion runway with an audience watching.\n",
+        "question": "What are the models wearing?"
+    },
+    {
+        "filename": "images/Nymphaea_nouchali00.jpeg",
+        "category": "travel",
+        "description": "Close-up of a lavender-colored water lily with bees on it.\n",
+        "question": "what is the weather like"
+    },
+    {
+        "filename": "images/Curling_at_the_Huntsville_Curling_Club_(I0005717).jpg",
+        "category": "travel",
+        "description": "People playing curling indoors, with colorful flags hanging above.\n",
+        "question": "What country does this take place in?"
+    },
+    {
+        "filename": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
+        "category": "health",
+        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
+        "question": "Is it in a restaurant?"
+    },
+    {
+        "filename": "images/Gemma_Ward.jpeg",
+        "category": "shopping",
+        "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
+        "question": "What kind of fashion items are present "
+    },
+    {
+        "filename": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
+        "category": "shopping",
+        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
+        "question": "What style is the clothes?"
+    },
+    {
+        "filename": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
+        "category": "shopping",
+        "description": "A model wearing a shiny dress walking a glittery runway.\n",
+        "question": "What color is the dress?"
+    },
+    {
+        "filename": "images/Pilates_(9956534863).jpeg",
+        "category": "social_media",
+        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
+        "question": "Are they an instructor?"
+    },
+    {
+        "filename": "images/Kumarkom.jpeg",
+        "category": "travel",
+        "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
+        "question": "Where exactly is this location?"
     },
     {
         "filename": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
         "category": "social_media",
         "description": "Seven layers of chocolate and hazelnut cake with a chocolate bar on top. The chocolate bar on top have writing on it. The cake is sitting on a gold, flat plate.\n",
         "question": "Is it a whole cake, or just a piece?"
+    },
+    {
+        "filename": "images/Khao_soi_nam_na.jpeg",
+        "category": "travel",
+        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
+        "question": "Is it spicy?"
+    },
+    {
+        "filename": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
+        "category": "news",
+        "description": "A traditional knitted cardigan with decorative patterns.\n",
+        "question": "who is wearing this cardigan?"
+    },
+    {
+        "filename": "images/Meditating_in_Madison_Square_Park.jpeg",
+        "category": "health",
+        "description": "Four people meditating in a city park with trees and chairs around them\n",
+        "question": "What are they wearing ?"
+    },
+    {
+        "filename": "images/Roma-_Altare_della_Patria_(Piazza_Venezia)_-_52347399654_(cropped).jpeg",
+        "category": "science_journals",
+        "description": "Rome\u2019s Altare della Patria lit up at twilight, with statues and columns.\n",
+        "question": "What is the setting in the image"
+    },
+    {
+        "filename": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
+        "category": "social_media",
+        "description": "A worn-out sneaker on a forest floor.\n",
+        "question": "What else is on the forest floor?"
+    },
+    {
+        "filename": "images/Aquarium_fg01.jpeg",
+        "category": "travel",
+        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
+        "question": "What kind of fishes are in the aquarium?"
+    },
+    {
+        "filename": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
+        "category": "news",
+        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
+        "question": "Are members of the audience or anyone else visible?"
+    },
+    {
+        "filename": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
+        "category": "health",
+        "description": "Wheelchair athlete racing intensely on road.\n",
+        "question": "Is this athlete racing with other people?"
+    },
+    {
+        "filename": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
+        "category": "science_journals",
+        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
+        "question": "Does it look like someone has been there recently?"
     },
     {
         "filename": "images/Noaa-walrus12.jpeg",

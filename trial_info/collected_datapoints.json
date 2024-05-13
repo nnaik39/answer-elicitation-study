@@ -1,234 +1,227 @@
 [
     {
-        "image": "images/Marieta_-_Zapatilla_-BT-_01.jpeg",
-        "context": "social_media",
-        "description": "A worn-out sneaker on a forest floor.\n",
-        "question": "What else is on the forest floor?",
+        "image": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
+        "context": "shopping",
+        "description": "A model wearing a shiny dress walking a glittery runway.\n",
+        "question": "What color is the dress?",
         "answers": [
-            "sticks",
-            "tree branches",
-            "dry leaves and sticks with some moss ",
-            "There are also branches and leaves on the forest floor.",
-            "Many thin tree branches also cover the forest floor depicted in the image.",
-            "There are branches, fallen leaves on the floor."
+            "Shiny silver metallic",
+            "the dress is gold",
+            "The dress is a silver metallic material with reflective qualities.",
+            "The dress is silver."
         ]
     },
     {
-        "image": "images/DR0071DSC_9245.jpeg",
+        "image": "images/440px-Living_on_the_rainforest.jpeg",
+        "context": "travel",
+        "description": "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
+        "question": "does it appear to be romantic of for family ",
+        "answers": [
+            "no it does not appear romantic or for family",
+            "no, the image does not appear to be romantic place for a family ",
+            "Definitely not romantic or for family."
+        ]
+    },
+    {
+        "image": "images/340px-Jersei-coll-alt.jpeg",
+        "context": "shopping",
+        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
+        "question": "Is it fitted or loose sweater",
+        "answers": [
+            "The sweater is loose, but not oversized",
+            "It has an elastic bottom as well as sleeve cuffs and seems to be a tighter-fitting cut.",
+            "It appears slightly fitted.",
+            "It is a loose sweater.",
+            "It's a loose fitting sweater"
+        ]
+    },
+    {
+        "image": "images/Magdalena_Frackowiak.jpeg",
+        "context": "shopping",
+        "description": "Model in a flowing red dress on the runway.\n",
+        "question": "Is the model plus sized or petite?",
+        "answers": [
+            "she is petite",
+            "Not specified",
+            "",
+            "The model is petite but looks to be tall."
+        ]
+    },
+    {
+        "image": "images/Amazon_CIAT_(2).jpeg",
         "context": "science_journals",
-        "description": "A green landscape with numerous small islands.\n",
-        "question": "Are there any wildlife on these landscapes?",
+        "description": "Wide river bordered by dense jungle under a partly cloudy sky.\n",
+        "question": "What does the environment look like?",
         "answers": [
-            "There is no wildlife pictured here.",
-            "perhaps but you cannot see them",
-            ""
+            "warm environment with a river, beach, and trees",
+            "The environment looks clear and calm.",
+            "It looks like a warm or temperate climate in nature."
         ]
     },
     {
-        "image": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-        "context": "news",
-        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
-        "question": "Does he appear to be in distress?",
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "science_journals",
+        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
+        "question": "Is the Jules Verne manuscript open or closed?",
         "answers": [
-            "This man does not appear to be in distress. ",
-            "No, he appears to be posing for a photograph. ",
-            "no, he looks somewhat inquisitive. "
+            "The manuscript looks closed",
+            "The Jules Verne manuscript is closed. There are three people holding things.",
+            "It is hard to tell which item is the manuscript as two of the astronauts are holding what seems to be books/manuscripts and another has possibly a clipboard on his lap. The books seem to be closed, but since the image is pulled back, it is hard to tell"
+        ]
+    },
+    {
+        "image": "images/Fashion_Runway.jpeg",
+        "context": "shopping",
+        "description": "Models walking on a fashion runway with an audience watching.\n",
+        "question": "What are the models wearing?",
+        "answers": [
+            "Skirts and jackets",
+            "Model 1 is wearing a black jacket, brown undershirt, black skirt, and black shoes. Model 2 is wearing a shiny silver varsity jacket with black sleeves, a checkered skirt, and black shoes. Model 3 a white top with a small black skirt.",
+            "One model is wearing a light-purple and long-sleeved sweater with a leather jacket and skirt. And the other is wearing a plaid skirt with a shiny grey and black long-sleeved top."
         ]
     },
     {
         "image": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
-        "context": "shopping",
+        "context": "news",
         "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
-        "question": "What style is the clothes?",
+        "question": "Are members of the audience or anyone else visible?",
         "answers": [
-            "Seems to be a take on business casual",
-            "It's casual fashion.",
-            "The clothes style is business professional, but very sheen and upscale fashion.",
-            "The clothes are business casual. ",
-            "The style of clothing are more business casual, or perhaps clothing that can be worn in the evenings for a night out at a club or fancy restaurant."
+            "Yes, you can see some people are seated along the left hand side.",
+            "Yes, you can see the audience members but not as clearly as the models.",
+            "Yes there are other people visible.",
+            "There are audience members along the left side of the image but you can't really make out who anyone is specifically. "
         ]
     },
     {
-        "image": "images/Handmade_Chicken_Shawarma_Wrap_-_Lavash.jpeg",
-        "context": "health",
-        "description": "A chicken shawarma wrap with some lettuce on a plate.\n",
-        "question": "Is this from a restaurant or home kitchen?",
-        "answers": [
-            "It seems like it is from a restaurant because it is plated well and the utensils are wrapped in a napkin",
-            "The plate is sitting on a wooden table with cutlery wrapped in a napkin like restaurants prepare cutlery for customer use. The cutlery preparation style may indicate this is in a restaurant, but offers no guarantee.",
-            "This is likely from a restaurant because there is silverware wrapped in a napkin on the table next to it.",
-            "This image is from a restaurant. There is silverware rolled up in napkins on the table. ",
-            "This is from a restaurant",
-            "restaurant "
-        ]
-    },
-    {
-        "image": "images/Nymphaea_nouchali00.jpeg",
+        "image": "images/Kumarkom.jpeg",
         "context": "travel",
-        "description": "Close-up of a lavender-colored water lily with bees on it.\n",
-        "question": "what is the weather like",
+        "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
+        "question": "Where exactly is this location?",
         "answers": [
             "",
-            "springtime weather",
-            "",
-            ""
+            "Not specified",
+            "The location is outdoors and may be a part of a tropical climate such as Florida. "
         ]
     },
     {
-        "image": "images/Khao_soi_nam_na.jpeg",
+        "image": "images/BGSU_Aquarium.jpeg",
         "context": "travel",
-        "description": "A bowl of Asian noodle soup topped with minced meat and fresh herbs.\n",
-        "question": "Is it spicy?",
+        "description": "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n",
+        "question": "How large is the room?",
         "answers": [
-            "Likely not as Asian food of this variety with these herbs would not appear to be spicy.",
-            "Unknown, but the color of the meat indicates that it could be spicy",
-            "It looks to possibly contain peppers but its somewhat difficult to tell from the photo."
+            "The room is fairly large. It is about the size of an average conference room in an office. ",
+            "Fairly large, due to all the fish tanks and other equipment",
+            "it is quite large, holding more than a dozen aquariums. ",
+            "The room is above average in size, with many aquarium tanks on display."
         ]
     },
     {
-        "image": "images/2017_London_Marathon_-_Manuela_Schar_(3x4a).jpeg",
-        "context": "health",
-        "description": "Wheelchair athlete racing intensely on road.\n",
-        "question": "Is this athlete racing with other people?",
+        "image": "images/Gemma_Ward.jpeg",
+        "context": "shopping",
+        "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
+        "question": "What kind of fashion items are present ",
         "answers": [
-            "The photo is a close-up so you cannot see if there are other people or not",
-            "The athlete is not racing with other people based on the image, as it only shows him.",
-            ""
+            "A wide brimmed hat and a silk shirt. Both are red.",
+            "The model is also wearing a red shirt with a brown collar and brown trim, a brown tie, and the top of a red purse or bag is visible.",
+            "A hat and a blouse"
         ]
     },
     {
         "image": "images/Aquarium_fg01.jpeg",
-        "context": "travel",
+        "context": "social_media",
         "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
-        "question": "What kind of fishes are in the aquarium?",
+        "question": "What is the woman looking at in the room?",
         "answers": [
-            "Small fishes that thrive near corals ",
-            "",
-            ""
+            "The woman is looking at a salt water aquarium filled with fish and other sea wildlife.",
+            "The fish swimming in the aquarium",
+            "The woman is looking at the aquarium. ",
+            "The woman is looking at the aquarium",
+            "She could be looking at tank in the Rainforest Cafe"
         ]
     },
     {
-        "image": "images/440px-Kluft-photo-2019-07-19-SJBP-regroup2a.jpeg",
-        "context": "travel",
-        "description": "A night gathering of cyclists with many bicycles, some with illuminated lights, in a parking lot.\n",
-        "question": "What performance level are they indicative of? (e.g., extreme cyclist, elderly enthusiasts or young thrill seekers)",
-        "answers": [
-            "There's a mixed level of riders of all levels.",
-            "they look like regular cyclists ",
-            "These cyclists appear to be extreme cyclists. They appear to be at a nighttime event strictly for cyclists, indicating they have ridden bicycles many times and are passionate about attending an event for cycling."
-        ]
-    },
-    {
-        "image": "images/Cocola_Bakery_Hazelnut_Cake_(17733558344).jpeg",
-        "context": "social_media",
-        "description": "Seven layers of chocolate and hazelnut cake with a chocolate bar on top. The chocolate bar on top have writing on it. The cake is sitting on a gold, flat plate.\n",
-        "question": "Is it a whole cake, or just a piece?",
-        "answers": [
-            "whole cake",
-            "",
-            "I think it's a whole cake",
-            "Just a piece",
-            "It is a whole cake.",
-            "It appears to be a whole cake, although pretty small."
-        ]
-    },
-    {
-        "image": "images/Meditating_in_Madison_Square_Park.jpeg",
-        "context": "health",
-        "description": "Four people meditating in a city park with trees and chairs around them\n",
-        "question": "What are they wearing ?",
-        "answers": [
-            "They are wearing normal clothes",
-            "They are dressed casually. They are wearing T-shirts or jackets and pants or shorts. They are not wearing shoes. One man is wearing a baseball hat.",
-            "They are all casually dressed in t-shirts and jeans.",
-            "One male is wearing a green t shirt, black hat, and blue jeans.  One female is wearing glasses, a white t shirt with a grey vest over it, and black pants.  One male is wearing a black and white short sleeve collared shirt with dark pants. One female is wearing a green sleeveless top and white pants.  All of their shoes are next to them.",
-            "The 3 people are wearing earth tone colored clothing, one has a baseball hat on, and they are in a sitting position for meditation."
-        ]
-    },
-    {
-        "image": "images/Alexa_Chung_2015_(cropped).jpeg",
-        "context": "news",
-        "description": "A woman in a floral off-shoulder dress and heels, holding an award, smiling on stage.\n",
-        "question": "what is the award",
-        "answers": [
-            "It looks like some type of glass award",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Coricancha,_Cusco,_Peru,_2015-07-31,_DD_68.jpeg",
+        "image": "images/Beluga_premier.gov.ru-1.jpeg",
         "context": "science_journals",
-        "description": "Ancient stone walls with a round, grass-topped terrace in front.\n",
-        "question": "Does it look like someone has been there recently?",
+        "description": "A smiling beluga whale above water.\n",
+        "question": "What behavior or activity is the beluga whale engaged in?",
         "answers": [
-            "Yes the grounds are manicured and the house looks ell maintained",
-            "Yes, because the grass is neatly kept. ",
-            "It does not look like someone has been there.",
-            "No; the description doesn't give the indication of a structured building.",
-            "The property looks like it is well maintained, it would be safe to assume so."
-        ]
-    },
-    {
-        "image": "images/Young_ladies_at_Harajuku.jpeg",
-        "context": "news",
-        "description": "A group of women in traditional Japanese attire carrying purses and scarves.\n",
-        "question": "What are the women using the purses and scarves for?",
-        "answers": [
-            "They are carrying things in them that would be of personal use for normal daily operations",
+            "The beluga whale is happily surfacing above the water, with a smiling expression.",
             "",
-            "Fashion or tradition"
+            "The beluga is sticking it's head out of the water in order to interact with the photographer."
         ]
     },
     {
-        "image": "images/520px-thumbnail.jpeg",
-        "context": "health",
-        "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
-        "question": "what color is the water in the pool",
-        "answers": [
-            "It is clear water that has the appearance of blue due to the pool lining",
-            "The color of the water in the pool is a bright aqua color, typical of what you would find in a typical community or school pool.",
-            "A light blue, like you would expect any public pool to look."
-        ]
-    },
-    {
-        "image": "images/Pilates_(9956534863).jpeg",
-        "context": "social_media",
-        "description": "Person doing an upside-down pilates exercise while wearing a red shirt and gray pants while in front of a mirror.\n",
-        "question": "Are they an instructor?",
-        "answers": [
-            "They are likely an online instructor for fitness and motivation on social media, but unlikely as a physical instructor ",
-            "",
-            "Not specified"
-        ]
-    },
-    {
-        "image": "images/Kaeng_pla_thu_and_tom_mara.jpeg",
-        "context": "health",
-        "description": "A Thai meal spread with fish curry and vegetables on a blue tablecloth.\n",
-        "question": "Is it in a restaurant?",
-        "answers": [
-            "It is not clear, but based on the presentation, it is safe to assume this is a restaurant ",
-            "Yes, this food appears to be served in a restaurant due to the good quality of the tablecloth and utensils, along with the cleanliness of the plates and entire picture.",
-            "Not specified."
-        ]
-    },
-    {
-        "image": "images/Kate_middleton.jpeg",
-        "context": "social_media",
-        "description": "A smiling woman with long, wavy brown hair, wearing a white lace garment. A person out of frame has their hand on her shoulder. \n",
-        "question": "Who is the person?",
-        "answers": [
-            "unknown. It is possible the person is the owner of the social media account of one of their friends",
-            "The person is Kate Middleton. ",
-            "The woman in the image is Kate Middleton, a member of the Royal Family."
-        ]
-    },
-    {
-        "image": "images/600px-GDC_onlywayaround.jpeg",
+        "image": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
         "context": "news",
-        "description": "A group of nine contemporary dancers on a dark stage mid-performance. They are illuminated by a circle of light.\n",
-        "question": "Where was the performance held?",
+        "description": "A traditional knitted cardigan with decorative patterns.\n",
+        "question": "who is wearing this cardigan?",
+        "answers": [
+            "Not specified",
+            "A manikin.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Ceviche_de_caballa.jpeg",
+        "context": "health",
+        "description": "A plate of ceviche with onions, corn, cassava and a side of sweet potato.\n",
+        "question": "How is the potato prepared?",
+        "answers": [
+            "The sweet potato is peeled and cooked.",
+            "",
+            "The potato looks like it was baked."
+        ]
+    },
+    {
+        "image": "images/440px-Bridgit_Mendler_2013_(Straighten_Crop).jpeg",
+        "context": "social_media",
+        "description": "A smiling Caucasian woman with dirty-blonde hair and light makeup on a colorful background.  Her body is turned to the side and she is turning to face the camera.\n",
+        "question": "What color is her eyes",
+        "answers": [
+            "Dark brown.",
+            "Her eyes are brown.",
+            "There is a Caucasian women with dirty blonde hair in a low ponytail. She has light make-up on accentuating her brown eyes and is smiling to have her picture taken. Her body is faced away from the camera with her head turn at angle to face camera."
+        ]
+    },
+    {
+        "image": "images/Conularia_milwaukeensis.jpeg",
+        "context": "news",
+        "description": "A fossilized leaf imprint on a stone surface.\n",
+        "question": "Does the leaf look like it came from an ancient plant?",
+        "answers": [
+            "I am not able to tell which type of plant it is.",
+            "Yes, it looks like the fossil of a plant leaf.",
+            "The leaf looks like it cam from a large ancient plant.",
+            "Yes, it does, because of the uncommon pattern of horizontal lines radiating out horizontally from the center of the leaf"
+        ]
+    },
+    {
+        "image": "images/Aurelia_aurita_(auge24eu).jpeg",
+        "context": "science_journals",
+        "description": "Two translucent jellyfish floating in blue water.\n",
+        "question": "Are they in the ocean or in a tank?",
+        "answers": [
+            "",
+            "",
+            "There are two jellyfish floating in the ocean in deep blue water."
+        ]
+    },
+    {
+        "image": "images/Aquarium_fg01.jpeg",
+        "context": "social_media",
+        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
+        "question": "What is the woman holding?",
+        "answers": [
+            "",
+            "It does not appear that the woman is holding anything. ",
+            "Possible her phone or some small light."
+        ]
+    },
+    {
+        "image": "images/400px-Poinsettia_thumbnail.jpeg",
+        "context": "health",
+        "description": "A variety of poinsettias with red and pink leaves with some green leaves under. They are so beautiful\n",
+        "question": "How big are they?",
         "answers": [
             "",
             ""

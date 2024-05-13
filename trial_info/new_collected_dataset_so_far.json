@@ -58,12 +58,9 @@
         "description": "A worn-out sneaker on a forest floor.\n",
         "question": "What else is on the forest floor?",
         "answers": [
-            "sticks",
-            "tree branches",
             "dry leaves and sticks with some moss ",
             "There are also branches and leaves on the forest floor.",
-            "Many thin tree branches also cover the forest floor depicted in the image.",
-            "There are branches, fallen leaves on the floor."
+            "Many thin tree branches also cover the forest floor depicted in the image."
         ]
     },
     {
@@ -74,7 +71,6 @@
         "answers": [
             "There is no wildlife pictured here.",
             "perhaps but you cannot see them",
-            ""
         ]
     },
     {
@@ -94,10 +90,8 @@
         "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
         "question": "What style is the clothes?",
         "answers": [
-            "Seems to be a take on business casual",
             "It's casual fashion.",
             "The clothes style is business professional, but very sheen and upscale fashion.",
-            "The clothes are business casual. ",
             "The style of clothing are more business casual, or perhaps clothing that can be worn in the evenings for a night out at a club or fancy restaurant."
         ]
     },
@@ -110,9 +104,6 @@
             "It seems like it is from a restaurant because it is plated well and the utensils are wrapped in a napkin",
             "The plate is sitting on a wooden table with cutlery wrapped in a napkin like restaurants prepare cutlery for customer use. The cutlery preparation style may indicate this is in a restaurant, but offers no guarantee.",
             "This is likely from a restaurant because there is silverware wrapped in a napkin on the table next to it.",
-            "This image is from a restaurant. There is silverware rolled up in napkins on the table. ",
-            "This is from a restaurant",
-            "restaurant "
         ]
     },
     {
@@ -133,8 +124,7 @@
         "question": "Is this athlete racing with other people?",
         "answers": [
             "The photo is a close-up so you cannot see if there are other people or not",
-            "The athlete is not racing with other people based on the image, as it only shows him.",
-            ""
+            "The athlete is not racing with other people based on the image, as it only shows him."
         ]
     },
     {
@@ -155,9 +145,6 @@
         "question": "Is it a whole cake, or just a piece?",
         "answers": [
             "whole cake",
-            "",
-            "I think it's a whole cake",
-            "Just a piece",
             "It is a whole cake.",
             "It appears to be a whole cake, although pretty small."
         ]
@@ -168,11 +155,9 @@
         "description": "Four people meditating in a city park with trees and chairs around them\n",
         "question": "What are they wearing ?",
         "answers": [
-            "They are wearing normal clothes",
             "They are dressed casually. They are wearing T-shirts or jackets and pants or shorts. They are not wearing shoes. One man is wearing a baseball hat.",
             "They are all casually dressed in t-shirts and jeans.",
-            "One male is wearing a green t shirt, black hat, and blue jeans.  One female is wearing glasses, a white t shirt with a grey vest over it, and black pants.  One male is wearing a black and white short sleeve collared shirt with dark pants. One female is wearing a green sleeveless top and white pants.  All of their shoes are next to them.",
-            "The 3 people are wearing earth tone colored clothing, one has a baseball hat on, and they are in a sitting position for meditation."
+            "One male is wearing a green t shirt, black hat, and blue jeans.  One female is wearing glasses, a white t shirt with a grey vest over it, and black pants.  One male is wearing a black and white short sleeve collared shirt with dark pants. One female is wearing a green sleeveless top and white pants.  All of their shoes are next to them."
         ]
     },
     {
@@ -182,8 +167,6 @@
         "question": "Does it look like someone has been there recently?",
         "answers": [
             "Yes the grounds are manicured and the house looks ell maintained",
-            "Yes, because the grass is neatly kept. ",
-            "It does not look like someone has been there.",
             "No; the description doesn't give the indication of a structured building.",
             "The property looks like it is well maintained, it would be safe to assume so."
         ]
@@ -195,7 +178,6 @@
         "question": "What are the women using the purses and scarves for?",
         "answers": [
             "They are carrying things in them that would be of personal use for normal daily operations",
-            "",
             "Fashion or tradition"
         ]
     },
@@ -217,7 +199,6 @@
         "question": "Are they an instructor?",
         "answers": [
             "They are likely an online instructor for fitness and motivation on social media, but unlikely as a physical instructor ",
-            "",
             "Not specified"
         ]
     },
