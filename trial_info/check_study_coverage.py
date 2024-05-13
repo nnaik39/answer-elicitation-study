@@ -8,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (10).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (11).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}
@@ -65,8 +65,8 @@ for question in all_questions['images']:
         continue 
 
     # Do a screening
-    if (num_answers == 2):
-        print("Two answers covered! ", num_answers)
+#    if (num_answers == 2):
+ #       print("Two answers covered! ", num_answers)
     if (num_answers < 3):
         questions_not_covered.append(question)
         images_not_covered.append(question['filename'])

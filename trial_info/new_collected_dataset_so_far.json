@@ -70,7 +70,7 @@
         "question": "Are there any wildlife on these landscapes?",
         "answers": [
             "There is no wildlife pictured here.",
-            "perhaps but you cannot see them",
+            "perhaps but you cannot see them"
         ]
     },
     {
@@ -103,7 +103,7 @@
         "answers": [
             "It seems like it is from a restaurant because it is plated well and the utensils are wrapped in a napkin",
             "The plate is sitting on a wooden table with cutlery wrapped in a napkin like restaurants prepare cutlery for customer use. The cutlery preparation style may indicate this is in a restaurant, but offers no guarantee.",
-            "This is likely from a restaurant because there is silverware wrapped in a napkin on the table next to it.",
+            "This is likely from a restaurant because there is silverware wrapped in a napkin on the table next to it."
         ]
     },
     {
@@ -222,6 +222,199 @@
             "unknown. It is possible the person is the owner of the social media account of one of their friends",
             "The person is Kate Middleton. ",
             "The woman in the image is Kate Middleton, a member of the Royal Family."
+        ]
+    },
+    {
+        "image": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
+        "context": "shopping",
+        "description": "A model wearing a shiny dress walking a glittery runway.\n",
+        "question": "What color is the dress?",
+        "answers": [
+            "Shiny silver metallic",
+            "The dress is a silver metallic material with reflective qualities.",
+            "The dress is silver."
+        ]
+    },
+    {
+        "image": "images/440px-Living_on_the_rainforest.jpeg",
+        "context": "travel",
+        "description": "A woman cooking over a fire in a tropical forest setting, with a traditional shelter behind her.\n",
+        "question": "does it appear to be romantic of for family ",
+        "answers": [
+            "no it does not appear romantic or for family",
+            "no, the image does not appear to be romantic place for a family ",
+            "Definitely not romantic or for family."
+        ]
+    },
+    {
+        "image": "images/340px-Jersei-coll-alt.jpeg",
+        "context": "shopping",
+        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
+        "question": "Is it fitted or loose sweater",
+        "answers": [
+            "The sweater is loose, but not oversized",
+            "It has an elastic bottom as well as sleeve cuffs and seems to be a tighter-fitting cut.",
+            "It's a loose fitting sweater"
+        ]
+    },
+    {
+        "image": "images/Magdalena_Frackowiak.jpeg",
+        "context": "shopping",
+        "description": "Model in a flowing red dress on the runway.\n",
+        "question": "Is the model plus sized or petite?",
+        "answers": [
+            "she is petite",
+            "Not specified",
+            "The model is petite but looks to be tall."
+        ]
+    },
+    {
+        "image": "images/Amazon_CIAT_(2).jpeg",
+        "context": "science_journals",
+        "description": "Wide river bordered by dense jungle under a partly cloudy sky.\n",
+        "question": "What does the environment look like?",
+        "answers": [
+            "warm environment with a river, beach, and trees",
+            "The environment looks clear and calm.",
+            "It looks like a warm or temperate climate in nature."
+        ]
+    },
+    {
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "science_journals",
+        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
+        "question": "Is the Jules Verne manuscript open or closed?",
+        "answers": [
+            "The manuscript looks closed",
+            "The Jules Verne manuscript is closed. There are three people holding things.",
+            "It is hard to tell which item is the manuscript as two of the astronauts are holding what seems to be books/manuscripts and another has possibly a clipboard on his lap. The books seem to be closed, but since the image is pulled back, it is hard to tell"
+        ]
+    },
+    {
+        "image": "images/Fashion_Runway.jpeg",
+        "context": "shopping",
+        "description": "Models walking on a fashion runway with an audience watching.\n",
+        "question": "What are the models wearing?",
+        "answers": [
+            "Skirts and jackets",
+            "Model 1 is wearing a black jacket, brown undershirt, black skirt, and black shoes. Model 2 is wearing a shiny silver varsity jacket with black sleeves, a checkered skirt, and black shoes. Model 3 a white top with a small black skirt.",
+            "One model is wearing a light-purple and long-sleeved sweater with a leather jacket and skirt. And the other is wearing a plaid skirt with a shiny grey and black long-sleeved top."
+        ]
+    },
+    {
+        "image": "images/340px-Michael_Kors_Spring-Summer_2014_01.jpeg",
+        "context": "news",
+        "description": "Male and female models walking a fashion show runway both dressed in white blazers. The male has grey slacks, black shoes, and a grey undershirt, while the female wears a flowy, white skirt with tan-colored heels.\n",
+        "question": "Are members of the audience or anyone else visible?",
+        "answers": [
+            "Yes, you can see some people are seated along the left hand side.",
+            "Yes, you can see the audience members but not as clearly as the models.",
+            "There are audience members along the left side of the image but you can't really make out who anyone is specifically. "
+        ]
+    },
+    {
+        "image": "images/Kumarkom.jpeg",
+        "context": "travel",
+        "description": "A river scene with palm trees, boats, and huts under a clear sky.\n",
+        "question": "Where exactly is this location?",
+        "answers": [
+            "Not specified",
+            "The location is outdoors and may be a part of a tropical climate such as Florida. "
+        ]
+    },
+    {
+        "image": "images/BGSU_Aquarium.jpeg",
+        "context": "travel",
+        "description": "A room with multiple aquarium tanks, some sitting on tables and others mounted on the far wall. There is a taxidermic shark on the back wall.\n",
+        "question": "How large is the room?",
+        "answers": [
+            "The room is fairly large. It is about the size of an average conference room in an office. ",
+            "Fairly large, due to all the fish tanks and other equipment",
+            "it is quite large, holding more than a dozen aquariums. "
+        ]
+    },
+    {
+        "image": "images/Gemma_Ward.jpeg",
+        "context": "shopping",
+        "description": "A young model with long blonde hair in a wide-brimmed hat on a fashion runway.\n",
+        "question": "What kind of fashion items are present ",
+        "answers": [
+            "A wide brimmed hat and a silk shirt. Both are red.",
+            "The model is also wearing a red shirt with a brown collar and brown trim, a brown tie, and the top of a red purse or bag is visible.",
+            "A hat and a blouse"
+        ]
+    },
+    {
+        "image": "images/Aquarium_fg01.jpeg",
+        "context": "social_media",
+        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
+        "question": "What is the woman looking at in the room?",
+        "answers": [
+            "The woman is looking at a salt water aquarium filled with fish and other sea wildlife.",
+            "The woman is looking at the aquarium. ",
+            "The woman is looking at the aquarium"
+        ]
+    },
+    {
+        "image": "images/Beluga_premier.gov.ru-1.jpeg",
+        "context": "science_journals",
+        "description": "A smiling beluga whale above water.\n",
+        "question": "What behavior or activity is the beluga whale engaged in?",
+        "answers": [
+            "The beluga whale is happily surfacing above the water, with a smiling expression.",
+            "The beluga is sticking it's head out of the water in order to interact with the photographer."
+        ]
+    },
+    {
+        "image": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
+        "context": "news",
+        "description": "A traditional knitted cardigan with decorative patterns.\n",
+        "question": "who is wearing this cardigan?",
+        "answers": [
+            "Not specified",
+            "A manikin."
+        ]
+    },
+    {
+        "image": "images/440px-Ceviche_de_caballa.jpeg",
+        "context": "health",
+        "description": "A plate of ceviche with onions, corn, cassava and a side of sweet potato.\n",
+        "question": "How is the potato prepared?",
+        "answers": [
+            "The sweet potato is peeled and cooked.",
+            "The potato looks like it was baked."
+        ]
+    },
+    {
+        "image": "images/440px-Bridgit_Mendler_2013_(Straighten_Crop).jpeg",
+        "context": "social_media",
+        "description": "A smiling Caucasian woman with dirty-blonde hair and light makeup on a colorful background.  Her body is turned to the side and she is turning to face the camera.\n",
+        "question": "What color is her eyes",
+        "answers": [
+            "Dark brown.",
+            "Her eyes are brown.",
+            "There is a Caucasian women with dirty blonde hair in a low ponytail. She has light make-up on accentuating her brown eyes and is smiling to have her picture taken. Her body is faced away from the camera with her head turn at angle to face camera."
+        ]
+    },
+    {
+        "image": "images/Conularia_milwaukeensis.jpeg",
+        "context": "news",
+        "description": "A fossilized leaf imprint on a stone surface.\n",
+        "question": "Does the leaf look like it came from an ancient plant?",
+        "answers": [
+            "Yes, it looks like the fossil of a plant leaf.",
+            "The leaf looks like it cam from a large ancient plant.",
+            "Yes, it does, because of the uncommon pattern of horizontal lines radiating out horizontally from the center of the leaf"
+        ]
+    },
+    {
+        "image": "images/Aquarium_fg01.jpeg",
+        "context": "social_media",
+        "description": "A home salt water aquarium with colorful corals and a viewing woman in a very dark room.\n",
+        "question": "What is the woman holding?",
+        "answers": [
+            "It does not appear that the woman is holding anything. ",
+            "Possible her phone or some small light."
         ]
     }
 ]
