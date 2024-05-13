@@ -1,0 +1,55 @@
+[
+    {
+        "image": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
+        "context": "travel",
+        "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
+        "question": "What is the expression on the couples faces?",
+        "answers": [
+            "They have a stern look on their faces",
+            "They appear pleased with the camera and whoever is off screen",
+            "The couple both look happy, with slight smiles on their faces"
+        ]
+    },
+    {
+        "image": "images/440px-Haselnuss.jpeg",
+        "context": "shopping",
+        "description": "A cracked hazelnut shell, with the nut visible inside, against a white background.\n",
+        "question": "Why is it relevant to a shopping website?\n",
+        "answers": [
+            "The hazelnut is being sold.",
+            "The shopping website may be selling prepared hazelnuts for consumption and the image is to show detail and entice customers."
+        ]
+    },
+    {
+        "image": "images/320px-Atlantic_Attack_Ringette_Team.jpeg",
+        "context": "news",
+        "description": "Players in a ringette game in motion on the ice.\n",
+        "question": "Are there any notable or significant events happening within the game that are worth reporting on?",
+        "answers": [
+            "no, it looks like a simple passing move ",
+            "The number of goals scored in the hockey game.",
+            "Red team is currently in control"
+        ]
+    },
+    {
+        "image": "images/Noaa-walrus12.jpeg",
+        "context": "social_media",
+        "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
+        "question": "what does this picture have to do with connections?",
+        "answers": [
+            "You could say the walruses are connected in the way they lay together in their leisure time. They look very comfortable, since one is laying its face on the rock, while two others are near.",
+            "The walruses could be a metaphor for people. Or the image could be part of a meme.",
+            "The walruses look to be displaying a familial connection by the way they are interacting."
+        ]
+    },
+    {
+        "image": "images/Curling_at_the_Huntsville_Curling_Club_(I0005717).jpg",
+        "context": "travel",
+        "description": "People playing curling indoors, with colorful flags hanging above.\n",
+        "question": "What country does this take place in?",
+        "answers": [
+            "This takes place in Canada",
+            "Based upon clothing, it appears to be in Canada or Russia or European country.",
+        ]
+    }
+]
