@@ -6990,5 +6990,386 @@
             "A palace with fountains in front.",
             "It's a fountain"
         ]
+    },
+    {
+        "image": "images/Nam_phrik_long_ruea.jpeg",
+        "context": "health",
+        "description": "A traditional Thai relish dish with side condiments. It is on ceramic leaf shaped bowls that are kind of deep. There are two bowls like this and it is inside a larer leaf shaped bowl. \n",
+        "question": "What are the ingredients",
+        "answers": [
+            "scallions, egg, pork",
+            "",
+            "Nam phrik, crispy catfish, sweet pork, and vegetables."
+        ]
+    },
+    {
+        "image": "images/268px-Burgerstrabe_26+24_(BT0A2830).jpeg",
+        "context": "travel",
+        "description": "Colorful buildings line a city street with cars under a clear blue sky.",
+        "question": "Is it a very busy street with pedestrians walking?",
+        "answers": [
+            "There are a few pedestrians walking",
+            "There are numerous pedestrians but it is unclear if it's an overly busy street.",
+            "There are a few people in the picture, so it is safe to say that people do walk on this street. However, it is not overwhelmingly busy so I would say it is not possible to know if it is a very busy street. ",
+            "no, it is a color street."
+        ]
+    },
+    {
+        "image": "images/440px-ISS_Habitation_module.jpeg",
+        "context": "science_journals",
+        "description": "A space station module being transported by a crane in an industrial setting.\n",
+        "question": "Is it damaged?",
+        "answers": [
+            "No, the space module is not damaged. It is in prestine condition",
+            "No, it i not damaged.",
+            "NO, ITS NOT "
+        ]
+    },
+    {
+        "image": "images/Echinotitti.jpeg",
+        "context": "health",
+        "description": "An aquarium with green plants and gravel, equipment visible in the water.\n",
+        "question": "Are there fish or other animals in the tank",
+        "answers": [
+            "Not seen",
+            "There are no fish or other animal in the tank.",
+            "I do not see any fish or animals",
+            "There does not seem to be any visible aquatic life in the tank",
+            "No I don't believe there are any fish or animals in the picture. All that I see are plants and then the rocks that are in the bottom of the tank."
+        ]
+    },
+    {
+        "image": "images/MIT_2006_Standard_Prechamp_Final_2.jpeg",
+        "context": "social_media",
+        "description": "Ballroom dancers competing in a gymnasium. There are many spectators sitting around the edge of the gym.\n",
+        "question": "Is this a school competition?",
+        "answers": [
+            "",
+            "NO it is not",
+            "No, it not a school competition."
+        ]
+    },
+    {
+        "image": "images/440px-El_Rey_Theatre_-_Lily_Allen_04_25_2018_-22_(42092424455)_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A singer with short platinum hair performing on stage, holding a microphone. It's a female wearing a black top. We can see from her waist up and the background is black. She's wearing a long golden colored necklace.\n",
+        "question": "Does her head seem as though it is floating in space?",
+        "answers": [
+            "No it is clearly attached to a neck and body.",
+            "No, her head is firmly attached to her body.",
+            "Her head does not seem as though it is floating in space. "
+        ]
+    },
+    {
+        "image": "images/440px-Walrus_-_Kamogawa_Seaworld_-_pup_-1.jpeg",
+        "context": "science_journals",
+        "description": "A walrus with distinctive whiskers sitting on a rock.\n",
+        "question": "why are the whiskers distinctive?",
+        "answers": [
+            "They are distinctive because their whiskers are yellow",
+            "Whiskers are distinctive because of their highly sensitive tactile hair that plays a crucial role in regulating their body temperature.",
+            "The whiskers kind of hang downward. They are also colored almost orange. It looks a bit different than some walrus that you typically see."
+        ]
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "health",
+        "description": "A man executing a dive backwards into a swimming pool. \n",
+        "question": "What is the man wearing?",
+        "answers": [
+            "The man is wearing tight swimming trunks.",
+            "swimming trunks",
+            "the man is wearing black shorts only. no shirt",
+            "the man is wearing a speedo"
+        ]
+    },
+    {
+        "image": "images/Catedral_Metropolitana_de_Santarem,_Santarem,_Para,_2007.jpeg",
+        "context": "news",
+        "description": "A blue-domed cathedral overlooks a peaceful gazebo.\n",
+        "question": "Where is this cathedral?",
+        "answers": [
+            "yes, it is a blue-domed cathedral.",
+            " is is located in New York",
+            "On a street bordering a plaza that contains a gazebo"
+        ]
+    },
+    {
+        "image": "images/Critical_Mass,_San_Francisco,_April_29,_2005.jpeg",
+        "context": "health",
+        "description": "Cyclists on a city street going in a staight line. The person in the front has sun glasses on. \n",
+        "question": "Are the cyclists professionals",
+        "answers": [
+            "The cyclists doesn't seem to be professionals, perhaps bicycle enthusiasts would be better description. ",
+            "No, to be competition",
+            "i don't think all the cyclists are professional"
+        ]
+    },
+    {
+        "image": "images/440px-Koukouvagia.jpeg",
+        "context": "health",
+        "description": "A round bread topped with tomato, feta, olives, and herbs on a white plate.\n",
+        "question": "Is there a lot of topping on the bread or just one of each?",
+        "answers": [
+            "There is 4 olives, a small amount of feta, and some herbs.",
+            "There is lots of cheese, spinach, and olives",
+            "There is a lot of toppings on the bread."
+        ]
+    },
+    {
+        "image": "images/440px-Indios_isolados_no_Acre_12.jpeg",
+        "context": "news",
+        "description": "An aerial view of a remote tribal village amidst a dense forest. A half dozen or so natives seem to be looking up at the few trees in front of them. The picture makes them all look orange, almost comically so. \n",
+        "question": "Does this image appear to be real or AI-generated?",
+        "answers": [
+            "Yes this is image appears to be real.",
+            "This image appears to be real.",
+            "This image appears to be real",
+            "This image appears to be real. Their skin appears to be painted. ",
+            "the image is real",
+            "Looks like AI generated",
+            "I think it may be AI based on the colors",
+            "Probably AI generated because of how orange the people are.",
+            "This image appears to be real."
+        ]
+    },
+    {
+        "image": "images/240px-Shamu_Stadium.jpeg",
+        "context": "travel",
+        "description": "Dolphins leaping together performing in a show at a marine park. ",
+        "question": "How many dolphins are there?",
+        "answers": [
+            "There are 5 dolphins",
+            "There are 5 dolphins present",
+            "there are 4 dolphins in the image"
+        ]
+    },
+    {
+        "image": "images/H.M._Revenue_&_Customs_officers_with_seized_smuggled_tobacco,_2014.jpg",
+        "context": "news",
+        "description": "Three workers in hard hats assist a crane in lifting a large seizure of smuggled tobacco out of the hull of a ship while three police officers look on.\n",
+        "question": "What color is the crane?",
+        "answers": [
+            "Yellow and black",
+            "the crane is yellow",
+            "The crane is yellow with heavy straps on it.",
+            "Unknown to me"
+        ]
+    },
+    {
+        "image": "images/A_large_mixed_salad.jpeg",
+        "context": "shopping",
+        "description": "A fresh mixed salad with avocado, feta cheese, raisins, cherry tomatoes, and grilled chicken in a wooden bowl.\n",
+        "question": "How many cherry tomatoes is included? ",
+        "answers": [
+            "6 cherry tomatoes are included.",
+            "QUITE A BIT",
+            "There are at least 6 chopped pieces.",
+            "I can't really tell",
+            "I see five cherry tomatoes however it could be less since they look to be cut"
+        ]
+    },
+    {
+        "image": "images/Bajhar_ji_maani.jpeg",
+        "context": "social_media",
+        "description": "Rustic, round flatbread with charred spots on it.\n",
+        "question": "Is this from a fine dining restaurant?",
+        "answers": [
+            "No. It is more than likely from a small, casual restaurant based on the quality of food. ",
+            "",
+            "There is no indicator that this flatbread is from a restaurant.  The surface and surrounding parts of the image look like a stainless steel countertop."
+        ]
+    },
+    {
+        "image": "images/440px-Rhododendron_arboreum_zeylanicum_flower.jpeg",
+        "context": "social_media",
+        "description": "A vibrant red Rhododendron arboreum flower blooming amidst green, leathery leaves.\n",
+        "question": "Is it a climbing flower like a vine?",
+        "answers": [
+            "No, it is a shrub.",
+            "No. It is growing close to the ground and is more sparsely bloomed than concentrated flowers would be.",
+            "it is not a climbing flower"
+        ]
+    },
+    {
+        "image": "images/Chanel_Haute_Couture_Fall-Winter_2011.jpeg",
+        "context": "shopping",
+        "description": "Models on a fashion show runway with dramatic lighting.\n",
+        "question": "How many models are shown?",
+        "answers": [
+            "There are just over a dozen female models shown.",
+            "It looks like ten",
+            "Models on the fashion show runaway",
+            "About 13 models were shown ",
+            "15, but there could be more that are not visible in the image"
+        ]
+    },
+    {
+        "image": "images/440px-Dolphinarium_Boudewjinpark_05.jpeg",
+        "context": "news",
+        "description": "A trainer in a wetsuit standing by a pool, interacting with a smiling dolphin through glass.\n",
+        "question": "Is the trainer a man or a woman?",
+        "answers": [
+            "The trainer is a woman",
+            "The trainer is a woman.",
+            "",
+            "The trainer in the image appears to be a female because she has a small stature, small wrists with her hair tied in a low bun. ",
+            "The trainer is a woman",
+            "the trainer is a woman who, by the looks of it, is highly trained and professional"
+        ]
+    },
+    {
+        "image": "images/Lime_01.jpeg",
+        "context": "health",
+        "description": "Close-up of a green lime looking very healthy hanging on a tree.\n",
+        "question": "What is the significance of the lime tree in this context? Is it being used as an example of how to incorporate healthy foods into your diet, or is it highlighting the nutritional benefits of limes?",
+        "answers": [
+            "",
+            "This is an example of a healthy food you can incorporate into your diet.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-gourd-curry.jpeg",
+        "context": "social_media",
+        "description": "Chopped onions and spices cooking in a pan.\n",
+        "question": "is this a cooking promotion?",
+        "answers": [
+            "",
+            "It may be, but it is just a picture of food, no people.",
+            "It does not say it is a promotion, and I can't tell if it is."
+        ]
+    },
+    {
+        "image": "images/440px-Schwarzer_Pacu_Colossoma_macropomum_Tierpark_Hellabrunn-1.jpeg",
+        "context": "science_journals",
+        "description": "A large fish with silver scales and black markings in an aquarium.\n",
+        "question": "why does it have black markings",
+        "answers": [
+            "The normal coloration of this species of fish contains dark markings on the bottom half of it's body. ",
+            "i think it is genetic",
+            ""
+        ]
+    },
+    {
+        "image": "images/Pomegranate_fruit_-_whole_and_piece_with_arils.jpeg",
+        "context": "health",
+        "description": "Whole and opened pomegranate with seeds.\n",
+        "question": "What is in the background?",
+        "answers": [
+            "The background is void of images just a solid teal coloring. ",
+            "it is just a plain background with the focus on just the pomegranate",
+            "A blank gray glossy background showing some reflection of the pomegranites.",
+            "The image has a plain, gray background."
+        ]
+    },
+    {
+        "image": "images/Baumwoll-Erntemaschine.jpeg",
+        "context": "social_media",
+        "description": "A machine is shredding up cotton and dumping out fluffy white pieces behind it.\n",
+        "question": "What kind of machine is this?",
+        "answers": [
+            "a cotton shredder, I do not know the name of this machine as I am not a farmer and do not work with this type of machinery",
+            "cotton picker or truck",
+            "I believe that it would be some type of harvester. These are typically seen on farms and in fields for work. This one happens to be colored red."
+        ]
+    },
+    {
+        "image": "images/440px-Natalia_Vodianova_Paris_Fashion_Week_Spring_Summer_2019_cropped.jpeg",
+        "context": "news",
+        "description": "A woman with a floral dress and square hoop earrings, smiling slightly.\n",
+        "question": "What setting is the woman in?",
+        "answers": [
+            "",
+            "The woman appears to be at a beach. I can see water behind the woman that looks like an ocean. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/Taller_de_textiles.jpeg",
+        "context": "travel",
+        "description": "This is a wooden loom, a small structure that is designed and built to assist in making various items, such as. scarves, blankets, etc.  There are a lot of soft and differently colored yarns hanging around the wooden loom.\n",
+        "question": "where is the wooden loom located?",
+        "answers": [
+            "",
+            "It is inside of a building. That is the best that can be seen.",
+            ""
+        ]
+    },
+    {
+        "image": "images/200px-5adho_mukha_shvanasana (1).jpeg",
+        "context": "health",
+        "description": "A yoga practitioner in an inverted V-shaped pose.\n",
+        "question": "What is the setting of the room the yoga practitioner is in?",
+        "answers": [
+            "",
+            "Yoga practice",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Flickr_-_Rainbirder_-_Sri_Lanka_Wood_Pigeon_(Columba_torringtoni)_(1).jpeg",
+        "context": "travel",
+        "description": "A Sri Lanka wood pigeon perched on a branch amidst green foliage.\n",
+        "question": "What does this website offer?",
+        "answers": [
+            "Pigeon amidst",
+            "Wildlife or photography tours",
+            "I would assume it is showing the bird at a natural habitat you can travel to"
+        ]
+    },
+    {
+        "image": "images/Amaterske_akvarium.jpeg",
+        "context": "science_journals",
+        "description": "A large at-home aquarium with lush, vibrant green plants and a few small fish.",
+        "question": "What kind of fish are in the image?",
+        "answers": [
+            "Trigonostigma heteromorpha, Phenacogrammus-interruptus, Paracheirodon innesi, Corydoras aeneus, Crossocheilus siamensis. ",
+            "Small gray fish with a blue stripe along their midsection and one even smaller orange fish with a blue triangle on its back half.",
+            "I can't tell the exact type of fish in the image, but they are small, colorful fish."
+        ]
+    },
+    {
+        "image": "images/ISS_module_at_Cape_Canaveral.jpeg",
+        "context": "science_journals",
+        "description": "An aerospace module in a hangar at Cape Canaveral. The module is made out of steel. There is a black wheel on the left side of the contraption also. \n",
+        "question": "What is the module related to?",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpeg",
+        "context": "science_journals",
+        "description": "International Space Station against the blackness of space.\n",
+        "question": "Where is the space station located",
+        "answers": [
+            "The international space station is located in outer space, not on Earth.",
+            "The space station is located in space with nothing around it.",
+            "In space, but I don't know the exact coordinates."
+        ]
+    },
+    {
+        "image": "images/Hopfenernte_in_der_Holledau_(Hallertau).jpeg",
+        "context": "news",
+        "description": "Harvesting hops in a lush green field with machinery. The hops are very tall and the sky is pale blue. There's red colored machinery with a long arm and a brown bag attached to it to collect the hops. \n",
+        "question": "Is there a human in the photo?",
+        "answers": [
+            "There is no human in the photo above ",
+            "There is no human visible in the photo.",
+            "No, There are no visible humans in this photo."
+        ]
+    },
+    {
+        "image": "images/Electric_wire_reel_reused_in_a_furniture_ecodesign.jpeg",
+        "context": "shopping",
+        "description": "Wooden furniture with blue canvas seating. They are placed around the table so everyone can see each other.\n",
+        "question": "How many people can the furniture seat?",
+        "answers": [
+            "The furniture can seat 4 people.",
+            "it can seat four people",
+            "There are 4 seats available with this set"
+        ]
     }
 ]

@@ -8,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (21).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (23).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}
@@ -88,7 +88,6 @@ with open("questions_covered.json", "w") as outfile:
 
 for (image, context, description, question) in answers:
     # Check if there are at least two unanswerable ratings!!
-
     unanswerable = False 
     if (answers[(image, context, description, question)].count('') >= 2):
         unanswerable = True 
@@ -109,7 +108,19 @@ for (image, context, description, question) in answers:
             'question': question
         })
 
+# TODO: Add what hasn't been covered to the study as well!
+for pilot_exp_entry in pilot_exp['images']:
+    if (pilot_exp_entry['filename'], pilot_exp_entry['category'], pilot_exp_entry['description'], pilot_exp_entry['question']) not in answers:
+        new_pilot_exp['images'].append({
+            'filename': image,
+            'category': context,
+            'description': description,
+            'question': question
+        })
+
 print("Length of new pilot exp ", len(new_pilot_exp['images']))
+
+print("Collected datapoints: ", collected_datapoints)
 
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
