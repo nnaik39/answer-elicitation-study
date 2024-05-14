@@ -4,8 +4,7 @@
         "category": "shopping",
         "description": "A road bridge over the Merced River with a no swimming/fishing sign.\n",
         "question": [
-            "What does the river look like?",
-            "What is the time of day?"
+            "What does the river look like?"
         ]
     },
     {
@@ -31,7 +30,6 @@
         "category": "travel",
         "description": "A large, yellow ornate building on a street corner with palm trees and clear skies.\n",
         "question": [
-            "Where is this located? ",
             "What season is this?"
         ]
     },
@@ -40,7 +38,6 @@
         "category": "science_journals",
         "description": "Lush mountainous forest with mist in the distance.\n",
         "question": [
-            "Where is the forest located?",
             "Is there any animals viewable in the image? "
         ]
     },
@@ -49,7 +46,6 @@
         "category": "shopping",
         "description": "A beautiful smiling woman in a rhinestone, ornate dress at the Met Gala.\n",
         "question": [
-            "How long is the dress? ",
             "What are more details in the design of dress? "
         ]
     },
@@ -58,8 +54,7 @@
         "category": "health",
         "description": "Group of people in colorful workout attire doing step aerobics.\n",
         "question": [
-            "How is this healthy? ",
-            "Is this image motivation to exercise? "
+            "How is this healthy? "
         ]
     },
     {
@@ -67,8 +62,7 @@
         "category": "shopping",
         "description": "Village with vineyards, a church, and many trees.\n",
         "question": [
-            "What does it look like?",
-            "Is there a representation of market or anything sales in the image"
+            "What does it look like?"
         ]
     },
     {
@@ -76,7 +70,6 @@
         "category": "science_journals",
         "description": "Large orange tiger standing by water near a tree in the wild.\n",
         "question": [
-            "what country",
             "are there other animals around?"
         ]
     },
@@ -85,7 +78,6 @@
         "category": "science_journals",
         "description": "Navy divers are in a training pool, displaying military exercises or maneuvers. They are wearing scuba gear with masks and fins.\n",
         "question": [
-            "Did they discover a new type of device or technique that will allow divers to stay underwater for longer?",
             "What type of equipment has improved the diver's abilities?"
         ]
     },
@@ -94,7 +86,6 @@
         "category": "health",
         "description": "A serviceman on an aircraft carrier jumping rope.\n",
         "question": [
-            "What branch of the military are they in?",
             "What color shirt do they have on?"
         ]
     },
@@ -265,7 +256,6 @@
         "category": "science_journals",
         "description": "Two people in white hazmat suits inspecting a space instrument in a well-lit room.\n",
         "question": [
-            "What is the space instrument?",
             "Are they men or women?"
         ]
     },
@@ -310,7 +300,6 @@
         "category": "shopping",
         "description": "A houseboat on calm waters with palm trees in the background. There is a building next to the palm trees.\n",
         "question": [
-            "As an experience on this website, I want to know where it is so that I might book the houseboat or room in the building, so where is it?",
             "How big is the houseboat?  Would it be big enough for just me or my family?  And the same for the building - how big is it?"
         ]
     },
@@ -480,8 +469,7 @@
         "category": "news",
         "description": "Actress at an event in a chic dress.\n",
         "question": [
-            "Who is the actress?",
-            "What is the event?"
+            "Who is the actress?"
         ]
     },
     {
@@ -489,8 +477,7 @@
         "category": "news",
         "description": "A bald referee standing looking sternly with a soccer ball next to him.\n",
         "question": [
-            "What type of ball is it?",
-            "What sport is being played?"
+            "What type of ball is it?"
         ]
     },
     {
@@ -534,7 +521,6 @@
         "category": "shopping",
         "description": "Black swim trunks with neon trim on a beige textured surface.\n",
         "question": [
-            "How much are they?",
             "Is it advertising a sale?"
         ]
     },
@@ -543,8 +529,7 @@
         "category": "travel",
         "description": "Tiger walking in the snow.\n",
         "question": [
-            "Where is this picture from?",
-            "Is this an activity you can do on a trip?"
+            "Where is this picture from?"
         ]
     },
     {
@@ -588,8 +573,7 @@
         "category": "news",
         "description": "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
         "question": [
-            "Brilliant people all around and great people to happen",
-            "i love greatness all around"
+            "Could you describe her outfit some more?"
         ]
     },
     {
@@ -597,7 +581,6 @@
         "category": "social_media",
         "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
         "question": [
-            "whose space station is in the picture",
             "is there anyone occupying the space station"
         ]
     },
@@ -624,8 +607,7 @@
         "category": "social_media",
         "description": "Three gymnasts on a podium holding medals and flowers.\n",
         "question": [
-            "I will just give an answer that i can",
-            "beautifully wonderful"
+            "Do they each have a bronze, silver, and gold medal?"
         ]
     },
     {
@@ -633,8 +615,7 @@
         "category": "health",
         "description": "A young woman with long brown hair in a swimsuit sitting in a chair with  a pool behind her.\n",
         "question": [
-            "Where is it located?",
-            "Is it safe?"
+            "What is her swimsuit like?"
         ]
     },
     {
@@ -642,7 +623,6 @@
         "category": "science_journals",
         "description": "Man with curly hair and a microphone headset.\n",
         "question": [
-            "Is the man happy?",
             "What kind of microphone?"
         ]
     },
@@ -651,7 +631,6 @@
         "category": "news",
         "description": "A man sitting at a conference table with flags.\n",
         "question": [
-            "Is this an expression of support?",
             "What are the flags being held up?"
         ]
     },
@@ -660,8 +639,7 @@
         "category": "social_media",
         "description": "A pile of orange pumpkins at a market.\n",
         "question": [
-            "When is the season the pumpkins are displayed?",
-            "Is the market sponsored on the platform?"
+            "When is the season the pumpkins are displayed?"
         ]
     },
     {
@@ -669,7 +647,6 @@
         "category": "travel",
         "description": "A person in dark attire and a helmet is base jumping off a bridge into a deep canyon.\n",
         "question": [
-            "Is the person a man or woman",
             "Can you describe the outfit in more detail"
         ]
     },
@@ -741,7 +718,6 @@
         "category": "science_journals",
         "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
         "question": [
-            "what is it about ",
             "what is the purpose"
         ]
     },
@@ -750,7 +726,6 @@
         "category": "news",
         "description": "A trainer in a black and white swimsuit standing on a leaping orca in a marine park performance.\n",
         "question": [
-            "Is there an article tied to this picture?",
             "What significance is this picture with this website?"
         ]
     },
@@ -786,8 +761,7 @@
         "category": "health",
         "description": "A hand holding a small, green, round citrus fruit, similar to a key lime.\n",
         "question": [
-            "if it is not a key lime exactly what is the small green fruit?",
-            "what shade of green is it , light or a dark green?"
+            "what shade of green is it, light or a dark green?"
         ]
     },
     {
@@ -822,8 +796,7 @@
         "category": "social_media",
         "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps.  There are black spaghetti straps for whatever she is wearing underneath the tank top.  \n",
         "question": [
-            "where is the location at?",
-            "is it real?,....is it for rental?"
+            "where is the location at?"
         ]
     },
     {
@@ -831,7 +804,6 @@
         "category": "health",
         "description": "A plate of Pad Thai with shrimp, garnished with red pepper and cilantro.\n",
         "question": [
-            "Why is pad thai on a health website?",
             "How good does the food look?"
         ]
     },
@@ -1020,7 +992,6 @@
         "category": "travel",
         "description": "Mackerel fish in woven baskets at a Thai market.\n",
         "question": [
-            "do the fish look good",
             "are the fish already prepared for eating"
         ]
     },
@@ -1029,7 +1000,6 @@
         "category": "health",
         "description": "A bowl of trail mix with nuts, raisins, and candies.\n",
         "question": [
-            "are candies really good for you",
             "is it a store bought looking mix"
         ]
     },
@@ -1047,7 +1017,6 @@
         "category": "news",
         "description": "A unique building with a sloping roof and a tower, symbolizing traditional architecture.\n",
         "question": [
-            "Who built it?",
             "What colors is it?"
         ]
     },
@@ -1056,7 +1025,6 @@
         "category": "science_journals",
         "description": "There are green ivy leaves covering the ground, branches of pine stretching to the sky, and a sculpture of a brown cat in a garden.\n",
         "question": [
-            "What is the cat doing in the sculpture",
             "What time of day is it"
         ]
     },
@@ -1101,7 +1069,6 @@
         "category": "shopping",
         "description": "A slice of focaccia with rosemary on a black plate.\n",
         "question": [
-            "Is the photo attached to a restaurant ad?",
             "Is the bread in a restaurant setting?"
         ]
     },
@@ -1119,7 +1086,6 @@
         "category": "news",
         "description": "A marathon runner crossing the finish line with elation as spectators capture the moment. Olympic rings are visible.\n",
         "question": [
-            "What colors are the olympic rings?",
             "How big was the crowd?"
         ]
     },
@@ -1254,7 +1220,6 @@
         "category": "health",
         "description": "Harvesting hops in a lush green field with machinery. The hops are very tall and the sky is pale blue. There's red colored machinery with a long arm and a brown bag attached to it to collect the hops. \n",
         "question": [
-            "what is being harvested ",
             "how many people are harvesting this "
         ]
     },
@@ -1263,7 +1228,6 @@
         "category": "social_media",
         "description": "A woman posing in a brown halter-neck dress and a bright pink flower in her hair.\n",
         "question": [
-            "Is the woman a celebrity?",
             "What is happening in the background of the image?"
         ]
     },
@@ -1272,7 +1236,6 @@
         "category": "travel",
         "description": "A shrine decorated with many flowers and candles.\n",
         "question": [
-            "Who is the object of the shrine?",
             "What types of flowers are there?"
         ]
     },
@@ -1281,7 +1244,6 @@
         "category": "social_media",
         "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
         "question": [
-            "What are the props?",
             "Is there a crowd or audience?"
         ]
     },
@@ -1344,8 +1306,7 @@
         "category": "social_media",
         "description": "Massive granite cliff face rising above trees and a reflective river with sun peeking through the clouds in the background.\n",
         "question": [
-            "What color are the cliffs",
-            "i cannot think of a second question"
+            "What color are the cliffs"
         ]
     },
     {
@@ -1461,7 +1422,6 @@
         "category": "social_media",
         "description": "A woman in a tight, golden dress and black heels posing beside a red sports  racing car.\n",
         "question": [
-            "How am I connected to the woman?",
             "Where was the image taken?"
         ]
     },
@@ -1488,7 +1448,6 @@
         "category": "health",
         "description": "Colorful carrots, ranging from orange, to white, to black, arranged in a radial pattern on a white background, surrounded by greenery.\n",
         "question": [
-            "Are the carrots cooked or raw?",
             "Does the overall photo make an image out of the carrots like an iris?"
         ]
     },
@@ -1875,8 +1834,7 @@
         "category": "travel",
         "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
         "question": [
-            "I will want the person to commend the thing with awesome comment",
-            "It looks actually awesome"
+            "What kinds of vegetables?"
         ]
     },
     {
@@ -2135,8 +2093,7 @@
         "category": "shopping",
         "description": "A field filled with orange pumpkins and a cart. Inside the cart, under the pumpkins is some hay. In the foreground there are about 20 large pumpkins laying on the green grass. The cart is diagonal and on the left of the photo. In the background you can see pale blue sky and a line of tall trees. Behind the cart it a stalk of dried corn.\n",
         "question": [
-            "i love this products",
-            "i will give an awesome comment"
+            "Do the pumpkins look ripe?"
         ]
     },
     {
@@ -2297,7 +2254,6 @@
         "category": "news",
         "description": "An aerial view of a water polo match in a blue pool with floating goals. Someone is about to shoot it into the goal, as defends try and block with their hands.\n",
         "question": [
-            "Is there any captions helping to know why this image is in the news?",
             "Is this a Olympic water polo team picture?"
         ]
     },
@@ -3763,7 +3719,6 @@
         "category": "news",
         "description": "Tyra Banks, with her hair is pulled back into a low bun or pony tail. It appears she is wearing a white tank top with spaghetti straps.",
         "question": [
-            "Why is Tyra Banks in the news?",
             "What was the background of the image?  Where was she?"
         ]
     },
@@ -3772,7 +3727,6 @@
         "category": "social_media",
         "description": "This is a photograph of Tyra Banks.  Her hair is pulled back into a low bun or pony tail.  She appears to be happy and laughing.  She is outside.  It appears she is wearing a white tank top with spaghetti straps. There are black spaghetti straps for whatever she is wearing underneath the tank top.",
         "question": [
-            "Is Tyra Banks wearing jeans, shorts or skirt?",
             "What is the color of her hair?"
         ]
     },
