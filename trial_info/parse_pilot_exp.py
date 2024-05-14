@@ -12,7 +12,7 @@ for item in pilot_exp['images']:
         'filename': item['filename'],
         'description': item['description'],
         'category': item['category'],
-        'question': item['questions'][0]
+        'question': item['question'][0]
     })
 
 with open('formatted_pilot_exp.json', 'w') as f:

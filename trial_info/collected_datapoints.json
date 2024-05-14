@@ -1,79 +1,50 @@
 [
     {
-        "image": "images/Ri_2014_-_glass_making_-_Faraday.jpeg",
-        "context": "science_journals",
-        "description": "A glass display case with historical cooking utensils.\n",
-        "question": "Is there a placard with written information in the image, describing the cooking utensils?",
-        "answers": [
-            "Yes there is",
-            "I do not recognize any placards with written information",
-            "There is a placard, but print is so small can't read it. Would think likely it would describe the cooking utensils tho."
-        ]
-    },
-    {
-        "image": "images/TAL-Brucke01.jpeg",
+        "image": "images/268px-Burgerstrabe_26+24_(BT0A2830).jpeg",
         "context": "travel",
-        "description": "Pedestrian bridge over a reflective water canal, a clear blue sky overhead, trees on one end, and land on the other.\n",
-        "question": "What country is this in?",
+        "description": "Colorful buildings line a city street with cars under a clear blue sky.",
+        "question": "Is it a very busy street with pedestrians walking?",
+        "answers": [
+            "There are a few pedestrians walking",
+            "There are numerous pedestrians but it is unclear if it's an overly busy street.",
+            "There are a few people in the picture, so it is safe to say that people do walk on this street. However, it is not overwhelmingly busy so I would say it is not possible to know if it is a very busy street. ",
+            "no, it is a color street.",
+            "no there are just a few people walking",
+            "The street seems not that busy and there are some pedestrians walking."
+        ]
+    },
+    {
+        "image": "images/440px-ISS_Habitation_module.jpeg",
+        "context": "science_journals",
+        "description": "A space station module being transported by a crane in an industrial setting.\n",
+        "question": "Is it damaged?",
+        "answers": [
+            "No, the space module is not damaged. It is in prestine condition",
+            "No, it i not damaged.",
+            "NO, ITS NOT "
+        ]
+    },
+    {
+        "image": "images/Pacific_Walrus_-_Bull_(8247646168).jpeg",
+        "context": "travel",
+        "description": "Walrus with large tusks on ice.\n",
+        "question": "How much does the walrus weigh?",
         "answers": [
             "",
-            ""
-        ]
-    },
-    {
-        "image": "images/WANNER_18.jpeg",
-        "context": "shopping",
-        "description": "Two white women in a brown field, draped in dull clothing.\n",
-        "question": "Are they modeling for something?",
-        "answers": [
-            "They may be modeling the neutral colored sweater, blouse and pants",
-            "They are posing with one models arms around the other from the back and modeling clothes.",
-            ""
-        ]
-    },
-    {
-        "image": "images/Kiwi_Smoothie.jpeg",
-        "context": "shopping",
-        "description": "A green kiwi smoothie beside fresh kiwi halves.\n",
-        "question": "Does the smoothie have some chunks of fruit visible or is it thin?",
-        "answers": [
-            "The smoothie does not appear to have chunks of fruit visible, but it does look relatively thick still.",
-            "The smoothie has some chunks of fruit visible",
-            "Looks pretty thick, so it might have very small chucks of kiwi fruit, but it definately appears to have mint leaves floating on the top."
-        ]
-    },
-    {
-        "image": "images/Sprouting_mung_beans_in_a_jar.jpeg",
-        "context": "health",
-        "description": "Green mung beans sprouting inside a jar. The jar is tilted downward. The jar has a green lid.\n",
-        "question": "What color is the jar?",
-        "answers": [
-            "The jar is clear but has a green lid.",
-            "It is clear",
-            "It is clear with a green lid.",
-            "it's a clear jar with green lid with ventilating holes"
-        ]
-    },
-    {
-        "image": "images/440px-Therme_Bad_Aibling.jpeg",
-        "context": "shopping",
-        "description": "A dome-shaped building with a reflective pool at twilight, showcasing modern design.\n",
-        "question": "Where is the building",
-        "answers": [
-            "Beside the lake.",
-            "next to trees",
-            "The building is in a secluded area surrounded by a perfectly manicured lawn and trees on the outskirts. It is also next to a pool."
-        ]
-    },
-    {
-        "image": "images/International_Space_Station_after_undocking_of_STS-132.jpeg",
-        "context": "news",
-        "description": "The International Space Station orbiting Earth.\n",
-        "question": "How recent is this picture?",
-        "answers": [
+            "Hundreds of lbs",
             "",
-            "it is not recent",
-            "From this year"
+            "The walrus weighs between 1 and 2 tons."
+        ]
+    },
+    {
+        "image": "images/Cambodian_farmers_planting_rice.jpeg",
+        "context": "travel",
+        "description": "8 Farmers bending over to plant rice in a flooded field. They are standing in a line and their faces aren't visible. They're all wearing hats and gloves. The water is light brown and in the background is blurry greenery.\n",
+        "question": "What region or country does the rice planting take place?",
+        "answers": [
+            "It is in Asia.",
+            "",
+            "India or maybe another Asian country"
         ]
     },
     {
@@ -88,219 +59,154 @@
         ]
     },
     {
-        "image": "images/Kate_Winslet_June-July_2014_HB_Cover.jpeg",
+        "image": "images/Unveiling_of_LZR_Racer_in_NYC_2008-02-13.jpeg",
         "context": "shopping",
-        "description": "A magazine cover featuring a woman with blonde hair, red lipstick, and a black dress, with texts about fashion and beauty.\n",
-        "question": "What are the texts, specifically?",
+        "description": "Swimmers modeling high-tech bodysuits.\n",
+        "question": "What are the bodysuits like?",
         "answers": [
-            "The title of the magazine is Bazaar with several article titles",
-            "A magazine about hair styles, fall runway report, fashion preview, 10 best key pieces for now, best shoes & bags",
-            "The texts are found on top the the photo of the woman"
+            "They seem tight fitting and in line with most body suits",
+            "green and bodyfit",
+            "The body suits at black and fitted.",
+            "straight bodysuits for gym",
+            "The body suits are camouflage green colors, round neck and sleeveless"
         ]
     },
     {
-        "image": "images/Simone_Biles,_na_prova_final_da_trave_nos_Jogos_Olimpicos_Rio_2016.jpeg",
-        "context": "news",
-        "description": "A Gymnast performing on the balance beam, currently in the air mid-flip.\n",
-        "question": "Is the gymnast male or female?",
+        "image": "images/3Uttanasana.jpeg",
+        "context": "health",
+        "description": "A person bending forward touching the floor in a yoga pose.\n",
+        "question": "Is the person a man or a woman?",
         "answers": [
-            "The gymnast is female.",
-            "The gymnast is female\n",
-            "The gymnast is a female.",
-            "The gymnast is female"
+            "The person is a man.",
+            "The person appears to be a man.",
+            "there is a men ",
+            "The person is a man"
         ]
     },
     {
-        "image": "images/Christmas_tree_in_marunouchi.jpeg",
+        "image": "images/440px-Piranha1.jpeg",
         "context": "travel",
-        "description": "A crowded plaza at night with a tall, lit Christmas tree and festive lights.\n",
-        "question": "Are there a lot of people around the tree?",
+        "description": "Several large, shimmering piranhas in an aquarium with a dark backdrop.\n",
+        "question": "Are piranhas found in this specific location? ",
         "answers": [
-            "Yes, I would say there are about 60 people or more.",
-            "There are several people in the courtyard but not standing around the tree.",
-            "yes around the tree"
+            "",
+            "yes they are and arre very dangerous",
+            "yes under the sea"
         ]
     },
     {
-        "image": "images/440px-US_Navy_030303-N-9109V-006_Steel_Beach_picnic_aboard_USS_Saipan.jpeg",
+        "image": "images/Korean_shaved_ice-Green_tea_bingsu-07.jpeg",
+        "context": "shopping",
+        "description": "A large bowl of green tea shaved ice topped with cookies.\n",
+        "question": "What kind of cookies are featured?",
+        "answers": [
+            "",
+            "The cookies are sugar coated to sweeten up the green tea shaved ice",
+            "The cookies appear to be Macaroon cookies"
+        ]
+    },
+    {
+        "image": "images/Priyanka_Chopra_at_Bulgary_launch,_2024_(cropped).jpeg",
         "context": "news",
-        "description": "Sailors jumping rope during a social event on a naval ship's deck, there are many people around.\n",
-        "question": "Are the sailors in US Navy uniforms?",
+        "description": "Actress at an event in a chic dress.\n",
+        "question": "Who is the actress?",
         "answers": [
-            "No, they're wearing regular, everyday clothes that are casual and fun. ",
-            "no, they are in street clothes",
-            "No, they are not in uniforms.",
-            "Yes, the sailors appear to be wearing blue jumpsuits at their uniform."
+            "It is unclear who the actress is because there is no identifying text on the image.",
+            "The actress is Priyanka Chopra.",
+            "The woman in the image is Priyanka Chopra."
         ]
     },
     {
-        "image": "images/Iss070e024781.jpeg",
-        "context": "science_journals",
-        "description": "Detailed view from outer space of a space station with the Earth behind.\n",
-        "question": "Is this the international space station?",
+        "image": "images/Panasonic-oxyride.jpeg",
+        "context": "shopping",
+        "description": "Two AA Panasonic batteries side by side.\n",
+        "question": "Is this an advertisement for batteries?",
         "answers": [
+            "No. This is simply a product picture.",
             "",
-            "it looks like it could be",
-            "yes i think so",
-            "This is the international space station with the view from outer space and the Earth in the distance",
-            "Yes, I think this is the international space station."
+            "",
+            "No. Its an image of the product for sale. "
         ]
     },
     {
-        "image": "images/Reformer_apparatus_pilates_london.jpeg",
-        "context": "health",
-        "description": "An indoor gym with pilates equipment and mirrors.\n",
-        "question": "What is the name of the gym?",
+        "image": "images/440px-2011-06-05_TTF_46.jpeg",
+        "context": "social_media",
+        "description": "A traditional dance performance by a woman wearing a gold crown which covers her forehead in ornate costume with a light colored skirt and a black and maroon halter top. She is holding a red decorative scarf between both hands. She is looking down and concentrating on her moves.\n",
+        "question": "How old are the women?",
+        "answers": [
+            "She looks like 35 years old.",
+            "She looks to be about mid 20s to 30s",
+            "she looks to be around 30 years old",
+            "The women are likely in their late 20s early 30s"
+        ]
+    },
+    {
+        "image": "images/240px-GreenTeaMochiIceCream.jpeg",
+        "context": "social_media",
+        "description": "Two white mochi ice cream balls; one is whole and the other is cut in half, showing creamy inside.\n",
+        "question": "What is the flavor?",
         "answers": [
             "",
-            "",
+            "This is a sweet flavor, often from an Eastern fruit like lychee or guava. The pictured ice cream is green in color so very likely a sweet guava mochi. ",
             ""
         ]
     },
     {
-        "image": "images/FIFA-Headquarter.jpeg",
+        "image": "images/440px-Dumbell_aerobics.jpeg",
+        "context": "shopping",
+        "description": "A fitness class lifting dumbbells, with a leader in front and participants following.\n",
+        "question": "Is the leader participating as well?",
+        "answers": [
+            "Yes, the leader is participating as well in a fitness exercise.",
+            "The leader is participating and showing the participants how to do the exercise correctly",
+            "A fitness class that is working out to better themself.",
+            "Yes the leader of the class is the one showing how to properly do the exercises the class is working on."
+        ]
+    },
+    {
+        "image": "images/Raffinerie_Esso_Ingolstadt.jpeg",
         "context": "news",
-        "description": "A modern glass building with large angled windows surrounded by a green lawn.\n",
-        "question": "What is the modern glass building, is it a landmark?",
+        "description": "Industrial night scene with lit refinery towers and smoke stacks.\n",
+        "question": "Does this appear to be in the US or another country?",
         "answers": [
-            "The building has a blue FIFA sign positioned on the rooftop, indicating that the building is the international soccer organization's office.",
-            "It is a FIFA building",
-            "It is some kind of FIFA building.",
-            "It looks like a business office for the FIFA organization."
+            "Yes it looks like it is in the US",
+            "US is where this appears to be",
+            "It's not possible to say if it is another country without guessing."
         ]
     },
     {
-        "image": "images/440px-Scuba_dive_computer.jpeg",
-        "context": "shopping",
-        "description": "A person's arm with a dive computer on the wrist, over clear, shallow waters.\n",
-        "question": "What is the brand of the computer",
-        "answers": [
-            "It is hard to make out but looks like either UWATEC or VITPA",
-            "The computer is made by the Uwatec brand.",
-            "",
-            "It is not clear on the image, letters are present but it does not read a brand"
-        ]
-    },
-    {
-        "image": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+        "image": "images/Thanin_market_platu.jpeg",
         "context": "health",
-        "description": "Plate of vegetables and herbs including beans, lettuce, mint, and cucumber paired with a kind of brown dipping sauce or marinade. \n",
-        "question": "Is the spread on a plate or on the table?",
+        "description": "Mackerel fish in woven baskets at a Thai market.\n",
+        "question": "What type of fish?",
         "answers": [
-            "on a plate, a very healthy food",
-            "its on the plate",
-            "The spread is in a small cup on the plate."
-        ]
-    },
-    {
-        "image": "images/400px-Rice_farmers_Mae_Wang_Chiang_Mai_Province.jpeg",
-        "context": "travel",
-        "description": "A dozen farmers harvesting rice in a large brown field.\n",
-        "question": "how large is the field?",
-        "answers": [
-            "The field is massive. It spans with the mountains and houses in the back",
+            "Mackeral fish",
             "",
-            "at least a few acres.",
-            "The field covers up most of bottom half the image with the sky on top"
+            "Each basket contains three dead silver mackerel fish approximately a foot long."
         ]
     },
     {
-        "image": "images/Spinach_leaves.jpeg",
-        "context": "social_media",
-        "description": "Bowl of wet fresh spinach leaves.\n",
-        "question": "What is this picture representing?",
+        "image": "images/440px-2011-06-05_TTF_46.jpeg",
+        "context": "shopping",
+        "description": "A traditional dance performance by a woman wearing a gold crown which covers her forehead in ornate costume with a light colored skirt and a black and maroon halter top. She is holding a red decorative scarf between both hands. She is looking down and concentrating on her moves.\n",
+        "question": "Are there any other dancers?",
         "answers": [
-            "",
-            ""
+            "NO THERE IS ONLY ONE DANCER",
+            "The dancer is alone in this picture. ",
+            "No there are no other dancers shown in the photo, she alone on the portion of the stage we can see",
+            "No there are no other dancers. "
         ]
     },
     {
-        "image": "images/Catedral_Metropolitana_de_Santarem,_Santarem,_Para,_2007.jpeg",
+        "image": "images/440px-West_Boca_photo_D_Ramey_Logan.jpeg",
         "context": "news",
-        "description": "A blue-domed cathedral overlooks a peaceful gazebo.\n",
-        "question": "Where is this cathedral?",
+        "description": "Aerial view of a long straight road stretching through a landscape with urban areas and seems to be very organized and natural.\n",
+        "question": "Where is it located?",
         "answers": [
-            "yes, it is a blue-domed cathedral.",
-            " is is located in New York",
-            "On a street bordering a plaza that contains a gazebo"
-        ]
-    },
-    {
-        "image": "images/STS-116_spacewalk_1.jpeg",
-        "context": "science_journals",
-        "description": "Astronaut Conducting Spacewalk Near the International Space Station",
-        "question": "What is in the background?",
-        "answers": [
-            "Earth is in the background.",
-            "The background is an image of the earth from space",
-            ""
-        ]
-    },
-    {
-        "image": "images/Critical_Mass,_San_Francisco,_April_29,_2005.jpeg",
-        "context": "health",
-        "description": "Cyclists on a city street going in a staight line. The person in the front has sun glasses on. \n",
-        "question": "Are the cyclists professionals",
-        "answers": [
-            "The cyclists doesn't seem to be professionals, perhaps bicycle enthusiasts would be better description. ",
-            "No, to be competition",
-            "i don't think all the cyclists are professional"
-        ]
-    },
-    {
-        "image": "images/Pana_Banaue_Rice_Terraces_(Cropped).jpeg",
-        "context": "social_media",
-        "description": "Vast green rice terraces in the mountains. ",
-        "question": "Are there any objects in the terraces?",
-        "answers": [
-            "No objects can be seen, there is just green vegetation. ",
-            "there are no objects in the terraces.",
-            "no, just the rice"
-        ]
-    },
-    {
-        "image": "images/Bajhar_ji_maani.jpeg",
-        "context": "social_media",
-        "description": "Rustic, round flatbread with charred spots on it.\n",
-        "question": "Is this from a fine dining restaurant?",
-        "answers": [
-            "No. It is more than likely from a small, casual restaurant based on the quality of food. ",
             "",
-            "There is no indicator that this flatbread is from a restaurant.  The surface and surrounding parts of the image look like a stainless steel countertop."
-        ]
-    },
-    {
-        "image": "images/440px-Rhododendron_arboreum_zeylanicum_flower.jpeg",
-        "context": "social_media",
-        "description": "A vibrant red Rhododendron arboreum flower blooming amidst green, leathery leaves.\n",
-        "question": "Is it a climbing flower like a vine?",
-        "answers": [
-            "No, it is a shrub.",
-            "No. It is growing close to the ground and is more sparsely bloomed than concentrated flowers would be.",
-            "it is not a climbing flower"
-        ]
-    },
-    {
-        "image": "images/Pansotti_alle_noci_01.jpeg",
-        "context": "shopping",
-        "description": "Plate of green ravioli-like pasta with walnut sauce in a white plate\n",
-        "question": "What color is the sauce?",
-        "answers": [
-            "The color of chicken gravy",
-            "Greenish-creamish",
-            "white or light brown",
-            "The sauce is cream colored."
-        ]
-    },
-    {
-        "image": "images/Thai_market_vegetables_01.jpeg",
-        "context": "shopping",
-        "description": "A variety of vegetables on sale at a market\n",
-        "question": "What are the type of vegetables in the image?",
-        "answers": [
-            "Tomatoes, onions, cabbage, leafy greens",
-            "There are tomatoes, peppers, cabbage, leafy greens, beets, and other vegetables that are hard to distinguish",
-            "There are limes, chili peppers, scallions, tomatoes, onions and lettuce"
+            "It is located in or near Washington DC.",
+            "",
+            "The ariel view is located somewhere new york"
         ]
     },
     {
@@ -312,7 +218,30 @@
             "along the race route",
             "Along the race route",
             "They are along the route",
-            "They are along the race route."
+            "They are along the race route.",
+            "The racers are along the race route"
+        ]
+    },
+    {
+        "image": "images/Leontopodium_alpinum_1.jpeg",
+        "context": "social_media",
+        "description": "A close-up of an alpine Edelweiss flower with white star-shaped petals.\n",
+        "question": "What is around the flower?",
+        "answers": [
+            "greenery, leaves",
+            "There are green leaves around the flower.",
+            "There is green shrubbery in the background of the image of the flower. The flower is the focal point of the picture. The shrubbery is blurred."
+        ]
+    },
+    {
+        "image": "images/Grizzly_Bear_Family_in_Glacier_National_Park.jpeg",
+        "context": "travel",
+        "description": "A grizzly bear mother leads her two young cubs through a grassy field.\n",
+        "question": "Is there a lake in the picture. ",
+        "answers": [
+            "No, there is not a lake in the picture",
+            "There is no lake in the picture. ",
+            "There is no lake in the picture."
         ]
     },
     {
@@ -323,41 +252,77 @@
         "answers": [
             "It is a dark red fruit but the shape is not clear",
             "Strawberries",
-            "It looks like it is mashed up carrots and plums"
+            "It looks like it is mashed up carrots and plums",
+            "I cannot tell what kind of fruit it is"
         ]
     },
     {
-        "image": "images/Vegetarian_Curry.jpeg",
-        "context": "travel",
-        "description": "Indian vegetarian meal with rice and naan.\n",
-        "question": "Is this an advertisement or an image promoting a location/vacation?",
+        "image": "images/Priyanka_Chopra's_press_conference_after_being_conferred_with_the_Padma_Shri_(05).jpeg",
+        "context": "social_media",
+        "description": "An Indian woman with an award pinned on her yellow outfit in a lush green garden\n",
+        "question": "What was the award for?",
         "answers": [
-            "This is not an advertisement",
-            "This is an image promoting a location.",
-            "It is an image promoting a location/vacation and the food you will likely enjoy while there",
-            "It is not an advertisement or promotion. It shows the local food."
+            "It is not clear what the award is for",
+            "It does not show in the image",
+            "Award for being an actress",
+            "Perhaps her support about breast cancer research or another charity",
+            "It is unclear what the award is for. It is a silver oval with a dark blue border and it is attached to her dress with a pink bow-tie ribbon."
         ]
     },
     {
-        "image": "images/440px-Red_Junglefowl.jpeg",
-        "context": "science_journals",
-        "description": "A colorful rooster standing on the forest floor among the dirt.\n",
-        "question": "What country is this in?",
+        "image": "images/Potato_flowers.jpeg",
+        "context": "shopping",
+        "description": "Delicate purple flowers with yellow centers.\n",
+        "question": "what type of flower is it ",
+        "answers": [
+            "The flower is light purple with five pointed petals",
+            "im unsure of the name but this certainly can be answered",
+            "I have no idea. Not sure if I should select 'the question cannot be answered'. But they look like star-shaped lavender flowers with yellow centers. ",
+            "flowers in a garden"
+        ]
+    },
+    {
+        "image": "images/Highland_Grassland_Shola_of_Silent_Valley_National_Park.jpeg",
+        "context": "travel",
+        "description": "Expansive view of yellow grass-covered rolling hills under a clear sky.\n",
+        "question": "Would this be a good place to hike?",
         "answers": [
             "",
-            "Unknown to me",
-            "Could be any country that has a forest. There's no clear indication as to which country this is in specifically. "
+            "It would be a good place to hike, but challenging, not for beginners.",
+            "Definitely yes"
         ]
     },
     {
-        "image": "images/Various_Pumpkins.jpeg",
-        "context": "health",
-        "description": "Assortment of colorful pumpkins on grass.\n",
-        "question": "Why are the pumpkins different colors?",
+        "image": "images/Pineapple_and_cross_section.jpeg",
+        "context": "shopping",
+        "description": "A picture of two pineapples or one pineapple cut in half. Pineapple on the right is clearly cut in half but you can only see the back of the pineapple on the left.\n",
+        "question": "Do you see anything that suggests why the pineapple is cut in half?",
         "answers": [
-            "The pumpkins are different colors because they are different types of pumpkins.",
-            "is not described as such",
-            "They are orange, green, and white"
+            "There is nothing else in the image that suggests why it is cut in half. ",
+            "no, did not see anything showed why the pineapple is cut in half. I guess the pineapple is cut in half to show the freshness of the pineapple or to show it will deliver in half",
+            "No there is nothing that suggests why the pineapple is cut in half."
+        ]
+    },
+    {
+        "image": "images/Petersdom_von_Engelsburg_gesehen_crop.jpeg",
+        "context": "travel",
+        "description": "St. Peter's Basilica in Rome, viewed from a distance with clear skies.\n",
+        "question": "What does the basilica look like? ",
+        "answers": [
+            "The basilica is a large columned building with a large dome on top with two smaller domes on either side.  ",
+            "A large white building with pillars on the first level and dome like towers on the top of it. ",
+            "Building looks like a large gov building."
+        ]
+    },
+    {
+        "image": "images/Conularia_milwaukeensis.jpeg",
+        "context": "science_journals",
+        "description": "A fossilized leaf imprint on a stone surface.\n",
+        "question": "what color is the object. ",
+        "answers": [
+            "The object is dark grey.",
+            "",
+            "the object is a sandstone gray"
         ]
     },
     {
@@ -374,16 +339,6 @@
         ]
     },
     {
-        "image": "images/Noaa-walrus12.jpeg",
-        "context": "science_journals",
-        "description": "Group of rough skinned walruses with long white tusks leisurely rest on a set of black rocks near a body of water.\n",
-        "question": "What is the significance of the presence of these walruses in this particular location",
-        "answers": [
-            "",
-            ""
-        ]
-    },
-    {
         "image": "images/Protestas_Lima_Diciembre_2022_(18).jpeg",
         "context": "social_media",
         "description": "A crowded street protest with flags and banners.\n",
@@ -391,156 +346,142 @@
         "answers": [
             "",
             "group of people protesting ",
-            "It looks like a south american country. There are a large mountain in the background and thousands of protestors on a large busy street road."
+            "It looks like a south american country. There are a large mountain in the background and thousands of protestors on a large busy street road.",
+            "people crowded in street protest with flags "
         ]
     },
     {
-        "image": "images/440px-Ripe,_ripening,_and_green_blackberries.jpeg",
-        "context": "shopping",
-        "description": "Branches of blackberries at different ripening stages from green to black all still on it.\n",
-        "question": "What is the price range for purchasing the blackberries depicted the image and their any package deals available.",
+        "image": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
+        "context": "science_journals",
+        "description": "A grizzled giant squirrel perched on a branch in lush foliage. It's laying on its stomach looking down over the branch.\n",
+        "question": "Is the squirrel possibly sick, or just resting?",
         "answers": [
+            "It is just resting.",
+            "the squirrel seems to be just resting",
+            ""
+        ]
+    },
+    {
+        "image": "images/Skubik_on_Uneven_Bars_2006.jpeg",
+        "context": "news",
+        "description": "Female athlete performs a routine on uneven bars at a gymnastics event.\n",
+        "question": "who is the female performing the routine?",
+        "answers": [
+            "It is not possible to tell because the angle shows her from the back.",
             "",
-            "$2.00 - $6.00",
-            "",
-            "only the picture is showing "
-        ]
-    },
-    {
-        "image": "images/Kelly_Clarkson_57th_Presidential_Inauguration-cropped.jpeg",
-        "context": "shopping",
-        "description": "A woman in a winter coat and purple scarf looking to the side. She has long strawberry blond hair.\n",
-        "question": "How big is the winter coat?",
-        "answers": [
-            "It is a regular cloth coat, not large. It is form fitting.",
-            "The winter coat is just the size of the woman. it fits perfectly on her and its wine I color",
-            "It looks like a size 36 regular. It is a slim fitting coat."
-        ]
-    },
-    {
-        "image": "images/Processing_green_tea.jpeg",
-        "context": "health",
-        "description": "Two people processing green tea leaves in a wooden box.\n",
-        "question": "What instruments are they using on the tea to get it processed and into the box?",
-        "answers": [
-            "they aren't using any instrument",
-            "They are using their hands to process the leaves and move them around.",
-            "they used their hands"
-        ]
-    },
-    {
-        "image": "images/240px-Anna_Wintour.jpeg",
-        "context": "shopping",
-        "description": "A woman with a signature bob haircut wearing sunglasses at an event.\n",
-        "question": "what do the sunglasses look like",
-        "answers": [
-            "The glasses have a large frame and are really dark.",
-            "The sunglass look like an high fashion sunglass.",
-            "The sunglasses are a dark color with medium lenses",
-            "Large and black in color. They look to be made from plastic. The frames are thick and mostly circular."
-        ]
-    },
-    {
-        "image": "images/440px-The_Crammer,_Devizes,_England.jpeg",
-        "context": "health",
-        "description": "A peaceful pond in a park with green grass and a historic stone.\n",
-        "question": "What is the historic stone?",
-        "answers": [
-            "The picture does not let me see what the writing is on it.  It looks very old.",
-            "A tombstone",
-            "The historic stone looks like a faded limestone grave marker."
+            "The female performing is a talented young adult."
         ]
     },
     {
         "image": "images/Protest_against_the_invasion_of_Ukraine_(Yekaterinburg,_February_24,_2022).jpeg",
-        "context": "social_media",
+        "context": "news",
         "description": "Small group of people with face masks holding protest signs on a wall.\n",
-        "question": "Are these students?",
+        "question": "what are on the signs?",
         "answers": [
-            "The context of people are students",
-            "Possibly they are",
-            "While some of them can be, it would be better to assume these folk are from many walks of life. ",
-            "Most likely, only indication is that they all appear to be young. "
+            "they've written HET BONHE",
+            "The signs are all red, black, and white. The messages are in some Cyrillic language though so I can't read them",
+            "I do not know what's on the signs because I don't understand the language written on the signs but someone who understands that language can produce an answer so technically you can answer the question but not everyone can       "
         ]
     },
     {
-        "image": "images/440px-GemmaWard.jpeg",
-        "context": "social_media",
-        "description": "A blonde model struts down a fashion runway in a ruffled brown gown.\n",
-        "question": "How tall is the model?",
-        "answers": [
-            "The model in the photo, Emma Ward, is 5ft 10 inches tall.",
-            "",
-            "The model is 5'10\" walking with her hands on her hips."
-        ]
-    },
-    {
-        "image": "images/1920px-Trajan's_Market,_Rome,_Italy.jpeg",
-        "context": "science_journals",
-        "description": "Ancient Roman ruins with scattered columns and arches with a few trees surrounding them.\n",
-        "question": "What environment did this take place in?",
-        "answers": [
-            "A dry environment",
-            "Ancient Roman Ruins",
-            "The environment this building is in appears to be Rome. It is surrounded by other older buildings and trees.",
-            ""
-        ]
-    },
-    {
-        "image": "images/Christmas_Sweater.jpeg",
-        "context": "shopping",
-        "description": "A traditional festive sweater with a snowscape and reindeer pattern.\n",
-        "question": "Does the sweather have lights?",
-        "answers": [
-            "the sweater doesn't have light",
-            "",
-            "There are no lights on the sweater."
-        ]
-    },
-    {
-        "image": "images/Pumpkin2007.jpeg",
-        "context": "social_media",
-        "description": "A glowing jack-o'-lantern with menacing eyes and jagged teeth in a dark room.\n",
-        "question": "Is this done by an artist?",
-        "answers": [
-            "",
-            "It's not clear whether this was done by an artist or not. It does look handmade, but I don't know if it was by an artist or just a normal person.",
-            ""
-        ]
-    },
-    {
-        "image": "images/440px-Kotka_maretarium_inside.jpeg",
-        "context": "science_journals",
-        "description": "We are looking at a very tall fish tank or aquarium.  It looks to be three stories, as there are two bars going left to right dividing the tank perfectly. The tank is either very dirty with green algae or there is a light coming in making it look green. There are multiple small fish, a rocky bottom and what looks like larger fish at the top. I can not tell if it is fresh water or sale water. \n",
-        "question": "Where is this aquarium located?",
-        "answers": [
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Aequorea3.jpeg",
-        "context": "social_media",
-        "description": "A bioluminescent jellyfish floating in dark waters, emitting light.\n",
-        "question": "Why am I seeing this in my connections?",
-        "answers": [
-            "because the image closely relates with one or more of your searches",
-            "Maybe someone i know is an underwater photographer and took this photo on a trip.",
-            "",
-            "This is likely showing up on your feed because the picture of the jellyfish is beautiful and intriguing. The jellyfish emits light in a cool pattern throughout its body."
-        ]
-    },
-    {
-        "image": "images/Fish_stuffed_with_Thai_herbs.jpeg",
+        "image": "images/568px-Srilankamountainforest.jpeg",
         "context": "travel",
-        "description": "Two open pots containing white fish, each pot contains two fish, laid on their back, sliced open and stuffed with herbs, resting on banana leaves.\n",
-        "question": "Are these fish cooked in a specific way? ",
+        "description": "Lush mountainous forest with mist in the distance.\n",
+        "question": "Where is this located?",
         "answers": [
-            "no, they seem to be raw or rather consumed this way, more like a sashimi ",
-            "The fish appear to be cooked in a specific manner - perhaps relative to a local custom - but it is unclear strictly by looking at the picture",
-            "No, they look to be raw and uncooked.",
-            "The fish are not cooked"
+            "It does not say, but it looks like the Amazon or other rain forest.",
+            "",
+            "Greenland in Europe"
+        ]
+    },
+    {
+        "image": "images/gourd_dish.jpeg",
+        "context": "shopping",
+        "description": "A plate of green bean and potato curry. The dish is full of large chunks of potatoes and whole green beans thoroughly seasoned and covered in a curry.\n",
+        "question": "Where can I get this",
+        "answers": [
+            "You can get this at a shopping website online.",
+            "",
+            "A South Asian restaurant. "
+        ]
+    },
+    {
+        "image": "images/Amaterske_akvarium.jpeg",
+        "context": "science_journals",
+        "description": "A large at-home aquarium with lush, vibrant green plants and a few small fish.",
+        "question": "What kind of fish are in the image?",
+        "answers": [
+            "Trigonostigma heteromorpha, Phenacogrammus-interruptus, Paracheirodon innesi, Corydoras aeneus, Crossocheilus siamensis. ",
+            "Small gray fish with a blue stripe along their midsection and one even smaller orange fish with a blue triangle on its back half.",
+            "I can't tell the exact type of fish in the image, but they are small, colorful fish.",
+            "they are tiny and light blue in color with a dark blue stripe in the center.  There is also a pink and black one in the background"
+        ]
+    },
+    {
+        "image": "images/Batik_Fashion_01.jpeg",
+        "context": "travel",
+        "description": "A model in a traditional batik skirt and white blouse posing on a catwalk.\n",
+        "question": "How does the skirt look?",
+        "answers": [
+            "It looks like a skirt with animal patterns as well as some geometrical patterns. ",
+            "Like a hankerchief",
+            "the skirt is ankle length and full of colors in reds, yellows, with unique designs.",
+            "Batik skirts are fine art with images, colors, and patterns."
+        ]
+    },
+    {
+        "image": "images/Forcejeo_Real_Madrid_-_FC_Barcelona.jpeg",
+        "context": "travel",
+        "description": "Professional soccer teams look at a tense moment during a match.\n",
+        "question": "What does this have to do with travel?",
+        "answers": [
+            "this have nothing to do with travel. And i don't think it will\n",
+            "Soccer is a popular sport in many countries and people may want to visit a soccer stadium and see a game, or travel to see a specific team play.",
+            "Perhaps the image is a destination you can visit at a certain travel location. "
+        ]
+    },
+    {
+        "image": "images/Catedral_Metropolitana_de_Santarem,_Santarem,_Para,_2007.jpeg",
+        "context": "social_media",
+        "description": "A blue-domed cathedral overlooks a peaceful gazebo.\n",
+        "question": "Where is the picture at?",
+        "answers": [
+            "the picture is outside a cathedral gazebo",
+            "",
+            "i do not know"
+        ]
+    },
+    {
+        "image": "images/600px-GDC_onlywayaround.jpeg",
+        "context": "travel",
+        "description": "A group of nine contemporary dancers on a dark stage mid-performance. They are illuminated by a circle of light.\n",
+        "question": "What act are the dancers performing?",
+        "answers": [
+            "Interpretive dancing",
+            "not sure but it looks serious",
+            "dancing on a stage"
+        ]
+    },
+    {
+        "image": "images/Imdt01.jpeg",
+        "context": "shopping",
+        "description": "Two dancers performing an acrobatic move. The man is bending down and the female is on his back with her legs doing the splits.\t\n",
+        "question": "What is the background?",
+        "answers": [
+            "The background is a solid grey color",
+            "A grey background",
+            "A gray wall is in the background."
+        ]
+    },
+    {
+        "image": "images/440px-Mink_Whale_Meat_Iceland.jpeg",
+        "context": "shopping",
+        "description": "Two rectangular Styrofoam plates on a wooden surface. The plate on the left has red meat grilled to having a black charred outside with a lemon slice. The plate on the right has skewered grilled red meat that is black charred on the outside. There is a lemon slice at the top of the skewer. There is also a white plastic knife and white plastic fork.\n",
+        "question": "How is the meat cooked? ",
+        "answers": [
+            "The meat was cooked on a grill.",
+            "The meat is grilled. Since it is charred it is safe to say that this meat has been on a grill.",
+            "to the grill"
         ]
     },
     {
@@ -551,232 +492,399 @@
         "answers": [
             "The new website is showcasing its new developments and needed to be seen that is why its here ",
             "",
+            "",
+            "that's a great question",
+            "",
             ""
         ]
     },
     {
-        "image": "images/BASE_Jumping_from_Sapphire_Tower_in_Istanbul.jpeg",
+        "image": "images/Young_Woman_at_Kennin-ji_Zen_Temple_-_Kyoto_-_Japan_-_01_(47929418887).jpeg",
         "context": "travel",
-        "description": "A male base jumper in the process of launching backwards from a skyscraper in a big city.  He's wearing a long-sleeved white shirt, brown pans, and shoes.\n",
-        "question": "What is the weather like",
+        "description": "A woman sitting on the floor with her legs crossed, adorned in a traditional Japanese kimono.\n",
+        "question": "What destination is the woman at? ",
         "answers": [
-            "the weather is moderate, not hot and not cool. atmosphere very friendly for skycraper",
-            "Clear skies",
+            "She is in Japan",
+            "A traditional Japanese Kimono. ",
             "",
-            "",
-            "The sky is slightly overcast."
+            ""
         ]
     },
     {
-        "image": "images/MarayoorDolmen.jpeg",
+        "image": "images/340px-1940_Trachtenstrickjacke_anagoria.jpeg",
+        "context": "shopping",
+        "description": "A traditional knitted cardigan with decorative patterns.\n",
+        "question": "What is the color scheme of this cardigan?",
+        "answers": [
+            "A white sweater with green and red trim around the neckline and down the center. The buttons are red and there is a floral pattern in a diamond shape down the front and sleeves of the cardigan",
+            "white cardigan, with yello, red, and green patterns on it",
+            "Beige with some red, green and yellow interspersed ",
+            "Somewhat brownish"
+        ]
+    },
+    {
+        "image": "images/Sher_Khan_(cropped).jpeg",
         "context": "science_journals",
-        "description": "A large prehistoric-looking stone balanced on smaller rocks surrounded by green plants with green flowers amidst mountains.\n",
-        "question": "What is special about the prehistoric stone? ",
+        "description": "A large, muscular male tiger walking through a very green field.\n",
+        "question": "What setting is the tiger in?",
         "answers": [
-            "the prehistoric stone has a very unique surface and style of mold",
-            "history as such and its balance",
-            "It was a large rock that balanced on smaller rocks.",
-            "Nothing special",
-            "That the rocks have stayed in the same position for a very prolonged period"
+            "looks to be an open field",
+            "The tiger is walking on green grass covered in leaves with trees in the background",
+            "Possibly the tiger is in the zoo"
         ]
     },
     {
-        "image": "images/Ice_swimming_at_summer_cottage_Finland.jpeg",
+        "image": "images/440px-Jumper_altered_PsCSJPG10.jpeg",
+        "context": "shopping",
+        "description": "A plain white knitted sweater on a plain background.\n",
+        "question": "Are there any specific features or details about the sweater that make it stand out from similar options available on the market\n\n\n\n\n",
+        "answers": [
+            "A plain white sweater with no distinctive features.",
+            "This sweater is typical of the shape and design of most pullover sweaters. It features a simple knitted body, and a textured ribbing on the wrist cuffs, body band, and collar. Partially because of the large stitches, it looks almost homemade rather than factory produced, which sets it apart.",
+            "The sweater is a very typical knit sweater and doesn't have any features that make it stand out.",
+            "no it is a plain sweater"
+        ]
+    },
+    {
+        "image": "images/Korea-Seoul-Insadong-Sanchon-02.jpeg",
+        "context": "shopping",
+        "description": "An array of traditional 14 Korean dishes in small bowls on a table.\n",
+        "question": "Are they packaged for shipping?",
+        "answers": [
+            "",
+            "No they aren't",
+            "This is not packaged for shipping"
+        ]
+    },
+    {
+        "image": "images/Cycliste_a_place_dItalie-Paris_crop.jpeg",
+        "context": "travel",
+        "description": "It's a woman on a bicycle pedaling through the city.  She is wearing a long brown jacket with a very warm winter hat and gloves.  The light at this time of the day is warm and soft.\n",
+        "question": "What is around the woman on the bike?",
+        "answers": [
+            "There is a fence and sidewalk and a lighting pole around the women. There is also treets and a sign post as well",
+            "She is riding her bike on a cobblestone street.",
+            "Behind her is the street curb and then a green fence and a wooden pole. Behind all that there is snow on the ground and there are trees with a few brown leaves left"
+        ]
+    },
+    {
+        "image": "images/Emperor_Naruhito_and_Empress_Masako_cropped_Emperor_Naruhito_and_Empress_Masako_20191110_1.jpeg",
+        "context": "travel",
+        "description": "Asian Royalty waving from a car, dressed in ceremonial attire.\n",
+        "question": "who is the asian royalty depicted in the image, and what is the occasion for their appearance",
+        "answers": [
+            "",
+            "it looks like a wedding",
+            "Asian Royalty waving from his car with his wife"
+        ]
+    },
+    {
+        "image": "images/Jairo_Martinez_in_2023.jpeg",
+        "context": "news",
+        "description": "A smiling individual with a trendy haircut wearing a black top adorned with colorful necklace.\n",
+        "question": "What color are the clothes?",
+        "answers": [
+            "He's wearing a black top.",
+            "He is wearing a mock black turtleneck.",
+            "clothes black",
+            "black mocked turtle neck."
+        ]
+    },
+    {
+        "image": "images/440px-Dolphinarium_Boudewjinpark_05.jpeg",
+        "context": "shopping",
+        "description": "A trainer in a wetsuit standing by a pool, interacting with a smiling dolphin through glass.\n",
+        "question": "Is the trainer in gear that is available for sale?",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Paris_Opera_full_frontal_architecture,_May_2009_(cropped).jpeg",
+        "context": "social_media",
+        "description": "The ornate Paris Opera House facade under a clear sky with dozens of people milling about the front.\n",
+        "question": "Is the photo taken during the day or night?",
+        "answers": [
+            "During the day",
+            "The Paris Opera House with people observing it outside.",
+            "during the day",
+            "The photo is taken during the day"
+        ]
+    },
+    {
+        "image": "images/Rajasthanthali.jpeg",
         "context": "health",
-        "description": "A man ice swimming in a frozen lake. There is a wooden fence behind the man. There is also snow all over the ground and a small cabin in the background. \n",
-        "question": "Do they seem to be representing ice swimming as a healthy pastime?",
+        "description": "An Indian meal platter with various dishes in tinfoil bowls on a dark wood table.\n",
+        "question": "Are these healthy food options?",
         "answers": [
-            "NO, NOT AT ALL",
-            "They do seem to be representing ice swimming as a healthy pastime. ",
-            "This person seems to enjoy ice swimming"
+            "",
+            "The foods shown are predominantly carbohydrate based and may not be considered healthy to all diets. The specific type of meat if any cannot be determined looking at the photo. There is an assortment of sauces to pair with the food. ",
+            "There seems to be a lot of different foods and sauces that are cooked so they could be unhealthy",
+            "I think so"
         ]
     },
     {
-        "image": "images/Beluga_premier.gov.ru-1.jpeg",
-        "context": "news",
-        "description": "A smiling beluga whale above water.\n",
-        "question": "What happened to this whale",
+        "image": "images/Yamnaem71.jpeg",
+        "context": "travel",
+        "description": "A plate of salad containing peanuts and veggies along with various other side dishes.\n",
+        "question": "What objects do you see",
         "answers": [
-            "This beluga whale popped his head out of the water while smiling and splashed a bit too",
-            "",
-            "",
-            "",
-            "Nothing happened it smiling looking very happy"
+            "Serving dish containing salad in the foreground, amongst various vegetables like a carrot, asparagus, a grape tomato and herbs. There is a spoon to serve the salad. I also see other side dishes alongside the salad, contained in serving bowls within baskets. The one side dish looks like fried balls; the other, some sort of stew.",
+            "Vegetables and plates on a dinner table",
+            "A dish with peanuts and and herbs "
         ]
     },
     {
-        "image": "images/440px-Bella_Hadid_Cannes_2018.jpeg",
-        "context": "news",
-        "description": "A woman in a glamorous silver dress at a high-profile event, looking over her shoulder.\n",
-        "question": "Are there other people at the event",
+        "image": "images/Police_cyclists_London_Olympic_Torch_Relay.jpeg",
+        "context": "health",
+        "description": "A team of six police cyclists in high-visibility jackets on a empty city street.\n",
+        "question": "What kind of bikes are they riding?",
         "answers": [
-            "Yes they are other people at the event",
-            "Yes, there seems to be other people at the event.",
-            "There is a man in a suit behind the woman and it also looks like there is a technical audio guy wearing a pair of headphones.",
-            "Yes, there appear to be other people behind her in the photo."
+            "They are riding a ten-speed mountain bike style of bike.",
+            "The police are riding black flat handlebar city bikes",
+            "A group of six officers on their bikes in the streets of a city."
         ]
     },
     {
-        "image": "images/440px-Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpeg",
-        "context": "science_journals",
-        "description": "Tall millet plants in a field during early grain fill stage.\n",
-        "question": "When is early grain?",
+        "image": "images/Aki_basho_dohyo-iri_on_Sept._28_2014.jpg",
+        "context": "travel",
+        "description": "There are more than a dozen Sumo wrestlers performing a ring-entering ceremony. There is an audience sitting directly behind them. Most of the wrestlers are holding their hands up high in the air, while some are holding their arms down by their sides. \n",
+        "question": "what are the sumo wrestlers attire?",
+        "answers": [
+            "The sumo wrestlers are wearing no tops, some are wearing shorts and some are wearing traditional sumo attire. ",
+            "They are wearing loin cloths.",
+            "The sumo wrestlers are wearing mawashi, which is the loincloth that they wear during competition.",
+            "Very great and nice beautiful initiative"
+        ]
+    },
+    {
+        "image": "images/Artinstitportland2009palazzo.jpeg",
+        "context": "shopping",
+        "description": "Model walking on a runway in a long red dress and green scarf.\n",
+        "question": "Are there people and photographers watching and taking pictures?",
+        "answers": [
+            "there are people watching the model and photographers taking pictures of her",
+            "There are people spectating the model, however no cameras or cell phones are visibly taking photographs.",
+            "The image shows people watching. There are no individuals taking photos."
+        ]
+    },
+    {
+        "image": "images/440px-Ellen_DeGeneres_2011.jpeg",
+        "context": "social_media",
+        "description": "A celebrity with blonde short hair, in a grey suit, speaking.\n",
+        "question": "Where are they speaking?",
         "answers": [
             "",
-            "When the millet plants in the field are tall.",
-            "early spring, April to may "
+            "They are speaking directly to the camera.",
+            ""
         ]
     },
     {
-        "image": "images/Starsinthesky.jpeg",
-        "context": "news",
-        "description": "Dazzling starry night sky\n",
-        "question": "Is the image over the ocean?",
+        "image": "images/440px-Carrot_seeds.jpeg",
+        "context": "health",
+        "description": "Varias semillas de zanahoria marrones con textura sobre un fondo blanco.\n",
+        "question": "The image description is in spanish",
         "answers": [
-            "The image is under the ocean.",
-            "No; you cannot see water, ground, or any other identifying land in the image.",
-            "yes, its shiny bright sky"
+            "This is a close up of a carrot seeds on a white background.  The carrot seeds are a light brown.",
+            "no this image isnt spanish",
+            "The image presented is various seeds."
         ]
     },
     {
-        "image": "images/440px-Mir_on_12_June_1998edit1.jpeg",
-        "context": "science_journals",
-        "description": "The Mir space station in orbit, showing its solar panels and modules, Earth in the background.\n",
-        "question": "What does the Mir space station look like?",
+        "image": "images/Unload_wheat_by_the_combine_Claas_Lexion_584.jpeg",
+        "context": "travel",
+        "description": "Harvesting machine unloading wheat into a trailer. The tractor is pulling the trailor wheat is being loaded into\n",
+        "question": "What region is this taking place?",
         "answers": [
-            "",
-            "A collection of six large, metal, cylindrical chambers that connect at the center, forming a three-dimensional cross; with metal panels sprouting from it that look like solar panels.",
-            "a space ship with solar panels sticking out"
+            "This looks like it's taking place in a rural, likely southern area where lots of crops are grown.",
+            "midwest on a farm",
+            ""
         ]
     },
     {
         "image": "images/Tuk-tuk_fastfood_grill_1.jpeg",
-        "context": "social_media",
+        "context": "travel",
         "description": "A street food cart at night, lit by neon lights, selling grilled foods.\n",
-        "question": "What food is specifically there?",
+        "question": "What is the cultural makeup of the people in the image?",
         "answers": [
-            "",
-            "Corn on the cob",
-            "food snacks"
+            "To me, it seems that this is an Asian culture. Defining the exact area of Asia would be tough based on the picture. But the lighting and cart make me think it could be China or possibly Korea. ",
+            "The cultural makeup of the people in the image is spanish",
+            "In the image there appear to be two Thai women selling the food from the cart. One is buying from it."
         ]
     },
     {
-        "image": "images/Agave_Syrup.jpeg",
-        "context": "health",
-        "description": "Mostly filled bottle of golden agave syrup against a plain background, with a red cap.\n",
-        "question": "Is there any text in this image that can be seen?",
-        "answers": [
-            "Yes there is",
-            "Agave syrup",
-            "Yes, but looks but other than the name it looks like it is written not in English--possibly Italian, etc."
-        ]
-    },
-    {
-        "image": "images/Mumbai_03-2016_39_University.jpeg",
-        "context": "travel",
-        "description": "A tall clock tower with intricate designs and flying birds.\n",
-        "question": "Where is this tower located?",
-        "answers": [
-            "Unknown to me",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Alexa_Chung_2015_(cropped).jpeg",
+        "image": "images/Girl_at_Piccadilly_Circus.jpeg",
         "context": "shopping",
-        "description": "A woman in a floral off-shoulder dress and heels, holding an award, smiling on stage.\n",
-        "question": "Am I purchasing the outfit or the event where she is on stage?",
+        "description": "A woman in a blue outfit stands confidently on a London street, with iconic red buses and advertisements in the background.\n",
+        "question": "what brands are being advertised?",
         "answers": [
-            "",
-            "You are purchasing the outfit. ",
-            "I am purchasing the outfit"
+            "The only thing that I can make out is Bulova I believe. It's not a brand that I am familiar with but it's on a large sign in the back left of the picture.",
+            "I can only clearly see Bulova brand in the background",
+            "Bulova is being advertised.",
+            "I see a coca cola sign, and Bulova sign in the background although neither or prominent "
         ]
     },
     {
-        "image": "images/Taller_de_textiles.jpeg",
+        "image": "images/Plaza_de_Cusco_Allison_Bellido.jpeg",
         "context": "shopping",
-        "description": "This is a wooden loom, a small structure that is designed and built to assist in making various items, such as. scarves, blankets, etc.  There are a lot of soft and differently colored yarns hanging around the wooden loom.\n",
-        "question": "How big is the loom?",
+        "description": "A sunny day at a historic square with a spanish colonial style church and crowds.\n",
+        "question": "What historic square is being shown in the picture?",
         "answers": [
-            "It is fairly large.  It is about six feet tall and at least the width of a human's arm span from tip to tip.",
-            "the loom is an average-sized.",
-            "It's very large maybe 6 feet by 6 feet"
+            "historic plaza with a spanish colonial style church and crowds",
+            "One in spain",
+            "A historic square somewhere in Europe"
         ]
     },
     {
-        "image": "images/440px-Bella_Hadid_Met_Gala_2017.jpeg",
-        "context": "news",
-        "description": "A woman in an off-shoulder black lace dress posing at a gala. The dress is mostly see-through. She has a silver watch on her left hand and silver bracelets on her right. She has painted her nails red. She has middle parted dark-brown hair that goes down to her shoulders.\n",
-        "question": "What else is in the picture to make this worthy news?",
-        "answers": [
-            "There are others dressed in tuxedos and formal wear that possibly could be popular as well. It looks to be a Gala of some sort that might make it news worthy as well. You can tell by the surrounding area.",
-            "the picture is of bella hadid",
-            "There are many other people in the background who are also attending the gala, wearing black dresses and tuxedoes."
-        ]
-    },
-    {
-        "image": "images/Walking_tiger_female.jpeg",
-        "context": "news",
-        "description": "Tiger prowling through grassland.\n",
-        "question": "Are the animals in the article and image specifically endangered or under some threat?",
-        "answers": [
-            "given what you describe is somewhat true",
-            "It would appear potentially they are. ",
-            "Not sure if this specific type of tiger is or not."
-        ]
-    },
-    {
-        "image": "images/600px-US_Army_51673_aerobathon.jpeg",
-        "context": "health",
-        "description": "A step aerobics class with participants following an instructor.\n",
-        "question": "Is this in a lab or in a class?",
-        "answers": [
-            " This is in an aerobics class.",
-            "This is in a class with the aerobics instructor doing a step class.",
-            "This is in a step aerobics class, not in a lab."
-        ]
-    },
-    {
-        "image": "images/400px-Cigarette_smuggling_with_a_book.jpeg",
+        "image": "images/Woman_at_Lover's_Bridge_Tanjung_Sepat_(cropped).jpeg",
         "context": "social_media",
-        "description": "An old book hollowed out to hide cigarettes inside.\n",
-        "question": "What book was used to conceal the cigarettes? ",
+        "description": "An Asian woman with glasses smiling while standing in front of a body of water.\n",
+        "question": "Is the body of water an ocean or a lake?",
         "answers": [
-            "An old hollowed book was used.",
-            "Yes it was used for this purpose.",
-            "it is hard to tell but it is a hardcover"
-        ]
-    },
-    {
-        "image": "images/440px-Kendall_hat_2017.jpeg",
-        "context": "social_media",
-        "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
-        "question": "Who is this person?",
-        "answers": [
-            "",
-            "This person is Kendall Jenner of Kardashian family fame.",
+            "yes, it is practically as described.",
+            "There is no shoreline in the far distance that can be seen in this picture, therefore it is most likely an ocean or an extremely large lake with its shoreline so far away it cannot be seen by the human eye alone",
             ""
         ]
     },
     {
-        "image": "images/Athirapally_Waterfalls_after_the_Monsoons.jpeg",
+        "image": "images/Gianni_Versace_evening_dress_vintage.jpeg",
+        "context": "social_media",
+        "description": "A colorful and vibrant strapless Gianni Versace evening dress on a mannequin.\n",
+        "question": "How long is the dress",
+        "answers": [
+            "The dress is short and ends three inches above the mannequin's knees",
+            "",
+            "The dress comes to mid-thigh"
+        ]
+    },
+    {
+        "image": "images/Badulla_hills_tropical_rain_forest.jpeg",
         "context": "travel",
-        "description": "A wide waterfall in a lush green landscape, sounded by hills and nature.\n",
-        "question": "where is it",
+        "description": "Overlooking a tropical rainforest with a cloudy sky.\n",
+        "question": "What kind of vegetation is there?",
+        "answers": [
+            "The vegetation is short green grass and green trees",
+            "Trees and tall grass.",
+            "Looks like lots of trees and a bit of grasses"
+        ]
+    },
+    {
+        "image": "images/Woman_at_Lover's_Bridge_Tanjung_Sepat_(cropped).jpeg",
+        "context": "travel",
+        "description": "An Asian woman with glasses smiling while standing in front of a body of water.\n",
+        "question": "is it the ocean or a pool",
+        "answers": [
+            "It is the ocean",
+            "it appears to be an Ocean",
+            "The body of water the woman is standing in front of is the ocean. It is unclear which ocean."
+        ]
+    },
+    {
+        "image": "images/Di_jakarta.jpeg",
+        "context": "news",
+        "description": "A tall, Christmas tree featuring blue, purple and green decorative lights at night in a bustling city square.\n",
+        "question": "Why is the Christmas tree on display in the city square?",
+        "answers": [
+            "because it is christmas time",
+            "To celebrate Christmas time",
+            "It must be Christmas time, or must be a Christmas themed event.",
+            "This is the famous Rockafeller square where they have a christmas display every year, many people come to see this spectacle during Christmas time. "
+        ]
+    },
+    {
+        "image": "images/Water_droplet_lying_on_a_damask.jpeg",
+        "context": "shopping",
+        "description": "Close-up of a water droplet on fabric.\n",
+        "question": "Did the fabric bleed?",
+        "answers": [
+            "no it did not",
+            "No it did not.",
+            "Nice picture and fabric frames",
+            "",
+            "No, it looks like the fabric is hydrophobic enough to keep the water droplet still",
+            "It does not appear that the fabric was bleeding"
+        ]
+    },
+    {
+        "image": "images/Various_Pumpkins.jpeg",
+        "context": "science_journals",
+        "description": "Assortment of colorful pumpkins on grass.\n",
+        "question": "What science is being done?",
+        "answers": [
+            "observing different types of pumpkins",
+            "",
+            "The science is botany"
+        ]
+    },
+    {
+        "image": "images/440px-Ripe,_ripening,_and_green_blackberries.jpeg",
+        "context": "health",
+        "description": "Branches of blackberries at different ripening stages from green to black all still on it.\n",
+        "question": "Can you describe the different ripening stages?",
+        "answers": [
+            "The blackberries start out as a light green, the next stage is light pink, after that the berries begin to turn red. Finally the blackberries turn a deep black.",
+            "green to pink to dark red",
+            "Different ripening stages show different colors",
+            "Some of the berries are green.  Others are red and black."
+        ]
+    },
+    {
+        "image": "images/Commercial_Crew_Program_vehicles.jpeg",
+        "context": "news",
+        "description": "A close-up of a space craft or satellite with Earth in the background. \n",
+        "question": "How close up is the photo?  Can you see the entire space craft, or is it too close to see the whole thing?",
+        "answers": [
+            "This photo is very close up. You cannot see the entire spacecraft ",
+            "You do not see the whole thing.",
+            "You cannot see the entire spacecraft, but you can see a decent portion of it"
+        ]
+    },
+    {
+        "image": "images/440px-Jon_Gruden2.jpeg",
+        "context": "news",
+        "description": "A football coach in conversation with a referee on the field.\n",
+        "question": "Who are the people talking?",
+        "answers": [
+            "talking to the referee.",
+            "a football coach and referee were talking",
+            "A coach and a referee"
+        ]
+    },
+    {
+        "image": "images/Kiwi_Smoothie.jpeg",
+        "context": "health",
+        "description": "A green kiwi smoothie beside fresh kiwi halves.\n",
+        "question": "What else is used in the kiwi",
         "answers": [
             "",
+            "There appears to be a mint leaf on top of the drink.",
+            "It's not clear but does look like mint is used as a garnish"
+        ]
+    },
+    {
+        "image": "images/340px-Gabriel_Garko_and_Laura_Torrisi_-_nicogenin_-_66me_Festival_de_Venise_(Mostra)_-_The_Road_(3).jpeg",
+        "context": "news",
+        "description": "A man in a white tuxedo and a woman in a black slit gown pose together on the red carpet.\n",
+        "question": "What event are they attending?",
+        "answers": [
+            "While it is unclear based on the image exactly what event they are attending, it is clear that they are posing for photographs from the press on the red carpet.",
+            "THey appear to be attending a red carpet",
+            "They are attending a gala, a fundraiser or the Oscars.  ",
+            "It is hard to tell what event they are attending but it is a red carpet event",
             ""
         ]
     },
     {
-        "image": "images/200px-6Ashtanga_Namaskara.jpeg",
+        "image": "images/Richard_Powers_(author).jpeg",
         "context": "social_media",
-        "description": "A yoga participant in a low push-up position.\n",
-        "question": "Which of my connections is in the yoga pose?",
+        "description": "A white man with gray hair speaking into a microphone.\n",
+        "question": "is he older",
         "answers": [
-            "",
-            ""
+            "Yes, this man appears to be older. He is wearing a brown shirt, his skin appears to be wrinkled and he also has grey/white hair.",
+            "Yes he is older.",
+            "The man is older",
+            "The man is older"
         ]
     },
     {
@@ -788,6 +896,321 @@
             "They appear to be about 9 inches long without the greenery. ",
             "The carrots are all different sizes, ranging from long to medium to short, but all skinny in width",
             "The carrots are the the same size as the whole carrots in you'd find in the supermarket. The ones you would normally shave with a peeler."
+        ]
+    },
+    {
+        "image": "images/440px-Samuel_Wanjiru_at_2008_Summer_Olympics.jpeg",
+        "context": "health",
+        "description": "A marathon runner crossing the finish line with elation as spectators capture the moment. Olympic rings are visible.\n",
+        "question": "Is there anything unique about what they are wearing?",
+        "answers": [
+            "It is nice",
+            "Some are wearing flags from their country.",
+            "They are just wearing a track runner's uniform.",
+            "They are part of Beijing Olympics that took place in 2008 where a lot of red was worn. ",
+            "Yes the runner is wearing very tight clothes that have a printed sign number attached to the front of the chest indicating his in some sort of contest or Marathon",
+            "They appear to be wearing Olympic uniforms. ",
+            "No, they are wearing regular running clothes. Black shorts and a red shirt.",
+            "No. There is nothing unique"
+        ]
+    },
+    {
+        "image": "images/Rome_skyline_panorama.jpeg",
+        "context": "travel",
+        "description": "Panoramic view of Rome\u2019s cityscape with historical domes and buildings.\n",
+        "question": "What specific Roman landmarks are shown, if any?",
+        "answers": [
+            "",
+            "I see the domes of the cathedrals.",
+            "I do not know this answer unfortunately"
+        ]
+    },
+    {
+        "image": "images/Bandra_Worli_Sea-Link_(cropped).jpeg",
+        "context": "news",
+        "description": "A long, illuminated bridge stretching across a body of water at night. with a city in the background. Tall poles in the middle with a red light so that airplanes wont hit it.\n",
+        "question": "What city is in the background?",
+        "answers": [
+            "",
+            "",
+            "It looks to be the city of Mumbai, India",
+            "It looks like NYC."
+        ]
+    },
+    {
+        "image": "images/440px-03WAVRE006b.jpeg",
+        "context": "shopping",
+        "description": "I am watching, I believe, two bungee jumpers free falling from a large platform. It almost looks like a radio or tv tower of some sort. It is white metal and it looks like the only way up it is to climb but there may be stairs we can't see. There is a platform halfway up and then the tower gets smaller at the top. \n",
+        "question": "Imagination Perosnal",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Node_2_-_STS-134.jpeg",
+        "context": "news",
+        "description": "A view of the International Space Station's docking port in orbit.\n",
+        "question": "What does it look like?",
+        "answers": [
+            "",
+            "It looks like part of the International Space Station. It looks like shiny metal, and it appears to be floating in space. ",
+            "It looks like a complicated shiny piece of medal with a small NASA logo on it."
+        ]
+    },
+    {
+        "image": "images/Mole_in_Puebla.jpeg",
+        "context": "health",
+        "description": "A plate of black mole sauce over chicken with rice. The chicken is not visible, so the black mole sauce ends up looking like a giant black hole ingulfing the white rice with a tiny sprig of green on top of the hill of the rice. It sort of looks like a ying-yang sign.\n",
+        "question": "Is the plate the only thing in the image?",
+        "answers": [
+            "",
+            "yes, it is a close up shot",
+            "There is blackish brown mole sauce covering the plate with a small scoop of rice in the upper right hand corner of the plate",
+            "No there is also food on the plate",
+            "No the plate has chicken mole on it"
+        ]
+    },
+    {
+        "image": "images/240px-Dolphinarium_Varna.jpeg",
+        "context": "travel",
+        "description": "An indoor dolphinarium with a pool and seating area.\n",
+        "question": "Are there people in the image",
+        "answers": [
+            "Yes, there are two people in the middle of a pool alongside the water. ",
+            "Yes two people on the stage, but the audience seats appear empty.",
+            "There are two individuals in the image."
+        ]
+    },
+    {
+        "image": "images/440px-BASE_jumping_-_Perrine_Bridge.jpeg",
+        "context": "social_media",
+        "description": "A person in dark attire and a helmet is base jumping off a bridge into a deep canyon.\n",
+        "question": "Is there anything attached to the person jumping?",
+        "answers": [
+            "It looks like the person has a blue and white backpack/parachute attached to them.",
+            "There is nothing attached to the person jumping.",
+            "a parachute",
+            "A person in dark attire",
+            "There is a parachute attached to the individual jumping.",
+            "No, there isn't anything attached to the jumper. ",
+            "Yes, there is a bungee."
+        ]
+    },
+    {
+        "image": "images/440px-Tunnelaquarium_14-05-2009_15-54-09.jpeg",
+        "context": "social_media",
+        "description": "Visitors walking through a curved aquarium tunnel, surrounded by marine life.\n",
+        "question": "what kind of fish are there",
+        "answers": [
+            "There are medium sized grey fish",
+            "There are multiple breeds of fish in the aquarium some big and some small, but I do not know their exact names.",
+            "There are fish of varying sizes, most a gray color."
+        ]
+    },
+    {
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+        "context": "travel",
+        "description": "Fighter jet in mid-flight against blue sky.\n",
+        "question": "What color is the fighter jet?",
+        "answers": [
+            "The fighter jet is mostly white with a gray blue section and a red star accent on the wing.",
+            "The fighter jet is gray",
+            "Blue and white"
+        ]
+    },
+    {
+        "image": "images/Necktie_knot.jpeg",
+        "context": "shopping",
+        "description": "A detailed image of a floral patterned necktie knot. The tie is blue with the flowers being a pink color, containing extentions at the North, East, South, and West points of a circle. Some flowers have red central points while others have white central points. The tie is attached to a white shirt on an individual with pale skin.\n",
+        "question": "How large are the flowers on the patterns?",
+        "answers": [
+            "The individual flowers on the tie that make up the pattern are quite small - around the size of a dime.",
+            "The flower patterns are about dime sized",
+            "They are fairly small.",
+            "The flowers appear to be 6 to 8 millimeters in diameter.",
+            "The flowers on the patterns are about the size of a dime each"
+        ]
+    },
+    {
+        "image": "images/Thai_market_vegetables_01.jpeg",
+        "context": "health",
+        "description": "A variety of vegetables on sale at a market\n",
+        "question": "Is the market a grocery store, a health foods' store, or a farmer's market?",
+        "answers": [
+            "Farmers market, based on how to fruits and veggies are organized.",
+            "This is a photo of fresh vegetables on display at a farmer's market",
+            "The piles of produce that are as high as they are indicate that the place of business is a farmers market.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Clean_Toes_are_a_Tiger's_Friend_(15588882074).jpeg",
+        "context": "science_journals",
+        "description": "A tiger behind bars, licking its paw.\n",
+        "question": "Is it in a zoo?",
+        "answers": [
+            "It's possible this is a zoo, but there are no spectators present.",
+            "This tiger is at a zoo",
+            "It looks like it could be in a zoo.",
+            "",
+            "This does not appear to be in a zoo, only a temporary holding pen.",
+            "It is captive. Most likely a zoo or other type of display.",
+            "Yes its in a zo",
+            "This photo shows a tiger in captivity (a zoo) versus in native habitat (outdoors)",
+            "The tiger is in a caged enclosure, possibly in a zoo.",
+            "it is in an animal sanctuary ",
+            "Amazing one and beautiful",
+            "It is possible, but there is not enough information to determine whether or not it is in a cage.",
+            "The tiger is in the zoo.",
+            "The tiger is possibly in a zoo, as it is inside of an enclosure",
+            "Most likely considering the tiger is caged",
+            "",
+            "It appears not to be in a zoo because the tiger is too close to the cage and not that safe for visitors. ",
+            "It does appear to be in a zoo ",
+            "Difficult to ascertain based on the image but it appears more to be a rehabilitation center as the cage does not have any glass separation the cage from the outside world which would imply the tiger is more docile.",
+            "yes it a zoo cage",
+            "The tiger does appear in some sort of enclosure, but it doesn't look like a zoo.",
+            "The tiger does not appear to be in a zoo.",
+            "It is in a Cage, so it could be in a Zoo",
+            "It does appear to be in zoo of some sort",
+            "The tiger doesn't look to be in a zoo but rather in an enclosed sanctuary or rehab center.",
+            "No, It appears to be a pen in something other than the zoo.",
+            "",
+            "It does appear to be in a zoo. It is in some sort of enclosure.",
+            "It looks like it could be a zoo.",
+            "Of course yes",
+            "Maybe not in a zoo but in a tiger sanctuary",
+            "yes, it looks like it is in a zoo",
+            ""
+        ]
+    },
+    {
+        "image": "images/Thai_market_sweets_01.jpeg",
+        "context": "shopping",
+        "description": "Thai desserts and sweets displayed at a market.\n",
+        "question": "Are there people present? ",
+        "answers": [
+            "i see one person, maybe a second in the background",
+            "There is one lady present. She seems to be a food vendor.",
+            "Yes, there is a lady ",
+            "Yes, there are people present."
+        ]
+    },
+    {
+        "image": "images/Potato_bag_cultivation.jpeg",
+        "context": "health",
+        "description": "Potted plant with large green leaves. The pot in cyan in color. The plant on sitting on concrete in front of a brick wall.\n",
+        "question": "what type of plant ",
+        "answers": [
+            "it does no say",
+            "This is a mint plant",
+            "",
+            "i do not know"
+        ]
+    },
+    {
+        "image": "images/440px-Khao_phat_kraphao_mu.jpeg",
+        "context": "social_media",
+        "description": "A plate of fried rice with egg, vegetables, and a side of soup, set on a brown table.",
+        "question": "Can you share the recipe or ingredients used to make the fried rice and soup?",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Woman's_Ball_Gown_LACMA_M.2007.211.939_(2_of_3).jpg",
+        "context": "shopping",
+        "description": "Close-up of the textured details on a woman's brown ball gown.\n",
+        "question": "What is the texture of the ball gown showed in the image?",
+        "answers": [
+            "A light lace it appears",
+            "tooly and in ribbon style patterns",
+            "",
+            "",
+            "It appears to be a chiffon or tulle texture."
+        ]
+    },
+    {
+        "image": "images/440px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
+        "context": "travel",
+        "description": "A small boat with several people on a vast, murky river in the Amazon.\n",
+        "question": "Do you see any animals in the picture?",
+        "answers": [
+            "No, there don't appear to be any animals in the picture.",
+            "I do not see any animals in the picture",
+            "no there are no animal",
+            "there are no animals"
+        ]
+    },
+    {
+        "image": "images/Stephen_Weiss.jpeg",
+        "context": "social_media",
+        "description": "A Florida Panthers Ice hockey player in action on the rink.\n",
+        "question": "Is there a big crowd in the background?",
+        "answers": [
+            "",
+            "It's possible, but there is no crowd visible. The background only shows two other hockey players. ",
+            "I can see some crowd in the background, but difficult to know if it's big or not. "
+        ]
+    },
+    {
+        "image": "images/Hintersee.jpeg",
+        "context": "travel",
+        "description": "Calm lake waters with forested mountains in the backdrop.\n",
+        "question": "What season is depicted in the picture? ",
+        "answers": [
+            "I believe it is summer with some thunder clouds in the distance ",
+            "The season depicted is summer",
+            "Hard to say but likely spring or summer since there is no snow or trees with fallen leaves"
+        ]
+    },
+    {
+        "image": "images/Business_Centre_of_Moscow_2.jpeg",
+        "context": "news",
+        "description": "Moscow's skyline at dusk with illuminated modern skyscrapers.\n",
+        "question": "How much variation is in the size of the buildings?",
+        "answers": [
+            "There are a handful of very tall buildings and the others are significantly smaller. ",
+            "There is a lot of variation in the sizes of the buildings. ",
+            "There is a large variation in the size of the buildings. Some appear to be 5-10 floors, while others appear to be skyscrapers with hundreds of floors."
+        ]
+    },
+    {
+        "image": "images/Potato_bag_cultivation.jpeg",
+        "context": "social_media",
+        "description": "Potted plant with large green leaves. The pot in cyan in color. The plant on sitting on concrete in front of a brick wall.\n",
+        "question": "Whose plant is this and what kind is it?",
+        "answers": [
+            "",
+            "The plant is sitting on the porch and must belong to whoever lives there. ",
+            "I have no idea what kind of plant this is. ",
+            "A users photo of their plant which seems to resemble some sort of mint plant."
+        ]
+    },
+    {
+        "image": "images/400px-Nellu.jpeg",
+        "context": "travel",
+        "description": "A woman spreading grain with her hands to dry the grains on a large blue tarp during a sunny day.\n",
+        "question": "Why is there grain",
+        "answers": [
+            "There is grain because she is working",
+            "This is common to come across in rural parts of south east asia where grain is a predominant food source. ",
+            "The woman is drying the grain. "
+        ]
+    },
+    {
+        "image": "images/440px-Kendall_hat_2017.jpeg",
+        "context": "social_media",
+        "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
+        "question": "Who is the person",
+        "answers": [
+            "The person is Kendall Jenner.",
+            "The person pictured is either Kendall Jenner or someone that looks like Kendall Jenner.",
+            "Kendall Jenner",
+            "It looks like Kendall Jenner."
         ]
     }
 ]
