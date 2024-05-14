@@ -2479,7 +2479,6 @@
             "category": "social_media",
             "description": "A model walking down a fashion show runway.\n",
             "question": [
-                "Why am i seeing a model walking down a fashion show runway?",
                 "What is the model wearing?"
             ]
         },
@@ -2488,7 +2487,6 @@
             "category": "social_media",
             "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
             "question": [
-                "Is Priyanka Chopra appearing naturally as a connection to my connections or is this some kind of injected placement?",
                 "Is this a staged photo or taken in a natural environment?"
             ]
         },
@@ -3459,8 +3457,7 @@
             "category": "social_media",
             "description": "A close-up of a juicy blackberry.\n",
             "question": [
-                "where is it located?",
-                "Is it safe?"
+                "Is the blackberry ripe?"
             ]
         },
         {
@@ -3585,8 +3582,7 @@
             "category": "news",
             "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
             "question": [
-                "I would not expert any thing",
-                "Beautifully good"
+                "Who is the young woman?"
             ]
         },
         {

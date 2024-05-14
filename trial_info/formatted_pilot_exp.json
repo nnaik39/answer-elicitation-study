@@ -1684,13 +1684,13 @@
             "filename": "images/Eco_fashion_week_Vancouver_Canada_2011.jpeg",
             "description": "A model walking down a fashion show runway.\n",
             "category": "social_media",
-            "question": "Why am i seeing a model walking down a fashion show runway?"
+            "question": "What is the model wearing?"
         },
         {
             "filename": "images/Priyanka_Chopra_2003.jpeg",
             "description": "Actress Priyanka Chopra in traditional attire, wearing a blue dress with brightly colored beads.\n",
             "category": "social_media",
-            "question": "Is Priyanka Chopra appearing naturally as a connection to my connections or is this some kind of injected placement?"
+            "question": "Is this a staged photo or taken in a natural environment?"
         },
         {
             "filename": "images/Bali-Danse_0729a.jpeg",
@@ -2338,7 +2338,7 @@
             "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
             "description": "A close-up of a juicy blackberry.\n",
             "category": "social_media",
-            "question": "where is it located?"
+            "question": "Is the blackberry ripe?"
         },
         {
             "filename": "images/440px-Bicycles_and_winter.jpeg",
@@ -2422,7 +2422,7 @@
             "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
             "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
             "category": "news",
-            "question": "I would not expert any thing"
+            "question": "Who is the young woman?"
         },
         {
             "filename": "images/Woman_in_rah-rah_skirt.jpeg",

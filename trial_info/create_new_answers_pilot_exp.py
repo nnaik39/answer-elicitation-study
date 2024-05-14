@@ -89,7 +89,7 @@ for (image, context, description, question) in answers:
                 'question': question
             }
         )
-
+        print("There exist answers for a question already")
         if ((image, context) in image_context_pairs):
             image_context_pairs.remove((image, context))
 
