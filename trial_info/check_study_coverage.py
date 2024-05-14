@@ -8,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (23).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (24).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}
@@ -120,7 +120,7 @@ for pilot_exp_entry in pilot_exp['images']:
 
 print("Length of new pilot exp ", len(new_pilot_exp['images']))
 
-print("Collected datapoints: ", collected_datapoints)
+#print("Collected datapoints: ", collected_datapoints)
 
 with open("new_pilot_exp.json", "w") as outfile:
     outfile.write(json.dumps(new_pilot_exp, indent = 4))
