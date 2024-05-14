@@ -31,12 +31,6 @@
             "question": "Who is he?"
         },
         {
-            "filename": "images/Tripneustes_ventricosus_(West_Indian_Sea_Egg-top)_and_Echinometra_viridis_(Reef_Urchin_-_bottom).jpeg",
-            "category": "science_journals",
-            "description": "Sea urchins on a reef: one with long, black spines below, and a white, spiky one above.\n",
-            "question": "What color is the reef? "
-        },
-        {
             "filename": "images/Arduino_ftdi_chip-1.jpeg",
             "category": "shopping",
             "description": "A detailed image of an electronic chip on a blue circuit board.\n",
@@ -73,12 +67,6 @@
             "question": "Where (what country, city) was this picture taken?"
         },
         {
-            "filename": "images/Shinto_married_couple.jpeg",
-            "category": "travel",
-            "description": "Traditional Japanese wedding couple in front of a temple.\n",
-            "question": "Does the temple have a name or the province it is in so I might visit it?"
-        },
-        {
             "filename": "images/440px-Christmas_cake,_Boxing_Day_2008.jpeg",
             "category": "news",
             "description": "A white Christmas cake with \u201cMerry Christmas\u201d written on top, adorned with a small present decoration.\n",
@@ -91,40 +79,16 @@
             "question": "How many shelves are there?"
         },
         {
-            "filename": "images/440px-Meal_STS127.jpeg",
-            "category": "news",
-            "description": "A group of astronauts gathered around a meal in a cramped space station setting, they are having a meal together\n",
-            "question": "Which astronauts are in the photo?"
-        },
-        {
             "filename": "images/440px-Ban_Huahat07.jpeg",
             "category": "health",
             "description": "A group of Asian people eating around a long mat.\n",
             "question": "What are these people eating?"
         },
         {
-            "filename": "images/340px-Evgenia_Kanaeva_2012_in_Hard.jpeg",
-            "category": "social_media",
-            "description": "A rhythmic gymnast in a dynamic pose with a hoop in front of a large crowd.\n",
-            "question": "Is there a location tagged"
-        },
-        {
             "filename": "images/568px-Srilankamountainforest.jpeg",
             "category": "science_journals",
             "description": "Lush mountainous forest with mist in the distance.\n",
             "question": "Is there any animals viewable in the image? "
-        },
-        {
-            "filename": "images/240px-GreenTeaMochiIceCream.jpeg",
-            "category": "travel",
-            "description": "Two white mochi ice cream balls; one is whole and the other is cut in half, showing creamy inside.\n",
-            "question": "what flavor of ice cream"
-        },
-        {
-            "filename": "images/Woman_in_rah-rah_skirt.jpeg",
-            "category": "social_media",
-            "description": "A blonde haired woman wearing layered skirt, black blouse, and multi-colored scarf, carrying a purple tote bag and shopping bag, walks on the grass while looking at something to her side.\n",
-            "question": "What brand is the ad for on the social media website?"
         },
         {
             "filename": "images/440px-Ashley_Graham_2018.png",
@@ -143,12 +107,6 @@
             "category": "social_media",
             "description": "A large bowl of green tea shaved ice topped with cookies.\n",
             "question": "What kind of cookies do they have that goes with green tea shaved ice?"
-        },
-        {
-            "filename": "images/Prince_Harry_and_Kate_Middleton_at_the_Garter_Procession_2008.jpeg",
-            "category": "news",
-            "description": "Two members of the British royal family at an event.\n",
-            "question": "who are the members?"
         },
         {
             "filename": "images/440px-Electric-eel.jpeg",
@@ -193,12 +151,6 @@
             "question": "Is the seamstress sewing jeans?"
         },
         {
-            "filename": "images/440px-BASE_jumping_-_Perrine_Bridge.jpeg",
-            "category": "travel",
-            "description": "A person in dark attire and a helmet is base jumping off a bridge into a deep canyon.\n",
-            "question": "Can you describe the outfit in more detail"
-        },
-        {
             "filename": "images/440px-Trevor_Jackson_returns_from_SS_Kyogle.jpeg",
             "category": "shopping",
             "description": "A scuba diver with rebreather equipment underwater.\n",
@@ -211,40 +163,16 @@
             "question": "What type of equipment has improved the diver's abilities?"
         },
         {
-            "filename": "images/440px-Phrik_nam_pla.jpeg",
-            "category": "health",
-            "description": "A white sauce dish with fish sauce, chili, and lime on a checkered blue and white tablecloth next to a partially shown white plate and cup.\n",
-            "question": "Is this a healthy meal."
-        },
-        {
             "filename": "images/300th_Delta_launches_with_Spitzer.jpeg",
             "category": "news",
             "description": "A Delta rocket launch sequence with smoke and fire at the base indicating takeoff.\n",
             "question": "What does the Delta rocket look like?"
         },
         {
-            "filename": "images/440px-Tinikling.jpeg",
-            "category": "health",
-            "description": "A group of young ladies wearing yellow dresses and plaid dresses performing a traditional Filipino bamboo dance.\n",
-            "question": "Is there an audience"
-        },
-        {
-            "filename": "images/Jarneia_Richard-Noel_as_Catherine_of_Aragon_in_the_West_End_production_of_Six_at_the_Arts_Theatre,_2019.jpeg",
-            "category": "social_media",
-            "description": "A performer in an elaborate golden costume on stage.\n",
-            "question": "who is the performer"
-        },
-        {
             "filename": "images/240px-Piccilliatti,_Sicilia.jpeg",
             "category": "shopping",
             "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
             "question": "Do the cookies look overcooked?"
-        },
-        {
-            "filename": "images/Chloe_Veitch_modeling,_upright.jpeg",
-            "category": "health",
-            "description": "A brunette woman in a white, cropped Vogue t-shirt and cream colored shorts, leaning against a wall on a sunny day.\n",
-            "question": "Is the woman holding anything?"
         },
         {
             "filename": "images/330px-Zohre_Esmaeli_1.jpeg",
@@ -263,30 +191,6 @@
             "category": "shopping",
             "description": "Platter of green salad with toast, cheese, sundried tomatoes, and olives and dressing cup.\n",
             "question": "Does the salad and other food look very fresh?"
-        },
-        {
-            "filename": "images/180px-Fabiana_Semprebom2.jpeg",
-            "category": "news",
-            "description": "A model on a runway in a chic, modern outfit. people sitting in chairs watching\n",
-            "question": "what is the theme"
-        },
-        {
-            "filename": "images/South_Vietnam's_Water_Lily.jpeg",
-            "category": "science_journals",
-            "description": "Water lilies floating in a pond.\n",
-            "question": "Are any of the water lilies sinking?"
-        },
-        {
-            "filename": "images/440px-Lisbon_Oceanarium.jpeg",
-            "category": "science_journals",
-            "description": "A woman touching the glass and observing a huge aquarium. There is a shark swimming past her,  and other fish swimming inside.\n",
-            "question": "What is the race of the woman?"
-        },
-        {
-            "filename": "images/440px-NutcrackerSnowPas.jpeg",
-            "category": "shopping",
-            "description": "Two ballet dancers performing. The male is lifting the female. In the background there is a Christmas tree and an oversized Christmas present.\n",
-            "question": "What brand is the present? Does it indicate it?"
         },
         {
             "filename": "images/440px-Redsweeper.jpeg",
@@ -313,18 +217,6 @@
             "question": "Is Priyanka Chopra appearing naturally as a connection to my connections or is this some kind of injected placement?"
         },
         {
-            "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
-            "category": "science_journals",
-            "description": "Close-up of an electric eel showing its skin and sensory pits.\n",
-            "question": "Where is the eel located in this picture?"
-        },
-        {
-            "filename": "images/H.M._Revenue_&_Customs_officers_with_seized_smuggled_tobacco,_2014.jpg",
-            "category": "news",
-            "description": "Three workers in hard hats assist a crane in lifting a large seizure of smuggled tobacco out of the hull of a ship while three police officers look on.\n",
-            "question": "What kind of packaging is the tobacco in?"
-        },
-        {
             "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
             "category": "science_journals",
             "description": "Two docked spacecraft with the Earth in the background.\n",
@@ -335,12 +227,6 @@
             "category": "news",
             "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
             "question": "Why is the person moody?"
-        },
-        {
-            "filename": "images/440px-Anaconda_(Eunectes_murinus)_(8990193853).jpeg",
-            "category": "science_journals",
-            "description": "Two men holding a large anaconda.\n",
-            "question": "Why are they holding the snake?"
         },
         {
             "filename": "images/Catedral_Arequipa,_Peru.jpeg",
@@ -355,12 +241,6 @@
             "question": "Where is the rocket located? "
         },
         {
-            "filename": "images/440px-thumbnail.jpeg",
-            "category": "social_media",
-            "description": "Navy divers are in a training pool, displaying military exercises or maneuvers. They are wearing scuba gear with masks and fins.\n",
-            "question": "What specific training exercises or maneuvers are the navy divers practicing?"
-        },
-        {
             "filename": "images/Astronaut_Mike_Hopkins_on_Dec._24_Spacewalk.jpg",
             "category": "news",
             "description": "Astronaut taking a selfie in space, looming largely behind them is earth.",
@@ -373,46 +253,16 @@
             "question": "What does the houseboat look like?"
         },
         {
-            "filename": "images/440px-Lisbon_Oceanarium.jpeg",
-            "category": "travel",
-            "description": "A woman touching the glass and observing a huge aquarium. There is a shark swimming past her,  and other fish swimming inside.\n",
-            "question": "Where is it located?"
-        },
-        {
-            "filename": "images/440px-Anaconda_(Eunectes_murinus)_(8990193853).jpeg",
-            "category": "social_media",
-            "description": "Two men holding a large anaconda.\n",
-            "question": "What setting or background are they in?"
-        },
-        {
             "filename": "images/Scitec_Nutrition_Wall_of_Protein_at_FIBO_2013.jpeg",
             "category": "shopping",
             "description": "Shelves filled with colorful protein supplement jars such as can be found in a health food store.\n",
             "question": "What is the brand of the protein supplement."
         },
         {
-            "filename": "images/Bali-Danse_0729a.jpeg",
-            "category": "social_media",
-            "description": "A dancer in traditional Balinese attire performing.\n",
-            "question": "what does the dancer look like"
-        },
-        {
             "filename": "images/440px-Scuba_dive_computer.jpeg",
             "category": "travel",
             "description": "A person's arm with a dive computer on the wrist, over clear, shallow waters.\n",
             "question": "Where is this location?"
-        },
-        {
-            "filename": "images/Electric_blue_maxi_dress_with_cognac_accessories.jpeg",
-            "category": "shopping",
-            "description": "A woman with long blonde hair in a bright blue dress and brown jacket standing stiffly on a sidewalk during a sunny day.\n",
-            "question": "How long is the blue dress?"
-        },
-        {
-            "filename": "images/Christmas_tree_in_marunouchi.jpeg",
-            "category": "news",
-            "description": "A crowded plaza at night with a tall, lit Christmas tree and festive lights.\n",
-            "question": "where is the festive located"
         },
         {
             "filename": "images/Macquarium.jpeg",
@@ -437,12 +287,6 @@
             "category": "shopping",
             "description": "A Thai salad with herbs and lettuce on a glass plate sitting outside on a wooden table\n",
             "question": "What kind of herbs are in the picture?"
-        },
-        {
-            "filename": "images/AntiqueFiskeAquarium.jpeg",
-            "category": "social_media",
-            "description": "A vintage octagonal aquarium on a decorative pedestal amidst houseplants.\n",
-            "question": "Is this imagine indoors or outdoors?"
         },
         {
             "filename": "images/Rom_Colosseum_Sept_2021_3.jpeg",
@@ -475,12 +319,6 @@
             "question": "Is the aquarium inside or outside?"
         },
         {
-            "filename": "images/Hana_Highway_Overlook.jpeg",
-            "category": "science_journals",
-            "description": "A tropical forest with a small distant waterfall with lots of trees.\n",
-            "question": "Are there wild animals here?"
-        },
-        {
             "filename": "images/GrizzlyBearJeanBeaufort.jpeg",
             "category": "science_journals",
             "description": "A grizzly bear moving through a grassy field.\n",
@@ -505,12 +343,6 @@
             "question": "What kind of rice"
         },
         {
-            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
-            "category": "science_journals",
-            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
-            "question": "Does the rock appear to be in the ocean?"
-        },
-        {
             "filename": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
             "category": "news",
             "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
@@ -527,12 +359,6 @@
             "category": "social_media",
             "description": "A young woman with long brown hair in a swimsuit sitting in a chair with  a pool behind her.\n",
             "question": "What's the weather like?"
-        },
-        {
-            "filename": "images/440px-Piazza_del_Campidoglio,_Rome_-_2498.jpeg",
-            "category": "news",
-            "description": "Piazza del Campidoglio in Rome at dusk, with illuminated buildings and a patterned cobblestone square.\n",
-            "question": "What color are the buildings?"
         },
         {
             "filename": "images/440px-Supreme_Court_Colombo.jpeg",
@@ -559,18 +385,6 @@
             "question": "What is the location of the lime tree?\n"
         },
         {
-            "filename": "images/EUA_levam_ouro_na_ginastica_artistica_feminina;_Brasil_fica_em_8lugar_(28262785354).jpeg",
-            "category": "social_media",
-            "description": "A gymnast in mid-flip in the air, above the balance beam in a gymnastics competition.\n",
-            "question": "Who is this gymnast?"
-        },
-        {
-            "filename": "images/Novosibirsk_skyline_in_winter.jpeg",
-            "category": "social_media",
-            "description": "Aerial view of a winter city skyline at dusk with lit buildings and streets.\n",
-            "question": "Where is this image of the city located?"
-        },
-        {
             "filename": "images/almond_blossoms.jpeg",
             "category": "science_journals",
             "description": "Close-up of almond blossoms with a single almond nut in the shell.\n",
@@ -587,12 +401,6 @@
             "category": "news",
             "description": "A orange and white uniformed football player along with his team is tackling a player in green and white at a football game.\n",
             "question": "How big is the stadium"
-        },
-        {
-            "filename": "images/Dior_denver_art1.jpeg",
-            "category": "news",
-            "description": "A mannequin wearing a stylish Dior ensemble with a wide-brimmed hat, white jacket, and black skirt. The outfit is brought together by black retro heels. \n",
-            "question": "Is there a specific news story or event related to this Dior ensemble? I'd be curious to know if there's any relevance to current events or societal trends. "
         },
         {
             "filename": "images/Mountain_goat_-_artificial_salt_lick.jpeg",
@@ -619,12 +427,6 @@
             "question": "What time did it happen?"
         },
         {
-            "filename": "images/440px-North-American-bullfrog1.jpeg",
-            "category": "travel",
-            "description": "A green bullfrog sitting in grass, with its eyes bulging and skin glistening.\n",
-            "question": "Is there promotional text over the photo, advertising a particular travel location, offer or discount?"
-        },
-        {
             "filename": "images/440px-Kylie_Jenner1_(cropped).png",
             "category": "social_media",
             "description": "Kylie Jenner in a red top speaking, her facial expression seems focused and intent.\n",
@@ -635,12 +437,6 @@
             "category": "shopping",
             "description": "A smiling woman in a hijab at a UNICEF event. She is wearing a light-brown blazer and a white shirt underneath, behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\". \n",
             "question": "What does the woman look like"
-        },
-        {
-            "filename": "images/CompetitivePumpkins.jpeg",
-            "category": "news",
-            "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
-            "question": "Why are there pumpkins displayed?"
         },
         {
             "filename": "images/The_Golden_Book_Gown_by_Ryan_Jude_Novelline.jpeg",
@@ -655,28 +451,10 @@
             "question": "Where is this located? "
         },
         {
-            "filename": "images/Bee_pollinating_Blackberry.jpeg",
-            "category": "science_journals",
-            "description": "A bee pollinating the white flowers of a blackberry bush in front of a wooden fence.\n",
-            "question": "How many bees were there?"
-        },
-        {
             "filename": "images/Lilyfruit.jpeg",
             "category": "travel",
             "description": "A close-up of a green lily bud.\n",
             "question": "Is there anything else in the picture?"
-        },
-        {
-            "filename": "images/440px-Mixed_onions.jpeg",
-            "category": "health",
-            "description": "A variety of whole and sliced onions on a reflective black surface.\n",
-            "question": "What are some health benefits of onions?"
-        },
-        {
-            "filename": "images/Astronaut_Mike_Hopkins_on_Dec._24_Spacewalk.jpg",
-            "category": "science_journals",
-            "description": "Astronaut taking a selfie in space, looming largely behind them is earth.",
-            "question": "Is that photo real or AI?"
         },
         {
             "filename": "images/Winners_jammer.jpeg",
@@ -715,12 +493,6 @@
             "question": "Where is this woman playing the violin?"
         },
         {
-            "filename": "images/ReginaCarter.jpeg",
-            "category": "social_media",
-            "description": "A woman playing the violin intensely onstage.\n",
-            "question": "Is there an audience watching the woman?"
-        },
-        {
             "filename": "images/Sphinx_et_Jungfrau_-_img_06980.jpeg",
             "category": "science_journals",
             "description": "Snow-covered mountain peaks.\n",
@@ -751,12 +523,6 @@
             "question": "Why are there mannequins in the picture? "
         },
         {
-            "filename": "images/Fortier_DAKAR_art_therapy_30dec11_300.jpeg",
-            "category": "news",
-            "description": "Two people engaged in an art therapy session with paints.\n",
-            "question": "What are they painting with?"
-        },
-        {
             "filename": "images/Business_Centre_of_Moscow_2.jpeg",
             "category": "travel",
             "description": "Moscow's skyline at dusk with illuminated modern skyscrapers.\n",
@@ -781,12 +547,6 @@
             "question": "How big is the bee?"
         },
         {
-            "filename": "images/Roastbeef.jpeg",
-            "category": "health",
-            "description": "Juicy, medium-rare roast beef on a cutting board.\n",
-            "question": "how is condition"
-        },
-        {
             "filename": "images/Electric_blue_maxi_dress_with_cognac_accessories.jpeg",
             "category": "social_media",
             "description": "A woman with long blonde hair in a bright blue dress and brown jacket standing stiffly on a sidewalk during a sunny day.\n",
@@ -797,12 +557,6 @@
             "category": "science_journals",
             "description": "Close-up of a lavender-colored water lily with bees on it.\n",
             "question": "Does this image belong to an article?"
-        },
-        {
-            "filename": "images/Dior_denver_art1.jpeg",
-            "category": "social_media",
-            "description": "A mannequin wearing a stylish Dior ensemble with a wide-brimmed hat, white jacket, and black skirt. The outfit is brought together by black retro heels. \n",
-            "question": "Where is the mannequin?"
         },
         {
             "filename": "images/Tatte_Green_&_Nutty_salad.jpeg",
@@ -829,12 +583,6 @@
             "question": "What are the natives holding, if anything?"
         },
         {
-            "filename": "images/Tasty_Hazelnut_(15644892593).jpeg",
-            "category": "science_journals",
-            "description": "Squirrel eating a nut close-up.\n",
-            "question": "What is surrounding the squirrel in the picture?"
-        },
-        {
             "filename": "images/Bowie-DD-1974-3.jpeg",
             "category": "news",
             "description": "A performer in a vibrant cape and elaborate outfit singing into a microphone on stage.\n",
@@ -847,34 +595,10 @@
             "question": "What style is the suit? "
         },
         {
-            "filename": "images/440px-BCRL.jpeg",
-            "category": "health",
-            "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
-            "question": "What are the benefit of strength training an old adult"
-        },
-        {
-            "filename": "images/440px-Phrik_nam_pla.jpeg",
-            "category": "social_media",
-            "description": "A white sauce dish with fish sauce, chili, and lime on a checkered blue and white tablecloth next to a partially shown white plate and cup.\n",
-            "question": "What is the lighting like?"
-        },
-        {
-            "filename": "images/Madrigueras_(20578932389)_(cropped).jpeg",
-            "category": "science_journals",
-            "description": "In an almond tree with green leaves there is an almond nestled in a fuzzy green hull still attached to the tree.\n",
-            "question": "Are there more trees there or just one?"
-        },
-        {
             "filename": "images/Nandini_Ghosal.jpeg",
             "category": "shopping",
             "description": "A woman dancer in traditional Indian attire performing.\n",
             "question": "Is the dance costume for sale?"
-        },
-        {
-            "filename": "images/240px-Setra_S515HDH_Schneider_Langendorf.jpeg",
-            "category": "travel",
-            "description": "A modern coach bus on the street, labeled 'SCHNEIDER,' with a scenic mountain background.\n",
-            "question": "what amenities/comfort is offered onboard this coach bus"
         },
         {
             "filename": "images/1920px-Trevi-Brunnen_abends.jpeg",
@@ -895,18 +619,6 @@
             "question": "Does the image include branding or a full cutlery set?"
         },
         {
-            "filename": "images/Paleo_food.jpeg",
-            "category": "health",
-            "description": "Fresh fish topped with tomatoes in a pan, ready to be cooked. Below all that are some carrots and greens.\n",
-            "question": "What type of fish is in the picture?"
-        },
-        {
-            "filename": "images/Jatayu_adventure_centre.jpeg",
-            "category": "travel",
-            "description": "A large, architectural sculpture displaying a bird on its back atop a rocky outcrop, surrounded by greenery and structures.\n",
-            "question": "Where is the large architectural sculpture located ?"
-        },
-        {
             "filename": "images/Orca_porpoising.jpeg",
             "category": "travel",
             "description": "Majestic orca whale breaching the water's surface.\n",
@@ -925,42 +637,6 @@
             "question": "What colors are in the the streaks of sunlight?  Orangish?"
         },
         {
-            "filename": "images/374px-Gisele_Bundchen_-_Rio_2016_cropped_(square).jpeg",
-            "category": "news",
-            "description": "A model wearing a shiny dress walking a glittery runway.\n",
-            "question": "What does the model look like?"
-        },
-        {
-            "filename": "images/1920px-Austria-01454_-_Wilten_Abbey_(21402649823).jpeg",
-            "category": "travel",
-            "description": "A yellow and orange church with a tall bell tower.  The bell tower's copper top is patinaed with a green and brown film.  There are stop lights and a trolly car system around the church.  There are also other buildings close by the church and lush green hills in the background.  There are fluffy clouds against the blue sky.\n",
-            "question": "Are there people in the image?"
-        },
-        {
-            "filename": "images/Pumpkin_Field.jpeg",
-            "category": "travel",
-            "description": "A field filled with orange pumpkins and a cart. Inside the cart, under the pumpkins is some hay. In the foreground there are about 20 large pumpkins laying on the green grass. The cart is diagonal and on the left of the photo. In the background you can see pale blue sky and a line of tall trees. Behind the cart it a stalk of dried corn.\n",
-            "question": "Does it include the location?"
-        },
-        {
-            "filename": "images/Green_almonds.jpeg",
-            "category": "health",
-            "description": "Green almonds in their fuzzy hulls on a white surface.\n",
-            "question": "Can you see the green almonds?"
-        },
-        {
-            "filename": "images/Curling_on_Lake_of_Menteith_-_geograph.org.uk_-_1756810.jpg",
-            "category": "social_media",
-            "description": "Outdoor curling on a frozen lake with spectators around.\n",
-            "question": "Where's the curling event? Regular spot?\n  "
-        },
-        {
-            "filename": "images/340px-Grizzly_Bear_Fishing_Brooks_Falls.jpeg",
-            "category": "science_journals",
-            "description": "A grizzly bear focused on catching a salmon in a turbulent waterfall.\n",
-            "question": "what state are they in?"
-        },
-        {
             "filename": "images/157px-Dress_Shirt_Fitting_on_dummy_Front.jpeg",
             "category": "social_media",
             "description": "A dress shirt on a mannequin with a fitting tag.\n",
@@ -973,34 +649,10 @@
             "question": "What type of setting are the spines in?"
         },
         {
-            "filename": "images/440px-Gruppovaya-psihoterapiya.jpeg",
-            "category": "health",
-            "description": "People seated in a circle for group therapy, with a therapist speaking.  The chairs are black, the walls are white and the floor is brown.  It appears there are only women in the room.\n",
-            "question": "How many women are in the circle?"
-        },
-        {
-            "filename": "images/480px-Priyanka_Chopra_and_Nick_Jonas_in_2020.jpeg",
-            "category": "news",
-            "description": "A couple dressed in traditional Indian attire posing for a photograph.\n",
-            "question": "What setting and location are they in?"
-        },
-        {
-            "filename": "images/Stonehenge_(sun).jpeg",
-            "category": "science_journals",
-            "description": "Stonehenge with the sun rising between the middle stones.\n",
-            "question": "What does Stonehenge look like? "
-        },
-        {
             "filename": "images/Street_Parade_2013_033.jpeg",
             "category": "shopping",
             "description": "Profile of a woman with her hair in a high ponytail wearing red sunglasses.\n",
             "question": "What is her hair color?"
-        },
-        {
-            "filename": "images/Flickr_-_JennyHuang_-_Jenny^_Anemone^_video.jpeg",
-            "category": "travel",
-            "description": "A diver observing an underwater sea anemone.\n",
-            "question": "What is visible when the diver is underwater?"
         },
         {
             "filename": "images/Natalia_Vodianova_20090408_Etam_34.jpeg",
@@ -1013,12 +665,6 @@
             "category": "shopping",
             "description": "A fresh mixed salad with avocado, feta cheese, raisins, cherry tomatoes, and grilled chicken in a wooden bowl.\n",
             "question": "What kind of salad mix is used? "
-        },
-        {
-            "filename": "images/Som_tam_thai.jpeg",
-            "category": "health",
-            "description": "This is a Plate of spicy green papaya salad sitting on the table of a restaurant. There is a glass of water sitting directly to the left side of the plate. The background of the rest of the image is blurred.\n",
-            "question": "What other ingredients are in the spicy papaya salad?"
         },
         {
             "filename": "images/3Uttanasana.jpeg",
@@ -1045,22 +691,10 @@
             "question": "Is there an event associated with the race?"
         },
         {
-            "filename": "images/Bekal_Fort_Kasargod.jpeg",
-            "category": "travel",
-            "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
-            "question": "What does the fort look like?"
-        },
-        {
             "filename": "images/Corylus_colurna_(1).jpeg",
             "category": "travel",
             "description": "A big green tree along a walkway in a bright day.\n",
             "question": "Where is this tree located?"
-        },
-        {
-            "filename": "images/440px-Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpeg",
-            "category": "shopping",
-            "description": "Visitors inside a clear, underwater tunnel gaze at fish swimming all around them. Some visitors are sitting on a bench.\n",
-            "question": "Is this a public aquarium? "
         },
         {
             "filename": "images/Munnar_hillstation_kerala.jpeg",
@@ -1097,24 +731,6 @@
             "category": "shopping",
             "description": "Small collection of red onions with green tops growing in dark soil.\n",
             "question": "How many onions are there?"
-        },
-        {
-            "filename": "images/Chang_Chun_Shrine_amk.jpeg",
-            "category": "science_journals",
-            "description": "A traditional shrine set up on the hillside.  There are 2 buildings with a bridge connecting them over the beautiful cascading waterfall.\n",
-            "question": "what kind of traditional shrine"
-        },
-        {
-            "filename": "images/Khanom_Chin_-_Thai_rice_noodles.jpeg",
-            "category": "social_media",
-            "description": "Coiled rice noodles displayed on a large green leaf inside of a basket.\n",
-            "question": "How tasty does it look?"
-        },
-        {
-            "filename": "images/Brier_045.jpeg",
-            "category": "travel",
-            "description": "An indoor curling event with multiple games underway, spectators in the stands, and scoreboards above.\n",
-            "question": "How many games are occurring?"
         },
         {
             "filename": "images/440px-Ortler_Ascent_-_South_Tyrol.jpeg",
@@ -1165,24 +781,6 @@
             "question": "What are the shiny black droplets?"
         },
         {
-            "filename": "images/460px-Berlin_inlinemarathon_2008_spitzengruppe.jpeg",
-            "category": "social_media",
-            "description": "A group of inline skaters race on a city street, they are intense and focused. \n",
-            "question": "Is the street wide or narrow?"
-        },
-        {
-            "filename": "images/US_Navy_101101-N-2821G-032_Rear_Adm._Mark_D._Guadagnini,_commander_of_the_Abraham_Lincoln_Carrier_Strike_Group,_leads_a.jpg",
-            "category": "news",
-            "description": "Men skipping rope in a gym aboard a ship.\n",
-            "question": "How big is the ship?"
-        },
-        {
-            "filename": "images/Kerala_Government_Secretariat,_Thiruvananthapuram,_Kerala,_India.jpeg",
-            "category": "travel",
-            "description": "Statue in front of a colonial-style building with arches and a central dome, surrounded by palm trees and a garden.\n",
-            "question": "What is the statue depicting?"
-        },
-        {
             "filename": "images/WAGC_DMT.jpeg",
             "category": "health",
             "description": "Gymnast flipping over a vaulting table.\n",
@@ -1207,12 +805,6 @@
             "question": "does it look tasty?"
         },
         {
-            "filename": "images/Red-paper-lantern-jellyfish-Karen-Osborn-Smithsonian-Institution.png",
-            "category": "science_journals",
-            "description": "A translucent red jellyfish against a dark background.\n",
-            "question": "Are there any other animals or fish in the photo?"
-        },
-        {
             "filename": "images/Newly-hatched_chickens.jpeg",
             "category": "news",
             "description": "This is a picture of a lot of tan eggs, from it there are 4 chickens fully emerged from their eggs, one just coming out of their egg with the broken egg in sight and one out of the egg slightly out of shot. The chicks are yellow.\t\n",
@@ -1223,12 +815,6 @@
             "category": "science_journals",
             "description": "Industrial night scene with lit refinery towers and smoke stacks.\n",
             "question": "is it a chemical plant or something?"
-        },
-        {
-            "filename": "images/440px-Bicycles_and_winter.jpeg",
-            "category": "social_media",
-            "description": "Bicycles covered in snow by the side of a street with a green tram in the background.\n",
-            "question": "What's the location?"
         },
         {
             "filename": "images/440px-Organic_mixed_beans_shoots.jpeg",
@@ -1243,34 +829,10 @@
             "question": "What are they wearing?"
         },
         {
-            "filename": "images/Fast_Fashion_killt_das_Klima.jpeg",
-            "category": "health",
-            "description": "A crowd holding a banner protesting fast fashion and its impact on climate.\n",
-            "question": "How many in crowd?"
-        },
-        {
-            "filename": "images/440px-Chuurei-tou_Fujiyoshida_17025277650_c59733d6ba_o.jpeg",
-            "category": "travel",
-            "description": "Mount Fuji looms behind a pagoda surrounded by cherry blossoms in a serene Japanese landscape.\n",
-            "question": "Do people tour this place?"
-        },
-        {
-            "filename": "images/gourd.jpeg",
-            "category": "social_media",
-            "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
-            "question": "Are the squashes bruised?"
-        },
-        {
             "filename": "images/440px-Carrot_seeds.jpeg",
             "category": "shopping",
             "description": "Several brown, textured carrot seeds on a white background.",
             "question": "What is the purpose of this picture?"
-        },
-        {
-            "filename": "images/Focaccia_con_rosmarino.jpeg",
-            "category": "health",
-            "description": "A slice of focaccia with rosemary on a black plate.\n",
-            "question": "Does the focaccia have any designs on it?"
         },
         {
             "filename": "images/Starsinthesky.jpeg",
@@ -1291,28 +853,10 @@
             "question": "Is the swimsuit a one piece or two piece suit?"
         },
         {
-            "filename": "images/440px-Kaeng_kanun_CM.jpeg",
-            "category": "health",
-            "description": "A detailed porcelain bowl of exotic-looking soup with herbs on top, next to a glass of water and a plate of food.\n",
-            "question": "What color is the soup? "
-        },
-        {
-            "filename": "images/04KJER0243.jpeg",
-            "category": "travel",
-            "description": "Two BASE jumpers leaping off a cliff.\n",
-            "question": "What does the environment look like?"
-        },
-        {
             "filename": "images/Baumwoll-Erntemaschine.jpeg",
             "category": "science_journals",
             "description": "A machine is shredding up cotton and dumping out fluffy white pieces behind it.\n",
             "question": "are the cotton freshly harvest"
-        },
-        {
-            "filename": "images/The_Minister_of_State_for_Commerce,_Shri_Jairam_Ramesh_releasing_the_Organic_Cotton_Products,_in_Chennai_on_January_24,_2008.jpeg",
-            "category": "news",
-            "description": "An Arabic Minister in a room with a large group of men. He is displaying a folded white dress shirt and a way of announcing a release of organic cotton products. There is a woman standing close by, facing the Minister and smiling widely\n",
-            "question": "How many women are in the picture?"
         },
         {
             "filename": "images/Ananya_Panday_snapped_promoting_her_film_Pati_Patni_Aur_Woh_on_the_sets_of_Dance_Plus.jpeg",
@@ -1339,28 +883,10 @@
             "question": "Approximately how far up are the climbers?"
         },
         {
-            "filename": "images/Camisade_puno_doble.jpeg",
-            "category": "shopping",
-            "description": "A new folded dress shirt with double cuffs.\n",
-            "question": "how much is it?"
-        },
-        {
             "filename": "images/Rainbirder_-_Leopard_(1).jpeg",
             "category": "news",
             "description": "Leopard lounging on a rock, gaze fixed in the distance.\n",
             "question": "Are leopards harmful to the human kind?"
-        },
-        {
-            "filename": "images/Hunt_Library_CMU_-_IMG_7844.jpeg",
-            "category": "social_media",
-            "description": "A modern building lit up with blue lights.\n",
-            "question": "Is the lit up building a landmark?"
-        },
-        {
-            "filename": "images/Football_in_Bloomington,_Indiana,_1995.jpeg",
-            "category": "health",
-            "description": "A soccer player in a red jersey about to kick the ball, two defenders in white jerseys nearby. There is a ten on the red player's shirt and a 16 on one of the white players' shirt.\n",
-            "question": "What number is on the shirt of the other white-shirted player?"
         },
         {
             "filename": "images/Engelsburg_und_Engelsbrucke_abends_(Zuschnitt).jpeg",
@@ -1381,28 +907,10 @@
             "question": "What is the historical significance of the stone."
         },
         {
-            "filename": "images/1920px-Trajan's_Market,_Rome,_Italy.jpeg",
-            "category": "travel",
-            "description": "Ancient Roman ruins with scattered columns and arches with a few trees surrounding them.\n",
-            "question": "Are there tourists in the picture?"
-        },
-        {
-            "filename": "images/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
-            "category": "science_journals",
-            "description": "Heavy clusters of ripe rice hanging from plants in a field.\n",
-            "question": "Are farmers working with the rice?"
-        },
-        {
             "filename": "images/Emma_Stone_2014.jpeg",
             "category": "social_media",
             "description": "A smiling woman with shoulder-length auburn hair, a lace top, and a small tattoo on her wrist.\n",
             "question": "where did she get her hair done"
-        },
-        {
-            "filename": "images/Madrigueras_(20578932389)_(cropped).jpeg",
-            "category": "social_media",
-            "description": "In an almond tree with green leaves there is an almond nestled in a fuzzy green hull still attached to the tree.\n",
-            "question": "Where is tree located?"
         },
         {
             "filename": "images/ALSEP_AS17-134-20500.jpeg",
@@ -1471,12 +979,6 @@
             "question": "what kind of equipment"
         },
         {
-            "filename": "images/Thai_market_food_01.jpeg",
-            "category": "travel",
-            "description": "Vast array of Thai dishes at a market stall.\n",
-            "question": "Where is this market?"
-        },
-        {
             "filename": "images/Kendall_Jenner_at_Met_Gala_2021_5.jpeg",
             "category": "news",
             "description": "A beautiful smiling woman in a rhinestone, ornate dress at the Met Gala.\n",
@@ -1487,12 +989,6 @@
             "category": "social_media",
             "description": "A lively street scene with a diverse crowd of people on bicycles, some wearing colorful outfits.\n",
             "question": "Is this a festival or cultural event? "
-        },
-        {
-            "filename": "images/440px-Ingrid_Newkirk_by_David_Shankbone.jpeg",
-            "category": "health",
-            "description": "A smiling woman holding a small black and white dog.\n",
-            "question": "does the woman look fit"
         },
         {
             "filename": "images/Hockey_players_2013.jpeg",
@@ -1507,12 +1003,6 @@
             "question": "Was this photo taken at a big concert?"
         },
         {
-            "filename": "images/Water_polo-2.jpeg",
-            "category": "health",
-            "description": "Men\u2019s water polo game in action in a pool.\n",
-            "question": "how many players in water polo"
-        },
-        {
             "filename": "images/440px-Mixed_duet_free_final_(33).jpeg",
             "category": "news",
             "description": "Two athletes in colorful swimsuits waving to an audience on a blue floor\n",
@@ -1525,12 +1015,6 @@
             "question": "Is this for a store who sells fish as pets?"
         },
         {
-            "filename": "images/Catedral_Arequipa,_Peru.jpeg",
-            "category": "travel",
-            "description": "A majestic cathedral with two towering spires against a clear sky with people outside\n",
-            "question": "What kind of church is this?"
-        },
-        {
             "filename": "images/Prince_Harry_and_Meghans_carriage_procession_through_streets_of_Windsor_05.jpeg",
             "category": "news",
             "description": "Prince Harry and Megan Markle's Royal wedding procession with carriage.\n",
@@ -1541,12 +1025,6 @@
             "category": "health",
             "description": "Two people engaged in an art therapy session with paints.",
             "question": "what type if therapy session"
-        },
-        {
-            "filename": "images/Grizzled_sqirrel_Chinnar_WLS_Kerala_(67).jpeg",
-            "category": "travel",
-            "description": "A black and white giant squirrel clings to a tree limb amid green leaves.\n",
-            "question": "What does the location look like"
         },
         {
             "filename": "images/M_Rainier.jpeg",
@@ -1573,12 +1051,6 @@
             "question": "what is the content of the image in the travel website"
         },
         {
-            "filename": "images/440px-SSPF_interior.jpeg",
-            "category": "science_journals",
-            "description": "A spacecraft module suspended from the ceiling in a hangar with technicians at work.\n",
-            "question": "What kind of spacecraft is it"
-        },
-        {
             "filename": "images/440px-Aleksi61wb.jpeg",
             "category": "travel",
             "description": "A bustling, festive-lit city street at night.\n",
@@ -1595,12 +1067,6 @@
             "category": "shopping",
             "description": "A dress shirt on a mannequin with a fitting tag.\n",
             "question": "What is the color of the dress shirt?"
-        },
-        {
-            "filename": "images/Aerobic_exercise_-_public_demonstration07.jpeg",
-            "category": "health",
-            "description": "Group of people in colorful workout attire doing step aerobics.\n",
-            "question": "How is this healthy? "
         },
         {
             "filename": "images/FrenchMarketPumpkinsB.jpeg",
@@ -1621,12 +1087,6 @@
             "question": "What kind of microphone?"
         },
         {
-            "filename": "images/440px-Derrick_Brooks_with_2006_Pro_Bowl_MVP_trophy_060210-N-4856G-129.jpeg",
-            "category": "news",
-            "description": "A football player holding a trophy with a microphone, wearing a game uniform. He is inside a stadium\n",
-            "question": "What player"
-        },
-        {
             "filename": "images/Cara_Delevingne_Vogue_2023_03.jpeg",
             "category": "shopping",
             "description": "A woman with blonde hair and a green blazer appears pensive with a slight frown, looking to the side.\n",
@@ -1643,12 +1103,6 @@
             "category": "social_media",
             "description": "A large yellow mobile crane with its boom extended.\n",
             "question": "What is the crane doing"
-        },
-        {
-            "filename": "images/440px-Folk_Dancing_at_Jack_in_the_Green.jpeg",
-            "category": "news",
-            "description": "A woman dancing in traditional garb with a leafy wreath on her head at a festive event.\n",
-            "question": "What color is the outfit?"
         },
         {
             "filename": "images/440px-Redsweeper.jpeg",
@@ -1675,34 +1129,16 @@
             "question": "what are the historical cooking utensils"
         },
         {
-            "filename": "images/Feliz_Dia_de_la_Revolucion_Mexico.jpeg",
-            "category": "news",
-            "description": "Children in traditional Mexican attire in a parade, holding a banner for 'D\u00eda de la Revoluci\u00f3n'.\n",
-            "question": "What is the specific Mexican attire the children are wearing"
-        },
-        {
             "filename": "images/440px-File_BobsleighrunLP.jpeg",
             "category": "shopping",
             "description": "An aerial view of a winding bobsleigh track in a forested area.\n",
             "question": "Is there any people on the bobsleigh track?"
         },
         {
-            "filename": "images/440px-ManDiving.jpeg",
-            "category": "travel",
-            "description": "A man in mid-dive, upside down, against a backdrop of calm water and distant shoreline.\n",
-            "question": "are there any buildings nearby?"
-        },
-        {
             "filename": "images/Mole_in_Puebla.jpeg",
             "category": "social_media",
             "description": "A plate of black mole sauce over chicken with rice. The chicken is not visible, so the black mole sauce ends up looking like a giant black hole ingulfing the white rice with a tiny sprig of green on top of the hill of the rice. It sort of looks like a ying-yang sign.\n",
             "question": "What types of ingredients are used to make the black mole sauce?"
-        },
-        {
-            "filename": "images/NFL_2020_-_Playoffs_-_Washington_vs._Buccaneers_223_(50833097576).jpg",
-            "category": "news",
-            "description": "A football player in a red jersey looking to the side. The helmet is black and there's a 12 on the jersey.\n",
-            "question": "What football team does he play for?"
         },
         {
             "filename": "images/Plongee-RecycleurInspiration_20040221-153656.jpeg",
@@ -1721,12 +1157,6 @@
             "category": "science_journals",
             "description": "A small boat with several people on a vast, murky river in the Amazon.\n",
             "question": "What is the weather condition in this image?"
-        },
-        {
-            "filename": "images/Full_face_diving_mask_-_ocean_reef.jpeg",
-            "category": "social_media",
-            "description": "A person in a full-face diving mask, ready for scuba diving and is on a boat looking in the picture like he asked to be taken a photo\n",
-            "question": "where was this picture taken? is it from a recent scuba diving trip a popular diving location?"
         },
         {
             "filename": "images/Ananya_Panday_snapped_promoting_her_film_Pati_Patni_Aur_Woh_on_the_sets_of_Dance_Plus.jpeg",
@@ -1759,40 +1189,10 @@
             "question": "Are they any identifiable insignias on the soldiers uniforms?"
         },
         {
-            "filename": "images/Kulturmandel_unreife_Fruchte.jpeg",
-            "category": "science_journals",
-            "description": "Unripe almonds growing on a tree branch.\n",
-            "question": "How many almonds are there."
-        },
-        {
-            "filename": "images/Picking_blackberries_in_Oklahoma.jpeg",
-            "category": "health",
-            "description": "A left hand holding 6 ripe blackberries next to a bush of ripe red raspberries. It is a sunny day. \n",
-            "question": "Does the image have any text about recommendations for how many I should eat a day?"
-        },
-        {
-            "filename": "images/Lap_mu_krop.jpeg",
-            "category": "health",
-            "description": "A Thai salad with herbs and lettuce on a glass plate sitting outside on a wooden table\n",
-            "question": "Is anyone eating it?"
-        },
-        {
             "filename": "images/440px-FRIM_canopy.jpeg",
             "category": "science_journals",
             "description": "View from beneath a dense canopy of tall trees with a patterned sky.\n",
             "question": "How much of the sky can you see?"
-        },
-        {
-            "filename": "images/Carrots_of_many_colors.jpeg",
-            "category": "health",
-            "description": "Colorful carrots, ranging from orange, to white, to black, arranged in a radial pattern on a white background, surrounded by greenery.\n",
-            "question": "Does the overall photo make an image out of the carrots like an iris?"
-        },
-        {
-            "filename": "images/Test_Five_AU_vs_GBR_0489.jpeg",
-            "category": "social_media",
-            "description": "Water polo match between women teams is in progress.\n",
-            "question": "How many players can you see?"
         },
         {
             "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
@@ -1813,24 +1213,6 @@
             "question": "is it a big crowd"
         },
         {
-            "filename": "images/440px-Stranded_Cambrian_scyphozoans.jpeg",
-            "category": "travel",
-            "description": "A ground surface showing a cluster of ancient, circular fossil imprints of what appear to be jellyfish.\n",
-            "question": "What sort of ground is it\u2014a desert, a canyon, or something else?"
-        },
-        {
-            "filename": "images/600px-Valley_View_Yosemite_August_2013_002.jpeg",
-            "category": "social_media",
-            "description": "A tranquil river with stones leading to a backdrop of tall cliffs .\n",
-            "question": "What does the landscape look like?"
-        },
-        {
-            "filename": "images/600px-Sunspot_TRACE.jpeg",
-            "category": "news",
-            "description": "A fiery solar eruption with plasma loops emanating from a sunspot.\n",
-            "question": "Is this an artist or artifical rendering of a solar eruption?"
-        },
-        {
             "filename": "images/Dayap_or_Philippine_keylime.jpeg",
             "category": "health",
             "description": "A hand holding a small, green, round citrus fruit, similar to a key lime.\n",
@@ -1849,12 +1231,6 @@
             "question": "Is the shirt on sale or available for purchase here?"
         },
         {
-            "filename": "images/Gorp.jpeg",
-            "category": "health",
-            "description": "A bowl of trail mix with nuts, raisins, and candies.\n",
-            "question": "is it a store bought looking mix"
-        },
-        {
             "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
             "category": "travel",
             "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
@@ -1867,28 +1243,10 @@
             "question": "are there any animals in there?"
         },
         {
-            "filename": "images/Rome-VillaBorghese-TempleEsculape.jpeg",
-            "category": "health",
-            "description": "Temple of Aesculapius in Rome's Villa Borghese gardens, reflecting on calm water.  Abundance of mature trees line the waters edge\n",
-            "question": "Is this health website advertising a mental health service?"
-        },
-        {
-            "filename": "images/440px-Red_roast_duck_curry.jpeg",
-            "category": "travel",
-            "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
-            "question": "What kinds of vegetables?"
-        },
-        {
             "filename": "images/440px-Phrik_khi_nu.jpeg",
             "category": "shopping",
             "description": "A bunch of green and red chili peppers arranged on a clear glass plate.\n",
             "question": "How large are the chili peppers?"
-        },
-        {
-            "filename": "images/US_Navy_101004-N-6427M-149_Airman_David_Hall,_from_Buffalo,_N.Y.,_jumps_rope_during_a_training_session_in_the_hangar_bay_aboard_the_aircraft_carrie.jpg",
-            "category": "health",
-            "description": "A serviceman on an aircraft carrier jumping rope.\n",
-            "question": "What color shirt do they have on?"
         },
         {
             "filename": "images/Pelz-Verkaufsstand_in_Tallinn,_Estland.jpeg",
@@ -1933,12 +1291,6 @@
             "question": "Are there any incense shown in the picture? "
         },
         {
-            "filename": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
-            "category": "science_journals",
-            "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
-            "question": "Where is this rainforest located?"
-        },
-        {
             "filename": "images/Bridge_over_Merced_River.jpeg",
             "category": "news",
             "description": "A road bridge over the Merced River with a no swimming/fishing sign.\n",
@@ -1951,22 +1303,10 @@
             "question": "are the fish already prepared for eating"
         },
         {
-            "filename": "images/Rio_Madre_de_Dios,_Peru.jpeg",
-            "category": "health",
-            "description": "A river bordered by a cliff on which there is a dense rainforest.\n",
-            "question": "what angle is the photo taken from? are we looking up at the cliff or down at the cliff?"
-        },
-        {
             "filename": "images/Ichthyaetus_ichthyaetus_Kadalundi.jpeg",
             "category": "science_journals",
             "description": "A seagull with a caught fish in its beak flies over tropical greenery.\n",
             "question": "Are there any other birds in the sky?"
-        },
-        {
-            "filename": "images/CH.ZG.Zug_Boardstock_2008-07-27_Wakeboarder_27_16x9-R_4K.jpg",
-            "category": "travel",
-            "description": "An athlete performing a high-flying stunt on a wakeboard over calm waters.\n",
-            "question": "Do you have to be an athlete to do this?"
         },
         {
             "filename": "images/Phyllanthus_officinalis.jpeg",
@@ -2005,18 +1345,6 @@
             "question": "Is is cut or is it resting prior to be being cut?"
         },
         {
-            "filename": "images/Berlin_marathon.jpeg",
-            "category": "health",
-            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
-            "question": "Can you describe the marathon runner?"
-        },
-        {
-            "filename": "images/440px-Polar_bear_sign_Svalbard.jpeg",
-            "category": "news",
-            "description": "A polar bear warning sign on a road with mountains in the background.\n",
-            "question": "Where is the picture taken."
-        },
-        {
             "filename": "images/440px-Jasper_Dwayne_Reilander-4.jpeg",
             "category": "social_media",
             "description": "A brown bear standing in a lush green forest, looking towards the camera.\n",
@@ -2035,22 +1363,10 @@
             "question": "what type of room are the ladies in?"
         },
         {
-            "filename": "images/Louvre_Courtyard,_Looking_West.jpeg",
-            "category": "travel",
-            "description": "The Louvre Pyramid lit up at twilight with a clear blue sky and the historical palace on both sides of the picture.\n",
-            "question": "Are there people there or just image of the pyramid"
-        },
-        {
             "filename": "images/F20210611CS-0757_(51268405656).jpeg",
             "category": "shopping",
             "description": "Two women, one in pink and one in red, with masks, seated at a children's classroom. The woman in pink is showing a picture of The White House to the boys and girls. There is a plant in the middle of the table.\n",
             "question": "What is the picture advertising?"
-        },
-        {
-            "filename": "images/340px-Shinzo_Abe_and_Ivanka_Trump_(4).jpeg",
-            "category": "news",
-            "description": "Two public figures one male and one female standing on a stage talking. The male is wearing a blue suit, and the female is wearing a pink suit/skirt\n",
-            "question": "Do you recognize the figures in the image?"
         },
         {
             "filename": "images/440px-2009_Jungfraujoch.jpeg",
@@ -2071,22 +1387,10 @@
             "question": "Are there any drinks on the table?"
         },
         {
-            "filename": "images/440px-File_BobsleighrunLP.jpeg",
-            "category": "travel",
-            "description": "An aerial view of a winding bobsleigh track in a forested area.\n",
-            "question": "How big is the track?"
-        },
-        {
             "filename": "images/520px-thumbnail.jpeg",
             "category": "news",
             "description": "A group of people standing beside a swimming pool, some squatting in a row.\n",
             "question": "Who are the people in the image and what are they doing besides the swimming pool?"
-        },
-        {
-            "filename": "images/International_Space_Station_after_undocking_of_STS-132.jpeg",
-            "category": "science_journals",
-            "description": "The International Space Station orbiting Earth.\n",
-            "question": "How small does earth look from there."
         },
         {
             "filename": "images/Pansotti_alle_noci_01.jpeg",
@@ -2095,28 +1399,10 @@
             "question": "What color is the walnut sauce?"
         },
         {
-            "filename": "images/Mountain_goat_-_artificial_salt_lick.jpeg",
-            "category": "science_journals",
-            "description": "A white mountain goat with his front feet on a wooden gate. It's a sunny day and there are mountains in the background.\n",
-            "question": "Is there snow on the mountains?"
-        },
-        {
-            "filename": "images/150px-2Urdva_Hastasana.jpeg",
-            "category": "health",
-            "description": "A man in white pants and a short-sleeved white shirt is standing on a white yoga mat on a wooden floor inside a wood beamed room reaching upward in a yoga stretch.\n",
-            "question": "Is the man doing the pose correctly?"
-        },
-        {
             "filename": "images/Prince_Harry_and_Kate_Middleton_at_the_Garter_Procession_2008.jpeg",
             "category": "travel",
             "description": "Two members of the British royal family at an event.\n",
             "question": "Which members of the British royal family are they?"
-        },
-        {
-            "filename": "images/Kate_and_William,_Canada_Day,_2011,_Ottawa,_Ontario,_Canada.jpeg",
-            "category": "news",
-            "description": "A waving couple at a public event, dressed formally. They are royalty.\n",
-            "question": "What is in the background of the picture?"
         },
         {
             "filename": "images/440px-Progress_M-14M.jpeg",
@@ -2171,1356 +1457,6 @@
             "category": "news",
             "description": "A vintage Chanel suit and silk blouse on a mannequin, displayed with pearls and heels.\n",
             "question": "Is the clothing colorful?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
-        },
-        {
-            "filename": "images/Islandpullover_004.jpeg",
-            "category": "shopping",
-            "description": "A traditional knitted sweater laid on a wooden table.\n",
-            "question": "what color is the sweater?"
         }
     ]
 }
