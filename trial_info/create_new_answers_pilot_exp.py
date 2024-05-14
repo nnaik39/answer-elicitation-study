@@ -3,7 +3,7 @@ import random
 
 all_image_context_pairs = json.load(open('../../question-elicitation-study/trial_info/full_question_elicitation_study.json'))
 
-answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (21).json'))
+answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (28).json'))
 collected_dataset = json.load(open('new_collected_dataset_so_far.json'))
 
 # Identify all image-context pairs
@@ -78,6 +78,22 @@ for participant in question_study:
 
 formatted_questions = []
 
+# If there exist answers for a question already
+for (image, context, description, question) in answers:
+    if (image, context) in image_context_pairs:
+        formatted_questions.append(
+            {
+                'filename': image,
+                'category': context,
+                'description': description,
+                'question': question
+            }
+        )
+
+        if ((image, context) in image_context_pairs):
+            image_context_pairs.remove((image, context))
+
+# Add random questions to unseen image-context pairs!
 for (pic, context, description) in questions:
 #    question = random.choice(questions[(pic, context, description)])
 
@@ -91,10 +107,9 @@ for (pic, context, description) in questions:
             }
         )
 
-with open("ic_pairs_to_get_covered.json", "w") as f:
-    f.write(json.dumps(formatted_questions, indent = 4))
-
 # Then, write them (along with their questions so far) to a file!
+with open("remaining_ic_pairs.json", "w") as f:
+    f.write(json.dumps(formatted_questions, indent = 4))
 
 # Note: By the end of this, I want a giant file
 # with all the questions and answers!
