@@ -8,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (34).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (36).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}

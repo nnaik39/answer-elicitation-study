@@ -3,7 +3,7 @@ import random
 
 all_image_context_pairs = json.load(open('../../question-elicitation-study/trial_info/full_question_elicitation_study.json'))
 
-answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (28).json'))
+answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (36).json'))
 collected_dataset = json.load(open('new_collected_dataset_so_far.json'))
 
 # Identify all image-context pairs
@@ -70,3 +70,6 @@ for (image, context, description, question) in answers:
 print("Total image-context pairs left: ", len(image_context_pairs))
 print("Answerable: ", num_answerable)
 print("Unanswerable: ", num_unanswerable)
+
+with open('remaining_image_context_pairs.json', 'w') as f:
+    f.write(json.dumps(image_context_pairs))
