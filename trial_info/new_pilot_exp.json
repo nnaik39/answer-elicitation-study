@@ -1,12 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/Fiji_palace_guard.jpeg",
-            "category": "social_media",
-            "description": "A black Fijian palace guard in traditional red and white uniform with a rifle stands at attention. The red part of the uniform is the top and the white part is the bottom.\n",
-            "question": "Is the guard a male or female"
-        },
-        {
             "filename": "images/Dress_to_kill_pollution.jpeg",
             "category": "news",
             "description": "A model wearing a dress made from recycled materials.\n",
@@ -23,12 +17,6 @@
             "category": "news",
             "description": "A middle aged smiling woman with long hair that has been lightened, outdoors in a beige jacket and white shirt. She is conventionally pretty with makeup on and light curls in her hair. The background is blurred out and tan.\n",
             "question": "what color is her hair"
-        },
-        {
-            "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
-            "category": "social_media",
-            "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
-            "question": "How many fish are there?"
         },
         {
             "filename": "images/440px-Green_tea_3_appearances.jpeg",
@@ -61,12 +49,6 @@
             "question": "What languages do you see in the image (if any)?"
         },
         {
-            "filename": "images/Sundarban_Tiger.jpeg",
-            "category": "science_journals",
-            "description": "Large orange tiger standing by water near a tree in the wild.\n",
-            "question": "what country"
-        },
-        {
             "filename": "images/440px-Boston_Marathon_2009.jpeg",
             "category": "news",
             "description": "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n",
@@ -85,12 +67,6 @@
             "question": "Could that be a museum?"
         },
         {
-            "filename": "images/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpeg",
-            "category": "travel",
-            "description": "Tiger with a cub in snow.\n",
-            "question": "Are the tigers in the open or are they in a forest?"
-        },
-        {
             "filename": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
             "category": "news",
             "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
@@ -107,12 +83,6 @@
             "category": "social_media",
             "description": "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\n",
             "question": "Are there any cars on the street?"
-        },
-        {
-            "filename": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
-            "category": "social_media",
-            "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
-            "question": "What are the props?"
         },
         {
             "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
@@ -145,18 +115,6 @@
             "question": "Are they Taiwanese?"
         },
         {
-            "filename": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
-            "category": "travel",
-            "description": "Spectators watching a diverse underwater kelp forest exhibit.\n",
-            "question": "What is the cost of the exhibit?"
-        },
-        {
-            "filename": "images/Marine_Drive_Skyline.jpeg",
-            "category": "travel",
-            "description": "A bustling cityscape along a waterfront at sunset. The area is full of people and vehicles. The background of the sky is a mixture of autumn colors\n",
-            "question": "Does it look like there is room for pedestrians or just very busy with cars"
-        },
-        {
             "filename": "images/Engelsburg_und_Engelsbrucke_abends_(Zuschnitt).jpeg",
             "category": "social_media",
             "description": "A historic round fortress lit up at night with a bridge leading to it. There are people standing on the bridge, as well as two statues on the railing of the bridge.\n",
@@ -167,12 +125,6 @@
             "category": "news",
             "description": "Pedestrian bridge over a reflective water canal, a clear blue sky overhead, trees on one end, and land on the other.\n",
             "question": "Are there people walking on the bridge?"
-        },
-        {
-            "filename": "images/Olivia_Rodrigo_Theatre_at_Ace_Hotel_10_09_2023_(53423846745).jpeg",
-            "category": "news",
-            "description": "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
-            "question": "Can you see the audience?"
         },
         {
             "filename": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
@@ -277,18 +229,6 @@
             "question": "what is name of the river"
         },
         {
-            "filename": "images/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
-            "category": "news",
-            "description": "Heavy clusters of ripe rice hanging from plants in a field.\n",
-            "question": "Does this relate to new developments in agriculture?"
-        },
-        {
-            "filename": "images/440px-ISS_Unity_module.jpeg",
-            "category": "social_media",
-            "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
-            "question": "whose space station is in the picture"
-        },
-        {
             "filename": "images/Chang_Chun_Shrine_amk.jpeg",
             "category": "social_media",
             "description": "A traditional shrine set up on the hillside.  There are 2 buildings with a bridge connecting them over the beautiful cascading waterfall.\n",
@@ -319,12 +259,6 @@
             "question": "Is she at an important event?"
         },
         {
-            "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
-            "category": "travel",
-            "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
-            "question": "What's the name of the university"
-        },
-        {
             "filename": "images/Paulien_van_Deutekom_(08-12-2007).jpeg",
             "category": "news",
             "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
@@ -341,18 +275,6 @@
             "category": "news",
             "description": "A whale has washed on stage at an aquatic park with trainers also surrounding the whale in an attempt to assist the animal.\n",
             "question": "Does the whale follow the instructions given?"
-        },
-        {
-            "filename": "images/G7_in_het_Catshuis.jpeg",
-            "category": "social_media",
-            "description": "A group of presidents from a nine country including Barrack Obama seated and having discussions in a room with some country flags in the room\n",
-            "question": "Do the people in the photo appear to be having a pleasant or unpleasant conversation?"
-        },
-        {
-            "filename": "images/Chhatrapati_shivaji_terminus,_esterno_01.jpeg",
-            "category": "travel",
-            "description": "A historic, ornate railway station in Mumbai, India.\n",
-            "question": "How crowded with people is it?"
         },
         {
             "filename": "images/Buckingham-palace-guard-11279634947G5ru.jpeg",
@@ -415,46 +337,16 @@
             "question": "Is the material thick?"
         },
         {
-            "filename": "images/Flower_urchin_by_Vincent_C_Chen.jpeg",
-            "category": "social_media",
-            "description": "A close-up of an underwater flower urchin with intricate circular patterns.\n",
-            "question": "What colors are represented in the flower urchin?"
-        },
-        {
-            "filename": "images/Jellyfish_aqurium.jpeg",
-            "category": "news",
-            "description": "A swarm of jellyfish drifting in the ocean.\n",
-            "question": "Is the picture taken below or is the picture taken from the surface?"
-        },
-        {
             "filename": "images/IDA-1_pre-launch.png",
             "category": "news",
             "description": "Workers inspecting a large circular space mechanism.\n",
             "question": "What is the large circular space mechanism?"
         },
         {
-            "filename": "images/Artinstitportland2009palazzo.jpeg",
-            "category": "news",
-            "description": "Model walking on a runway in a long red dress and green scarf.\n",
-            "question": "What kind of event is going on?"
-        },
-        {
             "filename": "images/440px-Royals.18d884.1850611.jpg",
             "category": "news",
             "description": "A woman in a red patterned dress bending down to talk to children.\n",
             "question": "Where are they - what's the setting for this image?"
-        },
-        {
-            "filename": "images/440px-SSPF_interior.jpeg",
-            "category": "news",
-            "description": "A spacecraft module suspended from the ceiling in a hangar with technicians at work.\n",
-            "question": "How large does it appear to be"
-        },
-        {
-            "filename": "images/Rio_Maranon_03245.jpeg",
-            "category": "science_journals",
-            "description": "A winding river cutting through a mountainous landscape.\n",
-            "question": "What else is in the landscape next to the river?"
         },
         {
             "filename": "images/440px-Winnie_Harlow_Cannes_2018.jpeg",
@@ -479,18 +371,6 @@
             "category": "social_media",
             "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
             "question": "Which vegetables are in the curry?"
-        },
-        {
-            "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
-            "category": "news",
-            "description": "Two docked spacecraft with the Earth in the background.\n",
-            "question": "What country is the space shuttle from?"
-        },
-        {
-            "filename": "images/200px-5adho_mukha_shvanasana.jpeg",
-            "category": "travel",
-            "description": "A yoga practitioner in an inverted V-shaped pose.\n",
-            "question": "Is the yoga practitioner a female or male?"
         },
         {
             "filename": "images/Tyler_Clary_(7707350946)_(cropped).jpeg",
@@ -535,208 +415,202 @@
             "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
+            "filename": "images/440px-Lily_Allen_-_Tufnell_Park_Dome_-_Wednesday_21st_March_2018_LilyTufnell210318-11_(40111059665)_(cropped).jpeg",
             "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "description": "A performer singing into a microphone, bathed in red light, wearing a leopard print top. and really immersed in the song\n",
+            "question": "Who is the musician"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
+            "category": "social_media",
+            "description": "A taekwondo athlete in a competition delivers a high kick against a competitor in a competition.\n",
+            "question": "What country is the athlete from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Kate_Winslet_June-July_2014_HB_Cover.jpeg",
+            "category": "social_media",
+            "description": "A magazine cover featuring a woman with blonde hair, red lipstick, and a black dress, with texts about fashion and beauty.\n",
+            "question": "Is she modeling?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
+            "filename": "images/Kate_Spade_by_Marilyn_K._Yee_1999.jpg",
             "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "description": "A smiling woman with brown hair wearing a black dress and pearl earrings at an event.\n",
+            "question": "What notable features are there at the event?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Los_Llanos,_Venezuela_(12832335223).jpeg",
+            "category": "social_media",
+            "description": "Herd of buffalo running through a flat, open field.\n",
+            "question": "What are they trying to sell?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/440px-Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpeg",
+            "category": "social_media",
+            "description": "Tall millet plants in a field during early grain fill stage.\n",
+            "question": "What color is the sky?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
+            "filename": "images/240px-Anna_Wintour.jpeg",
             "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "description": "A woman with a signature bob haircut wearing sunglasses at an event.\n",
+            "question": "What is the woman's ethnicity?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
+            "category": "social_media",
+            "description": "Village with vineyards, a church, and many trees.\n",
+            "question": "What is the weather like?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/440px-Basket_of_wild_blackberries.jpeg",
+            "category": "social_media",
+            "description": "A wicker basket full of ripe blackberries on a wooden surface outdoors.\n",
+            "question": "What is the weather like outside?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         },
         {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
-        },
-        {
-            "filename": "images/Casaamazonica.jpeg",
-            "category": "news",
-            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
-            "question": "What is the perceived nationality of the boys?"
+            "filename": "images/Berlin_marathon.jpeg",
+            "category": "social_media",
+            "description": "Marathon runners racing on a city street. The picture is taken at sunrise or sunset as the shadows are long. In the background you can see a black glass building.\n",
+            "question": "What marathon is this from?"
         }
     ]
 }
