@@ -1,12 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/440px-porcupine.jpeg",
-            "category": "science_journals",
-            "description": "A brown porcupine on the ground with its white quills partially raised.\n",
-            "question": "What recent scientific developments are posted on the website?"
-        },
-        {
             "filename": "images/Fiji_palace_guard.jpeg",
             "category": "social_media",
             "description": "A black Fijian palace guard in traditional red and white uniform with a rifle stands at attention. The red part of the uniform is the top and the white part is the bottom.\n",
@@ -19,22 +13,10 @@
             "question": "What are the model's surroundings?"
         },
         {
-            "filename": "images/375px-Cannes_2015_22.jpeg",
-            "category": "shopping",
-            "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
-            "question": "Can you describe what she is wearing?"
-        },
-        {
             "filename": "images/ISS-20_Robert_Thirsk_at_the_Minus_Eighty_Degree_Laboratory_Freezer.jpeg",
             "category": "news",
             "description": "An astronaut floating in a lab aboard the ISS, working on a module, with equipment all around them.\n",
             "question": "What does the module look like? "
-        },
-        {
-            "filename": "images/Brookfield_zoo_fg10.jpeg",
-            "category": "travel",
-            "description": "An aquatic show at a zoo with trainers, animals, and an audience. It is an indoor amphitheater with a large pool.\n",
-            "question": "How many people are in the audience?"
         },
         {
             "filename": "images/Elizabeth_Hurley_in_2017.jpeg",
@@ -43,28 +25,10 @@
             "question": "what color is her hair"
         },
         {
-            "filename": "images/Langar.jpeg",
-            "category": "news",
-            "description": "A large gathering of people sitting orderly on a red-carpeted floor, all eating their meals.\n",
-            "question": "Do these people appear to be from a religion "
-        },
-        {
             "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
             "category": "social_media",
             "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
             "question": "How many fish are there?"
-        },
-        {
-            "filename": "images/Kochi_Skyline.jpeg",
-            "category": "news",
-            "description": "Night view of a coastal city skyline reflecting blue red and white lights in the water.\n",
-            "question": "Where are the lights coming from?"
-        },
-        {
-            "filename": "images/Kaeng_som_kung.jpeg",
-            "category": "travel",
-            "description": "A bowl of spicy Thai shrimp soup with vegetables set on a blue and gold tablecloth with other appetizers surrounding it.\n",
-            "question": "What color is the soup, like a bright red?"
         },
         {
             "filename": "images/440px-Green_tea_3_appearances.jpeg",
@@ -83,12 +47,6 @@
             "category": "social_media",
             "description": "Taylor Swift sitting down and playing guitar on stage in a purple dress.\n",
             "question": "What does the guitar look like?"
-        },
-        {
-            "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
-            "category": "travel",
-            "description": "Two translucent jellyfish floating in blue water.\n",
-            "question": "Where is this?"
         },
         {
             "filename": "images/500px-John_Varvatos_Fall_2010_04.jpeg",
@@ -127,24 +85,6 @@
             "question": "Could that be a museum?"
         },
         {
-            "filename": "images/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_aout_2014_(2).jpeg",
-            "category": "social_media",
-            "description": "The Eiffel Tower in the distance, with a river and cityscape in the foreground.  Partially cloudy day.\n",
-            "question": "Is the cityscape crowded?"
-        },
-        {
-            "filename": "images/Agave_Syrup.jpeg",
-            "category": "social_media",
-            "description": "Mostly filled bottle of golden agave syrup against a plain background, with a red cap.\n",
-            "question": "What is this in reference to?"
-        },
-        {
-            "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
-            "category": "news",
-            "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
-            "question": "Who is the young woman in sunglasses?"
-        },
-        {
             "filename": "images/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpeg",
             "category": "travel",
             "description": "Tiger with a cub in snow.\n",
@@ -161,12 +101,6 @@
             "category": "social_media",
             "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
             "question": "How many cookies are on the plate?"
-        },
-        {
-            "filename": "images/440px-Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpeg",
-            "category": "travel",
-            "description": "Visitors inside a clear, underwater tunnel gaze at fish swimming all around them. Some visitors are sitting on a bench.\n",
-            "question": "What kinds of fish are swimming around them?"
         },
         {
             "filename": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
@@ -193,12 +127,6 @@
             "question": "Is the model a person of color?"
         },
         {
-            "filename": "images/STS-116_spacewalk_1.jpeg",
-            "category": "news",
-            "description": "Astronaut Conducting Spacewalk Near the International Space Station",
-            "question": "What else is in the image besides the astronaut and the Space Station? "
-        },
-        {
             "filename": "images/Bekal_Fort_Kasargod.jpeg",
             "category": "social_media",
             "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
@@ -217,46 +145,10 @@
             "question": "Are they Taiwanese?"
         },
         {
-            "filename": "images/500px-John_Varvatos_Fall_2010_04.jpeg",
-            "category": "social_media",
-            "description": "A male model walking down a runway in a dark, layered outfit, with candles lit behind him as scenery.\n",
-            "question": "What is the model wearing?"
-        },
-        {
-            "filename": "images/Cara_Delevingne_Vogue_2023_03.jpeg",
-            "category": "news",
-            "description": "A woman with blonde hair and a green blazer appears pensive with a slight frown, looking to the side.\n",
-            "question": "What ethnicity is the woman?"
-        },
-        {
             "filename": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
             "category": "travel",
             "description": "Spectators watching a diverse underwater kelp forest exhibit.\n",
             "question": "What is the cost of the exhibit?"
-        },
-        {
-            "filename": "images/Raspberry_-_halved_(Rubus_idaeus).jpeg",
-            "category": "social_media",
-            "description": "A close-up of a halved red raspberry.\n",
-            "question": "Are these colors the theme of this website?"
-        },
-        {
-            "filename": "images/Cambodian_farmers_planting_rice.jpeg",
-            "category": "science_journals",
-            "description": "8 Farmers bending over to plant rice in a flooded field. They are standing in a line and their faces aren't visible. They're all wearing hats and gloves. The water is light brown and in the background is blurry greenery.\n",
-            "question": "What is the region depicted in the image?"
-        },
-        {
-            "filename": "images/Mountain_Goat,_Enchantments_Basin.jpeg",
-            "category": "science_journals",
-            "description": "A white mountain goat standing on a rock with a grey stone background. The goat is quite large with two horns.\n",
-            "question": "How old does the goat look?"
-        },
-        {
-            "filename": "images/ISS-36_HTV-4_berthing_2.jpeg",
-            "category": "social_media",
-            "description": "A robotic arm of the ISS attaching to a spacecraft in orbit.\n",
-            "question": "What does the spacecraft look like?"
         },
         {
             "filename": "images/Marine_Drive_Skyline.jpeg",
@@ -283,40 +175,16 @@
             "question": "Can you see the audience?"
         },
         {
-            "filename": "images/Prince_Harry_and_Meghans_carriage_procession_through_streets_of_Windsor_05.jpeg",
-            "category": "social_media",
-            "description": "Prince Harry and Megan Markle's Royal wedding procession with carriage.\n",
-            "question": "do they look happy?"
-        },
-        {
-            "filename": "images/Flower_urchin_by_Vincent_C_Chen.jpeg",
-            "category": "science_journals",
-            "description": "A close-up of an underwater flower urchin with intricate circular patterns.\n",
-            "question": "What is the underwater flower urchin doing?"
-        },
-        {
             "filename": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
             "category": "social_media",
             "description": "A grizzled giant squirrel perched on a branch in lush foliage. It's laying on its stomach looking down over the branch.\n",
             "question": "was the squirrel eating "
         },
         {
-            "filename": "images/GrizzlyBearJeanBeaufort.jpeg",
-            "category": "travel",
-            "description": "A grizzly bear moving through a grassy field.\n",
-            "question": "Is the grizzly bear mowing their own grassy field or is it on a meadow?"
-        },
-        {
             "filename": "images/Depart4x100.jpeg",
             "category": "social_media",
             "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
             "question": "What gender are the swimmers?"
-        },
-        {
-            "filename": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
-            "category": "news",
-            "description": "A group of dancers holding swords, performing in a traditional English folk dance.\n",
-            "question": "What is the clothing the dancers are wearing?"
         },
         {
             "filename": "images/440px-BCRL.jpeg",
@@ -349,46 +217,16 @@
             "question": "What is Demi Lovato's mood while speaking?"
         },
         {
-            "filename": "images/240px-Guy_Fieri_at_Guantanamo_2.jpeg",
-            "category": "travel",
-            "description": "A man with spiky bleached hair tasting food, wearing a black T-shirt, seated at a table.\n",
-            "question": "What do his surroundings look like?"
-        },
-        {
             "filename": "images/Simone_Biles_Rio_2016e.jpeg",
             "category": "social_media",
             "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
             "question": "Does this picture take place in the olympics?"
         },
         {
-            "filename": "images/Brier_045.jpeg",
-            "category": "news",
-            "description": "An indoor curling event with multiple games underway, spectators in the stands, and scoreboards above.\n",
-            "question": "Are there any famous people there watching the event?"
-        },
-        {
-            "filename": "images/440px-North_Korea_\u2014_Pyongyang_(1027715688).jpeg",
-            "category": "social_media",
-            "description": "An industrial exhibition with various machinery, products, and company banners on display.\n",
-            "question": "What types of machines and products are there?"
-        },
-        {
             "filename": "images/gourd.jpeg",
             "category": "travel",
             "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
             "question": "Where is the outdoor market at"
-        },
-        {
-            "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
-            "category": "shopping",
-            "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
-            "question": "How fresh does the produce look?"
-        },
-        {
-            "filename": "images/Chard_(Beta_vulgaris_var_cicla).jpeg",
-            "category": "science_journals",
-            "description": "A plant with large, dark green leaves and bright red stalks growing in a garden.\n",
-            "question": "what is the name of the tree?"
         },
         {
             "filename": "images/440px-Harry_and_Meghan_on_Christmas_Day_2017_(cropped).jpeg",
@@ -401,12 +239,6 @@
             "category": "social_media",
             "description": "Models on a fashion show runway with dramatic lighting.\n",
             "question": "what are the models wearing?"
-        },
-        {
-            "filename": "images/440px-West_Boca_photo_D_Ramey_Logan.jpeg",
-            "category": "travel",
-            "description": "Aerial view of a long straight road stretching through a landscape with urban areas and seems to be very organized and natural.\n",
-            "question": "How is the scenery?"
         },
         {
             "filename": "images/Pantheon_Rom_1_cropped.jpeg",
@@ -439,22 +271,10 @@
             "question": "What gender do the swimmers appear to be?"
         },
         {
-            "filename": "images/440px-Pilates_01.jpeg",
-            "category": "social_media",
-            "description": "A person wearing all black doing a one-arm, one-leg plank on a yoga mat.\n",
-            "question": "Where is the person at?"
-        },
-        {
             "filename": "images/440px-A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpeg",
             "category": "news",
             "description": "A brown bear catching a salmon in a rushing river.\n",
             "question": "what is name of the river"
-        },
-        {
-            "filename": "images/Mahaweli_Ganga_by_Gampola.jpeg",
-            "category": "travel",
-            "description": "A tranquil river meandering through a lush landscape with misty mountains.\n",
-            "question": "Is the lush landscape a jungle, forest, rainforest? "
         },
         {
             "filename": "images/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
@@ -467,12 +287,6 @@
             "category": "social_media",
             "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
             "question": "whose space station is in the picture"
-        },
-        {
-            "filename": "images/Plaza_de_Cusco_Allison_Bellido.jpeg",
-            "category": "travel",
-            "description": "A sunny day at a historic square with a spanish colonial style church and crowds.\n",
-            "question": "How big are the crowds?"
         },
         {
             "filename": "images/Chang_Chun_Shrine_amk.jpeg",
@@ -493,12 +307,6 @@
             "question": "What is the couple wearing?"
         },
         {
-            "filename": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
-            "category": "social_media",
-            "description": "Aerial view of a city on an island.\n",
-            "question": "Can you see any people, or is the camera too far from them to see?"
-        },
-        {
             "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
             "category": "news",
             "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
@@ -509,12 +317,6 @@
             "category": "news",
             "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
             "question": "Is she at an important event?"
-        },
-        {
-            "filename": "images/Diving_tower_at_the_2008_EC.jpeg",
-            "category": "social_media",
-            "description": "A high diving platform inside a pool arena with a competition logo.\n",
-            "question": "What is the logo of?"
         },
         {
             "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
@@ -589,12 +391,6 @@
             "question": "What is the relationship between green wrasse fish and the sea urchin in the underwater scene?"
         },
         {
-            "filename": "images/2018_World_Championships_Women's_individual_podium.jpeg",
-            "category": "social_media",
-            "description": "Three gymnasts on a podium holding medals and flowers.\n",
-            "question": "Are the medals bronze, gold, and silver?"
-        },
-        {
             "filename": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
             "category": "news",
             "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
@@ -611,12 +407,6 @@
             "category": "news",
             "description": "A large basilica under a blue sky.\n",
             "question": "Is this building a church?"
-        },
-        {
-            "filename": "images/The_Minister_of_State_for_Commerce,_Shri_Jairam_Ramesh_releasing_the_Organic_Cotton_Products,_in_Chennai_on_January_24,_2008.jpeg",
-            "category": "science_journals",
-            "description": "An Arabic Minister in a room with a large group of men. He is displaying a folded white dress shirt and a way of announcing a release of organic cotton products. There is a woman standing close by, facing the Minister and smiling widely\n",
-            "question": "Was this a religious ceremony?"
         },
         {
             "filename": "images/Seaman_jumper.jpeg",
@@ -637,12 +427,6 @@
             "question": "Is the picture taken below or is the picture taken from the surface?"
         },
         {
-            "filename": "images/Turkey_folk_dance.jpeg",
-            "category": "travel",
-            "description": "Group in traditional Turkish folk dance attire standing outside.\n",
-            "question": "Where is this exactly located"
-        },
-        {
             "filename": "images/IDA-1_pre-launch.png",
             "category": "news",
             "description": "Workers inspecting a large circular space mechanism.\n",
@@ -653,18 +437,6 @@
             "category": "news",
             "description": "Model walking on a runway in a long red dress and green scarf.\n",
             "question": "What kind of event is going on?"
-        },
-        {
-            "filename": "images/500px-Outdoor_heated_fish_tank_enclosed_by_glass_plus_reflections.jpeg",
-            "category": "travel",
-            "description": "A serene indoor stone pond surrounded by lush plants and reflected glass walls.\n",
-            "question": "where is it?"
-        },
-        {
-            "filename": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
-            "category": "science_journals",
-            "description": "Fighter jet in mid-flight against blue sky.\n",
-            "question": "Is the smoke trail shown in the photo of the fighter jet?"
         },
         {
             "filename": "images/440px-Royals.18d884.1850611.jpg",
@@ -709,275 +481,262 @@
             "question": "Which vegetables are in the curry?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
+            "category": "news",
+            "description": "Two docked spacecraft with the Earth in the background.\n",
+            "question": "What country is the space shuttle from?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/200px-5adho_mukha_shvanasana.jpeg",
+            "category": "travel",
+            "description": "A yoga practitioner in an inverted V-shaped pose.\n",
+            "question": "Is the yoga practitioner a female or male?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Tyler_Clary_(7707350946)_(cropped).jpeg",
+            "category": "news",
+            "description": "Male swimmer walking behind a female swimmer in caps and goggles at a poolside.\n",
+            "question": "What do their swimsuits look like?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Nam_phrik_long_ruea.jpeg",
+            "category": "social_media",
+            "description": "A traditional Thai relish dish with side condiments. It is on ceramic leaf shaped bowls that are kind of deep. There are two bowls like this and it is inside a larer leaf shaped bowl. \n",
+            "question": "What exactly is the dish?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/340px-Ousmane_Dembele_World_Cup_Trophy.jpeg",
+            "category": "news",
+            "description": "A emotional soccer player kneeling while kissing the World Cup trophy.\n",
+            "question": "what team won?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
+            "category": "social_media",
+            "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
+            "question": "are there any flowers in the photo?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Arc_de_Triomphe_HDR_2007.jpeg",
+            "category": "news",
+            "description": "The Arc de Triomphe against a blue sky with three cars in front of it and two buildings in the background.\n",
+            "question": "Are there a lot of people around?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/El_bosque_inundado_amazonico-cosmocaixa-2009_(2).jpeg",
+            "category": "social_media",
+            "description": "Lush indoor tropical forest exhibit with large tree trunks and green foliage.\n\nEverything looks very green, lush and bursting with life.  There is an enormous tree with a wide trunk with various plants surrounding the tree.  Feels very rainforest-like.\n",
+            "question": "Are there animals?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
-        },
-        
-        {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         },
         {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
-        },
-        {
-            "filename": "images/Wherever_you_go_I_will_go.jpeg",
-            "category": "science_journals",
-            "description": "Mountain goat with kid in a cold marshy landscape.\n",
-            "question": "What is the weather like?"
+            "filename": "images/Casaamazonica.jpeg",
+            "category": "news",
+            "description": "A rustic house on a riverbank in a lush, tropical forest.  The river is wide and the water is brown.  Two boys are paddling out into the river in a narrow boat.  One boy is looking back at the house which is surrounded by palm trees and other types of trees.\n",
+            "question": "What is the perceived nationality of the boys?"
         }
     ]
 }
