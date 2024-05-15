@@ -15142,5 +15142,413 @@
             "",
             ""
         ]
+    },
+    {
+        "image": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
+        "context": "news",
+        "description": "Aerial view of a city on an island.\n",
+        "question": "Is the Island deserted or is it populated?",
+        "answers": [
+            "The island is populated",
+            "The island is populated with many buildings, with lots of cars and homes situated on it.",
+            "It is populated."
+        ]
+    },
+    {
+        "image": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
+        "context": "travel",
+        "description": "A group of dancers holding swords, performing in a traditional English folk dance.\n",
+        "question": "What do the dancers look like/what costumes are they wearing?",
+        "answers": [
+            "The dancers are white women wearing simple black dresses.",
+            "midieval costumes",
+            "They are young women wearing black elbow length dresses with brown belts."
+        ]
+    },
+    {
+        "image": "images/Rom_Colosseum_Sept_2021_3.jpeg",
+        "context": "news",
+        "description": "Aerial view of the Colosseum in Rome, surrounded by roads and buildings. It also has some green vegetation beside it\n",
+        "question": "Who took this photo?",
+        "answers": [
+            "Someone in a helicopter, or an unpiloted drone took this photo.",
+            "",
+            "Likely a professional photographer using a drone"
+        ]
+    },
+    {
+        "image": "images/Chloe_Veitch_modeling,_upright.jpeg",
+        "context": "shopping",
+        "description": "A brunette woman in a white, cropped Vogue t-shirt and cream colored shorts, leaning against a wall on a sunny day.\n",
+        "question": "Is the wall made of brick?",
+        "answers": [
+            "Yes, the wall the woman is leaning on is made of brick. There is also a green door/support beam next to it.",
+            "yes the wall is made of bricks",
+            "yes it is a brick wall with red and blue-ish grey bricks"
+        ]
+    },
+    {
+        "image": "images/Kate_Upton_in_2021.jpeg",
+        "context": "shopping",
+        "description": "A happy woman with blonde hair in a beige blouse smiling broadly.\n",
+        "question": "What did she buy?",
+        "answers": [
+            "",
+            "I see a happy woman with blonde hair.",
+            ""
+        ]
+    },
+    {
+        "image": "images/CompetitivePumpkins.jpeg",
+        "context": "social_media",
+        "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
+        "question": "Why is there a tag on the pumpkin?",
+        "answers": [
+            "THERE IS A TAG ON THE PUMPKIN TO KNOW THE PRICE AND SPECIES OF THE PUMPKIN",
+            "To indicate the weight of the particular pumpkin.",
+            "they're probably displaying information about the pumpkin"
+        ]
+    },
+    {
+        "image": "images/340px-Ines_Sainz.jpeg",
+        "context": "news",
+        "description": "A reporter in an elegant black dress interviewing on a crowded soccer field.\n",
+        "question": "Why is she so dressed up for a soccer game?",
+        "answers": [
+            "While in the past female sports reporters or announcers had not dressed feminine.  I believe that this has changed in the stance that women can still be women and dress like women in the sports world",
+            "Women reporters need to dress upto get attentrion unfortunately",
+            "She is reporting a night time game, that may be a primetime game, thus it is probably a part of her job."
+        ]
+    },
+    {
+        "image": "images/Paulien_van_Deutekom_(08-12-2007).jpeg",
+        "context": "social_media",
+        "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
+        "question": "Is it apparent which country the skater is from?",
+        "answers": [
+            "No it is hard to tell",
+            "No it is not.",
+            "No"
+        ]
+    },
+    {
+        "image": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
+        "context": "shopping",
+        "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
+        "question": "Is there anything in the background?",
+        "answers": [
+            "There is a window behind the man.",
+            "nothing is in the background, it is white.",
+            "No"
+        ]
+    },
+    {
+        "image": "images/Electric-eel2.jpeg",
+        "context": "science_journals",
+        "description": "An electric eel swimming in an aquarium environment.\n",
+        "question": "How large does the aquarium look?",
+        "answers": [
+            "The aquarium looks to be at least 50 gallons.",
+            "",
+            "IT'S LOOK LIKE VERY BIG"
+        ]
+    },
+    {
+        "image": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
+        "context": "news",
+        "description": "Close-up of an electric eel showing its skin and sensory pits.\n",
+        "question": "What color is it?",
+        "answers": [
+            "The eel in the image is a reddish grey color.",
+            "Brown and red.",
+            "The electric eel is a dark brown, almost black color.",
+            "Brown with a slight hue of red "
+        ]
+    },
+    {
+        "image": "images/340px-Gabriel_Garko_and_Laura_Torrisi_-_nicogenin_-_66me_Festival_de_Venise_(Mostra)_-_The_Road_(3).jpeg",
+        "context": "social_media",
+        "description": "A man in a white tuxedo and a woman in a black slit gown pose together on the red carpet.\n",
+        "question": "Who are they",
+        "answers": [
+            "Celebrities",
+            "they are famous people. looks are taking the picture standing there and have pose.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Trevor_Jackson_returns_from_SS_Kyogle.jpeg",
+        "context": "travel",
+        "description": "A scuba diver with rebreather equipment underwater.\n",
+        "question": "Is this showing someone scuba diving abroad?",
+        "answers": [
+            "",
+            "Yes, this image is showing someone scuba diving. ",
+            "Yes, it shows a man with the gear"
+        ]
+    },
+    {
+        "image": "images/440px-Ametllesjuliol.jpeg",
+        "context": "science_journals",
+        "description": "A tree heavy with unripe almonds.\n",
+        "question": "Are any other trees or plants visible? ",
+        "answers": [
+            "There are no other trees visible, and no plants aside from a brownish ground covering that resembles dead grass.",
+            "yes there is at least 2 trees ",
+            "Another unripe almond tree can be seen in the distance"
+        ]
+    },
+    {
+        "image": "images/Soy-whey-protein-diet.jpeg",
+        "context": "shopping",
+        "description": "Assorted fruits, vegetables, grains, a glass of milk, and a bowl of yogurt.\n",
+        "question": "Are the items laid out on a table?",
+        "answers": [
+            "Yes. The items appear to be laid out on a table in no particular order. ",
+            "",
+            "yes, there are berries in the forefront of the image, with the bowl of yogurt and glass of milk in the center of the image and then bigger fruit behind those two."
+        ]
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "science_journals",
+        "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
+        "question": "Are the child's hand's dirty, like they just picked the berries themselves?",
+        "answers": [
+            "The childs hands are clean. ",
+            "No, the hands are clean",
+            "The child's hand's are not dirty. Thus, it would not be concluded that they picked the berries themselves."
+        ]
+    },
+    {
+        "image": "images/Hana_Highway_Overlook.jpeg",
+        "context": "travel",
+        "description": "A tropical forest with a small distant waterfall with lots of trees.\n",
+        "question": "What does the weather look like?",
+        "answers": [
+            "The sky is white and the air looks thick with mist.",
+            "The weather looks sunny and warm",
+            "It looks sunny with a mist or fog covering the farthest tree covered hill in the distance."
+        ]
+    },
+    {
+        "image": "images/Daucus_carota_May_2008-1_edit.jpeg",
+        "context": "social_media",
+        "description": "A green wild carrot flower in full bloom with numerous buds visible.\n",
+        "question": "What color are the buds?",
+        "answers": [
+            "they are white in color",
+            "They are white",
+            "WHITE COLOR",
+            "The buds are white."
+        ]
+    },
+    {
+        "image": "images/Tractors_in_Potato_Field.jpeg",
+        "context": "science_journals",
+        "description": "Two tractors working in a potato field with its rows oriented towards the viewer, with a hill on the horizon and several trees near the left side of the photograph.\n",
+        "question": "How big are the tractors?",
+        "answers": [
+            "they aren't too big in my opinion",
+            "The tractors appear normal size.  Like an everyday, average tractor",
+            "",
+            "They are about average size tractors for use in a mid-sized commercial farming operation. "
+        ]
+    },
+    {
+        "image": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
+        "context": "health",
+        "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
+        "question": "Are there any people in the room?",
+        "answers": [
+            "No one is in the room\n",
+            "No people are in the room.",
+            "There are not any people in the room",
+            "The room is empty.",
+            "No, there are no people in the room. ",
+            "NO PEOPLE IN THE ROOM",
+            "There are no people.",
+            "No, there aren't any people in the room."
+        ]
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "science_journals",
+        "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
+        "question": "What kind of green?",
+        "answers": [
+            "winding green",
+            "A milky medium green.",
+            "A fairly muddy, organic green"
+        ]
+    },
+    {
+        "image": "images/Cambridge_CMS_Bicycle_Racks.jpeg",
+        "context": "health",
+        "description": "A bike rack in front of a modern building. with a man approaching.\n",
+        "question": "Is the bike rack hinting wellness or fitness",
+        "answers": [
+            "Wellness",
+            "It is hinting wellness",
+            "No, it looks like it is a place to park",
+            "",
+            "Wellness mostly but a tad of both.",
+            "The bike rack does not hint wellness or fitness specifically. ",
+            "No, it appears to be a popular bike parking spot for a campus or library.",
+            "Nothing about the image hints to that it is about health, wellness and fitness",
+            "no, I think the image is more hinting that this is the main form of transportation from wherever this image was taken. It is not implying that bikes should be used for transportation to improve wellness or fitness.",
+            "No, it doesn't appear to be.",
+            "",
+            "the bike rack hints at wellness since there is a large amount ",
+            "Perhaps? Since a man is walking towards the bikes if could be implied that he plans to ride his bike as apart of a healthy wellness or fitness choice.",
+            "Not really, it more looks like the bikes parked here are used for transportation purposes than health or exercise related use. "
+        ]
+    },
+    {
+        "image": "images/Light_house_in_Ponnani.jpeg",
+        "context": "travel",
+        "description": "A lighthouse at dusk with palm trees and a vibrant sky in the background.\n",
+        "question": "what does it look like, the penthouse",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Polar_bear_sign_Svalbard.jpeg",
+        "context": "science_journals",
+        "description": "A polar bear warning sign on a road with mountains in the background.\n",
+        "question": "What color is the warning sign",
+        "answers": [
+            "It is red, black and white.",
+            "Red border, background is black with a white polar bear on it",
+            "Black and red.",
+            "Red, Black, and White; red triangle outline of black sign with white polar bear."
+        ]
+    },
+    {
+        "image": "images/Aerobic_exercise_-_public_demonstration07.jpeg",
+        "context": "shopping",
+        "description": "Group of people in colorful workout attire doing step aerobics.\n",
+        "question": "Is the work out attire for both male and females?",
+        "answers": [
+            "Yes both males and females are wearing it.",
+            " there are items for both male and female.",
+            "Yes both are shown with different designs for each.",
+            "YES THIS WORK OUT ATTIRE",
+            "Yes"
+        ]
+    },
+    {
+        "image": "images/Flickr_-_JennyHuang_-_Jenny^_Anemone^_video.jpeg",
+        "context": "science_journals",
+        "description": "A diver observing an underwater sea anemone.\n",
+        "question": "Where is this diver?",
+        "answers": [
+            "This diver is under the ocean, photographing ocean life",
+            "In the ocean. ",
+            "The diver is underwater, hovering above coral and sea anemones. "
+        ]
+    },
+    {
+        "image": "images/Kerala_Government_Secretariat.jpeg",
+        "context": "travel",
+        "description": "A historic white building with arches and a central dome, flanked by palm trees and a statue in front.\n",
+        "question": "What does the outside nature look like",
+        "answers": [
+            "Like a park or formal garden",
+            "It is well kept with palm trees, flowers and neat hedges.",
+            "a religious historical church"
+        ]
+    },
+    {
+        "image": "images/East_West_sushi_01.jpeg",
+        "context": "travel",
+        "description": "An assorted sushi platter with sake.\n",
+        "question": "What type of sushi?",
+        "answers": [
+            "An assortment of sushi",
+            "shrimp",
+            "There is an assortment of sushi rolls (white rice); salmon, avocado, tuna, shrimp, etc."
+        ]
+    },
+    {
+        "image": "images/440px-Reverse_5391.jpeg",
+        "context": "shopping",
+        "description": "A man executing a dive backwards into a swimming pool. \n",
+        "question": "What type of bathing suit is he wearing?",
+        "answers": [
+            "Swimming briefs. ",
+            "It appears to be a Speedo-type suit.",
+            "The swimmer is wearing a swimming cap and a speedo.",
+            "the swimmer is wearing a speedo"
+        ]
+    },
+    {
+        "image": "images/340px-Priyanka_on_the_ramp_for_Mijwan_fashion_show.jpeg",
+        "context": "shopping",
+        "description": "A beautiful brown long haired Indian woman in traditional decorative Indian attire and pierced belly button posing on a runway with one arm bent with hand resting on her hip and other arm hanging down by her side.\n",
+        "question": "Can I purchase what she is wearing?",
+        "answers": [
+            "No because you usually can't buy what is on a runway",
+            "",
+            "You can purchase it online, in stores or overseas. ",
+            "She appears to be modeling the clothing, so it is likely purchasable at some level. although it might be custom made. "
+        ]
+    },
+    {
+        "image": "images/440px-Mir_on_12_June_1998edit1.jpeg",
+        "context": "news",
+        "description": "The Mir space station in orbit, showing its solar panels and modules, Earth in the background.\n",
+        "question": "Does the image look real?",
+        "answers": [
+            "Yes, it looks real.",
+            "Yes, the space station looks like a photograph taken from above, and the image of Earth looks accurate. You can see the curve of the edge of the earth, giving a sense of the distance between the space station and Earth.",
+            "yes the image looks very real "
+        ]
+    },
+    {
+        "image": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+        "context": "travel",
+        "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
+        "question": "How do you get to go on these rivers?",
+        "answers": [
+            "view over the amazon rainforest with where you can see a river of water winding through",
+            "by boat or any water moving means of transport",
+            "YOU CAN STAY AT A JUNGLE LODGE LOCATED ON OR NEAR THE AMAZON RIVER"
+        ]
+    },
+    {
+        "image": "images/Gorp.jpeg",
+        "context": "shopping",
+        "description": "A bowl of trail mix with nuts, raisins, and candies.\n",
+        "question": "Are the candies chocolate?",
+        "answers": [
+            "Yes, they look similar to m&m candies, possibly a different brand similar to m&ms.",
+            "",
+            "Yes, they appear to be M&Ms. "
+        ]
+    },
+    {
+        "image": "images/NP_India_burning_48_(6315309342).jpeg",
+        "context": "science_journals",
+        "description": "Indian Men burning crop residue in a field.\n",
+        "question": "What kind of crop field is being burned?",
+        "answers": [
+            "hay is being burned",
+            "It appears to be hay. ",
+            ""
+        ]
+    },
+    {
+        "image": "images/Matcha_ice_cream_001.jpeg",
+        "context": "shopping",
+        "description": "A scoop of green matcha ice cream in a white and blue ceramic bowl.\n",
+        "question": "is the matcha ceremonial grade?",
+        "answers": [
+            "",
+            ""
+        ]
     }
 ]
