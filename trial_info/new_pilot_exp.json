@@ -31,12 +31,6 @@
             "question": "Is the woman modeling an outfit? "
         },
         {
-            "filename": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
-            "category": "news",
-            "description": "Aerial view of a city on an island.\n",
-            "question": "Is the Island deserted or is it populated?"
-        },
-        {
             "filename": "images/ISS-20_Robert_Thirsk_at_the_Minus_Eighty_Degree_Laboratory_Freezer.jpeg",
             "category": "news",
             "description": "An astronaut floating in a lab aboard the ISS, working on a module, with equipment all around them.\n",
@@ -59,12 +53,6 @@
             "category": "news",
             "description": "A large gathering of people sitting orderly on a red-carpeted floor, all eating their meals.\n",
             "question": "Do these people appear to be from a religion "
-        },
-        {
-            "filename": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
-            "category": "travel",
-            "description": "A group of dancers holding swords, performing in a traditional English folk dance.\n",
-            "question": "What do the dancers look like/what costumes are they wearing?"
         },
         {
             "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
@@ -115,28 +103,10 @@
             "question": "What does the guitar look like?"
         },
         {
-            "filename": "images/Rom_Colosseum_Sept_2021_3.jpeg",
-            "category": "news",
-            "description": "Aerial view of the Colosseum in Rome, surrounded by roads and buildings. It also has some green vegetation beside it\n",
-            "question": "Who took this photo?"
-        },
-        {
-            "filename": "images/Chloe_Veitch_modeling,_upright.jpeg",
-            "category": "shopping",
-            "description": "A brunette woman in a white, cropped Vogue t-shirt and cream colored shorts, leaning against a wall on a sunny day.\n",
-            "question": "Is the wall made of brick?"
-        },
-        {
             "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
             "category": "travel",
             "description": "Two translucent jellyfish floating in blue water.\n",
             "question": "Where is this?"
-        },
-        {
-            "filename": "images/Kate_Upton_in_2021.jpeg",
-            "category": "shopping",
-            "description": "A happy woman with blonde hair in a beige blouse smiling broadly.\n",
-            "question": "What did she buy?"
         },
         {
             "filename": "images/500px-John_Varvatos_Fall_2010_04.jpeg",
@@ -175,12 +145,6 @@
             "question": "How many wheelchair racers are shown in the image?"
         },
         {
-            "filename": "images/200px-5adho_mukha_shvanasana (1).jpeg",
-            "category": "travel",
-            "description": "A yoga practitioner in an inverted V-shaped pose.\n",
-            "question": "Is the yoga practitioner a female or male?"
-        },
-        {
             "filename": "images/440px-El_Rey_Theatre_-_Lily_Allen_04_25_2018_-22_(42092424455)_(cropped).jpeg",
             "category": "news",
             "description": "A singer with short platinum hair performing on stage, holding a microphone. It's a female wearing a black top. We can see from her waist up and the background is black. She's wearing a long golden colored necklace.\n",
@@ -193,12 +157,6 @@
             "question": "Could that be a museum?"
         },
         {
-            "filename": "images/CompetitivePumpkins.jpeg",
-            "category": "social_media",
-            "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
-            "question": "Why is there a tag on the pumpkin?"
-        },
-        {
             "filename": "images/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_aout_2014_(2).jpeg",
             "category": "social_media",
             "description": "The Eiffel Tower in the distance, with a river and cityscape in the foreground.  Partially cloudy day.\n",
@@ -209,12 +167,6 @@
             "category": "social_media",
             "description": "Mostly filled bottle of golden agave syrup against a plain background, with a red cap.\n",
             "question": "What is this in reference to?"
-        },
-        {
-            "filename": "images/340px-Ines_Sainz.jpeg",
-            "category": "news",
-            "description": "A reporter in an elegant black dress interviewing on a crowded soccer field.\n",
-            "question": "Why is she so dressed up for a soccer game?"
         },
         {
             "filename": "images/440px-Walrus_-_Kamogawa_Seaworld_-_pup_-1.jpeg",
@@ -241,24 +193,6 @@
             "question": "What is the space instrument?"
         },
         {
-            "filename": "images/Paulien_van_Deutekom_(08-12-2007).jpeg",
-            "category": "social_media",
-            "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
-            "question": "Is it apparent which country the skater is from?"
-        },
-        {
-            "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
-            "category": "shopping",
-            "description": "Middle-aged man with short black hair seated in a black suit and white shirt, looking thoughtfully to the side. His hands are clasped in his lap.\n",
-            "question": "Is there anything in the background?"
-        },
-        {
-            "filename": "images/Electric-eel2.jpeg",
-            "category": "science_journals",
-            "description": "An electric eel swimming in an aquarium environment.\n",
-            "question": "How large does the aquarium look?"
-        },
-        {
             "filename": "images/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpeg",
             "category": "travel",
             "description": "Tiger with a cub in snow.\n",
@@ -271,22 +205,10 @@
             "question": "Is the woman in the picture someone famous I would know?"
         },
         {
-            "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
-            "category": "news",
-            "description": "Close-up of an electric eel showing its skin and sensory pits.\n",
-            "question": "What color is it?"
-        },
-        {
             "filename": "images/240px-Piccilliatti,_Sicilia.jpeg",
             "category": "social_media",
             "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
             "question": "How many cookies are on the plate?"
-        },
-        {
-            "filename": "images/340px-Gabriel_Garko_and_Laura_Torrisi_-_nicogenin_-_66me_Festival_de_Venise_(Mostra)_-_The_Road_(3).jpeg",
-            "category": "social_media",
-            "description": "A man in a white tuxedo and a woman in a black slit gown pose together on the red carpet.\n",
-            "question": "Who are they"
         },
         {
             "filename": "images/440px-Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpeg",
@@ -313,22 +235,10 @@
             "question": "What is the historical building for?"
         },
         {
-            "filename": "images/440px-Trevor_Jackson_returns_from_SS_Kyogle.jpeg",
-            "category": "travel",
-            "description": "A scuba diver with rebreather equipment underwater.\n",
-            "question": "Is this showing someone scuba diving abroad?"
-        },
-        {
             "filename": "images/330px-Zohre_Esmaeli_1.jpeg",
             "category": "social_media",
             "description": "A model in a vibrant, patterned ethnic outfit on a runway.\n",
             "question": "Is the model a person of color?"
-        },
-        {
-            "filename": "images/440px-Ametllesjuliol.jpeg",
-            "category": "science_journals",
-            "description": "A tree heavy with unripe almonds.\n",
-            "question": "Are any other trees or plants visible? "
         },
         {
             "filename": "images/STS-116_spacewalk_1.jpeg",
@@ -403,12 +313,6 @@
             "question": "What is the cost of the exhibit?"
         },
         {
-            "filename": "images/Soy-whey-protein-diet.jpeg",
-            "category": "shopping",
-            "description": "Assorted fruits, vegetables, grains, a glass of milk, and a bowl of yogurt.\n",
-            "question": "Are the items laid out on a table?"
-        },
-        {
             "filename": "images/Raspberry_-_halved_(Rubus_idaeus).jpeg",
             "category": "social_media",
             "description": "A close-up of a halved red raspberry.\n",
@@ -433,34 +337,10 @@
             "question": "traffic or new report?"
         },
         {
-            "filename": "images/360px-Blackberries-6383.jpeg",
-            "category": "science_journals",
-            "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
-            "question": "Are the child's hand's dirty, like they just picked the berries themselves?"
-        },
-        {
             "filename": "images/Cara_Delevingne_(18809361174).jpeg",
             "category": "news",
             "description": "Cara Delevingne at an event, posing for photographers. They are wearing a silk green dress with long sleeves. \n",
             "question": "What event is it?"
-        },
-        {
-            "filename": "images/Hana_Highway_Overlook.jpeg",
-            "category": "travel",
-            "description": "A tropical forest with a small distant waterfall with lots of trees.\n",
-            "question": "What does the weather look like?"
-        },
-        {
-            "filename": "images/Daucus_carota_May_2008-1_edit.jpeg",
-            "category": "social_media",
-            "description": "A green wild carrot flower in full bloom with numerous buds visible.\n",
-            "question": "What color are the buds?"
-        },
-        {
-            "filename": "images/Tractors_in_Potato_Field.jpeg",
-            "category": "science_journals",
-            "description": "Two tractors working in a potato field with its rows oriented towards the viewer, with a hill on the horizon and several trees near the left side of the photograph.\n",
-            "question": "How big are the tractors?"
         },
         {
             "filename": "images/ISS-36_HTV-4_berthing_2.jpeg",
@@ -505,22 +385,10 @@
             "question": "Can you see the audience?"
         },
         {
-            "filename": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
-            "category": "health",
-            "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
-            "question": "Are there any people in the room?"
-        },
-        {
             "filename": "images/Sher_Khan_(cropped).jpeg",
             "category": "travel",
             "description": "A large, muscular male tiger walking through a very green field.\n",
             "question": "What kind of animals will I encounter at this location?"
-        },
-        {
-            "filename": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
-            "category": "science_journals",
-            "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
-            "question": "What kind of green?"
         },
         {
             "filename": "images/Prince_Harry_and_Meghans_carriage_procession_through_streets_of_Windsor_05.jpeg",
@@ -533,12 +401,6 @@
             "category": "science_journals",
             "description": "A close-up of an underwater flower urchin with intricate circular patterns.\n",
             "question": "What is the underwater flower urchin doing?"
-        },
-        {
-            "filename": "images/Cambridge_CMS_Bicycle_Racks.jpeg",
-            "category": "health",
-            "description": "A bike rack in front of a modern building. with a man approaching.\n",
-            "question": "Is the bike rack hinting wellness or fitness"
         },
         {
             "filename": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
@@ -565,34 +427,10 @@
             "question": "How big is the ISS?"
         },
         {
-            "filename": "images/Light_house_in_Ponnani.jpeg",
-            "category": "travel",
-            "description": "A lighthouse at dusk with palm trees and a vibrant sky in the background.\n",
-            "question": "what does it look like, the penthouse"
-        },
-        {
-            "filename": "images/440px-Polar_bear_sign_Svalbard.jpeg",
-            "category": "science_journals",
-            "description": "A polar bear warning sign on a road with mountains in the background.\n",
-            "question": "What color is the warning sign"
-        },
-        {
-            "filename": "images/Aerobic_exercise_-_public_demonstration07.jpeg",
-            "category": "shopping",
-            "description": "Group of people in colorful workout attire doing step aerobics.\n",
-            "question": "Is the work out attire for both male and females?"
-        },
-        {
             "filename": "images/Som_tam_thai.jpeg",
             "category": "shopping",
             "description": "This is a Plate of spicy green papaya salad sitting on the table of a restaurant. There is a glass of water sitting directly to the left side of the plate. The background of the rest of the image is blurred.\n",
             "question": "is the site selling ingredients?"
-        },
-        {
-            "filename": "images/Flickr_-_JennyHuang_-_Jenny^_Anemone^_video.jpeg",
-            "category": "science_journals",
-            "description": "A diver observing an underwater sea anemone.\n",
-            "question": "Where is this diver?"
         },
         {
             "filename": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
@@ -643,12 +481,6 @@
             "question": "Does this picture take place in the olympics?"
         },
         {
-            "filename": "images/Kerala_Government_Secretariat.jpeg",
-            "category": "travel",
-            "description": "A historic white building with arches and a central dome, flanked by palm trees and a statue in front.\n",
-            "question": "What does the outside nature look like"
-        },
-        {
             "filename": "images/Brier_045.jpeg",
             "category": "news",
             "description": "An indoor curling event with multiple games underway, spectators in the stands, and scoreboards above.\n",
@@ -671,18 +503,6 @@
             "category": "social_media",
             "description": "A variety of poinsettias with red and pink leaves with some green leaves under. They are so beautiful\n",
             "question": "How many petals do the flowers have?"
-        },
-        {
-            "filename": "images/East_West_sushi_01.jpeg",
-            "category": "travel",
-            "description": "An assorted sushi platter with sake.\n",
-            "question": "What type of sushi?"
-        },
-        {
-            "filename": "images/440px-Reverse_5391.jpeg",
-            "category": "shopping",
-            "description": "A man executing a dive backwards into a swimming pool. \n",
-            "question": "What type of bathing suit is he wearing?"
         },
         {
             "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
@@ -733,12 +553,6 @@
             "question": "What team is it/what colors are they wearing?"
         },
         {
-            "filename": "images/340px-Priyanka_on_the_ramp_for_Mijwan_fashion_show.jpeg",
-            "category": "shopping",
-            "description": "A beautiful brown long haired Indian woman in traditional decorative Indian attire and pierced belly button posing on a runway with one arm bent with hand resting on her hip and other arm hanging down by her side.\n",
-            "question": "Can I purchase what she is wearing?"
-        },
-        {
             "filename": "images/Mumbai_03-2016_94_Kanheri_Caves.jpeg",
             "category": "travel",
             "description": "A stone statue in a carved niche.\n",
@@ -755,12 +569,6 @@
             "category": "travel",
             "description": "two classic white bicycle on a country road, evoking leisure and simplicity.\n",
             "question": "Are there people in the background of this photo or on the bikes?"
-        },
-        {
-            "filename": "images/440px-Mir_on_12_June_1998edit1.jpeg",
-            "category": "news",
-            "description": "The Mir space station in orbit, showing its solar panels and modules, Earth in the background.\n",
-            "question": "Does the image look real?"
         },
         {
             "filename": "images/Police_cyclists_London_Olympic_Torch_Relay.jpeg",
@@ -809,12 +617,6 @@
             "category": "social_media",
             "description": "Traditional Japanese wedding couple in front of a temple.\n",
             "question": "What is the theme for the wedding?"
-        },
-        {
-            "filename": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
-            "category": "travel",
-            "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
-            "question": "How do you get to go on these rivers?"
         },
         {
             "filename": "images/440px-Electric-eel.jpeg",
@@ -895,12 +697,6 @@
             "question": "What is the logo of?"
         },
         {
-            "filename": "images/Gorp.jpeg",
-            "category": "shopping",
-            "description": "A bowl of trail mix with nuts, raisins, and candies.\n",
-            "question": "Are the candies chocolate?"
-        },
-        {
             "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
             "category": "travel",
             "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
@@ -919,484 +715,472 @@
             "question": "What planet are they on?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Short-finned_Pilot_Whale_(8793172995).jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "A whale has washed on stage at an aquatic park with trainers also surrounding the whale in an attempt to assist the animal.\n",
+            "question": "Does the whale follow the instructions given?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
-        },
-        {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/G7_in_het_Catshuis.jpeg",
+            "category": "social_media",
+            "description": "A group of presidents from a nine country including Barrack Obama seated and having discussions in a room with some country flags in the room\n",
+            "question": "Do the people in the photo appear to be having a pleasant or unpleasant conversation?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
-        },
-        {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/KITLV_40091_-_Kassian_Cephas_-_Relief_of_the_hidden_base_of_Borobudur_-_1890-1891.jpeg",
+            "category": "travel",
+            "description": "A stone relief carving showing scenes from centuries ago. There are four scenes depicted ranging from people to animals and nature.\t\n",
+            "question": "What is the specific style of relief carving?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/Chhatrapati_shivaji_terminus,_esterno_01.jpeg",
+            "category": "travel",
+            "description": "A historic, ornate railway station in Mumbai, India.\n",
+            "question": "How crowded with people is it?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/Vegetable_platter_with_nam_phrik_kapi.jpeg",
+            "category": "shopping",
+            "description": "Plate of vegetables and herbs including beans, lettuce, mint, and cucumber paired with a kind of brown dipping sauce or marinade. \n",
+            "question": "Does it looked seasoned?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Buckingham-palace-guard-11279634947G5ru.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "A guard in red uniform and black hat standing outside Buckingham Palace.\n",
+            "question": "what happened?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
+            "category": "social_media",
+            "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
+            "question": "who is the woman with joe biden "
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/400px-Cigarette_smuggling_with_a_book.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "An old book hollowed out to hide cigarettes inside.\n",
+            "question": "What is the name of the book in the photo?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/500px-Master_Scott_Leonard.jpeg",
+            "category": "social_media",
+            "description": "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n",
+            "question": "Is the martial artist male or female?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Petersdom_von_Engelsburg_gesehen_crop.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "St. Peter's Basilica in Rome, viewed from a distance with clear skies.\n",
+            "question": "is there a specific news event or development that prompted the inclusion of this image in the news article"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/393px-Saddle_Wrasse_are_feeding_on_sea_urchin_in_Kona.jpeg",
+            "category": "social_media",
+            "description": "A green wrasse fish with orange markings on its head feeds on a cracked open sea urchin underwater. There are rocks surrounding the animals, with three rocks placed on the top of the sea urchin.\n",
+            "question": "What is the relationship between green wrasse fish and the sea urchin in the underwater scene?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/2018_World_Championships_Women's_individual_podium.jpeg",
+            "category": "social_media",
+            "description": "Three gymnasts on a podium holding medals and flowers.\n",
+            "question": "Are the medals bronze, gold, and silver?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
+            "question": "What culture do the performers appear to be from?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/Winnie_Harlow_Cannes_2017.jpeg",
+            "category": "shopping",
+            "description": "Woman with Vitiligo in a stunning blue gown on stairs.\n",
+            "question": "How long is the gown"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/Orca_porpoising.jpeg",
+            "category": "science_journals",
+            "description": "Majestic orca whale breaching the water's surface.\n",
+            "question": "How far away is the whale in the photo?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/440px-Muesli.jpeg",
+            "category": "social_media",
+            "description": "A bowl of muesli with banana slices and milk on a wooden surface.\n",
+            "question": "Is this image for a recipe?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Basilique_du_Sacre-Coeur_de_Montmartre,_Paris_18e_140223_2.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "A large basilica under a blue sky.\n",
+            "question": "Is this building a church?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
-            "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "filename": "images/The_Minister_of_State_for_Commerce,_Shri_Jairam_Ramesh_releasing_the_Organic_Cotton_Products,_in_Chennai_on_January_24,_2008.jpeg",
+            "category": "science_journals",
+            "description": "An Arabic Minister in a room with a large group of men. He is displaying a folded white dress shirt and a way of announcing a release of organic cotton products. There is a woman standing close by, facing the Minister and smiling widely\n",
+            "question": "Was this a religious ceremony?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         },
         {
-            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "filename": "images/Seaman_jumper.jpeg",
             "category": "news",
-            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-            "question": "What planet are they on?"
+            "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
+            "question": "Is the material thick?"
         }
     ]
 }
