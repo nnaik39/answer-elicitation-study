@@ -1,567 +1,247 @@
 [
     {
-        "image": "images/Eco_fashion_week_Vancouver_Canada_2011.jpeg",
-        "context": "social_media",
-        "description": "A model walking down a fashion show runway.\n",
-        "question": "Why am i seeing a model walking down a fashion show runway?",
-        "answers": [
-            "",
-            "In the image the model is walking during a fashion show held during Eco Fashion Week.",
-            "It's likely because someone shared it or it is a suggested post."
-        ]
-    },
-    {
-        "image": "images/Batik_Fashion_01.jpeg",
+        "image": "images/Fishtail_hairstyle_01.jpeg",
         "context": "shopping",
-        "description": "A model in a traditional batik skirt and white blouse posing on a catwalk.\n",
-        "question": "Could you describe the color palette used in the outfit?",
+        "description": "A pale, thin woman with long, blond braided hair coming down over her left shoulder. She is  wearing a sleeveless orange dress and has jewelry on her right hand and wrist. She is posed against a blue backdrop.\n",
+        "question": "Is the woman doing anything particular?",
         "answers": [
-            "White, red, grey, cream, and black",
-            "the model is in a white shirt with a patterned skirt colored red, yellow and blue and in some black heels",
-            "white and red ",
-            "The color palette would be in the beige/brown colors as well as light/white colors"
+            "no actions in particular, she is posing against a backdrop",
+            "No, she is posed against a backdrop. ",
+            "Her right hand is holding her braid near her left shoulder and she is holding the end of her hair with her left hand between her thumb, index, and middle fingers.",
+            "The women is holding her own hair. "
         ]
     },
     {
-        "image": "images/240px-Piccilliatti,_Sicilia.jpeg",
-        "context": "shopping",
-        "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
-        "question": "Do the cookies look overcooked?",
-        "answers": [
-            "No.They look perfectly cooked.",
-            "The cookies look to be overcooked. ",
-            "Yes they do look overcooked"
-        ]
-    },
-    {
-        "image": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
-        "context": "science_journals",
-        "description": "Two docked spacecraft with the Earth in the background.\n",
-        "question": "How big are the spacecraft?",
-        "answers": [
-            "They are massive compared to how earth looks in the background.",
-            "The spacecraft look to be a few thousand pounds.",
-            ""
-        ]
-    },
-    {
-        "image": "images/Scitec_Nutrition_Wall_of_Protein_at_FIBO_2013.jpeg",
-        "context": "shopping",
-        "description": "Shelves filled with colorful protein supplement jars such as can be found in a health food store.\n",
-        "question": "What is the brand of the protein supplement.",
-        "answers": [
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Lap_mu_krop.jpeg",
-        "context": "shopping",
-        "description": "A Thai salad with herbs and lettuce on a glass plate sitting outside on a wooden table\n",
-        "question": "What kind of herbs are in the picture?",
-        "answers": [
-            "Parsley and basil",
-            "A nice looking salad with lettuce and onions",
-            "I see mints in the salad. "
-        ]
-    },
-    {
-        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "image": "images/440px-Kendall_hat_2017.jpeg",
         "context": "news",
-        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
-        "question": "How are they holding rare pieces of paper while in zero gravity without damage to the paper?",
+        "description": "A moody portrait of a young person in a cap and dark sweater, looking introspective.\n",
+        "question": "Why is the person moody?",
         "answers": [
-            "Astronauts are likely holding the Jules Verne manuscript",
-            "THE SPACECRAFT MIGHT ACTUALLY BE ON EARTH WHEN THE PICTURE WAS TAKEN",
-            "Paper would not get damaged in zero gravity. ",
+            "She wants to murder someone.",
+            "",
+            "I cannot tell why they are moody"
+        ]
+    },
+    {
+        "image": "images/400px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
+        "context": "news",
+        "description": "People in a small boat on a wide river with lush banks with some clouds in the sky.\n",
+        "question": "Why is this newsworthy?",
+        "answers": [
+            "The water doesn't look clean and may be not safe for the people in the boat. ",
+            "Travel channel or other travel company could be talking about this particular area.",
             ""
         ]
     },
     {
-        "image": "images/440px-Kylie_Jenner1_(cropped).png",
+        "image": "images/3Uttanasana.jpeg",
         "context": "social_media",
-        "description": "Kylie Jenner in a red top speaking, her facial expression seems focused and intent.\n",
-        "question": "What was she speaking about?",
+        "description": "A person bending forward touching the floor in a yoga pose.\n",
+        "question": "Is Yoga good for you?",
         "answers": [
-            "maybe answering questions from a reporter",
-            "Kylie Jenner was speaking at an event for charity.",
+            "It is beneficial for your body's structural strength and building more of your own strength.",
+            "",
+            "Yes, Yoga is good for anyone of any age."
+        ]
+    },
+    {
+        "image": "images/440px-Ortler_Ascent_-_South_Tyrol.jpeg",
+        "context": "science_journals",
+        "description": "Climbers ascend a snowy mountain slope under a misty blue sky.  There is a beautiful mountain in the background heavily laden with snow and one edge is an exposed cliff face.  The climbers are walking in a row in the snow heading up towards a climbing area.\n",
+        "question": "how many climbers are there",
+        "answers": [
+            "Three climbers",
+            "there are 3 climbers",
+            "There are three climbers."
+        ]
+    },
+    {
+        "image": "images/Natalia_Vodianova_20090408_Etam_34.jpeg",
+        "context": "shopping",
+        "description": "A woman signing autographs in a patterned top.\n",
+        "question": "is the woman in the image a celebrity, and what significance does her autograph hold",
+        "answers": [
+            "I do not know if she is a celebrity or what meaning there is to the autograph based on this picture.",
+            "",
+            "No, she is not a celebrity. Her autograph appears to be on the front of a book. The image is meant to highlight her top. "
+        ]
+    },
+    {
+        "image": "images/440px-Organic_mixed_beans_shoots.jpeg",
+        "context": "shopping",
+        "description": "A close-up of various sprouted beans and legumes.\n",
+        "question": "Where is image taken?",
+        "answers": [
+            "at a grocery store",
+            "This is just a close-up of sprouted beans the location is irrelevant",
+            "",
+            "At a farm maybe"
+        ]
+    },
+    {
+        "image": "images/Gal_Viharaya_02.jpeg",
+        "context": "science_journals",
+        "description": "An ancient stone statue of a seated figure in a meditative pose with intricate carvings behind it.\n",
+        "question": "Is there foliage growing on the statue?",
+        "answers": [
+            "there does not appear to be any foliage growing on the statue, it looks to be all clean rock in which the image was carved out of one large stone or edifice- no plants seen at all in the image ",
+            "No, the image is absent of foliage.",
+            "There is not any foliage growing on the statue"
+        ]
+    },
+    {
+        "image": "images/Fruit_smoothie_(8475314736).png",
+        "context": "health",
+        "description": "A wild berry smoothie, in a glass goblet, with a blueberry and pineapple skewer for garnish. \n",
+        "question": "What does the glass goblet look like?",
+        "answers": [
+            "like a very simple glass chalice with a wide circular base and then a narrow neck that is short that leads up to a widening cylinder shape ",
+            "It looks like a vase.",
+            "It is a clear glass goblet with a short stem and a wide mouth. "
+        ]
+    },
+    {
+        "image": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+        "context": "science_journals",
+        "description": "A man operating a rice combine harvester in a field.\n",
+        "question": "Is the field full of water like a standard rice field?",
+        "answers": [
+            "No, the field appears to be a regular field with dirt and no water.",
+            "No it is not full of water",
+            "The field has been drained for the rice to be harvested by machinery. "
+        ]
+    },
+    {
+        "image": "images/440px-2009_Jungfraujoch.jpeg",
+        "context": "science_journals",
+        "description": "Two people stand near a large, blue-tinged crevasse in a snowy landscape.\n",
+        "question": "Where was this photo taken?",
+        "answers": [
+            "the photo was taken in Antartica ",
+            "",
+            "The photo was taken in Antartica"
+        ]
+    },
+    {
+        "image": "images/440px-Progress_M-14M.jpeg",
+        "context": "social_media",
+        "description": "A spacecraft with solar panels against the backdrop of Earth's atmosphere.\n",
+        "question": "Is the image real",
+        "answers": [
+            "To determine if an image is real or not, I would need to see the image in question. If you can provide the image or a description of it, I can help analyze its authenticity based on various indicators such as visual anomalies, context, and known sources to ensure more safety \n\n\n\n\n\n\n",
+            "Yes the image is of a real spacecraft orbiting Earth.",
+            "The image seems to be real but with AI on the rise it is almost impossible to prove"
+        ]
+    },
+    {
+        "image": "images/Plongee-RecycleurInspiration_20040221-153656.jpeg",
+        "context": "social_media",
+        "description": "Diving equipment with tanks and hoses sitting atop of a wooden surface in a room with a metallic wall.\n",
+        "question": "Is the wooden surface a floor or table?",
+        "answers": [
+            "I'm not sure, maybe a shelf",
+            "It is a floor.",
+            "The wooden surface is a table."
+        ]
+    },
+    {
+        "image": "images/340px-Jersei-coll-alt.jpeg",
+        "context": "social_media",
+        "description": "A brown/grey grainy-colored plain high-neck sweater with long sleeves. \n",
+        "question": "What shade of brown and gray?",
+        "answers": [
+            "The color of the sweater honestly resembles a greenish beige carpet. Imagine the kind of carpet you would see in a cheap apartment or a church classroom.",
+            "It's gray with brown undertones",
+            "Dark brown and a medium gray"
+        ]
+    },
+    {
+        "image": "images/Sphinx_et_Jungfrau_-_img_06980.jpeg",
+        "context": "science_journals",
+        "description": "Snow-covered mountain peaks.\n",
+        "question": "Is the mountain rocky?",
+        "answers": [
+            "yes it is rocky",
+            "Hard to tell because it is snow covered",
+            "Yes, you can see rocks underneath the snow. ",
+            "The mountain does appear to be rocky. ",
+            "The mountain is rocky"
+        ]
+    },
+    {
+        "image": "images/580px-Salto_ornamental_-_UnB.jpeg",
+        "context": "health",
+        "description": "A man and a woman wearing blue swim attire performing a synchronized dive from a high platform.\n",
+        "question": "Are they on the platform or in the air?",
+        "answers": [
+            "They are in the air",
+            "They are in the air jumping off the platform. ",
+            "They just jumped off the platform and in the air holding there legs to there face",
+            "They're in the air. "
+        ]
+    },
+    {
+        "image": "images/440px-Pilates_Teacher.jpeg",
+        "context": "health",
+        "description": "A woman in workout attire receiving instruction on a Pilates reformer machine.\n",
+        "question": "Is the woman overweight?",
+        "answers": [
+            "The women receiving instructions is not overweight but looking for additional guidance is healthy exercises",
+            "There are two women and neither one is overweight",
+            "no"
+        ]
+    },
+    {
+        "image": "images/Tree_Climbing_Porcupines.jpeg",
+        "context": "science_journals",
+        "description": "Porcupines in the wild, sleeping on tree branches during the day.\n",
+        "question": "What kind of tree?",
+        "answers": [
+            "This tree has no branches or leaves. It could be a hemlock or white pine tree, since those are common food sources for porcupines.",
+            "I do not know what kind of tree is in this photo.",
+            "small tree without leaves "
+        ]
+    },
+    {
+        "image": "images/Underwater_mcmurdo_sound.jpeg",
+        "context": "health",
+        "description": "Sea floor with starfish, various shellfish and ice above.\n",
+        "question": "Is this to discuss the benefits of fish on the body?",
+        "answers": [
+            "No, I would find it strange to have this photograph used as the article image for an article discussing the benefits of fish. ",
+            "There's nothing about the photo that implies it is about the benefits of fish to the body.",
+            "No this is supposed to show you the calming effects of oceanic imagery that the health services of the site uses by having calming photos and ocean noises they help give a sense of calm to their patients. "
+        ]
+    },
+    {
+        "image": "images/Pumpkin_Seeds_(matured).jpeg",
+        "context": "social_media",
+        "description": "An orange bowl full of mature pumpkin seeds.\n",
+        "question": "ghhhhhhhhghhhhhhhhhhhh",
+        "answers": [
             "",
             ""
         ]
     },
     {
         "image": "images/Halima_Aden_(2020)_0-13_screenshot.jpeg",
-        "context": "shopping",
+        "context": "news",
         "description": "A smiling woman in a hijab at a UNICEF event. She is wearing a light-brown blazer and a white shirt underneath, behind her is a backdrop with large logos of \"UNICEF\" and \"PANDORA\". \n",
-        "question": "What does the woman look like",
-        "answers": [
-            "A younger (mid-20s) darker toned woman. Dressed very professionally. ",
-            "The woman looks like a Muslim.",
-            "Dark-skinned woman wearing makeup"
-        ]
-    },
-    {
-        "image": "images/Holt_Renfrew_Mannequins.jpeg",
-        "context": "social_media",
-        "description": "Three mannequins in dresses are displayed under elegant chandeliers in a boutique setting.\n",
-        "question": "Why are there mannequins in the picture? ",
-        "answers": [
-            "They are displaying current fashion trends",
-            "The mannequins in the picture are wearing the dresses and can show people how it looks on a body.",
-            "not too sure"
-        ]
-    },
-    {
-        "image": "images/440px-Pilates_Teacher.jpeg",
-        "context": "social_media",
-        "description": "A woman in workout attire receiving instruction on a Pilates reformer machine.\n",
-        "question": "Is the woman in a public gym?",
-        "answers": [
-            "yes with an instructor",
-            "She is in a class with an instructor, it is not known if the class is open to the public or not.",
-            "Yes, it looks like she is in a public gym. "
-        ]
-    },
-    {
-        "image": "images/Kung_kam_kram.jpeg",
-        "context": "shopping",
-        "description": "Cooked seafood with yellow sauce on a plate.\n",
-        "question": "Does the image include branding or a full cutlery set?",
-        "answers": [
-            "This image does not include branding or a full cutlery set.",
-            "There is no branding or a full cutlery set, but a metal fork and spoon are present on the plate of shellfish",
-            "The image includes a fork and a spoon on the plate, no branding."
-        ]
-    },
-    {
-        "image": "images/Team_L.T.D._Cruising_to_Victory_(16227312684).jpg",
-        "context": "science_journals",
-        "description": "Ice skaters racing on a downhill track while fans look on intensely. \n",
-        "question": "Is there an event associated with the race?",
+        "question": "Where is the UNICEF event? ",
         "answers": [
             "",
-            "Yes - although there is no signage there are people on the sides looking on and there seems to be an Olympic feel to the photo.",
-            "",
-            "Yes there is an ice skating event going on. "
+            ""
         ]
     },
     {
-        "image": "images/Louvre_Courtyard,_Looking_West.jpeg",
-        "context": "social_media",
-        "description": "The Louvre Pyramid lit up at twilight with a clear blue sky and the historical palace on both sides of the picture.\n",
-        "question": "Are there any people in the photo?",
-        "answers": [
-            "There are no people in the image, just a beautiful image of The Louvre.",
-            "Toward the back of the image there are small dark spots that may or may not be people. It is hard to tell.",
-            "There are some people far off in the background but they look like tiny dots. The main focus of the photo is the pyramid. There are no people blocking the view of the pyramid. "
-        ]
-    },
-    {
-        "image": "images/Starsinthesky.jpeg",
-        "context": "science_journals",
-        "description": "Dazzling starry night sky\n",
-        "question": "Is the horizon part of the image, or is it solely of the sky?",
-        "answers": [
-            "It is an image ",
-            "The image is solely of the sky.",
-            "It is only the night sky full of lots of stars of varying size with other nebula around the stars"
-        ]
-    },
-    {
-        "image": "images/981123-Ararat-Camp1-IMG_0831.jpeg",
-        "context": "science_journals",
-        "description": "A group of climbers and tents on a snowy mountainside with clear skies above. the orange and red tents and climbers' blue, yellow, and green jackets are very colorful against the snow and the pale sky.\n",
-        "question": "Approximately how far up are the climbers?",
-        "answers": [
-            "3 meters high",
-            "Near the top of the mountain",
-            "Not very high",
-            "1000 feet "
-        ]
-    },
-    {
-        "image": "images/Green_almonds.jpeg",
-        "context": "shopping",
-        "description": "Green almonds in their fuzzy hulls on a white surface.\n",
-        "question": "Is the almond uncooked?",
-        "answers": [
-            "It appears to be uncooked",
-            "Yes, the almonds is uncooked",
-            "yes it is raw",
-            "almond appears raw - natural"
-        ]
-    },
-    {
-        "image": "images/100px-Crinoid_on_the_reef_of_Batu_Moncho_Island_(cropped).jpeg",
-        "context": "science_journals",
-        "description": "A brown and white crinoid sea creature on a coral reef. It looks like pipe cleaners connected at a central point.\n",
-        "question": "how clear is the ocean water?",
-        "answers": [
-            "very clear, looks deep blue",
-            "The ocean water seems to be very clear as the coral reef and creature are photographed in vivid colors. There is no algae in the water and the color of the water is a bright blue. ",
-            "In this image, the ocean water seems very clear and blue"
-        ]
-    },
-    {
-        "image": "images/Echinotitti.jpeg",
-        "context": "shopping",
-        "description": "An aquarium with green plants and gravel, equipment visible in the water.\n",
-        "question": "what kind of equipment",
-        "answers": [
-            "An equipment to filter and purify water present in aquarium",
-            "It's an aquirium",
-            "The equipment is, I believe, a bubbler and filtration system. They are two plastic tube-like fixtures with visible bubbles in them that extent 3/4 of the way down the back of the tank from the surface of the water, with their tops above the water. There are electrical cords visible going down the outside of the tank to below the image."
-        ]
-    },
-    {
-        "image": "images/440px-Mixed_duet_free_final_(33).jpeg",
+        "image": "images/440px-Kylie_Jenner1_(cropped).png",
         "context": "news",
-        "description": "Two athletes in colorful swimsuits waving to an audience on a blue floor\n",
-        "question": "What event or occasion are the athletes participating in ?",
+        "description": "Kylie Jenner in a red top speaking, her facial expression seems focused and intent.\n",
+        "question": "What does the background behind her look like?",
         "answers": [
-            "",
-            "a swimming competition",
-            "They seem to be participating in a swimming competition "
-        ]
-    },
-    {
-        "image": "images/440px-Looking_south_from_near_Glacier_Point_at_Yosemite.jpeg",
-        "context": "social_media",
-        "description": "A panoramic view of a mountainous forest landscape under a clear blue sky. There is grassy areas mixed with snow along with the trees on the mountain range.\n",
-        "question": "Does it look nice?",
-        "answers": [
-            "Yes, it's very beautiful!",
-            "Yes it looks nice. It features a beautiful landscape with large amounts of plants scattered throughout it.",
-            "This image does look nice"
-        ]
-    },
-    {
-        "image": "images/440px-Scuba_Diver_-_Ahmad_Faiz_Mustafa.jpeg",
-        "context": "shopping",
-        "description": "A scuba diver with full gear preparing to enter the ocean from a boat.\n",
-        "question": "what boat are they diving from",
-        "answers": [
-            "",
-            "I am unsure what type of boat",
-            ""
-        ]
-    },
-    {
-        "image": "images/157px-Dress_Shirt_Fitting_on_dummy_Front.jpeg",
-        "context": "shopping",
-        "description": "A dress shirt on a mannequin with a fitting tag.\n",
-        "question": "What is the color of the dress shirt?",
-        "answers": [
-            "off white\n\n",
-            "The dress shirt is white with a striped pattern.",
-            "checkered pink"
-        ]
-    },
-    {
-        "image": "images/COP26-UNFCCC_(51651689982).jpeg",
-        "context": "news",
-        "description": "Two men shake hands on a stage, clearly appeasing the TV audience in front of a green background with Portuguese words written on it.\n",
-        "question": "What channel is tuned in",
-        "answers": [
-            "It is tuned into a Portuguese channel.",
-            "",
-            "",
-            "The channel is COP26",
-            ""
-        ]
-    },
-    {
-        "image": "images/Plongee-RecycleurInspiration_20040221-153656.jpeg",
-        "context": "shopping",
-        "description": "Diving equipment with tanks and hoses sitting atop of a wooden surface in a room with a metallic wall.\n",
-        "question": "What kind of certifications do I need to use this equipment?",
-        "answers": [
-            "",
-            "Unknown (SCUBA)",
-            "",
-            "deep sea diving"
-        ]
-    },
-    {
-        "image": "images/440px-Amazonas,_Iquitos_-_Leticia,_Kolumbien_(11472506936).jpeg",
-        "context": "science_journals",
-        "description": "A small boat with several people on a vast, murky river in the Amazon.\n",
-        "question": "What is the weather condition in this image?",
-        "answers": [
-            "The sky is blue, the water is calm but I can't tell if it's warm or cold.",
-            "",
-            "Moderately cloudy."
-        ]
-    },
-    {
-        "image": "images/Pumpkin_Field.jpeg",
-        "context": "shopping",
-        "description": "A field filled with orange pumpkins and a cart. Inside the cart, under the pumpkins is some hay. In the foreground there are about 20 large pumpkins laying on the green grass. The cart is diagonal and on the left of the photo. In the background you can see pale blue sky and a line of tall trees. Behind the cart it a stalk of dried corn.\n",
-        "question": "Do the pumpkins look ripe?",
-        "answers": [
-            "The pumpkins look very ripe",
-            "The pumpkins look very large and ripe.",
-            "yes they look ripe"
-        ]
-    },
-    {
-        "image": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
-        "context": "social_media",
-        "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
-        "question": "is it a big crowd",
-        "answers": [
-            "The crowd cannot be seen in the photo",
-            "The image is a close up on the young woman so no crowd is visible; a background with graphic is visible behind her, but beyond that, nothing else.",
-            ""
-        ]
-    },
-    {
-        "image": "images/440px-Tunnelaquarium_14-05-2009_15-54-09.jpeg",
-        "context": "science_journals",
-        "description": "Visitors walking through a curved aquarium tunnel, surrounded by marine life.\n",
-        "question": "How many visitors?",
-        "answers": [
-            "Three visitors can be seen in the photo",
-            "There  are currently 3 visitors walking in the area.",
-            "three visitors"
-        ]
-    },
-    {
-        "image": "images/Roastbeef.jpeg",
-        "context": "shopping",
-        "description": "Juicy, medium-rare roast beef on a cutting board.\n",
-        "question": "Is is cut or is it resting prior to be being cut?",
-        "answers": [
-            "The steak is resting prior to being cut.",
-            "It is cut ",
-            "The steak is cut. "
-        ]
-    },
-    {
-        "image": "images/440px-Jasper_Dwayne_Reilander-4.jpeg",
-        "context": "social_media",
-        "description": "A brown bear standing in a lush green forest, looking towards the camera.\n",
-        "question": "How close is the bear to the camera?\n ",
-        "answers": [
-            "The bear is quite a distance from the camera, possibly around 30-40 feet.",
-            "not very close",
-            "It is hard to tell especially if the camera used a zoom lense",
-            "The bear looks like it is around 15ft away from the camera"
-        ]
-    },
-    {
-        "image": "images/Sidemount_032_Photo_by_Pete_Nawrocky.jpeg",
-        "context": "science_journals",
-        "description": "Diver with a large flashlight underwater. \n",
-        "question": "Where is the flashlight located?",
-        "answers": [
-            "The diver is holding the flashlight in their right hand.",
-            "It is in the lower left quadrant angled down and diagonal from the center.",
-            "It's in the hand of the diver",
-            "The diver is holding the flashlight in front of him toward the bottom of the ocean it looks like."
-        ]
-    },
-    {
-        "image": "images/440px-FruitArrangement.jpeg",
-        "context": "shopping",
-        "description": "A collection of colorful vegetables and fruits, including tomatoes and squash gathered together in and around a metal bowl.\n",
-        "question": "what is the metal bowl decorated with?",
-        "answers": [
-            "The metal bowl has an open-shaped wire design. It doesn't have any decorations. ",
-            "the metal bowl is decorated with fruit",
-            "In addition to the fruits decorating it, the metal bowl sits atop a decorative metal plate that has a design and patterns around it's rim."
-        ]
-    },
-    {
-        "image": "images/Fast_Fashion_killt_das_Klima.jpeg",
-        "context": "news",
-        "description": "A crowd holding a banner protesting fast fashion and its impact on climate.\n",
-        "question": "What does the banner say? ",
-        "answers": [
-            "Fast Fashion\nKILLT das KLIMA",
-            "fast fashion killt das klima",
-            "Fast fashion das kuma"
-        ]
-    },
-    {
-        "image": "images/440px-03WAVRE006b.jpeg",
-        "context": "social_media",
-        "description": "I am watching, I believe, two bungee jumpers free falling from a large platform. It almost looks like a radio or tv tower of some sort. It is white metal and it looks like the only way up it is to climb but there may be stairs we can't see. There is a platform halfway up and then the tower gets smaller at the top. \n",
-        "question": "What does the ground look like below?",
-        "answers": [
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Taylor_Swift_2011crop.jpeg",
-        "context": "news",
-        "description": "Taylor Swift sitting down and playing guitar on stage in a purple dress.\n",
-        "question": "How big is the stage?",
-        "answers": [
-            "She is sitting on a stool playing guitar.",
-            "It looks to be fairly small",
-            "The stage is a small round stage.",
-            ""
-        ]
-    },
-    {
-        "image": "images/1920px-British_Residency_in_Asramam,_Kollam.jpeg",
-        "context": "travel",
-        "description": "A very large Colonial-style architecture house with a large wrought iron gate that is put together with brick columns next to it.  In front of the home is a large asphalt driveway and it is surrounded by large trees with greenery.\n",
-        "question": "How many cars can hold in the driveway?",
-        "answers": [
-            "probably about 20 cars in the driveway",
-            "",
-            "not certain but several as the driveway is large",
-            "Maybe four",
-            "",
-            "At least 5 vehicles can fit in this driveway"
-        ]
-    },
-    {
-        "image": "images/360px-Blackberries-6383.jpeg",
-        "context": "health",
-        "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
-        "question": "What kind of berries are they?",
-        "answers": [
-            "blackberries and raspberries ",
-            "A mix of black and raspberries",
-            "Mix of blackberries and resberries",
-            "They are a mixture of ripe blackberries and raspberries. The raspberries range from dark to vivid red in color. ",
-            "These berries are blackberries",
-            "blackberries and raspberries "
-        ]
-    },
-    {
-        "image": "images/Focaccia_al_rosmarino.jpeg",
-        "context": "social_media",
-        "description": "Rosemary focaccia bread in a basket, ready to be served.\n",
-        "question": "Does the bread look highly edible?",
-        "answers": [
-            "yes the bread looks delicious and soft.",
-            "social media website",
-            "bread looks edible. "
-        ]
-    },
-    {
-        "image": "images/Hockey_players_2013.jpeg",
-        "context": "news",
-        "description": "People playing ice hockey in an indoor rink.\n",
-        "question": "are there children in the photo",
-        "answers": [
-            "It's hard to tell if there are children, the players are in uniform and wearing helmets so it's difficult to see their age.",
-            "No there is no children",
-            "Yes, there are children in the photo. ",
-            ""
-        ]
-    },
-    {
-        "image": "images/Sundarban_Tiger.jpeg",
-        "context": "travel",
-        "description": "Large orange tiger standing by water near a tree in the wild.\n",
-        "question": "What does the background wilderness look like?",
-        "answers": [
-            "In the background is a lake, behind which there are many small, woody trees growing in a plain dirt area.",
-            "There is grass, water, and trees in the background. ",
-            "green trees near a river ",
-            "There are a lot of trees in the background",
-            "The foreground is sandy, with twigs of low-lying vegetation covering it. Past the tiger is the water of a river, lightly choppy and extending to the banks of the background. The background is out of focus, but has dark ground under a tangle of trees whose lower trunks are bare and almost vine-like in their twists and turns and whose upper branches are covered in lush and vibrant green leaves."
-        ]
-    },
-    {
-        "image": "images/440px-Thai_green_chicken_curry_and_roti.jpeg",
-        "context": "health",
-        "description": "A bowl of Thai green curry with chicken, and roti on the side.\n",
-        "question": "How many rotis?",
-        "answers": [
-            "Four. But maybe just a single roti that has been cut up.",
-            "There are 4 rotis",
-            "There are 4 rotis",
-            "There is one roti",
-            "Four pieces cut into quarters. ",
-            "there are 4 ",
-            "4 rotis are present on the plate",
-            "One whole roti cut in to 4 pieces ",
-            "there are four",
-            "There are 4 rotis",
-            "There are 4 rotis. ",
-            "Four pieces of one Roti, cut into quarters.",
-            "There are 4 Rotis ",
-            "this image contains 4 rotis",
-            "There are four rotis.",
-            "there are 4 rotis",
-            "4 rotis"
-        ]
-    },
-    {
-        "image": "images/Osklen,_SPFW_N43.jpeg",
-        "context": "social_media",
-        "description": "Fashion models walking on a runway show.\n",
-        "question": "who is watching the show",
-        "answers": [
-            "Many people are watching, a large part of the audience seems to be press and photographers.",
-            "A large crowd with a large number of various people in it",
-            "A crowd of people are seated around the runway on both sides. There are 6 or so rows deep of many people on each side, and most of them have their phones pointed at the runway models. The resolution of the image makes it hard to see the details of the people watching, but there seems to be a wide variety of clothing styles and appearance in the audience.",
-            "fashion designers"
-        ]
-    },
-    {
-        "image": "images/Tiger_Tomak_Male.jpg",
-        "context": "travel",
-        "description": "Tiger walking in the snow.\n",
-        "question": "Where is this picture from?",
-        "answers": [
-            "One is unable to discern the exact location of the photo from the image. ",
-            "This picture is from somewhere cold",
-            "A travel website"
-        ]
-    },
-    {
-        "image": "images/600px-Waterpolo_man_up.jpeg",
-        "context": "news",
-        "description": "An aerial view of a water polo match in a blue pool with floating goals. Someone is about to shoot it into the goal, as defends try and block with their hands.\n",
-        "question": "Is this a Olympic water polo team picture?",
-        "answers": [
-            "Yes, based on the surrounding banner behind the pool photo with 'Athens 2004' and the Olympic logo, one would assume this is an Olympic water polo team photo. ",
-            "Yes, this is a picture from Athens 2004 Olympics.",
-            "It is an Olympic water polo picture from Athens 2004"
-        ]
-    },
-    {
-        "image": "images/440px-Street_food_Yasothon.jpeg",
-        "context": "travel",
-        "description": "Busy night market scene with colorful stalls and lights, there are tables with people at them eating in the foreground.\n",
-        "question": "what are the eating",
-        "answers": [
-            "",
-            "People are eating food from local street vendors",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/400px-Nellu.jpeg",
-        "context": "travel",
-        "description": "A woman spreading grain with her hands to dry the grains on a large blue tarp during a sunny day.\n",
-        "question": "What country is depictured in the image?",
-        "answers": [
-            "",
-            "The country may be Africa.",
-            "It looks like a country in Asia. "
-        ]
-    },
-    {
-        "image": "images/Electric-eel2.jpeg",
-        "context": "travel",
-        "description": "An electric eel swimming in an aquarium environment.\n",
-        "question": "Where is the aquarium evironment?",
-        "answers": [
-            "",
-            "It's an ocean environment",
-            "The picture does not show where the aquarium environment is"
+            "All black, not a lot to see and can't tell where the picture was taken",
+            "It's a pitch black background. ",
+            "The background is solid black"
         ]
     }
 ]
