@@ -1,5 +1,16 @@
 [
     {
+        "image": "images/Dress_to_kill_pollution.jpeg",
+        "context": "news",
+        "description": "A model wearing a dress made from recycled materials.\n",
+        "question": "What are the model's surroundings?",
+        "answers": [
+            "An outdoor venue with a small outdoor stage in the background.",
+            "They are standing on a red carpet (runway) with a small stage a few feet behind them. There are lights on both sides of the stage as well as a white curtain backdrop.",
+            "Behind the model is what appears to be a brick stage with white curtain hanging. The stage has a plant on  each side. The model is standing on dirty scuffed dark red carpet in front of the stage, on ground level."
+        ]
+    },
+    {
         "image": "images/375px-Cannes_2015_22.jpeg",
         "context": "shopping",
         "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
@@ -42,17 +53,79 @@
             "She is wearing a black sweetheart neckline dress.",
             "Black strapless dress with heart neckline.",
             "I can make out the top of what appears to be a black sleeveless and strapless dress.",
-            "The woman is wearing the black strapless dress that has a heart shaped neck line. "
+            "The woman is wearing the black strapless dress that has a heart shaped neck line. ",
+            "She is wearing a fitted strapless black dress or top. I can't tell because only the top of the torso of wardrobe is visible.",
+            "a form fitting black dress",
+            "She is wearing a low cut black dress",
+            "The woman is wearing a black sleeveless garment.",
+            "She is wearing a strapless black dress with a sweetheart neckline.",
+            "She is wearing a black dress.",
+            "She's wearing a low-cut black dress and teal earrings.",
+            "She is wearing a sleeveless black dress and green earings. ",
+            "Strapless black dress",
+            "She is wearing a black dress. The dress has no straps and is fairly simple in design.",
+            "A black strapless dress with a sweetheart neckline.",
+            "She is wearing a black gown and lipstick and long hair",
+            "black sleeveless form fitting top",
+            "The woman is wearing a strapless black dress with a plunging neckline ",
+            "A strapless black dress that cuts off in the middle of her boobs. ",
+            "She is wearing a black strapless dress.",
+            "A low cut black dress ",
+            "She is wearing a low cut black sweetheart top dress"
         ]
     },
     {
-        "image": "images/440px-Spitzer_-_O_CTA_em_testes.jpeg",
-        "context": "social_media",
-        "description": "Two people in white hazmat suits inspecting a space instrument in a well-lit room.\n",
-        "question": "Are they going to practice?",
+        "image": "images/Rio_Maranon_03245.jpeg",
+        "context": "news",
+        "description": "A winding river cutting through a mountainous landscape.\n",
+        "question": "Is there any human development in the picture?",
         "answers": [
-            "No they are not",
-            "No, there are not going anywhere. They are standing and kneeling in place, completely focused on the futuristic instrument/object in the center of the room.",
+            "No there is no human development in the picture.",
+            "There is a man-made parking lot",
+            "There is no human in the photo. There is just mountains, river, and land. "
+        ]
+    },
+    {
+        "image": "images/440px-Boston_Marathon_2009.jpeg",
+        "context": "news",
+        "description": "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n",
+        "question": "How many wheelchair racers are shown in the image?",
+        "answers": [
+            "3 are shown in the image",
+            "Four Wheel Chair racers are shown in the image 3 prominately shown and one covered by the other 3",
+            "With careful examination, it looks like there are 5 racers."
+        ]
+    },
+    {
+        "image": "images/440px-El_Rey_Theatre_-_Lily_Allen_04_25_2018_-22_(42092424455)_(cropped).jpeg",
+        "context": "news",
+        "description": "A singer with short platinum hair performing on stage, holding a microphone. It's a female wearing a black top. We can see from her waist up and the background is black. She's wearing a long golden colored necklace.\n",
+        "question": "What size audience is the singer performing for?",
+        "answers": [
+            "We cannot see the audience so we don't know how big the audience is.",
+            "There is no way to know by the picture. The only thing you can see is the singer",
+            ""
+        ]
+    },
+    {
+        "image": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
+        "context": "news",
+        "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
+        "question": "What is the historical building for?",
+        "answers": [
+            "",
+            "I do not know what the building is for",
+            ""
+        ]
+    },
+    {
+        "image": "images/Engelsburg_und_Engelsbrucke_abends_(Zuschnitt).jpeg",
+        "context": "social_media",
+        "description": "A historic round fortress lit up at night with a bridge leading to it. There are people standing on the bridge, as well as two statues on the railing of the bridge.\n",
+        "question": "What time period is this fortress from?",
+        "answers": [
+            "I honestly have no idea, looks to be possibly 1800s or turn of the century. I have no idea what this building even is",
+            "Maybe Greco Roman. It looks similar to the Roman Colosseum. ",
             ""
         ]
     },
@@ -133,43 +206,141 @@
             "No, there are no people in the room. ",
             "There are no people in the room.",
             "No, there are no people in the room.",
-            "There are no people in the room."
+            "There are no people in the room.",
+            "No people are in the room.",
+            "the room is empty",
+            "No there are not",
+            "There are no people visible in the room.",
+            "No, there are no people in the room",
+            "No there is no one in the room.",
+            "No there is not",
+            "No, there are no people in the room.",
+            "No there are not",
+            "There are no people in the room.",
+            "No there are no people",
+            "There is nobody in the room",
+            "no it is completely empty",
+            "There are no people in this room. ",
+            "No people in the room",
+            "There are no people in the room",
+            "There are no people in the room. ",
+            "There are no people in the room. It is completely empty except for the cushions and tatami mats. "
         ]
     },
     {
-        "image": "images/Demi_Lovato_at_the_Democratic_National_Convention,_July_2016_(cropped_C).jpeg",
+        "image": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
         "context": "social_media",
-        "description": "Demi Lovato speaking at a microphone in front of a blue geometric background.\n",
-        "question": "What is the event she is speaking at?",
+        "description": "A grizzled giant squirrel perched on a branch in lush foliage. It's laying on its stomach looking down over the branch.\n",
+        "question": "was the squirrel eating ",
         "answers": [
-            "The photo does not make that clear.",
-            "I do not know.",
-            "It is unclear what event she is at, but she is wearing a fancy dress and it seems to be a formal event."
+            "I don't think so, I don't see food in the picture",
+            "The squirrel does not seem to be eating.",
+            ""
         ]
     },
     {
-        "image": "images/gourd.jpeg",
+        "image": "images/Sree_Padmanabhaswamy_temple_Thiruvananthapuram,_kerala.jpeg",
         "context": "travel",
-        "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
-        "question": "Where is the outdoor market at",
+        "description": "Intricately carved golden temple facade.\n",
+        "question": "What country and city is the temple located in?",
         "answers": [
             "",
-            "On the streets of cambodia",
+            "Unsure, perhaps somewhere in India",
+            "Bangkok, taiwan",
+            "",
+            "It is unclear where the temple is located.",
+            "Bangkok, Thailand - but this is a guess",
+            "",
+            "Thiruvananthapuram, India",
             "",
             "",
             "",
-            "It's not specified where the market is at, but there are other tents and stalls with a floor made of large tiles."
-        ]
-    },
-    {
-        "image": "images/400px-Cigarette_smuggling_with_a_book.jpeg",
-        "context": "news",
-        "description": "An old book hollowed out to hide cigarettes inside.\n",
-        "question": "What is the name of the book in the photo?",
-        "answers": [
-            "1611 KJV Bible",
+            "",
+            "",
+            "it is unclear. Somewhere in SouthEast Asia, Japan or China",
+            "This is the Kerala Padmanabhaswamy Temple, located in Thiruvananthapuram, India. ",
+            "Japan, Tokyo",
+            "",
             "",
             ""
+        ]
+    },
+    {
+        "image": "images/Simone_Biles_Rio_2016e.jpeg",
+        "context": "social_media",
+        "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
+        "question": "Does this picture take place in the olympics?",
+        "answers": [
+            "It is impossible to tell",
+            "This image takes place in the olympics.",
+            "Yes this picture takes place in the olympics."
+        ]
+    },
+    {
+        "image": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+        "context": "news",
+        "description": "George W. Bush speaking to a football team.\n",
+        "question": "What team is it/what colors are they wearing?",
+        "answers": [
+            "red & white",
+            "I am unsure of what team it is, but they are wearing uniforms that are red and white. ",
+            "It is red and white but I don't know what team"
+        ]
+    },
+    {
+        "image": "images/Police_cyclists_London_Olympic_Torch_Relay.jpeg",
+        "context": "news",
+        "description": "A team of six police cyclists in high-visibility jackets on a empty city street.\n",
+        "question": "Where are they located?",
+        "answers": [
+            "It appears like it could be somewhere in Europe but I can't be sure based off the photo alone",
+            "The police cyclists are located on a street heading toward the photo taker. There is a barrier between their lane and another that has a bus going the opposite direction. The direction of traffic makes it appear that this city is located in a country where they drive on the left side.",
+            "a city in england",
+            "They are in New York"
+        ]
+    },
+    {
+        "image": "images/Depart4x100.jpeg",
+        "context": "news",
+        "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
+        "question": "What gender do the swimmers appear to be?",
+        "answers": [
+            "They appear to be male.",
+            "Mostly male, but one or two females",
+            "they are mostly men but a couple of women also"
+        ]
+    },
+    {
+        "image": "images/440px-A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpeg",
+        "context": "news",
+        "description": "A brown bear catching a salmon in a rushing river.\n",
+        "question": "what is name of the river",
+        "answers": [
+            "The Yukon River",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/Marinera_Nortena.jpeg",
+        "context": "social_media",
+        "description": "Couple performing a traditional Latin dance.\n",
+        "question": "What is the couple wearing?",
+        "answers": [
+            "The man is wearing traditional latin attire that is colored white, he has a sombrero in his left hand. The woman is wearing a red dress with red hair ties.  ",
+            "The couple are wearing clothes that seem to be Mexican/Latino style. She has on a beautiful maroon colored dress and he is dressed in a light white and beige suit.",
+            "The girl is wearing a red dress and the man is wearing a large hat, with a large multi colored belt and a tan suit"
+        ]
+    },
+    {
+        "image": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
+        "context": "social_media",
+        "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
+        "question": "who is the woman with joe biden ",
+        "answers": [
+            "She looks familiar but I don't know her name for certain.",
+            "I have no idea",
+            "The young woman is the singer Olivia Rodrigo. "
         ]
     },
     {
@@ -185,7 +356,70 @@
             "No, the smoke trail in not shown in the photo. ",
             "",
             "No, the smoke trail is not visible in this photo.",
-            "There is no smoke trail shown in the photo."
+            "There is no smoke trail shown in the photo.",
+            "No, there is no smoke trail shown in the photo.",
+            "there is no smoke",
+            "No there is no smoke trail",
+            "There is no smoke trail evident in the photo of the fighter jet.",
+            "There is no smoke trail",
+            "YOu can faintly see a smoke trail.",
+            "No it isn't. ",
+            "No, it is not.",
+            "",
+            "The smoke trail is not shown in the photo of the fighter jet.",
+            "No, the photo frame only captures the jet and part of the heat venting out of the engine, but the smoke trail itself is not visible.",
+            "There is no smoke on the tail",
+            "no smoke trail is seen. There is gray and white on the jet with small red stars",
+            "There are no smoke trails in this photo. ",
+            "No smoke trail is shown",
+            "There is no smoke trail.",
+            "No, there is no smoke train shown in the photo of the fighter jet. ",
+            "No, it does not. "
+        ]
+    },
+    {
+        "image": "images/440px-Royals.18d884.1850611.jpg",
+        "context": "news",
+        "description": "A woman in a red patterned dress bending down to talk to children.\n",
+        "question": "Where are they - what's the setting for this image?",
+        "answers": [
+            "This is the Princess of Wales, Kate Middleton, greeting a crowd.",
+            "The children are sitting down, the setting appears to be a children type of event. ",
+            "The setting is outdoors on pavement, which may be a road.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Red_roast_duck_curry.jpeg",
+        "context": "social_media",
+        "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
+        "question": "Which vegetables are in the curry?",
+        "answers": [
+            "",
+            "The vegetables in the curry include tomatoes, peas, and potatoes. ",
+            "Spinach, tomatoes, peas, and potatoes are vegetables in the curry."
+        ]
+    },
+    {
+        "image": "images/El_bosque_inundado_amazonico-cosmocaixa-2009_(2).jpeg",
+        "context": "social_media",
+        "description": "Lush indoor tropical forest exhibit with large tree trunks and green foliage.\n\nEverything looks very green, lush and bursting with life.  There is an enormous tree with a wide trunk with various plants surrounding the tree.  Feels very rainforest-like.\n",
+        "question": "Are there animals?",
+        "answers": [
+            "No there is no animals in there",
+            "I do not see any animals in this picture.",
+            "No there are not"
+        ]
+    },
+    {
+        "image": "images/440px-Winnie_Harlow_Cannes_2018.jpeg",
+        "context": "news",
+        "description": "An African-American woman with vitiligo in a green off-shoulder gown waving.\n",
+        "question": "What event is this?",
+        "answers": [
+            "It is unclear what event she is at, but there are other people in the background wearing suits, so it is likely some sort of formal event.",
+            "",
+            "IT IS ABOUT LEARNING RECENT NEWS DEVELOPMENT"
         ]
     }
 ]

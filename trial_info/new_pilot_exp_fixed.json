@@ -1,36 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/Dress_to_kill_pollution.jpeg",
-            "category": "news",
-            "description": "A model wearing a dress made from recycled materials.\n",
-            "question": "What are the model's surroundings?"
-        },
-        {
-            "filename": "images/440px-Red_roast_duck_curry.jpeg",
-            "category": "social_media",
-            "description": "An yummy looking bowl of red roast duck curry with creamy topping and vegetables.\n",
-            "question": "Which vegetables are in the curry?"
-        },
-        {
-            "filename": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
-            "category": "health",
-            "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
-            "question": "Are there any people in the room?"
-        },
-        {
-            "filename": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
-            "category": "science_journals",
-            "description": "Fighter jet in mid-flight against blue sky.\n",
-            "question": "Is the smoke trail shown in the photo of the fighter jet?"
-        },
-        {
-            "filename": "images/375px-Cannes_2015_22.jpeg",
-            "category": "shopping",
-            "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
-            "question": "Can you describe what she is wearing?"
-        },
-        {
             "filename": "images/240px-Piccilliatti,_Sicilia.jpeg",
             "category": "social_media",
             "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
@@ -145,34 +115,10 @@
             "question": "Is the model a person of color?"
         },
         {
-            "filename": "images/440px-Winnie_Harlow_Cannes_2018.jpeg",
-            "category": "news",
-            "description": "An African-American woman with vitiligo in a green off-shoulder gown waving.\n",
-            "question": "What event is this?"
-        },
-        {
-            "filename": "images/Depart4x100.jpeg",
-            "category": "news",
-            "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
-            "question": "What gender do the swimmers appear to be?"
-        },
-        {
-            "filename": "images/El_bosque_inundado_amazonico-cosmocaixa-2009_(2).jpeg",
-            "category": "social_media",
-            "description": "Lush indoor tropical forest exhibit with large tree trunks and green foliage.\n\nEverything looks very green, lush and bursting with life.  There is an enormous tree with a wide trunk with various plants surrounding the tree.  Feels very rainforest-like.\n",
-            "question": "Are there animals?"
-        },
-        {
             "filename": "images/520px-Laika_ac_Sputnik_2_Replica_(6995685051).jpeg",
             "category": "news",
             "description": "A metallic cone-shaped object, possibly space-related equipment in what appears to a museum setting \n",
             "question": "Is the cone sitting alone by itself or does it appear connected to something else?"
-        },
-        {
-            "filename": "images/Simone_Biles_Rio_2016e.jpeg",
-            "category": "social_media",
-            "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
-            "question": "Does this picture take place in the olympics?"
         },
         {
             "filename": "images/340px-Ousmane_Dembele_World_Cup_Trophy.jpeg",
@@ -187,18 +133,6 @@
             "question": "Is the woman in the picture someone famous I would know?"
         },
         {
-            "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
-            "category": "news",
-            "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
-            "question": "What is the historical building for?"
-        },
-        {
-            "filename": "images/Marinera_Nortena.jpeg",
-            "category": "social_media",
-            "description": "Couple performing a traditional Latin dance.\n",
-            "question": "What is the couple wearing?"
-        },
-        {
             "filename": "images/400px-Milad_Kharchegani_at_the_2016_Summer_Olympics.jpeg",
             "category": "social_media",
             "description": "A taekwondo athlete in a competition delivers a high kick against a competitor in a competition.\n",
@@ -209,12 +143,6 @@
             "category": "news",
             "description": "A performer singing into a microphone, bathed in red light, wearing a leopard print top. and really immersed in the song\n",
             "question": "Who is the musician"
-        },
-        {
-            "filename": "images/440px-Royals.18d884.1850611.jpg",
-            "category": "news",
-            "description": "A woman in a red patterned dress bending down to talk to children.\n",
-            "question": "Where are they - what's the setting for this image?"
         },
         {
             "filename": "images/Spaziergang_durch_Klingenberg_am_Main._04.jpg",
@@ -253,12 +181,6 @@
             "question": "Where is this green tea located?"
         },
         {
-            "filename": "images/Rio_Maranon_03245.jpeg",
-            "category": "news",
-            "description": "A winding river cutting through a mountainous landscape.\n",
-            "question": "Is there any human development in the picture?"
-        },
-        {
             "filename": "images/Taylor_Swift_2011crop.jpeg",
             "category": "social_media",
             "description": "Taylor Swift sitting down and playing guitar on stage in a purple dress.\n",
@@ -275,18 +197,6 @@
             "category": "news",
             "description": "Seamstress sewing jeans at a vibrant and busy street stall in a foreign country.\n",
             "question": "What languages do you see in the image (if any)?"
-        },
-        {
-            "filename": "images/440px-Boston_Marathon_2009.jpeg",
-            "category": "news",
-            "description": "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n",
-            "question": "How many wheelchair racers are shown in the image?"
-        },
-        {
-            "filename": "images/440px-El_Rey_Theatre_-_Lily_Allen_04_25_2018_-22_(42092424455)_(cropped).jpeg",
-            "category": "news",
-            "description": "A singer with short platinum hair performing on stage, holding a microphone. It's a female wearing a black top. We can see from her waist up and the background is black. She's wearing a long golden colored necklace.\n",
-            "question": "What size audience is the singer performing for?"
         },
         {
             "filename": "images/Mumbai_03-2016_30_Gateway_of_India.jpeg",
@@ -325,28 +235,10 @@
             "question": "What brand is the car?"
         },
         {
-            "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
-            "category": "social_media",
-            "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
-            "question": "who is the woman with joe biden "
-        },
-        {
             "filename": "images/Paulien_van_Deutekom_(08-12-2007).jpeg",
             "category": "news",
             "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
             "question": "What is the competition they are in?"
-        },
-        {
-            "filename": "images/Sree_Padmanabhaswamy_temple_Thiruvananthapuram,_kerala.jpeg",
-            "category": "travel",
-            "description": "Intricately carved golden temple facade.\n",
-            "question": "What country and city is the temple located in?"
-        },
-        {
-            "filename": "images/Police_cyclists_London_Olympic_Torch_Relay.jpeg",
-            "category": "news",
-            "description": "A team of six police cyclists in high-visibility jackets on a empty city street.\n",
-            "question": "Where are they located?"
         },
         {
             "filename": "images/Casaamazonica.jpeg",
@@ -415,18 +307,6 @@
             "question": "What is the woman's ethnicity?"
         },
         {
-            "filename": "images/Engelsburg_und_Engelsbrucke_abends_(Zuschnitt).jpeg",
-            "category": "social_media",
-            "description": "A historic round fortress lit up at night with a bridge leading to it. There are people standing on the bridge, as well as two statues on the railing of the bridge.\n",
-            "question": "What time period is this fortress from?"
-        },
-        {
-            "filename": "images/440px-A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpeg",
-            "category": "news",
-            "description": "A brown bear catching a salmon in a rushing river.\n",
-            "question": "what is name of the river"
-        },
-        {
             "filename": "images/440px-BCRL.jpeg",
             "category": "social_media",
             "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
@@ -437,12 +317,6 @@
             "category": "news",
             "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
             "question": "Is the gymnast performing inside or outside?"
-        },
-        {
-            "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
-            "category": "news",
-            "description": "George W. Bush speaking to a football team.\n",
-            "question": "What team is it/what colors are they wearing?"
         },
         {
             "filename": "images/Team_L.T.D._Cruising_to_Victory_(16227312684).jpg",
@@ -541,12 +415,6 @@
             "question": "What planet are they on?"
         },
         {
-            "filename": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
-            "category": "social_media",
-            "description": "A grizzled giant squirrel perched on a branch in lush foliage. It's laying on its stomach looking down over the branch.\n",
-            "question": "was the squirrel eating "
-        },
-        {
             "filename": "images/Acro-tcd.jpeg",
             "category": "news",
             "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
@@ -593,6 +461,24 @@
             "category": "social_media",
             "description": "Differently colored porcelain berries on a vine.",
             "question": "Where is the vine located?"
+        },
+        {
+            "filename": "images/440px-Dai_Bosatsu_Zendo_Kongo-Ji_2.jpeg",
+            "category": "health",
+            "description": "A tranquil meditation room with tatami mats and black cushions arranged neatly with a purple cushion alone in the middle of the room.\n",
+            "question": "Are there any people in the room?"
+        },
+        {
+            "filename": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
+            "category": "science_journals",
+            "description": "Fighter jet in mid-flight against blue sky.\n",
+            "question": "Is the smoke trail shown in the photo of the fighter jet?"
+        },
+        {
+            "filename": "images/375px-Cannes_2015_22.jpeg",
+            "category": "shopping",
+            "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
+            "question": "Can you describe what she is wearing?"
         },
         {
             "filename": "images/Forcejeo_Real_Madrid_-_FC_Barcelona.jpeg",
