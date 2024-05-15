@@ -58,6 +58,7 @@ question_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtd
 
 questions = {}
 
+
 for participant in question_study:
     for trial in question_study[participant]:
         if ((trial['picture'], trial['category'], trial['description']) not in question_study):
