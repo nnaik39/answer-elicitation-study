@@ -34,9 +34,11 @@ for participant in answer_study:
 num_answerable = 0
 num_unanswerable = 0
 
-for (image, context, description, question) in answers:
-    # Check if there are at least two unanswerable ratings!!
+images = []
 
+for (image, context, description, question) in answers:
+    images.append(image)
+    # Check if there are at least two unanswerable ratings!!
     unanswerable = False 
     if (answers[(image, context, description, question)].count('') >= 2):
         unanswerable = True 
@@ -66,6 +68,8 @@ for (image, context, description, question) in answers:
         num_unanswerable += 1
         if ((image, context) in image_context_pairs):
             image_context_pairs.remove((image, context))
+
+print("Total images left: ", len(list(set(images))))
 
 print("Total image-context pairs left: ", len(image_context_pairs))
 print("Answerable: ", num_answerable)

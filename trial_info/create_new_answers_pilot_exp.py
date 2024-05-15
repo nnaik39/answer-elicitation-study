@@ -93,19 +93,17 @@ for (image, context, description, question) in answers:
         if ((image, context) in image_context_pairs):
             image_context_pairs.remove((image, context))
 
-# Add random questions to unseen image-context pairs!
-for (pic, context, description) in questions:
+#for (pic, context, description) in questions:
 #    question = random.choice(questions[(pic, context, description)])
-
-    if (pic, context) in image_context_pairs:
-        formatted_questions.append(
-            {
-                'filename': pic,
-                'category': context,
-                'description': description,
-                'question': questions[(pic, context, description)]
-            }
-        )
+ #   if (pic, context) in image_context_pairs:
+  #      formatted_questions.append(
+   #         {
+    #            'filename': pic,
+     #           'category': context,
+      #          'description': description,
+     #           'question': questions[(pic, context, description)]
+     #       }
+     #   )
 
 # Then, write them (along with their questions so far) to a file!
 with open("remaining_ic_pairs.json", "w") as f:
