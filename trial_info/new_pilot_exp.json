@@ -1,30 +1,6 @@
 {
     "images": [
         {
-            "filename": "images/Great_male_Leopard_in_South_Afrika-JD.jpeg",
-            "category": "travel",
-            "description": "A leopard resting in the tall grass. It's coat makes it appear to blend in with it's surroundings\n",
-            "question": "What are the leopard's surroundings?"
-        },
-        {
-            "filename": "images/Nandini_Ghosal.jpeg",
-            "category": "social_media",
-            "description": "A woman dancer in traditional Indian attire performing.\n",
-            "question": "How old does the woman performing seem to be?"
-        },
-        {
-            "filename": "images/440px-Thai_green_chicken_curry_and_roti.jpeg",
-            "category": "shopping",
-            "description": "A bowl of Thai green curry with chicken, and roti on the side.\n",
-            "question": "does it look tasty?"
-        },
-        {
-            "filename": "images/Jungfraujoch_090425.jpeg",
-            "category": "travel",
-            "description": "A panoramic snowy mountain vista with visitors, overlooking a vast glacial field under a blue sky. Skiers are near the vista.\n",
-            "question": "What color jackets are the skiers wearing?"
-        },
-        {
             "filename": "images/440px-porcupine.jpeg",
             "category": "science_journals",
             "description": "A brown porcupine on the ground with its white quills partially raised.\n",
@@ -35,12 +11,6 @@
             "category": "social_media",
             "description": "A black Fijian palace guard in traditional red and white uniform with a rifle stands at attention. The red part of the uniform is the top and the white part is the bottom.\n",
             "question": "Is the guard a male or female"
-        },
-        {
-            "filename": "images/Focaccia_con_rosmarino.jpeg",
-            "category": "shopping",
-            "description": "A slice of focaccia with rosemary on a black plate.\n",
-            "question": "Is the bread in a restaurant setting?"
         },
         {
             "filename": "images/Dress_to_kill_pollution.jpeg",
@@ -55,22 +25,10 @@
             "question": "Can you describe what she is wearing?"
         },
         {
-            "filename": "images/Grizzled_sqirrel_Chinnar_WLS_Kerala_(67).jpeg",
-            "category": "science_journals",
-            "description": "A black and white giant squirrel clings to a tree limb amid green leaves.\n",
-            "question": "Where is the picture taken or is it CGI?"
-        },
-        {
             "filename": "images/Young_woman_in_mariniere,_denim_jacket_en_wrap_skirt.jpeg",
             "category": "shopping",
             "description": "A woman in a casual outfit leaning against a wall.\n",
             "question": "Is the woman modeling an outfit? "
-        },
-        {
-            "filename": "images/440px-Bicycles_and_winter.jpeg",
-            "category": "news",
-            "description": "Bicycles covered in snow by the side of a street with a green tram in the background.\n",
-            "question": "what does the image depict"
         },
         {
             "filename": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
@@ -109,34 +67,10 @@
             "question": "What do the dancers look like/what costumes are they wearing?"
         },
         {
-            "filename": "images/ISS_laptop_hard_drive_failure_error_message.jpeg",
-            "category": "social_media",
-            "description": "A laptop computer screen displaying a hard drive failure error message.\n",
-            "question": "Is it an older or newer laptop model?"
-        },
-        {
             "filename": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
             "category": "social_media",
             "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
             "question": "How many fish are there?"
-        },
-        {
-            "filename": "images/King_of_Prussia_Mall_second_floor_near_Bloomingdale's_at_Christmas.jpeg",
-            "category": "shopping",
-            "description": "A modern, multi-level shopping mall decorated for Christmas viewed from the second floor, looking towards an escalator. \n",
-            "question": "What stores are in the surrounding"
-        },
-        {
-            "filename": "images/Christmas_Sweater.jpeg",
-            "category": "news",
-            "description": "A traditional festive sweater with a snowscape and reindeer pattern.\n",
-            "question": "What is the context and purpose of a news cast talking about a festive sweaters?"
-        },
-        {
-            "filename": "images/440px-A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpeg",
-            "category": "science_journals",
-            "description": "A brown bear catching a salmon in a rushing river.\n",
-            "question": "Describe the bear?"
         },
         {
             "filename": "images/440px-BeverlyHilton01.jpeg",
@@ -169,28 +103,10 @@
             "question": "Where is this green tea located?"
         },
         {
-            "filename": "images/440px-Ashley_Graham_2018.png",
-            "category": "shopping",
-            "description": "A woman with brown hair in a white top.\n",
-            "question": "What style is the top?"
-        },
-        {
             "filename": "images/Rio_Maranon_03245.jpeg",
             "category": "news",
             "description": "A winding river cutting through a mountainous landscape.\n",
             "question": "Is there any human development in the picture?"
-        },
-        {
-            "filename": "images/COP26-UNFCCC_(51651689982).jpeg",
-            "category": "science_journals",
-            "description": "Two men shake hands on a stage, clearly appeasing the TV audience in front of a green background with Portuguese words written on it.\n",
-            "question": "Is this for an interview type TV show?"
-        },
-        {
-            "filename": "images/FrenchMarketPumpkinsB.jpeg",
-            "category": "shopping",
-            "description": "A pile of orange pumpkins at a market.\n",
-            "question": "how large are the pumpkins?"
         },
         {
             "filename": "images/Taylor_Swift_2011crop.jpeg",
@@ -209,18 +125,6 @@
             "category": "shopping",
             "description": "A brunette woman in a white, cropped Vogue t-shirt and cream colored shorts, leaning against a wall on a sunny day.\n",
             "question": "Is the wall made of brick?"
-        },
-        {
-            "filename": "images/Chloe_Veitch_modeling,_head_and_shoulders.jpeg",
-            "category": "news",
-            "description": "A young woman with long brown hair wearing a blue t-shirt with the word vogue printed on it and smiling at the camera.\n",
-            "question": "What is the story? Why is this pic on a news website?"
-        },
-        {
-            "filename": "images/Chile_en_nogada.jpeg",
-            "category": "social_media",
-            "description": "A traditional Mexican dish with a stuffed pepper, walnut sauce, and pomegranate seeds. Plated attractively on a white plate with blue trim, the dish looks a lot like a block of cream cheese, sprinkled with pom seeds and surrounded in a white sauce.\n",
-            "question": "Can you see steam coming off the dish?"
         },
         {
             "filename": "images/Aurelia_aurita_(auge24eu).jpeg",
@@ -265,18 +169,6 @@
             "question": "what country"
         },
         {
-            "filename": "images/Valentino_Liz_Hurley_Cannes.jpeg",
-            "category": "news",
-            "description": "Couple in formal wear on a red carpet.\n",
-            "question": "who are the couple in the image?"
-        },
-        {
-            "filename": "images/260px-Khmer_Traditional_Dancing.jpeg",
-            "category": "travel",
-            "description": "A dancer in traditional Khmer attire performs, with onlookers in the background. maybe from an indian backgroud ready to do a traditional dance.\n",
-            "question": "What does Khmer attire look like?"
-        },
-        {
             "filename": "images/440px-Boston_Marathon_2009.jpeg",
             "category": "news",
             "description": "Wheelchair racers compete in a marathon, closely followed by spectators cheering from the sidelines.\n",
@@ -301,12 +193,6 @@
             "question": "Could that be a museum?"
         },
         {
-            "filename": "images/440px-Aardappel_blad_Solanum_tuberosum.jpeg",
-            "category": "science_journals",
-            "description": "A single green, veined leafy branch of a potato plant against a wooden background.\n",
-            "question": "Is a potato growing at the moment?"
-        },
-        {
             "filename": "images/CompetitivePumpkins.jpeg",
             "category": "social_media",
             "description": "Two giant pumpkins on display, one orange and one beige, with tags.\n",
@@ -317,12 +203,6 @@
             "category": "social_media",
             "description": "The Eiffel Tower in the distance, with a river and cityscape in the foreground.  Partially cloudy day.\n",
             "question": "Is the cityscape crowded?"
-        },
-        {
-            "filename": "images/440px-Scuba_Diver_-_Ahmad_Faiz_Mustafa.jpeg",
-            "category": "travel",
-            "description": "A scuba diver with full gear preparing to enter the ocean from a boat.\n",
-            "question": "What is the color of the ocean?"
         },
         {
             "filename": "images/Agave_Syrup.jpeg",
@@ -349,28 +229,10 @@
             "question": "is she alone"
         },
         {
-            "filename": "images/Charli_D'Amelio_3.jpeg",
-            "category": "shopping",
-            "description": "A smiling young woman in a red sweater, sitting in a cozy indoor setting.\n",
-            "question": "who makes the sweater"
-        },
-        {
-            "filename": "images/440px-ESTADOS_UNIDOS_LEVAM_OURO_NA_GINASTICA_FEMININA_POR_EQUIPES_DOS_JOGOS_OLIMPICOS_RIO_2016_(28849586476).jpeg",
-            "category": "social_media",
-            "description": "A gymnast in mid-flip on a balance beam, with the Rio 2020 Olympics logo.\n",
-            "question": "Can you identify the gymnast"
-        },
-        {
             "filename": "images/President_Joe_Biden_and_Olivia_Rodrigo.jpeg",
             "category": "news",
             "description": "Joe Biden and a young woman in sunglasses in the White House.\n",
             "question": "Who is the young woman in sunglasses?"
-        },
-        {
-            "filename": "images/Shirt_review_by_buyer.jpeg",
-            "category": "social_media",
-            "description": "Two people examining a green plaid shirt in a store.\n",
-            "question": "Is this a picture from an ad?"
         },
         {
             "filename": "images/440px-Spitzer_-_O_CTA_em_testes.jpeg",
@@ -383,12 +245,6 @@
             "category": "social_media",
             "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
             "question": "Is it apparent which country the skater is from?"
-        },
-        {
-            "filename": "images/M_Rainier.jpeg",
-            "category": "social_media",
-            "description": "Climbers ascend a snowy mountain above the clouds with another peak in the backdrop.\n",
-            "question": "What mountain is it? "
         },
         {
             "filename": "images/Alexis_Tsipras_in_Moscow_2.jpeg",
@@ -413,12 +269,6 @@
             "category": "news",
             "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
             "question": "Is the woman in the picture someone famous I would know?"
-        },
-        {
-            "filename": "images/440px-ISS_Unity_module.jpeg",
-            "category": "science_journals",
-            "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
-            "question": "Are they in space?"
         },
         {
             "filename": "images/Electrophorus_electricus_showing_lateral_line_pits.jpeg",
@@ -451,52 +301,16 @@
             "question": "Are there any cars on the street?"
         },
         {
-            "filename": "images/Artemis_2_Crew_Portrait.jpeg",
-            "category": "science_journals",
-            "description": "Four astronauts in orange space suits posing for a portrait.\n",
-            "question": "Where are the astronauts?"
-        },
-        {
-            "filename": "images/440px-Green_tea_3_appearances.jpeg",
-            "category": "health",
-            "description": "Three stages of green tea preparation in bowls: dry leaves, steeped leaves, and brewed tea.\n",
-            "question": "What type of green tea leaves?"
-        },
-        {
-            "filename": "images/440px-Didier_Drogba_Manuel_Neuer_last_penalty_kick_Champions_League_Final_2012.jpeg",
-            "category": "shopping",
-            "description": "A soccer player taking a penalty kick in front of a packed stadium audience in shadow. The goalie is waiting in the middle of the goal as two other players stand to the sides. At the edge of the field is a banner for UniCredit and MasterCard.\n",
-            "question": "What team is it?"
-        },
-        {
             "filename": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
             "category": "social_media",
             "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
             "question": "What are the props?"
         },
         {
-            "filename": "images/Merced_River_Sunrise_2023.jpeg",
-            "category": "science_journals",
-            "description": "Sunlight streaming through trees in a misty, flooded forest with a hill or mountain clearly visible in the mist.\n",
-            "question": "Is the picture taking from an aerial view"
-        },
-        {
-            "filename": "images/440px-Smart_Casual_Dress_Example.jpeg",
-            "category": "shopping",
-            "description": "A person in a grey blazer and jeans seated on a stool, depicting smart casual attire.\n",
-            "question": "Is it a man or a woman?"
-        },
-        {
             "filename": "images/CCSM-UNMSM_Casona_de_San_Marcos_y_Parque_Univesitario.jpeg",
             "category": "news",
             "description": "A historic yellow building with arched windows beside some trees and fountain.\n",
             "question": "What is the historical building for?"
-        },
-        {
-            "filename": "images/Schroedinger_cat.jpeg",
-            "category": "science_journals",
-            "description": "There are green ivy leaves covering the ground, branches of pine stretching to the sky, and a sculpture of a brown cat in a garden.\n",
-            "question": "What is the cat doing in the sculpture"
         },
         {
             "filename": "images/440px-Trevor_Jackson_returns_from_SS_Kyogle.jpeg",
@@ -511,34 +325,10 @@
             "question": "Is the model a person of color?"
         },
         {
-            "filename": "images/Contemporary_Ayurveda_(156350019).jpeg",
-            "category": "health",
-            "description": "Hands holding spices, representing Ayurveda. there is so many spices and fragrances going on. someone is mixing them for perhaps a customer or a tea.\n",
-            "question": "What are the colors of the spices?"
-        },
-        {
-            "filename": "images/Blackberry_(Rubus_fruticosus).jpeg",
-            "category": "social_media",
-            "description": "A close-up of a juicy blackberry.\n",
-            "question": "where is it located?"
-        },
-        {
-            "filename": "images/340px-Shinzo_Abe_and_Ivanka_Trump_(4).jpeg",
-            "category": "social_media",
-            "description": "Two public figures one male and one female standing on a stage talking. The male is wearing a blue suit, and the female is wearing a pink suit/skirt\n",
-            "question": "Is this an audience? Who is the man/woman?"
-        },
-        {
             "filename": "images/440px-Ametllesjuliol.jpeg",
             "category": "science_journals",
             "description": "A tree heavy with unripe almonds.\n",
             "question": "Are any other trees or plants visible? "
-        },
-        {
-            "filename": "images/Sigiriya.jpeg",
-            "category": "science_journals",
-            "description": "Massive rock fortress above green gardens.\n",
-            "question": "Does the fortress appear historical/ancient?"
         },
         {
             "filename": "images/STS-116_spacewalk_1.jpeg",
@@ -551,12 +341,6 @@
             "category": "social_media",
             "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
             "question": "What style of fort is it?"
-        },
-        {
-            "filename": "images/Verrine.jpeg",
-            "category": "shopping",
-            "description": "A layered fruit dessert topped with sprouts in a glass.\n",
-            "question": "What item is this image trying to sell?"
         },
         {
             "filename": "images/440px-Spitzer_-_O_CTA_em_testes.jpeg",
@@ -577,34 +361,10 @@
             "question": "Where did they took the picture?"
         },
         {
-            "filename": "images/CantoneseJellyfish.jpeg",
-            "category": "travel",
-            "description": "A dish of Cantonese-style jellyfish, typically served cold.\n",
-            "question": "What is in the background of the image?"
-        },
-        {
             "filename": "images/Apollo_17_AS17-140-21497.jpeg",
             "category": "science_journals",
             "description": "Astronaut on the moon's surface inspecting a large rock.\n",
             "question": "How many astronauts are shown in the image?"
-        },
-        {
-            "filename": "images/Kung_kam_kram.jpeg",
-            "category": "health",
-            "description": "Cooked seafood with yellow sauce on a plate.\n",
-            "question": "What seafood is it?"
-        },
-        {
-            "filename": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
-            "category": "science_journals",
-            "description": "Spectators watching a diverse underwater kelp forest exhibit.\n",
-            "question": "From where are they watching?"
-        },
-        {
-            "filename": "images/Sigiriya.jpeg",
-            "category": "travel",
-            "description": "Massive rock fortress above green gardens.\n",
-            "question": "Is this wheelchair accessible? "
         },
         {
             "filename": "images/Daucus_carota_May_2008-1_edit.jpeg",
@@ -643,22 +403,10 @@
             "question": "What is the cost of the exhibit?"
         },
         {
-            "filename": "images/Newly-hatched_chickens.jpeg",
-            "category": "science_journals",
-            "description": "This is a picture of a lot of tan eggs, from it there are 4 chickens fully emerged from their eggs, one just coming out of their egg with the broken egg in sight and one out of the egg slightly out of shot. The chicks are yellow.\t\n",
-            "question": "Is this in a farm or a lab or somewhere else "
-        },
-        {
             "filename": "images/Soy-whey-protein-diet.jpeg",
             "category": "shopping",
             "description": "Assorted fruits, vegetables, grains, a glass of milk, and a bowl of yogurt.\n",
             "question": "Are the items laid out on a table?"
-        },
-        {
-            "filename": "images/1024px-Hilton_Edinburgh_Carlton.jpeg",
-            "category": "news",
-            "description": "Historic multi level  building with flags, and a modern bus on a city street.\n",
-            "question": "What flags are hanging on the building"
         },
         {
             "filename": "images/Raspberry_-_halved_(Rubus_idaeus).jpeg",
@@ -673,28 +421,10 @@
             "question": "What is the region depicted in the image?"
         },
         {
-            "filename": "images/Korea-Seoul-Insadong-Sanchon-02.jpeg",
-            "category": "travel",
-            "description": "An array of traditional 14 Korean dishes in small bowls on a table.\n",
-            "question": "how much variety is there in the dishes?"
-        },
-        {
-            "filename": "images/ARS_red_onion.jpeg",
-            "category": "health",
-            "description": "Small collection of red onions with green tops growing in dark soil.\n",
-            "question": "how many onions are growing "
-        },
-        {
             "filename": "images/Mountain_Goat,_Enchantments_Basin.jpeg",
             "category": "science_journals",
             "description": "A white mountain goat standing on a rock with a grey stone background. The goat is quite large with two horns.\n",
             "question": "How old does the goat look?"
-        },
-        {
-            "filename": "images/440px-Agave_tequilana_2.jpeg",
-            "category": "travel",
-            "description": "A large, spiky blue agave plant in a sunny outdoor setting. It is mounted on dirt with a background of several green trees and a blue sky.\n",
-            "question": "How nice is the place?"
         },
         {
             "filename": "images/Alexis_Texas_at_Sexpo_in_Sydney,_Australia_04.jpeg",
@@ -703,22 +433,10 @@
             "question": "traffic or new report?"
         },
         {
-            "filename": "images/Tyler_Clary_(7707350946)_(cropped).jpeg",
-            "category": "health",
-            "description": "Male swimmer walking behind a female swimmer in caps and goggles at a poolside.\n",
-            "question": "Are there other people at the pool?"
-        },
-        {
             "filename": "images/360px-Blackberries-6383.jpeg",
             "category": "science_journals",
             "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
             "question": "Are the child's hand's dirty, like they just picked the berries themselves?"
-        },
-        {
-            "filename": "images/Irukandji-jellyfish-queensland-australia.jpeg",
-            "category": "health",
-            "description": "A hand holding a vial containing a tiny jellyfish.\n",
-            "question": "Why this vial and not stethoscope?"
         },
         {
             "filename": "images/Cara_Delevingne_(18809361174).jpeg",
@@ -751,12 +469,6 @@
             "question": "What does the spacecraft look like?"
         },
         {
-            "filename": "images/ERHW_Porch1.jpeg",
-            "category": "shopping",
-            "description": "A white woman in front of a house door, wearing a checkered dress and boots posed for the picture by standing sideleft\n",
-            "question": "Where did she buy her outfit?"
-        },
-        {
             "filename": "images/Marine_Drive_Skyline.jpeg",
             "category": "travel",
             "description": "A bustling cityscape along a waterfront at sunset. The area is full of people and vehicles. The background of the sky is a mixture of autumn colors\n",
@@ -781,12 +493,6 @@
             "question": "What kind of event was she attending?"
         },
         {
-            "filename": "images/Som_tam_khao_niao_kai_yang.jpeg",
-            "category": "health",
-            "description": "A meal with chicken, rice, and soup.\n",
-            "question": "What is the portion size shown in the image?"
-        },
-        {
             "filename": "images/Defense.gov_News_Photo_031103-D-2987S-069.jpg",
             "category": "travel",
             "description": "A man sitting at a conference table with flags.\n",
@@ -805,22 +511,892 @@
             "question": "Are there any people in the room?"
         },
         {
-            "filename": "images/Bridge_Vittorio_Emanuele_II_at_sunset.jpeg",
-            "category": "social_media",
-            "description": "The Victor Emanuel II monument in Rome, illuminated at sunset.\n",
-            "question": "Describe the monument "
-        },
-        {
             "filename": "images/Sher_Khan_(cropped).jpeg",
             "category": "travel",
             "description": "A large, muscular male tiger walking through a very green field.\n",
             "question": "What kind of animals will I encounter at this location?"
         },
         {
-            "filename": "images/Aequorea3.jpeg",
+            "filename": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
             "category": "science_journals",
-            "description": "A bioluminescent jellyfish floating in dark waters, emitting light.\n",
-            "question": "What color is the the light?"
+            "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
+            "question": "What kind of green?"
+        },
+        {
+            "filename": "images/Prince_Harry_and_Meghans_carriage_procession_through_streets_of_Windsor_05.jpeg",
+            "category": "social_media",
+            "description": "Prince Harry and Megan Markle's Royal wedding procession with carriage.\n",
+            "question": "do they look happy?"
+        },
+        {
+            "filename": "images/Flower_urchin_by_Vincent_C_Chen.jpeg",
+            "category": "science_journals",
+            "description": "A close-up of an underwater flower urchin with intricate circular patterns.\n",
+            "question": "What is the underwater flower urchin doing?"
+        },
+        {
+            "filename": "images/Cambridge_CMS_Bicycle_Racks.jpeg",
+            "category": "health",
+            "description": "A bike rack in front of a modern building. with a man approaching.\n",
+            "question": "Is the bike rack hinting wellness or fitness"
+        },
+        {
+            "filename": "images/Grizzled_Giant_Squirrel_(Ratufa_macroura).jpeg",
+            "category": "social_media",
+            "description": "A grizzled giant squirrel perched on a branch in lush foliage. It's laying on its stomach looking down over the branch.\n",
+            "question": "was the squirrel eating "
+        },
+        {
+            "filename": "images/GrizzlyBearJeanBeaufort.jpeg",
+            "category": "travel",
+            "description": "A grizzly bear moving through a grassy field.\n",
+            "question": "Is the grizzly bear mowing their own grassy field or is it on a meadow?"
+        },
+        {
+            "filename": "images/Depart4x100.jpeg",
+            "category": "social_media",
+            "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
+            "question": "What gender are the swimmers?"
+        },
+        {
+            "filename": "images/The_station_pictured_from_the_SpaceX_Crew_Dragon_1.jpeg",
+            "category": "news",
+            "description": "International Space Station against the blackness of space.\n",
+            "question": "How big is the ISS?"
+        },
+        {
+            "filename": "images/Light_house_in_Ponnani.jpeg",
+            "category": "travel",
+            "description": "A lighthouse at dusk with palm trees and a vibrant sky in the background.\n",
+            "question": "what does it look like, the penthouse"
+        },
+        {
+            "filename": "images/440px-Polar_bear_sign_Svalbard.jpeg",
+            "category": "science_journals",
+            "description": "A polar bear warning sign on a road with mountains in the background.\n",
+            "question": "What color is the warning sign"
+        },
+        {
+            "filename": "images/Aerobic_exercise_-_public_demonstration07.jpeg",
+            "category": "shopping",
+            "description": "Group of people in colorful workout attire doing step aerobics.\n",
+            "question": "Is the work out attire for both male and females?"
+        },
+        {
+            "filename": "images/Som_tam_thai.jpeg",
+            "category": "shopping",
+            "description": "This is a Plate of spicy green papaya salad sitting on the table of a restaurant. There is a glass of water sitting directly to the left side of the plate. The background of the rest of the image is blurred.\n",
+            "question": "is the site selling ingredients?"
+        },
+        {
+            "filename": "images/Flickr_-_JennyHuang_-_Jenny^_Anemone^_video.jpeg",
+            "category": "science_journals",
+            "description": "A diver observing an underwater sea anemone.\n",
+            "question": "Where is this diver?"
+        },
+        {
+            "filename": "images/440px-Rapper_Sword_Dancers_-_Sheffield_Steel.jpeg",
+            "category": "news",
+            "description": "A group of dancers holding swords, performing in a traditional English folk dance.\n",
+            "question": "What is the clothing the dancers are wearing?"
+        },
+        {
+            "filename": "images/440px-BCRL.jpeg",
+            "category": "social_media",
+            "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
+            "question": "Who is the older woman?"
+        },
+        {
+            "filename": "images/Demi_Lovato_at_the_Democratic_National_Convention,_July_2016_(cropped_C).jpeg",
+            "category": "social_media",
+            "description": "Demi Lovato speaking at a microphone in front of a blue geometric background.\n",
+            "question": "What is the event she is speaking at?"
+        },
+        {
+            "filename": "images/Sree_Padmanabhaswamy_temple_Thiruvananthapuram,_kerala.jpeg",
+            "category": "travel",
+            "description": "Intricately carved golden temple facade.\n",
+            "question": "What country and city is the temple located in?"
+        },
+        {
+            "filename": "images/South_Vietnam's_Water_Lily.jpeg",
+            "category": "social_media",
+            "description": "Water lilies floating in a pond.\n",
+            "question": "What color are the water lilies?"
+        },
+        {
+            "filename": "images/Demi_Lovato_at_the_Democratic_National_Convention,_July_2016_(cropped_C).jpeg",
+            "category": "news",
+            "description": "Demi Lovato speaking at a microphone in front of a blue geometric background.\n",
+            "question": "What is Demi Lovato's mood while speaking?"
+        },
+        {
+            "filename": "images/240px-Guy_Fieri_at_Guantanamo_2.jpeg",
+            "category": "travel",
+            "description": "A man with spiky bleached hair tasting food, wearing a black T-shirt, seated at a table.\n",
+            "question": "What do his surroundings look like?"
+        },
+        {
+            "filename": "images/Simone_Biles_Rio_2016e.jpeg",
+            "category": "social_media",
+            "description": "Simone Biles, a young female gymnast wears an american themed body suit and poses with raised arms\n",
+            "question": "Does this picture take place in the olympics?"
+        },
+        {
+            "filename": "images/Kerala_Government_Secretariat.jpeg",
+            "category": "travel",
+            "description": "A historic white building with arches and a central dome, flanked by palm trees and a statue in front.\n",
+            "question": "What does the outside nature look like"
+        },
+        {
+            "filename": "images/Brier_045.jpeg",
+            "category": "news",
+            "description": "An indoor curling event with multiple games underway, spectators in the stands, and scoreboards above.\n",
+            "question": "Are there any famous people there watching the event?"
+        },
+        {
+            "filename": "images/440px-North_Korea_\u2014_Pyongyang_(1027715688).jpeg",
+            "category": "social_media",
+            "description": "An industrial exhibition with various machinery, products, and company banners on display.\n",
+            "question": "What types of machines and products are there?"
+        },
+        {
+            "filename": "images/gourd.jpeg",
+            "category": "travel",
+            "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
+            "question": "Where is the outdoor market at"
+        },
+        {
+            "filename": "images/400px-Poinsettia_thumbnail.jpeg",
+            "category": "social_media",
+            "description": "A variety of poinsettias with red and pink leaves with some green leaves under. They are so beautiful\n",
+            "question": "How many petals do the flowers have?"
+        },
+        {
+            "filename": "images/East_West_sushi_01.jpeg",
+            "category": "travel",
+            "description": "An assorted sushi platter with sake.\n",
+            "question": "What type of sushi?"
+        },
+        {
+            "filename": "images/440px-Reverse_5391.jpeg",
+            "category": "shopping",
+            "description": "A man executing a dive backwards into a swimming pool. \n",
+            "question": "What type of bathing suit is he wearing?"
+        },
+        {
+            "filename": "images/Municipal_Market_of_Sao_Paulo_city.jpeg",
+            "category": "shopping",
+            "description": "A wide variety of colorful fruit at a market stand.  Selections include grapes, cherries, applies, oranges, melons, and other tropical fruits.  \n",
+            "question": "How fresh does the produce look?"
+        },
+        {
+            "filename": "images/Chard_(Beta_vulgaris_var_cicla).jpeg",
+            "category": "science_journals",
+            "description": "A plant with large, dark green leaves and bright red stalks growing in a garden.\n",
+            "question": "what is the name of the tree?"
+        },
+        {
+            "filename": "images/440px-Stranded_Cambrian_scyphozoans.jpeg",
+            "category": "science_journals",
+            "description": "A ground surface showing a cluster of ancient, circular fossil imprints of what appear to be jellyfish.\n",
+            "question": "Why is this image here"
+        },
+        {
+            "filename": "images/440px-Harry_and_Meghan_on_Christmas_Day_2017_(cropped).jpeg",
+            "category": "news",
+            "description": "A couple in formal wear, the man in a gray coat and the woman in a beige coat with a brown hat, walk arm-in-arm, smiling.\n",
+            "question": "are they in a park?"
+        },
+        {
+            "filename": "images/Chanel_Haute_Couture_Fall-Winter_2011.jpeg",
+            "category": "social_media",
+            "description": "Models on a fashion show runway with dramatic lighting.\n",
+            "question": "what are the models wearing?"
+        },
+        {
+            "filename": "images/440px-West_Boca_photo_D_Ramey_Logan.jpeg",
+            "category": "travel",
+            "description": "Aerial view of a long straight road stretching through a landscape with urban areas and seems to be very organized and natural.\n",
+            "question": "How is the scenery?"
+        },
+        {
+            "filename": "images/Pantheon_Rom_1_cropped.jpeg",
+            "category": "social_media",
+            "description": "The Pantheon in Rome, ancient temple with a fountain in front. It has additional buildings beside it\n",
+            "question": "What are the buildings besides it?"
+        },
+        {
+            "filename": "images/President_George_W._Bush_talks_with_members_of_the_Tampa_Bay_Buccaneers.jpg",
+            "category": "news",
+            "description": "George W. Bush speaking to a football team.\n",
+            "question": "What team is it/what colors are they wearing?"
+        },
+        {
+            "filename": "images/340px-Priyanka_on_the_ramp_for_Mijwan_fashion_show.jpeg",
+            "category": "shopping",
+            "description": "A beautiful brown long haired Indian woman in traditional decorative Indian attire and pierced belly button posing on a runway with one arm bent with hand resting on her hip and other arm hanging down by her side.\n",
+            "question": "Can I purchase what she is wearing?"
+        },
+        {
+            "filename": "images/Mumbai_03-2016_94_Kanheri_Caves.jpeg",
+            "category": "travel",
+            "description": "A stone statue in a carved niche.\n",
+            "question": "Where is this statue located?"
+        },
+        {
+            "filename": "images/Eliud_Kipchoge_in_Berlin.jpeg",
+            "category": "news",
+            "description": "A marathon runner competing in an event with people on the sidelines watching.\n",
+            "question": "Is the crowd cheering in the background?"
+        },
+        {
+            "filename": "images/440px-WhiteBikesVeluwe.jpeg",
+            "category": "travel",
+            "description": "two classic white bicycle on a country road, evoking leisure and simplicity.\n",
+            "question": "Are there people in the background of this photo or on the bikes?"
+        },
+        {
+            "filename": "images/440px-Mir_on_12_June_1998edit1.jpeg",
+            "category": "news",
+            "description": "The Mir space station in orbit, showing its solar panels and modules, Earth in the background.\n",
+            "question": "Does the image look real?"
+        },
+        {
+            "filename": "images/Police_cyclists_London_Olympic_Torch_Relay.jpeg",
+            "category": "news",
+            "description": "A team of six police cyclists in high-visibility jackets on a empty city street.\n",
+            "question": "Where are they located?"
+        },
+        {
+            "filename": "images/Depart4x100.jpeg",
+            "category": "news",
+            "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
+            "question": "What gender do the swimmers appear to be?"
+        },
+        {
+            "filename": "images/440px-Pilates_01.jpeg",
+            "category": "social_media",
+            "description": "A person wearing all black doing a one-arm, one-leg plank on a yoga mat.\n",
+            "question": "Where is the person at?"
+        },
+        {
+            "filename": "images/440px-A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpeg",
+            "category": "news",
+            "description": "A brown bear catching a salmon in a rushing river.\n",
+            "question": "what is name of the river"
+        },
+        {
+            "filename": "images/Mahaweli_Ganga_by_Gampola.jpeg",
+            "category": "travel",
+            "description": "A tranquil river meandering through a lush landscape with misty mountains.\n",
+            "question": "Is the lush landscape a jungle, forest, rainforest? "
+        },
+        {
+            "filename": "images/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+            "category": "news",
+            "description": "Heavy clusters of ripe rice hanging from plants in a field.\n",
+            "question": "Does this relate to new developments in agriculture?"
+        },
+        {
+            "filename": "images/440px-ISS_Unity_module.jpeg",
+            "category": "social_media",
+            "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
+            "question": "whose space station is in the picture"
+        },
+        {
+            "filename": "images/Shinto_married_couple.jpeg",
+            "category": "social_media",
+            "description": "Traditional Japanese wedding couple in front of a temple.\n",
+            "question": "What is the theme for the wedding?"
+        },
+        {
+            "filename": "images/Aerial_view_of_the_Amazon_Rainforest.jpeg",
+            "category": "travel",
+            "description": "Aerial view of winding green colored rivers cutting through dense Amazon rainforest.\n",
+            "question": "How do you get to go on these rivers?"
+        },
+        {
+            "filename": "images/440px-Electric-eel.jpeg",
+            "category": "science_journals",
+            "description": "An electric eel among aquatic plants in an underwater habitat.\n",
+            "question": "Are there other underwater creatures around?"
+        },
+        {
+            "filename": "images/Plaza_de_Cusco_Allison_Bellido.jpeg",
+            "category": "travel",
+            "description": "A sunny day at a historic square with a spanish colonial style church and crowds.\n",
+            "question": "How big are the crowds?"
+        },
+        {
+            "filename": "images/Chang_Chun_Shrine_amk.jpeg",
+            "category": "social_media",
+            "description": "A traditional shrine set up on the hillside.  There are 2 buildings with a bridge connecting them over the beautiful cascading waterfall.\n",
+            "question": "What kind of shrine?"
+        },
+        {
+            "filename": "images/Moscow_International_Business_Center7.jpeg",
+            "category": "travel",
+            "description": "A panoramic cityscape along a river with boats at dusk. Traffic is heavy and the cars have on their headlights. Trees can be seen between some of the buildings. there is a streak of sunlight through the center of the city.\n",
+            "question": "how tall are the buildings?"
+        },
+        {
+            "filename": "images/Cambridge_family_at_Trooping_the_Colour_2019_-_03.jpeg",
+            "category": "news",
+            "description": "Prince William and Princess Catherine with their children George, Charlotte and Louis looking out at the crowd in front of Buckingham Palace. \n",
+            "question": "What are they wearing?"
+        },
+        {
+            "filename": "images/FORT_KOCHI_BEACH_SUNSET,KERALA_-_panoramio_(2).jpeg",
+            "category": "travel",
+            "description": "Fishing nets against a sunset backdrop on a beach.\n",
+            "question": "How many people are on the beach?"
+        },
+        {
+            "filename": "images/Marinera_Nortena.jpeg",
+            "category": "social_media",
+            "description": "Couple performing a traditional Latin dance.\n",
+            "question": "What is the couple wearing?"
+        },
+        {
+            "filename": "images/Spb_06-2017_img01_Spit_of_Vasilievsky_Island.jpeg",
+            "category": "social_media",
+            "description": "Aerial view of a city on an island.\n",
+            "question": "Can you see any people, or is the camera too far from them to see?"
+        },
+        {
+            "filename": "images/300px-KIMONO_GORLS_IN_TOKYO_A.jpeg",
+            "category": "shopping",
+            "description": "Two women standing next to each other in traditional Japanese kimonos. The one on the left is wearing a blue kimono with multicolor floral prints and the one on the right is black with purple floral prints.\n",
+            "question": "Is this a site for Japanese products? "
+        },
+        {
+            "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
+            "category": "news",
+            "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
+            "question": "why is this picture in the news"
+        },
+        {
+            "filename": "images/375px-Cannes_2015_22.jpeg",
+            "category": "news",
+            "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
+            "question": "Is she at an important event?"
+        },
+        {
+            "filename": "images/440px-Milind_Soman_at_the_NDTV_Marks_for_Sports_event_12.jpeg",
+            "category": "travel",
+            "description": "A seated man looking thoughtfully to the side, against a backdrop of an event banner. He has some sort of bracelet on his right arm. He is wearing a button-down blueish/gray shirt and has his hands on his thighs. He is not smiling.\n",
+            "question": "What does the banner say in the background?"
+        },
+        {
+            "filename": "images/Diving_tower_at_the_2008_EC.jpeg",
+            "category": "social_media",
+            "description": "A high diving platform inside a pool arena with a competition logo.\n",
+            "question": "What is the logo of?"
+        },
+        {
+            "filename": "images/Gorp.jpeg",
+            "category": "shopping",
+            "description": "A bowl of trail mix with nuts, raisins, and candies.\n",
+            "question": "Are the candies chocolate?"
+        },
+        {
+            "filename": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
+            "category": "travel",
+            "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
+            "question": "What's the name of the university"
+        },
+        {
+            "filename": "images/Paulien_van_Deutekom_(08-12-2007).jpeg",
+            "category": "news",
+            "description": "Speed skater in a competition uniform skating fast mid-glide on the ice.\n",
+            "question": "What is the competition they are in?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
+        },
+        {
+            "filename": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+            "category": "news",
+            "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
+            "question": "What planet are they on?"
         }
     ]
 }
