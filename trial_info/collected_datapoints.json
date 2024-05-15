@@ -1,16 +1,5 @@
 [
     {
-        "image": "images/Fiji_palace_guard.jpeg",
-        "context": "social_media",
-        "description": "A black Fijian palace guard in traditional red and white uniform with a rifle stands at attention. The red part of the uniform is the top and the white part is the bottom.\n",
-        "question": "Is the guard a male or female",
-        "answers": [
-            "the figure is a male",
-            "The guard is a male.",
-            "The guard is a male."
-        ]
-    },
-    {
         "image": "images/375px-Cannes_2015_22.jpeg",
         "context": "shopping",
         "description": "A woman with red lipstick and long hair flowing over her right shoulder posing on a red carpet event.\n",
@@ -49,97 +38,22 @@
             "black dress",
             "She is wearing a black low cut dress.",
             "Black Evening Gown",
-            "a black dress."
+            "a black dress.",
+            "She is wearing a black sweetheart neckline dress.",
+            "Black strapless dress with heart neckline.",
+            "I can make out the top of what appears to be a black sleeveless and strapless dress.",
+            "The woman is wearing the black strapless dress that has a heart shaped neck line. "
         ]
     },
     {
-        "image": "images/Fishes,_multicolored_pebbles_and_artificial_plants_within_an_aquarium.jpeg",
+        "image": "images/440px-Spitzer_-_O_CTA_em_testes.jpeg",
         "context": "social_media",
-        "description": "A colorful aquarium with bright fish and multicolored pebbles.\n",
-        "question": "How many fish are there?",
+        "description": "Two people in white hazmat suits inspecting a space instrument in a well-lit room.\n",
+        "question": "Are they going to practice?",
         "answers": [
-            "There are about 20 small fish of different colors. ",
-            "There are about 15+ fish in there. ",
-            "There are seventeen fish in the aquarium."
-        ]
-    },
-    {
-        "image": "images/Sundarban_Tiger.jpeg",
-        "context": "science_journals",
-        "description": "Large orange tiger standing by water near a tree in the wild.\n",
-        "question": "what country",
-        "answers": [
-            "",
-            "The country in which the picture was taken is not specify   in the text.",
-            "",
-            "",
-            "",
-            "Chad is the country",
-            "",
-            "",
-            "",
-            "",
-            "Maybe India",
+            "No they are not",
+            "No, there are not going anywhere. They are standing and kneeling in place, completely focused on the futuristic instrument/object in the center of the room.",
             ""
-        ]
-    },
-    {
-        "image": "images/Panthera_tigris_altaica_13_-_Buffalo_Zoo.jpeg",
-        "context": "travel",
-        "description": "Tiger with a cub in snow.\n",
-        "question": "Are the tigers in the open or are they in a forest?",
-        "answers": [
-            "In the open.",
-            "The tigers appear to be in an open field. No trees are visible in the photo.",
-            "The tigers are in the open.",
-            "The tigers are out in the open."
-        ]
-    },
-    {
-        "image": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
-        "context": "social_media",
-        "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
-        "question": "What are the props?",
-        "answers": [
-            "The props are umbrellas",
-            "The props include decorative umbrellas being held by three performers, and a platform in which one performer is being carried by others. ",
-            "Opened umbrellas and hand fans."
-        ]
-    },
-    {
-        "image": "images/Kelp_Forest_exhibit_full_main_viewing_window_at_Monterey_Bay_Aquarium.jpeg",
-        "context": "travel",
-        "description": "Spectators watching a diverse underwater kelp forest exhibit.\n",
-        "question": "What is the cost of the exhibit?",
-        "answers": [
-            "The cost of the aquarium exhibit is $24 per person.",
-            "50 bucks most likely",
-            "",
-            "",
-            ""
-        ]
-    },
-    {
-        "image": "images/Marine_Drive_Skyline.jpeg",
-        "context": "travel",
-        "description": "A bustling cityscape along a waterfront at sunset. The area is full of people and vehicles. The background of the sky is a mixture of autumn colors\n",
-        "question": "Does it look like there is room for pedestrians or just very busy with cars",
-        "answers": [
-            "Yes, the parking area appears to be separated and a gate separating pedestrian areas from vehicle areas, so theres plenty of room for each on their own",
-            "There is plenty of room for pedestrians\n",
-            "theres a separate walkway for people",
-            "There appears to be adequate room for pedestrians; while there is a road that is busy with cars, there is a sizeable walkway/gathering area near the water, with plenty of room for people to gather and interact. "
-        ]
-    },
-    {
-        "image": "images/Olivia_Rodrigo_Theatre_at_Ace_Hotel_10_09_2023_(53423846745).jpeg",
-        "context": "news",
-        "description": "Singer Olivia Rodrigo performing on stage with a microphone. She has long, wavy, dark hair and is wearing red lipstick and a white vest. \n",
-        "question": "Can you see the audience?",
-        "answers": [
-            "No I cannot see the audience",
-            "No, there is no audience present.",
-            "There is no audience visible in the picture."
         ]
     },
     {
@@ -215,161 +129,63 @@
             "no the room is empty",
             "there are no people in the room",
             "No the room is empty",
-            "No, there are no people in the room."
+            "No, there are no people in the room.",
+            "No, there are no people in the room. ",
+            "There are no people in the room.",
+            "No, there are no people in the room.",
+            "There are no people in the room."
         ]
     },
     {
-        "image": "images/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
-        "context": "news",
-        "description": "Heavy clusters of ripe rice hanging from plants in a field.\n",
-        "question": "Does this relate to new developments in agriculture?",
-        "answers": [
-            "Probably so\n",
-            "does not appear to relate to new agricultural developments",
-            "it is not a new development."
-        ]
-    },
-    {
-        "image": "images/440px-ISS_Unity_module.jpeg",
+        "image": "images/Demi_Lovato_at_the_Democratic_National_Convention,_July_2016_(cropped_C).jpeg",
         "context": "social_media",
-        "description": "A modular component of a space station,  outer space is pitch black in the background.\n",
-        "question": "whose space station is in the picture",
+        "description": "Demi Lovato speaking at a microphone in front of a blue geometric background.\n",
+        "question": "What is the event she is speaking at?",
         "answers": [
+            "The photo does not make that clear.",
+            "I do not know.",
+            "It is unclear what event she is at, but she is wearing a fancy dress and it seems to be a formal event."
+        ]
+    },
+    {
+        "image": "images/gourd.jpeg",
+        "context": "travel",
+        "description": "An assortment of squashes, gourds, and pumpkins displayed on shelves at an outdoor market.  They have a variety of colors: yellow, orange, green, and white.\n",
+        "question": "Where is the outdoor market at",
+        "answers": [
+            "",
+            "On the streets of cambodia",
+            "",
+            "",
+            "",
+            "It's not specified where the market is at, but there are other tents and stalls with a floor made of large tiles."
+        ]
+    },
+    {
+        "image": "images/400px-Cigarette_smuggling_with_a_book.jpeg",
+        "context": "news",
+        "description": "An old book hollowed out to hide cigarettes inside.\n",
+        "question": "What is the name of the book in the photo?",
+        "answers": [
+            "1611 KJV Bible",
             "",
             ""
         ]
     },
     {
-        "image": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
-        "context": "travel",
-        "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
-        "question": "What's the name of the university",
-        "answers": [
-            "",
-            " The name of the University is not shown.",
-            ""
-        ]
-    },
-    {
-        "image": "images/G7_in_het_Catshuis.jpeg",
-        "context": "social_media",
-        "description": "A group of presidents from a nine country including Barrack Obama seated and having discussions in a room with some country flags in the room\n",
-        "question": "Do the people in the photo appear to be having a pleasant or unpleasant conversation?",
-        "answers": [
-            "",
-            "Fairly pleasant and amicable ",
-            "They appear to be having a pleasant conversation"
-        ]
-    },
-    {
-        "image": "images/Chhatrapati_shivaji_terminus,_esterno_01.jpeg",
-        "context": "travel",
-        "description": "A historic, ornate railway station in Mumbai, India.\n",
-        "question": "How crowded with people is it?",
-        "answers": [
-            "The image is not crowded with very many people, but there are many cars.",
-            "very few people and maybe a dozen cars",
-            "there isn't much people there.",
-            "i dont see alot of people",
-            "It appears to be quite crowded with people."
-        ]
-    },
-    {
-        "image": "images/Flower_urchin_by_Vincent_C_Chen.jpeg",
-        "context": "social_media",
-        "description": "A close-up of an underwater flower urchin with intricate circular patterns.\n",
-        "question": "What colors are represented in the flower urchin?",
-        "answers": [
-            "Hues of pink, orange, yellow, and white.",
-            "The flower urchin has more than one color but the most obvious ones are blue and brown.",
-            "blue red and yellow"
-        ]
-    },
-    {
-        "image": "images/Jellyfish_aqurium.jpeg",
-        "context": "news",
-        "description": "A swarm of jellyfish drifting in the ocean.\n",
-        "question": "Is the picture taken below or is the picture taken from the surface?",
-        "answers": [
-            "The picture is taken underwater. It doesn't look to be from above or below. It looks to be taken at the same level, or to the side of the jellyfish.",
-            "Entirely below the surface, from the side of the swarm",
-            "The picture is taken below the surface of the water.",
-            "this picture is taken below surface"
-        ]
-    },
-    {
-        "image": "images/Artinstitportland2009palazzo.jpeg",
-        "context": "news",
-        "description": "Model walking on a runway in a long red dress and green scarf.\n",
-        "question": "What kind of event is going on?",
-        "answers": [
-            "A fashion show",
-            "runway event",
-            "a modeling show."
-        ]
-    },
-    {
-        "image": "images/440px-SSPF_interior.jpeg",
-        "context": "news",
-        "description": "A spacecraft module suspended from the ceiling in a hangar with technicians at work.\n",
-        "question": "How large does it appear to be",
-        "answers": [
-            "It's pretty huge, a great size.",
-            "It looks larger enough to fit many men inside",
-            "It appears to be maybe eighteen feet long",
-            "It appears to be as large as a vehicle."
-        ]
-    },
-    {
-        "image": "images/Rio_Maranon_03245.jpeg",
+        "image": "images/Sukhoi_Design_Bureau,_054,_Sukhoi_Su-57_(49581303977).jpeg",
         "context": "science_journals",
-        "description": "A winding river cutting through a mountainous landscape.\n",
-        "question": "What else is in the landscape next to the river?",
+        "description": "Fighter jet in mid-flight against blue sky.\n",
+        "question": "Is the smoke trail shown in the photo of the fighter jet?",
         "answers": [
-            "There are a few trees scattered about, what appears to be fields for farming and in the foreground is some tall grass on a mountain peak.",
-            "There appears to be rectangular plots of farmland next to the river, as well as some trees and bushes.",
-            "square plots of farmed or cultivated land",
-            "I see that there are trees, bushes and hills next to the river.",
-            "There are a few defined shapes that might be a farm.",
-            "There are many green plants scattered across the landscape.",
-            "Hills, plains, some trees too ",
-            "farmland on the steep hillside",
-            "There is green foliage near the river and on the mountains.",
-            "the landscape is a mountain",
-            "it looks like houses and or buildings. "
-        ]
-    },
-    {
-        "image": "images/Dragon_and_Cygnus_docked_on_ISS.jpeg",
-        "context": "news",
-        "description": "Two docked spacecraft with the Earth in the background.\n",
-        "question": "What country is the space shuttle from?",
-        "answers": [
-            "United States",
+            "There is no smoke trail shown.",
+            "No the smoke trail is not shown in the photo.",
+            "There is no smoke trail showing in this image.",
+            "There is no smoke trail shown in the photo of the Fighter Jet. ",
+            "No, the smoke trail in not shown in the photo. ",
             "",
-            ""
-        ]
-    },
-    {
-        "image": "images/200px-5adho_mukha_shvanasana.jpeg",
-        "context": "travel",
-        "description": "A yoga practitioner in an inverted V-shaped pose.\n",
-        "question": "Is the yoga practitioner a female or male?",
-        "answers": [
-            "He is a male",
-            "The practitioner appears to be a male but because you are unable to see the face and front of the person, I cannot be sure.",
-            "The yoga practitioner is a male."
-        ]
-    },
-    {
-        "image": "images/DR0071DSC_9245.jpeg",
-        "context": "travel",
-        "description": "A green landscape with numerous small islands.\n",
-        "question": "How many islands are near?",
-        "answers": [
-            "Around 16 islands",
-            "There looks to be more than a dozen islands.",
-            "multiple too many to list."
+            "No, the smoke trail is not visible in this photo.",
+            "There is no smoke trail shown in the photo."
         ]
     }
 ]
