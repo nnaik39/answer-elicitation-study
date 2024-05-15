@@ -12745,5 +12745,267 @@
             "Given their formal outfits and Prince William's uniform I believe there is a ceremony going on.",
             ""
         ]
+    },
+    {
+        "image": "images/Batik_Fashion_01.jpeg",
+        "context": "shopping",
+        "description": "A model in a traditional batik skirt and white blouse posing on a catwalk.\n",
+        "question": "Could you describe the color palette used in the outfit?",
+        "answers": [
+            "White, red, grey, cream, and black",
+            "the model is in a white shirt with a patterned skirt colored red, yellow and blue and in some black heels",
+            "white and red "
+        ]
+    },
+    {
+        "image": "images/Scitec_Nutrition_Wall_of_Protein_at_FIBO_2013.jpeg",
+        "context": "shopping",
+        "description": "Shelves filled with colorful protein supplement jars such as can be found in a health food store.\n",
+        "question": "What is the brand of the protein supplement.",
+        "answers": [
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Crew_in_ATV_with_Jules_Verne_manuscript.jpeg",
+        "context": "news",
+        "description": "Three astronauts sitting inside a spacecraft module holding a Jules Verne manuscript. They are posing with the manuscript and smiling at the camera.\n",
+        "question": "How are they holding rare pieces of paper while in zero gravity without damage to the paper?",
+        "answers": [
+            "Astronauts are likely holding the Jules Verne manuscript",
+            "THE SPACECRAFT MIGHT ACTUALLY BE ON EARTH WHEN THE PICTURE WAS TAKEN",
+            "Paper would not get damaged in zero gravity. "
+        ]
+    },
+    {
+        "image": "images/440px-Kylie_Jenner1_(cropped).png",
+        "context": "social_media",
+        "description": "Kylie Jenner in a red top speaking, her facial expression seems focused and intent.\n",
+        "question": "What was she speaking about?",
+        "answers": [
+            "maybe answering questions from a reporter",
+            "Kylie Jenner was speaking at an event for charity.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Kung_kam_kram.jpeg",
+        "context": "shopping",
+        "description": "Cooked seafood with yellow sauce on a plate.\n",
+        "question": "Does the image include branding or a full cutlery set?",
+        "answers": [
+            "This image does not include branding or a full cutlery set.",
+            "There is no branding or a full cutlery set, but a metal fork and spoon are present on the plate of shellfish",
+            "The image includes a fork and a spoon on the plate, no branding."
+        ]
+    },
+    {
+        "image": "images/Team_L.T.D._Cruising_to_Victory_(16227312684).jpg",
+        "context": "science_journals",
+        "description": "Ice skaters racing on a downhill track while fans look on intensely. \n",
+        "question": "Is there an event associated with the race?",
+        "answers": [
+            "",
+            "Yes - although there is no signage there are people on the sides looking on and there seems to be an Olympic feel to the photo.",
+            ""
+        ]
+    },
+    {
+        "image": "images/Starsinthesky.jpeg",
+        "context": "science_journals",
+        "description": "Dazzling starry night sky\n",
+        "question": "Is the horizon part of the image, or is it solely of the sky?",
+        "answers": [
+            "It is an image ",
+            "The image is solely of the sky.",
+            "It is only the night sky full of lots of stars of varying size with other nebula around the stars"
+        ]
+    },
+    {
+        "image": "images/981123-Ararat-Camp1-IMG_0831.jpeg",
+        "context": "science_journals",
+        "description": "A group of climbers and tents on a snowy mountainside with clear skies above. the orange and red tents and climbers' blue, yellow, and green jackets are very colorful against the snow and the pale sky.\n",
+        "question": "Approximately how far up are the climbers?",
+        "answers": [
+            "3 meters high",
+            "Near the top of the mountain",
+            "Not very high",
+            "1000 feet "
+        ]
+    },
+    {
+        "image": "images/Green_almonds.jpeg",
+        "context": "shopping",
+        "description": "Green almonds in their fuzzy hulls on a white surface.\n",
+        "question": "Is the almond uncooked?",
+        "answers": [
+            "It appears to be uncooked",
+            "Yes, the almonds is uncooked",
+            "yes it is raw",
+            "almond appears raw - natural"
+        ]
+    },
+    {
+        "image": "images/157px-Dress_Shirt_Fitting_on_dummy_Front.jpeg",
+        "context": "shopping",
+        "description": "A dress shirt on a mannequin with a fitting tag.\n",
+        "question": "What is the color of the dress shirt?",
+        "answers": [
+            "off white\n\n",
+            "The dress shirt is white with a striped pattern.",
+            "checkered pink"
+        ]
+    },
+    {
+        "image": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
+        "context": "social_media",
+        "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
+        "question": "is it a big crowd",
+        "answers": [
+            "The crowd cannot be seen in the photo",
+            "The image is a close up on the young woman so no crowd is visible; a background with graphic is visible behind her, but beyond that, nothing else.",
+            ""
+        ]
+    },
+    {
+        "image": "images/440px-Tunnelaquarium_14-05-2009_15-54-09.jpeg",
+        "context": "science_journals",
+        "description": "Visitors walking through a curved aquarium tunnel, surrounded by marine life.\n",
+        "question": "How many visitors?",
+        "answers": [
+            "Three visitors can be seen in the photo",
+            "There  are currently 3 visitors walking in the area.",
+            "three visitors"
+        ]
+    },
+    {
+        "image": "images/Roastbeef.jpeg",
+        "context": "shopping",
+        "description": "Juicy, medium-rare roast beef on a cutting board.\n",
+        "question": "Is is cut or is it resting prior to be being cut?",
+        "answers": [
+            "The steak is resting prior to being cut.",
+            "It is cut ",
+            "The steak is cut. "
+        ]
+    },
+    {
+        "image": "images/440px-Jasper_Dwayne_Reilander-4.jpeg",
+        "context": "social_media",
+        "description": "A brown bear standing in a lush green forest, looking towards the camera.\n",
+        "question": "How close is the bear to the camera?\n ",
+        "answers": [
+            "The bear is quite a distance from the camera, possibly around 30-40 feet.",
+            "not very close",
+            "It is hard to tell especially if the camera used a zoom lense"
+        ]
+    },
+    {
+        "image": "images/Sidemount_032_Photo_by_Pete_Nawrocky.jpeg",
+        "context": "science_journals",
+        "description": "Diver with a large flashlight underwater. \n",
+        "question": "Where is the flashlight located?",
+        "answers": [
+            "The diver is holding the flashlight in their right hand.",
+            "It is in the lower left quadrant angled down and diagonal from the center.",
+            "It's in the hand of the diver"
+        ]
+    },
+    {
+        "image": "images/Fast_Fashion_killt_das_Klima.jpeg",
+        "context": "news",
+        "description": "A crowd holding a banner protesting fast fashion and its impact on climate.\n",
+        "question": "What does the banner say? ",
+        "answers": [
+            "Fast Fashion\nKILLT das KLIMA",
+            "fast fashion killt das klima",
+            "Fast fashion das kuma"
+        ]
+    },
+    {
+        "image": "images/440px-03WAVRE006b.jpeg",
+        "context": "social_media",
+        "description": "I am watching, I believe, two bungee jumpers free falling from a large platform. It almost looks like a radio or tv tower of some sort. It is white metal and it looks like the only way up it is to climb but there may be stairs we can't see. There is a platform halfway up and then the tower gets smaller at the top. \n",
+        "question": "What does the ground look like below?",
+        "answers": [
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "image": "images/1920px-British_Residency_in_Asramam,_Kollam.jpeg",
+        "context": "travel",
+        "description": "A very large Colonial-style architecture house with a large wrought iron gate that is put together with brick columns next to it.  In front of the home is a large asphalt driveway and it is surrounded by large trees with greenery.\n",
+        "question": "How many cars can hold in the driveway?",
+        "answers": [
+            "probably about 20 cars in the driveway",
+            "",
+            "not certain but several as the driveway is large",
+            "Maybe four"
+        ]
+    },
+    {
+        "image": "images/360px-Blackberries-6383.jpeg",
+        "context": "health",
+        "description": "A pair of fair skinned child size hands cusping with both hands a cluster of mixed blackberries and raspberries.\n",
+        "question": "What kind of berries are they?",
+        "answers": [
+            "blackberries and raspberries ",
+            "A mix of black and raspberries",
+            "Mix of blackberries and resberries"
+        ]
+    },
+    {
+        "image": "images/Focaccia_al_rosmarino.jpeg",
+        "context": "social_media",
+        "description": "Rosemary focaccia bread in a basket, ready to be served.\n",
+        "question": "Does the bread look highly edible?",
+        "answers": [
+            "yes the bread looks delicious and soft.",
+            "social media website",
+            "bread looks edible. "
+        ]
+    },
+    {
+        "image": "images/Hockey_players_2013.jpeg",
+        "context": "news",
+        "description": "People playing ice hockey in an indoor rink.\n",
+        "question": "are there children in the photo",
+        "answers": [
+            "It's hard to tell if there are children, the players are in uniform and wearing helmets so it's difficult to see their age.",
+            "No there is no children",
+            "Yes, there are children in the photo. "
+        ]
+    },
+    {
+        "image": "images/Sundarban_Tiger.jpeg",
+        "context": "travel",
+        "description": "Large orange tiger standing by water near a tree in the wild.\n",
+        "question": "What does the background wilderness look like?",
+        "answers": [
+            "In the background is a lake, behind which there are many small, woody trees growing in a plain dirt area.",
+            "There is grass, water, and trees in the background. ",
+            "green trees near a river ",
+            "There are a lot of trees in the background"
+        ]
+    },
+    {
+        "image": "images/440px-Thai_green_chicken_curry_and_roti.jpeg",
+        "context": "health",
+        "description": "A bowl of Thai green curry with chicken, and roti on the side.\n",
+        "question": "How many rotis?",
+        "answers": [
+            "Four. But maybe just a single roti that has been cut up.",
+            "There are 4 rotis",
+            "There are 4 rotis",
+            "There is one roti",
+            "Four pieces cut into quarters. ",
+            "there are 4 ",
+            "4 rotis are present on the plate",
+            "One whole roti cut in to 4 pieces "
+        ]
     }
+
 ]

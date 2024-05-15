@@ -8,7 +8,7 @@ import json
 from math import e
 from random import shuffle
 
-f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (36).json')
+f = open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (38).json')
 study_info = json.load(f)
 
 questions_per_image_context_pair = {}
@@ -22,8 +22,6 @@ answers = {}
 collected_datapoints = []
 
 # File storing all questions collected
-f = open('all_questions_collected.json')
-all_questions = json.load(f)
 
 for participant in study_info:
     for trial in study_info[participant]:
@@ -55,36 +53,6 @@ questions_not_covered = []
 questions_covered = []
 
 images_not_covered = []
-
-for question in all_questions['images']:
-    if ((question['filename'], question['category'], question['description'], question['question']) in all_answers):
-        num_answers = len(all_answers[(question['filename'], question['category'], question['description'], question['question'])])
-    else:
-        questions_not_covered.append(question)
-        images_not_covered.append(question['filename'])
-        continue 
-
-    # Do a screening
-#    if (num_answers == 2):
- #       print("Two answers covered! ", num_answers)
-    if (num_answers < 3):
-        questions_not_covered.append(question)
-        images_not_covered.append(question['filename'])
-    else:
-        questions_covered.append(question)
-
-print("Number of questions not fully covered yet: ", len(questions_not_covered))
-print("Number of questions fully covered: ", len(questions_covered))
-print("Number of images not fully covered: ", len(list(set(images_not_covered))))
-
-shuffle(questions_covered)
-shuffle(questions_not_covered)
-
-with open("questions_not_covered.json", "w") as outfile:
-    outfile.write(json.dumps(questions_not_covered, indent = 4))
-
-with open("questions_covered.json", "w") as outfile:
-    outfile.write(json.dumps(questions_covered, indent = 4))
 
 for (image, context, description, question) in answers:
     # Check if there are at least two unanswerable ratings!!

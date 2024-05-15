@@ -6,21 +6,10 @@ all_image_context_pairs = json.load(open('../../question-elicitation-study/trial
 answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (28).json'))
 collected_dataset = json.load(open('new_collected_dataset_so_far.json'))
 
-# Identify all image-context pairs
-# that are NOT in the collected dataset so far
-# (and don't have three answers / are deemed unanswerable!)
-
 image_context_pairs = []
 
 for item in all_image_context_pairs['images']:
     image_context_pairs.append((item['filename'], item['category']))
-
-# Remove any image-context pairs that are in the dataset
-# collected so far!
-
-# TODO: Also exclude the unanswerable image-context pairs
-# (which I think I deleted from new_collected_dataset_so_far.json!)
-# Create a map from IC pair to all the collected questions!!
 
 collected_datapoints = []
 answers = {}
