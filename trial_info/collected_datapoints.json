@@ -76,29 +76,40 @@
             "She is wearing what appears to be a black low cut dress with a strapless bra. It looks as if she is wearing earrings with some green in them.",
             "Black halter top dress. ",
             "She is wearing a black strapless top/dress. ",
-            "She appears to be wearing a black, strapless dress with emerald-colored earrings."
+            "She appears to be wearing a black, strapless dress with emerald-colored earrings.",
+            "She is wearing a black dress that stops at her chest with red lipstick. ",
+            "She is wearing a strapless black dress",
+            "Her dress is a very simple but classic black dress without shoulder straps",
+            "a strapless black dress",
+            "The image is cropped, so the entirety of the outfit isn't visible, but it appears that the woman is wearing either a solid black top or a solid black dress (or a dress which is solid on top with a different color/pattern on the bottom)",
+            "strapless test or top with sweetheart neckline in black",
+            "She is wearing a strapless backless black dress.",
+            "The woman is seen from the waist up so we cannot see her full outfit.  However, we can see that the top she is wearing is black with a sweetheart neckline.",
+            "A lady is wearing a black dress who is also wearing a red lipstick posing on the red carpet.",
+            "A black, sleeveless outfit with a fitted, corset top ",
+            "she is wearing a black velvet, strapless corset"
         ]
     },
     {
-        "image": "images/Taylor_Swift_2011crop.jpeg",
-        "context": "social_media",
-        "description": "Taylor Swift sitting down and playing guitar on stage in a purple dress.\n",
-        "question": "What does the guitar look like?",
+        "image": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
+        "context": "news",
+        "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
+        "question": "Is the woman in the picture someone famous I would know?",
         "answers": [
-            "The guitar is blue and not electric.",
-            "The description describes it completely",
-            "It's teal with painted koi fish swimming around the hole in the guitar"
+            "Of course. That's Taylor Swift.",
+            "The woman in the picture is Taylor swift, likely on her recent tour",
+            "Yes, the picture is of a famous singer."
         ]
     },
     {
-        "image": "images/440px-BMW_Welt_y_Torre_BMW_Munich_Alemania.jpeg",
+        "image": "images/Bekal_Fort_Kasargod.jpeg",
         "context": "social_media",
-        "description": "A futuristic building lit at night beside a road with streaks of traffic lights and a tower in the background.\n",
-        "question": "Are there any cars on the street?",
+        "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
+        "question": "What style of fort is it?",
         "answers": [
-            "There are no cars on the street",
-            "No cars on the street",
-            "There are cares but you can only see the streaks of light from their headlights. Like the picture was taken with a long exposure."
+            "ancient style",
+            "built of stone",
+            "looks like stone .  Fort is circular in shape"
         ]
     },
     {
@@ -212,17 +223,28 @@
             "It is a empty room and does not show any people. It appears as if the cushion in the middle is for a instructor.",
             "Yes, somebody took the picture. ",
             "There is no people in the room.",
-            "No, there are no people shown in the room."
+            "No, there are no people shown in the room.",
+            "No. The room is empty. ",
+            "No there are no people in the room.",
+            "no, the room is empty",
+            "No there are not any people in the room",
+            "No, there are no people in the room.",
+            "There are not people in the room",
+            "No there aren't",
+            "No, the room is empty, there are no people in the room.",
+            "There are no people in the room ",
+            "There are no people shown in the photo.",
+            "there are no people visible in the darkened room"
         ]
     },
     {
-        "image": "images/Depart4x100.jpeg",
+        "image": "images/440px-BCRL.jpeg",
         "context": "social_media",
-        "description": "Swimmers poised on starting blocks at an Olympic pool, about to dive in. There are 7 swimmers with their teammates behind them looking on.\n",
-        "question": "What gender are the swimmers?",
+        "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
+        "question": "Who is the older woman?",
         "answers": [
-            "All of the swimmers appear to be male.",
-            "These are male swimmers. ",
+            "The older woman is a patron of the gym",
+            "",
             ""
         ]
     },
@@ -266,87 +288,50 @@
             "",
             "",
             "Based on the signs in the image, it appears to be in India but the specific city is unknown. ",
+            "",
+            "It is from an Asian country most likely. ",
+            "It doesn't specifify these details, but my guess would be somewhere in India.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "The temple is located at Amritsar, Punjab, India ",
+            "",
+            "It seems that this temple is located in China or somewhere in an Asian country."
+        ]
+    },
+    {
+        "image": "images/Buckingham-palace-guard-11279634947G5ru.jpeg",
+        "context": "news",
+        "description": "A guard in red uniform and black hat standing outside Buckingham Palace.\n",
+        "question": "what happened?",
+        "answers": [
+            "",
             ""
         ]
     },
     {
-        "image": "images/South_Vietnam's_Water_Lily.jpeg",
+        "image": "images/500px-Master_Scott_Leonard.jpeg",
         "context": "social_media",
-        "description": "Water lilies floating in a pond.\n",
-        "question": "What color are the water lilies?",
+        "description": "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n",
+        "question": "Is the martial artist male or female?",
         "answers": [
-            "3 purple 2 pink",
-            "The water lilies are lilac colored.",
-            "Four tall ones on the left side of the image are purple, while the two shorter ones on the right are pink.",
-            "The water lilies are purple.",
-            "The Water lilies are blue"
-        ]
-    },
-    {
-        "image": "images/Chang_Chun_Shrine_amk.jpeg",
-        "context": "social_media",
-        "description": "A traditional shrine set up on the hillside.  There are 2 buildings with a bridge connecting them over the beautiful cascading waterfall.\n",
-        "question": "What kind of shrine?",
-        "answers": [
-            "",
-            "It is unclear from the image.",
-            "It looks like of Chinese shrine according to the picture  "
-        ]
-    },
-    {
-        "image": "images/440px-Steps_in_Carnegie_Mellon_University_campus_in_Qatar.jpeg",
-        "context": "news",
-        "description": "Modern architecture with wide steps, pillars, and a water feature at a university campus.\n",
-        "question": "why is this picture in the news",
-        "answers": [
-            "The news is probably related to the university",
-            "New donation allows school to build nice exterior",
+            "The martial artist appears to be male",
+            "It looks like a male but it is hard to tell because the person is in motion.",
             ""
         ]
     },
     {
-        "image": "images/Russian_Spacewalkers_dwarfed_by_the_Nauka_and_Prichal_modules_2_(cropped).jpeg",
+        "image": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
         "context": "news",
-        "description": "Spacewalkers beside massive spacecraft modules, with Earth in the background.\n",
-        "question": "What planet are they on?",
+        "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
+        "question": "What culture do the performers appear to be from?",
         "answers": [
-            "They are not on a planet, they are in Space",
-            "They are in space not on a planet",
-            "It looks like they are just in space above the planet Earth "
-        ]
-    },
-    {
-        "image": "images/Short-finned_Pilot_Whale_(8793172995).jpeg",
-        "context": "news",
-        "description": "A whale has washed on stage at an aquatic park with trainers also surrounding the whale in an attempt to assist the animal.\n",
-        "question": "Does the whale follow the instructions given?",
-        "answers": [
-            "yes it follows",
-            "",
-            "If the trainers asked the whale to jump up onto the stage then yes it followed the directions. It appears as if the whale is on its side."
-        ]
-    },
-    {
-        "image": "images/Seaman_jumper.jpeg",
-        "context": "news",
-        "description": "Tan knitted sweater on a hanger against a blue background. The sweater has a pouch near the bottom, and one of the sleeves is tucked into it.\n",
-        "question": "Is the material thick?",
-        "answers": [
-            "The sweater seems to be made of a thick material.",
-            "It is a knitted sweater, so yes, the material is thick.",
-            "That is unclear",
-            "looks like 1/8 -3/16\", not the thickest sweater. "
-        ]
-    },
-    {
-        "image": "images/IDA-1_pre-launch.png",
-        "context": "news",
-        "description": "Workers inspecting a large circular space mechanism.\n",
-        "question": "What is the large circular space mechanism?",
-        "answers": [
-            "SOMETHING RELATED TO SPACE TRAVEL",
-            "",
-            "A component of a spacecraft or a satellite."
+            "They appear to be from China.",
+            "Asian with parasols and fans. Possibly Chinese looking at some of the colors, make up and hairstyles.",
+            "It is unclear exactly what culture the performers are from but based on their clothing and the decorative fan and umbrella props they use, it appears they are from as east Asian culture such as Chinese."
         ]
     },
     {
@@ -396,57 +381,70 @@
             "No, there is no smoke trail shown.",
             "No, the smoke trail is not shown",
             "There is no smoke trail shown the picture but there is a fighter jet.",
-            "No, it isn't visible."
-        ]
-    },
-    {
-        "image": "images/Kate_Spade_by_Marilyn_K._Yee_1999.jpg",
-        "context": "news",
-        "description": "A smiling woman with brown hair wearing a black dress and pearl earrings at an event.\n",
-        "question": "What notable features are there at the event?",
-        "answers": [
+            "No, it isn't visible.",
+            "No. The photo is close up. ",
+            "No it is not",
+            "no, the jet is in clear blue skies with no smoke or effects",
+            "no the smoke trail is not shown",
+            "No, there is no smoke trail shown in this photo.",
+            "no the image is fairly close up and does not show enough to show any smoke",
+            "No there isn't",
+            "No, no smoke trail is shown in the photo of the fighter jet.",
             "",
-            ""
+            "There is a very faint white smoke coming from the upper engine, but it is not due to malfunction.",
+            "there is not smoke trail in this photograph"
         ]
     },
     {
-        "image": "images/440px-Grain_millet,_early_grain_fill,_Tifton,_7-3-02.jpeg",
+        "image": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
         "context": "social_media",
-        "description": "Tall millet plants in a field during early grain fill stage.\n",
-        "question": "What color is the sky?",
+        "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
+        "question": "are there any flowers in the photo?",
         "answers": [
-            "",
-            "the sky is not visible",
-            ""
+            "There are no flowers in the photo only leaves.",
+            "No, there are no flowers in the photo.",
+            "No arent any flowers in the photo"
         ]
     },
     {
-        "image": "images/440px-Basket_of_wild_blackberries.jpeg",
+        "image": "images/Kate_Winslet_June-July_2014_HB_Cover.jpeg",
         "context": "social_media",
-        "description": "A wicker basket full of ripe blackberries on a wooden surface outdoors.\n",
-        "question": "What is the weather like outside?",
+        "description": "A magazine cover featuring a woman with blonde hair, red lipstick, and a black dress, with texts about fashion and beauty.\n",
+        "question": "Is she modeling?",
         "answers": [
-            "sun is out",
-            "Although it is not too clear based on the imagine, it looks like it is during the day and it is possibly cloudy.",
-            "clear bright day likely sunny"
+            "The woman is Kate Winslet and she is modeling for the picture.",
+            "yes she is a model",
+            "Yes. She looks like she is posing as a model. ",
+            "Yes, she is posing for a glamour photoshoot. "
         ]
     },
     {
-        "image": "images/Acro-tcd.jpeg",
+        "image": "images/NOVO_AIRAO.jpeg",
+        "context": "social_media",
+        "description": "People swimming with pink river dolphins near a dock.\n",
+        "question": "What gender are the people?",
+        "answers": [
+            "This photo appears to be showing two men and a woman",
+            "There are two adult males and an adult female.",
+            "2 males and 1 female"
+        ]
+    },
+    {
+        "image": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
         "context": "news",
-        "description": "Two acrobatic gymnasts performing a balancing act in leotards. The gymnast on top is doing the splits. The gymnast of the bottom is holding the other up in the air.\n",
-        "question": "Who are these people",
+        "description": "A man operating a rice combine harvester in a field.\n",
+        "question": "Is the man wearing a straw hat?",
         "answers": [
-            "They are gymnasts but there is no indication of any names",
-            "This image represent sports and I think sports play part in development ",
-            "young female gymnasts"
+            "No, the man is wearing a white bucket hat. ",
+            "He is not wearing a straw hat.",
+            "No. He is wearing a bucket hat. "
         ]
     },
     {
-        "image": "images/Maria_Grazia_Cucinotta_-_nicogenin_-_66eme_Festival_de_Venise_(Mostra)_2.jpeg",
-        "context": "social_media",
-        "description": "Woman in an elegant black dress on red carpet.\n",
-        "question": "What event was this photo taken at?",
+        "image": "images/IMPORTEXPO_IMG_5490_(5971779607).jpeg",
+        "context": "news",
+        "description": "A woman in a tight, golden dress and black heels posing beside a red sports  racing car.\n",
+        "question": "What brand is the car?",
         "answers": [
             "",
             ""

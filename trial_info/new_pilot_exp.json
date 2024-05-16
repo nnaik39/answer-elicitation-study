@@ -37,12 +37,6 @@
             "question": "Could that be a museum?"
         },
         {
-            "filename": "images/Taylor_Swift_RED_Tour_(8642419792)_(cropped).jpeg",
-            "category": "news",
-            "description": "A blonde haired, young woman standing on stage in a ring-leader style red sequined jacket. She is holding a microphone in her right hand, down at her side, while reaching out with her left hand in a presenting fashion.\n",
-            "question": "Is the woman in the picture someone famous I would know?"
-        },
-        {
             "filename": "images/240px-Piccilliatti,_Sicilia.jpeg",
             "category": "social_media",
             "description": "Swirled cookies on a decorative plate.The plate is pink the cookies have cinnamon in them\n",
@@ -55,12 +49,6 @@
             "question": "Is the model a person of color?"
         },
         {
-            "filename": "images/Bekal_Fort_Kasargod.jpeg",
-            "category": "social_media",
-            "description": "An ancient fort on green grass overlooking the sea on a cloudy day.\n",
-            "question": "What style of fort is it?"
-        },
-        {
             "filename": "images/Taroko_Music_Festival_.jpeg",
             "category": "news",
             "description": "Taiwanese performers playing traditional drums and dancers in an outdoor setting.\n",
@@ -71,12 +59,6 @@
             "category": "news",
             "description": "Pedestrian bridge over a reflective water canal, a clear blue sky overhead, trees on one end, and land on the other.\n",
             "question": "Are there people walking on the bridge?"
-        },
-        {
-            "filename": "images/440px-BCRL.jpeg",
-            "category": "social_media",
-            "description": "An older woman is being assisted with weightlifting by a younger woman in a gym.\n",
-            "question": "Who is the older woman?"
         },
         {
             "filename": "images/Demi_Lovato_at_the_Democratic_National_Convention,_July_2016_(cropped_C).jpeg",
@@ -127,18 +109,6 @@
             "question": "What is the competition they are in?"
         },
         {
-            "filename": "images/Buckingham-palace-guard-11279634947G5ru.jpeg",
-            "category": "news",
-            "description": "A guard in red uniform and black hat standing outside Buckingham Palace.\n",
-            "question": "what happened?"
-        },
-        {
-            "filename": "images/500px-Master_Scott_Leonard.jpeg",
-            "category": "social_media",
-            "description": "A martial artist performing a high kick during a martial arts demonstration, assisted by a trainer in front of young students.\n",
-            "question": "Is the martial artist male or female?"
-        },
-        {
             "filename": "images/Petersdom_von_Engelsburg_gesehen_crop.jpeg",
             "category": "news",
             "description": "St. Peter's Basilica in Rome, viewed from a distance with clear skies.\n",
@@ -149,12 +119,6 @@
             "category": "social_media",
             "description": "A green wrasse fish with orange markings on its head feeds on a cracked open sea urchin underwater. There are rocks surrounding the animals, with three rocks placed on the top of the sea urchin.\n",
             "question": "What is the relationship between green wrasse fish and the sea urchin in the underwater scene?"
-        },
-        {
-            "filename": "images/440px-Folklore_of_the_popular_heritage_of_the_State_of_the_Philippines_16.jpeg",
-            "category": "news",
-            "description": "Performers in colorful costumes and props on stage in a cultural dance presentation.\n",
-            "question": "What culture do the performers appear to be from?"
         },
         {
             "filename": "images/440px-Muesli.jpeg",
@@ -205,12 +169,6 @@
             "question": "what team won?"
         },
         {
-            "filename": "images/440px-Rain_Forest_Daintree_Australia.jpeg",
-            "category": "social_media",
-            "description": "Dense rainforest underbrush with large trees and various green plants on a gloomy day.\n",
-            "question": "are there any flowers in the photo?"
-        },
-        {
             "filename": "images/Arc_de_Triomphe_HDR_2007.jpeg",
             "category": "news",
             "description": "The Arc de Triomphe against a blue sky with three cars in front of it and two buildings in the background.\n",
@@ -233,12 +191,6 @@
             "category": "social_media",
             "description": "A taekwondo athlete in a competition delivers a high kick against a competitor in a competition.\n",
             "question": "What country is the athlete from?"
-        },
-        {
-            "filename": "images/Kate_Winslet_June-July_2014_HB_Cover.jpeg",
-            "category": "social_media",
-            "description": "A magazine cover featuring a woman with blonde hair, red lipstick, and a black dress, with texts about fashion and beauty.\n",
-            "question": "Is she modeling?"
         },
         {
             "filename": "images/Los_Llanos,_Venezuela_(12832335223).jpeg",
@@ -283,12 +235,6 @@
             "question": "Is this image on one of my connections' personal page?"
         },
         {
-            "filename": "images/NOVO_AIRAO.jpeg",
-            "category": "social_media",
-            "description": "People swimming with pink river dolphins near a dock.\n",
-            "question": "What gender are the people?"
-        },
-        {
             "filename": "images/Forest_dominated_by_Gilbertiodendron_dewevrei_02.jpeg",
             "category": "news",
             "description": "A dense, green forest floor with scattered leaves and towering trees.\n",
@@ -307,82 +253,70 @@
             "question": "Is the gymnast performing inside or outside?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/600px-WaterPolo.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "Ten players engaged in a water polo game in a pool, with some attempting to score a goal and others attempting to block the shot.\n",
+            "question": "How does the image relate to the article?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         },
         {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
+            "filename": "images/Colobocentrotus_atratus_Shingle_urchin.jpeg",
             "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
-        },
-        {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
-            "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
-        },
-        {
-            "filename": "images/Rice-combine-harvester,_Katori-city,_Japan.jpeg",
-            "category": "news",
-            "description": "A man operating a rice combine harvester in a field.\n",
-            "question": "Is the man wearing a straw hat?"
+            "description": "A black sea urchin with spiky protrusions on a rocky surface.\n",
+            "question": "Is the sea urchin in water or out?"
         }
     ]
 }
