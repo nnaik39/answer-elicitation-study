@@ -3,7 +3,7 @@ import random
 
 all_image_context_pairs = json.load(open('../../question-elicitation-study/trial_info/full_question_elicitation_study.json'))
 
-answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (62).json'))
+answer_study = json.load(open('/Users/nanditanaik/Downloads/ig-vqa-default-rtdb-answer-elicitation-study-dataset-expansion-export (63).json'))
 collected_dataset = json.load(open('new_collected_dataset_so_far.json'))
 
 image_context_pairs = []
